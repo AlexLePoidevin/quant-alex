@@ -1,6 +1,6 @@
 # Quant Research
 
-A working literature library for quantitative equity research. One note per paper, plus a
+A working literature library for quantitative finance research. One note per paper, plus a
 BibTeX file that feeds the write-ups. Notes are opinionated summaries, not neutral abstracts.
 
 Structure: `literature/<section>/<author-year>.md`. Citations live in [`refs.bib`](refs.bib).
