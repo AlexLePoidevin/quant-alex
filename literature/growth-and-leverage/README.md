@@ -26,6 +26,7 @@ is the exchange rate between a Sharpe (or information) ratio and compound growth
 | `03-estimation-error` | Why `f*` is unusable as stated: it is linear in the hardest parameter to estimate |
 | `04-tails-and-jumps` | Where continuous-path math stops: fat tails, CVaR, jump diffusion, the ruin bound |
 | `05-applied-leverage` | Leveraged ETFs, the diversification return, practitioner writing |
+| `06-ergodicity` | Time average vs ensemble average — the sharpest framing of the hook, and its critics |
 
 > ⚠️ **Standing caveat.** Notes marked *To read* were written from general knowledge of what
 > each source is known for, not from the source itself. Volumes, issues and page numbers are
@@ -44,6 +45,20 @@ The cost becomes real under **leverage**, where the quadratic term bites. The sh
 statement in the folder: for `f > 2f*`, the expected value of the portfolio compounds
 exponentially while the portfolio itself goes to zero almost surely. That is not a paradox;
 it is what a right-skewed distribution does.
+
+Cross-topic, already filed elsewhere and not duplicated here:
+[[grinold-kahn-1999]] in `../passive-vs-active-management/01-foundations/` supplies the
+`IR = IC * sqrt(BR)` that this folder converts into growth; [[bouchaud-potters-2009]] in
+`../market-structure/01-latent-dimensionality/` is the reference for optimal leverage under
+non-Gaussian returns, which `04-tails-and-jumps` assumes rather than restates.
+
+⚠️ **On `06-ergodicity`.** The time-average framing is the clearest available *explanation*
+of why `E[W]` can compound while realised `W` goes to zero, and it recovers `f*` without
+assuming a utility function. It is **not** a settled correction to mainstream economics, and
+it is often presented as one. [[doctor-wakker-wang-2020]] is filed alongside for that reason.
+The question of which criterion one *should* optimise was already posed by
+[[samuelson-1979]] and given a closed form by [[merton-1969]]; neither Peters nor the reply
+closes it.
 
 Cross-topic: `../market-structure/03-effective-number-of-bets/` sets the `BR` that this
 folder converts into growth. Booth & Fama (`05-applied-leverage`) is the bridge — the
