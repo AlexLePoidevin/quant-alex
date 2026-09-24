@@ -11,19 +11,16 @@ about. Subject cross-references are on each note.
 > summary, and YouTube returns no usable metadata to automated retrieval, so a note written
 > from a link alone contains nothing but the link.
 
-## Contents
+## Sections
 
-| Source | Subject | Link | Note |
-|---|---|---|---|
-| Soros — *General Theory of Reflexivity* (lecture series) | reflexivity | https://www.youtube.com/watch?v=oCaCrWzFPYY | [[soros-lectures-reflexivity]] |
-| Soros — Charlie Rose interview, 1994 | reflexivity | https://www.youtube.com/watch?v=vEG1oy7w4GE | [[soros-charlie-rose-1994]] |
-| *The Great Speculator* — documentary **about** Soros | biography | https://www.youtube.com/watch?v=0_gQhrFq1oU | [[soros-great-speculator-documentary]] |
-| **Not yet identified** — playlist `PLE72E21ED4751B5EC`, index 27 | unknown | https://www.youtube.com/watch?v=RHSEEJDKJho&list=PLE72E21ED4751B5EC&index=27 | — |
+| Section | Contents |
+|---|---|
+| `01-lectures-and-interviews` | A person making their **own** argument — lectures, talks, interviews. Three items, all Soros. |
+| `02-profiles-and-documentaries` | Third-party films **about** investors. Twelve items, indexed in that folder's README rather than given a note each. |
 
-Links are repeated in each note's metadata table. Tracking parameters
-(`t=`, `time_continue=`, `source_ve_path=`, `embeds_referring_euri=`) were stripped from
-the originals; the `list=`/`index=` on the third is kept because it is the only identifying
-information available for it.
+The split is the point. A recorded lecture is a primary source on someone's argument; a
+documentary is someone else's account, built backwards from an outcome the maker already
+knows. They fail in different ways and have to be read differently.
 
 ## How to read anything in this folder
 
@@ -41,8 +38,6 @@ stated theory is why.
 
 **Not citable at the resolution a paper is.** You can cite a page; a timestamp is fragile,
 the video can be taken down, and nobody can check your reading against a fixed text.
-
-**A documentary is not the same as a talk.** A recorded lecture is a person making their own argument; a documentary is someone else's account, built backwards from an outcome the maker already knows. Treat the two differently.
 
 **Best use is calibration, not authority.** Recorded sources are good for how a person
 frames an idea, what they emphasise when unconstrained, and how that changes over time —
