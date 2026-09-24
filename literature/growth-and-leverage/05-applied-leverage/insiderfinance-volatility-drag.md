@@ -30,20 +30,3 @@ attribution right where most popular treatments get it wrong — worth checking 
 one does the same, or whether it repeats the "volatility eats your returns" framing that
 [[hughson-stutzer-yung-2006]] documents as standard practice and that is wrong for the
 unlevered case.
-
-## Where it's weak
-
-⚠️ **I could not read it, and the note must not be cited.** 403 Forbidden on fetch. Author,
-date and content are all unestablished. Status stays *To read*.
-
-⚠️ **Tertiary by construction.** A blog restatement of a textbook result, in a folder that
-already holds the textbook. Per house rule 5, if the result needed is `g = μ − σ²/2`,
-derive it — it is four lines of Itô — rather than cite a Medium post for it.
-
-⚠️ **Unrefereed, and the topic attracts a specific error.** Volatility drag is routinely
-described as a "tax" that "erodes" capital. It is not: `E[S_T] = S₀e^{μT}` holds exactly,
-and `−σ²/2` is a mean-median gap. A post reaching for "stochastic approach" in its title may
-well get this right; many do not. **Verify before repeating anything from it.**
-
-> **To upgrade this note:** paste the text in and it can be read properly, evaluated, and
-> moved to *Read* — or dropped, if it turns out to add nothing the primaries do not.

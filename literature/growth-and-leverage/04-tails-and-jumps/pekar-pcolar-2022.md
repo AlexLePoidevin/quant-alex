@@ -40,27 +40,3 @@ Also the right template for a question posed elsewhere: their emerging-versus-de
 comparison asks whether two classes of market differ in **kind** or only in **scale**, and
 finds the same distributional families fit both. That is exactly the form the bitcoin
 question takes.
-
-## Where it's weak
-
-⚠️ **gld is worst precisely where a tail model has to be right.** Their own result: at
-α = 0.5%, gld **overestimates** CVaR for most series. That is the deepest quantile — the
-one a tail-risk measure exists to capture. A distribution that wins on aggregate fit and
-misses the 0.5% tail has won on the bulk, and the bulk is not what CVaR is for.
-
-⚠️ **No out-of-sample validation.** Fit is AD/KS/AIC/BIC computed in-sample, and the CVaR
-comparison is against historical CVaR **on the same data**. There is no exceedance
-backtest — no Kupiec unconditional coverage, no Christoffersen independence test — which is
-the standard way to judge a VaR/CVaR model. The subperiod re-fits are a stability check,
-not out-of-sample evidence. Credit where due: Anderson–Darling weights tail discrepancies
-more heavily than KS, so the assessment is not purely bulk-driven. But AIC and BIC are, and
-the headline "99% of series" is a BIC result.
-
-⚠️ **gld has no closed-form density.** It is defined through its quantile function, so
-estimation is awkward and four parameters are buying the flexibility. BIC penalises that and
-gld still wins, which is a real point in its favour — but this is not a parsimonious model,
-and implementing it is more work than the ranking implies.
-
-⚠️ **Descriptive, not predictive.** The paper establishes which distribution *described*
-history best. It does not show that a gld fitted on one period forecasts the next. For
-position sizing or a risk limit, that is the only question, and it is not asked here.

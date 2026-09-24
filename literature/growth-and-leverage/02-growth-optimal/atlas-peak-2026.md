@@ -38,26 +38,3 @@ Kelly, Breiman, Merton, Thorp all treat one risky asset or an aggregate. The por
 form, where positions are correlated and `Σ⁻¹` does the work, is the case that actually
 arises in an equity book, and it is missing. Use this as a pointer to go find that
 treatment properly; do not use it as the treatment.
-
-## Where it's weak
-
-⚠️ **I have not read §12, and neither has anyone who has not paid.** The section body is
-not publicly retrievable — the page renders a diagram placeholder and a table of contents.
-Everything above is inferred from the executive framing. **Status stays "To read" and the
-note must not be cited.**
-
-⚠️ **Unsigned.** No named author. There is no one to hold to the argument, no track record
-to weigh, and no way to check whether §12's multivariate treatment handles the
-`Σ⁻¹` estimation problem or waves at it.
-
-⚠️ **Commercial incentive, and it points the same way as the conclusion.** "Built by
-investors. Built for conviction" — this is a paid research product for institutional
-allocators, and the material is positioned around concentrated equity and TMT books.
-A framework that justifies confident position sizing is the framework its buyers want.
-That is not an argument against the content; it is a reason to verify rather than inherit.
-
-⚠️ **Secondary source, primary sources one folder over.** Per house rule 5, a practitioner
-summary of Kelly is the weakest available citation when [[kelly-1956]], [[breiman-1961]],
-[[merton-1969]] and [[maclean-thorp-ziemba-2011]] are all sitting in the same topic. If the
-multivariate result is what you need, derive `f* = Σ⁻¹(μ−r1)` from Merton — it is the same
-first-order condition with a matrix — rather than citing a note you cannot open.

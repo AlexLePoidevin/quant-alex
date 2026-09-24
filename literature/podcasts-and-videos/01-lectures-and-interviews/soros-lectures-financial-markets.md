@@ -23,16 +23,3 @@ shows up in prices is in this lecture rather than the general one.
 The specific claim is more useful than the general one. "Participants' views change what
 they are views of" is unfalsifiable as stated; "here is what that does to a price series"
 might not be. Watch this one first if the goal is to extract a measurement.
-
-## Where it's weak
-
-⚠️ **Not watched.** Title only; nothing above summarises content.
-
-⚠️ **Same standing problem as the rest of the series.** Reflexivity is illustrated in
-markets, not operationalised on them. Expect boom-bust narrative and the sterling and 1987
-examples; do not expect an estimator. If it contains one, that is the find, and it should be
-written up properly here.
-
-⚠️ **Examples are chosen after the fact.** Any reflexive account of a past boom-bust is
-fitted to an outcome already known. The test of the framework is out-of-sample and this
-lecture cannot be it.

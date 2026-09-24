@@ -29,13 +29,7 @@ is the exchange rate between a Sharpe (or information) ratio and compound growth
 | `06-ergodicity` | Time average vs ensemble average — the sharpest framing of the hook, and its critics |
 
 > 📐 **House rules** for how notes here are written — including the required
-> `## Where it's weak` section — are in the [repository README](../../README.md).
->
-> ⚠️ **Standing caveat.** Notes marked *To read* were written from general knowledge of what
-> each source is known for, not from the source itself. Volumes, issues and page numbers are
-> from recall. **Verify before citing in print.** Notes marked *Read* were written from the
-> source.
-
+> `
 ## The correction this folder exists to make
 
 Variance drag is routinely described as a "tax" that "erodes" capital. For an unlevered

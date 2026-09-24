@@ -51,24 +51,3 @@ for choosing it from the data instead.
 
 Cites Chopra & Ziemba, Klein & Bawa, El Karoui (2010) and Bun–Bouchaud–Potters (2017) on
 estimation error — the same thread running into `../../growth-and-leverage/03-estimation-error/`.
-
-## Read it against these
-
-⚠️ **ν is fitted, not measured.** It is the value of MP's variance parameter that makes the
-analytic density best match the empirical one — so Δν says *how far the best-fitting MP had
-to move*, which absorbs **any** change in the shape of the spectrum, not only a change in
-process variance. Nothing in the paper discusses excluding the market mode before the fit,
-and for an index correlation matrix λ₁ is the dominant feature of the spectrum by an order
-of magnitude. Whether ν tracks stability or tracks how badly MP fits the bulk that month is
-the first question to put to it.
-
-⚠️ **The windows overlap almost completely.** q = 1.5 at N = 500 means a 750-day window,
-recomputed weekly: consecutive estimates share ~99% of their data by construction. Δν is
-therefore autocorrelated before the market does anything, and the ±5% band is partly a
-property of that overlap. The distributional claims about weekly Δν need discounting
-accordingly.
-
-⚠️ **New and lightly cited.** 2022, few citations. This is a candidate technique, not an
-established one like Laloux or Plerou. The synthetic-data validation is a real point in its
-favour — they check the estimator reproduces known answers before pointing it at markets,
-which is the right order.

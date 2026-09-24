@@ -5,12 +5,7 @@ rather than subject, because what they share is how they have to be read, not wh
 about. Subject cross-references are on each note.
 
 > 📐 **House rules** for how notes here are written — including the required
-> `## Where it's weak` section — are in the [repository README](../../README.md).
->
-> ⚠️ Notes are marked **To watch** until someone has actually watched them. A title is not a
-> summary, and YouTube returns no usable metadata to automated retrieval, so a note written
-> from a link alone contains nothing but the link.
-
+> `
 ## Sections
 
 | Section | Contents |

@@ -28,32 +28,3 @@ say.**
 
 Titles were confirmed by retrieval. **Makers, dates and durations were not** — YouTube
 returns no usable metadata to automated requests. Everything here is *To watch*.
-
-## Why this entire genre is evidence of nothing
-
-Worth stating once, at the folder level, because it applies to all twelve equally.
-
-**The sample is winners only.** A documentary gets made because the outcome was
-spectacular. For every trader in this folder there are thousands who ran a similar playbook
-into zero and got no film. Reasoning about method from this sample is survivorship bias in
-its purest available form.
-
-**Each film is built backwards from a result the maker already knows.** The method is
-selected for having produced the win; the identical method in the years it failed does not
-make the cut. Narrative coherence is manufactured after the fact — real track records are
-lumpy, and over the spans these films cover, largely indistinguishable from luck.
-
-**Most of the track records are not independently verifiable.** The retail profiles are the
-extreme case: "NAV", "CIS" and "BNF" are self-reported or press-reported single-person
-outliers with no audited returns. Against that, the base rate — Barber, Lee, Liu & Odean's
-work on Taiwanese day traders found well under 1% consistently profitable net of costs. A
-film about the one is not evidence against the population statistic.
-
-**These are content products, not journalism.** Anonymous documentary channels optimise for
-watch time. No editorial standard, no correction mechanism, no named author to hold to the
-claims.
-
-**So what are they good for?** Biography, chronology, and the texture of how an era felt —
-what people believed at the time, what the institutional setting was, how a firm was
-actually structured. That is genuinely useful and it is not the same as evidence about
-method. Where a claim here matters, chase it to a primary or refereed source.

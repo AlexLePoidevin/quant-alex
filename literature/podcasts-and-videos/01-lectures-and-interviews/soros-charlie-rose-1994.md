@@ -25,16 +25,3 @@ A contemporaneous statement. The interesting question to bring to it is whether 
 account differs from the 2009 and 2013 ones — and if so, in which direction. A theory that
 sharpens over thirty years is being refined; one that softens into generality is being
 defended.
-
-## Where it's weak
-
-⚠️ **Not watched**, and only the title was retrievable.
-
-⚠️ **An interview is a performance.** Broadcast television, a general audience, a host
-steering toward the sterling trade and the politics. Expect the framework to be simplified
-and the record to be told from the far side of its outcomes. Self-reported accounts of one's
-own trades are the weakest evidence in finance, and being right about sterling is not
-evidence that reflexivity is why.
-
-⚠️ **Thirty years old.** Useful as a dated data point on how he framed it, not as a current
-statement of the argument. For that, [[soros-2013]].
