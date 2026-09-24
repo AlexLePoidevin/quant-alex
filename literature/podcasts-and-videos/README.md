@@ -10,7 +10,7 @@ about. Subject cross-references are on each note.
 
 | Section | Contents |
 |---|---|
-| `01-lectures-and-interviews` | A person making their **own** argument — lectures, talks, interviews, panels. Eleven items: three Soros, eight Paul Tudor Jones. |
+| `01-lectures-and-interviews` | A person making their **own** argument — lectures, talks, interviews, panels. Thirty items: three Soros, eight Paul Tudor Jones, nineteen Stanley Druckenmiller. |
 | `02-profiles-and-documentaries` | Third-party films **about** investors. Twelve items, indexed in that folder's README. |
 
 The split is the point. A recorded lecture is a primary source on someone's argument; a
