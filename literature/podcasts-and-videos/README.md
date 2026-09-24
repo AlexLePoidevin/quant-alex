@@ -13,11 +13,16 @@ about. Subject cross-references are on each note.
 
 ## Contents
 
-| Source | Subject | Note |
-|---|---|---|
-| Soros, *General Theory of Reflexivity* (lecture series) | reflexivity | [[soros-lectures-reflexivity]] |
-| Soros, Charlie Rose interview, 1994 | reflexivity | [[soros-charlie-rose-1994]] |
-| `youtube.com/watch?v=RHSEEJDKJho` — playlist `PLE72E21ED4751B5EC`, index 27 | unknown | **not yet identified** — no metadata returned |
+| Source | Subject | Link | Note |
+|---|---|---|---|
+| Soros — *General Theory of Reflexivity* (lecture series) | reflexivity | https://www.youtube.com/watch?v=oCaCrWzFPYY | [[soros-lectures-reflexivity]] |
+| Soros — Charlie Rose interview, 1994 | reflexivity | https://www.youtube.com/watch?v=vEG1oy7w4GE | [[soros-charlie-rose-1994]] |
+| **Not yet identified** — playlist `PLE72E21ED4751B5EC`, index 27 | unknown | https://www.youtube.com/watch?v=RHSEEJDKJho&list=PLE72E21ED4751B5EC&index=27 | — |
+
+Links are repeated in each note's metadata table. Tracking parameters
+(`t=`, `time_continue=`, `source_ve_path=`, `embeds_referring_euri=`) were stripped from
+the originals; the `list=`/`index=` on the third is kept because it is the only identifying
+information available for it.
 
 ## How to read anything in this folder
 
