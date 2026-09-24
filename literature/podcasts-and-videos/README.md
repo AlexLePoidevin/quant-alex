@@ -141,12 +141,33 @@ full transparency.
 
 ## Retail traders
 
+**Made about them**
+
 | Type | Title | Link |
 |---|---|---|
 | documentary | "NAV" — *The Bedroom Trader Who Outsmarted Wall Street* | https://www.youtube.com/watch?v=O74WbIm-REo |
 | documentary | "CIS" — *The Most Notorious Day Trader in Japan* | https://www.youtube.com/watch?v=FnU2efrvITg |
 | documentary | "BNF" — *The God of Japanese Day Trading* | https://www.youtube.com/watch?v=Jnc77gMihPo |
 | documentary | *The Trader Who Got Rich By Being "Scared"* — channel Bibirion | https://www.youtube.com/watch?v=SkWbFhKSA0I |
+
+**In their own words**
+
+| Type | Title | Channel | Link |
+|---|---|---|---|
+| channel | *Bitcoin for Ledges* / *Altcoins for Ledges* — crypto technical analysis, 2022–23 | TraderSZ | https://www.youtube.com/@TraderSZ |
+| channel | *Bitcoin Market Review* — recurring livestreams, some with guests, through 2026 | TraderXO | https://www.youtube.com/@TraderXO |
+| compilation | *Qullamaggie Swing School Compilation* | MarkTekk, from Qullamaggie's own playlist | https://www.youtube.com/watch?v=WFfGHO25oYY |
+
+Two of these are channels rather than single items, so they will keep growing and the
+row cannot be a fixed record. **TraderXO's material sits under the channel's *streams*
+tab, not *videos*** — the videos tab reads as empty, which is a property of the layout
+and not of the channel. TraderSZ carries a website and a Telegram channel off the same
+handle; the YouTube uploads themselves stop in October 2023.
+
+The Qullamaggie entry is a third-party re-upload — MarkTekk trimmed and cleaned the audio
+of the original *Swing Trading School* playlist, which is the source to prefer if the
+mirror ever goes down:
+<https://www.youtube.com/watch?v=ZdXxuBIFTZ0&list=PLV4rgdMPi5CgtRwngmf79U2G5LA066LNa>.
 
 ---
 
