@@ -9,23 +9,31 @@ Titles were confirmed by retrieval. Channels, dates and durations were not — Y
 returns no usable metadata to automated requests. Everything here is unwatched unless it
 has a note.
 
-Three items have notes: the two Soros lectures and the Charlie Rose interview. The rest are
-listed here. A note gets written when something has been watched and there is something to
-record.
+Nothing here has a separate note. A note gets written when something has been watched and
+there is something to record that a row in this table cannot hold.
 
 ---
 
 ## George Soros
 
-| Type | Title | Link | Note |
-|---|---|---|---|
-| lecture | *Lecture Series: General Theory of Reflexivity* | https://www.youtube.com/watch?v=oCaCrWzFPYY | [[soros-lectures-reflexivity]] |
-| lecture | *Lecture Series: Financial Markets* | https://www.youtube.com/watch?v=RHSEEJDKJho&list=PLE72E21ED4751B5EC&index=28 | [[soros-lectures-financial-markets]] |
-| interview | Charlie Rose, 1994 | https://www.youtube.com/watch?v=vEG1oy7w4GE | [[soros-charlie-rose-1994]] |
-| documentary | *The Great Speculator — The Mysterious Life of George Soros* | https://www.youtube.com/watch?v=0_gQhrFq1oU | — |
+| Type | Title | Link |
+|---|---|---|
+| lecture | *Lecture Series: General Theory of Reflexivity* | https://www.youtube.com/watch?v=oCaCrWzFPYY |
+| lecture | *Lecture Series: Financial Markets* | https://www.youtube.com/watch?v=RHSEEJDKJho&list=PLE72E21ED4751B5EC&index=28 |
+| interview | Charlie Rose, 1994 | https://www.youtube.com/watch?v=vEG1oy7w4GE |
+| documentary | *The Great Speculator — The Mysterious Life of George Soros* | https://www.youtube.com/watch?v=0_gQhrFq1oU |
 
 His refereed statement of reflexivity is [[soros-2013]] in
 `../market-structure/04-nonlinear-and-quantum/`.
+
+Three things worth knowing before watching. **Take *Financial Markets* before *General
+Theory*** if the goal is something testable: the general claim, that participants' views
+change what they are views of, is unfalsifiable as stated, whereas what that does to a price
+series might not be. The **lecture series is usually dated to Central European University,
+October 2009** — that attribution is from general knowledge, not confirmed from the page.
+And the **Charlie Rose interview is the early fixed point**: 1994, two years after sterling,
+while he was still running the fund and fifteen years before the lectures. Whether the
+account sharpens or softens between 1994 and 2013 tells you which kind of theory it is.
 
 ## Paul Tudor Jones
 
