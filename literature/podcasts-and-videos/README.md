@@ -1,13 +1,14 @@
 # Podcasts and videos
 
-Recorded sources — lectures, talks, interviews, panels and documentaries. Organised by
+Recorded sources — lectures, talks, interviews, panels and documentaries — and, where a
+person's written record belongs beside them, letters and print interviews. Organised by
 **who they are about**, since that is how you look something up. The *Type* column carries
 the distinction that matters: whether a person is making their own argument, or somebody
 else is making one about them.
 
-Titles were confirmed by retrieval. Channels, dates and durations were not — YouTube
-returns no usable metadata to automated requests. Everything here is unwatched unless it
-has a note.
+Titles were confirmed by retrieval. Channels, dates and durations mostly were not — YouTube
+returns no usable metadata to automated requests — so a channel is named only where it was
+confirmed. Everything here is unwatched unless it has a note.
 
 Nothing here has a separate note. A note gets written when something has been watched and
 there is something to record that a row in this table cannot hold.
@@ -94,6 +95,40 @@ account sharpens or softens between 1994 and 2013 tells you which kind of theory
 
 The 1994 Soros–Druckenmiller interview is from the same year as the Charlie Rose interview
 above — a fixed point on how both framed things during the sterling era.
+
+## David Orr
+
+Militia Capital, founded January 2021 and run from Osaka. A leveraged long/short book —
+roughly 200% long and 100% short on average — spread across several hundred names at once,
+longs sized 1–10% and shorts 0.1–2.5%. The stated edge is two published anomalies, low
+volatility and small size, harvested at breadth rather than concentration; the size leg is
+[[fama-french-1993]] in `../factor-structure/03-what-the-factors-are/`, and the breadth
+argument itself is [[grinold-kahn-1999]] in
+`../passive-vs-active-management/01-foundations/`. Since January 2025 a similar strategy
+also runs in an ETF wrapper (`ORR`).
+
+| Type | Title | Channel | Link |
+|---|---|---|---|
+| interview | *Hedge Fund Manager Who Has Crushed the S&P 500 — "Most Investors Don't Understand Real Investing"* | Monetary Matters — *Other People's Money* | https://www.youtube.com/watch?v=bifiTb2FIgc |
+| interview | *How Hedge Funds Are Entering the ETF Game* — OPM bonus episode | Monetary Matters | https://www.youtube.com/watch?v=yDrvvqDI1-s |
+| interview | *This Ex-Poker Pro Built a Hedge Fund by Betting Against Beta — David Orr on Asymmetric Bets* | Odds on Open, w/ Ethan Kho | https://www.youtube.com/watch?v=NpqZ2QVRhYw |
+| interview | *Navigating 300 Positions and the New Market Reality* | Senzal Capital | https://www.youtube.com/watch?v=oRqc9p_0l-w |
+| interview | *Learning the Language of Investing* | Senzal Capital | https://www.youtube.com/watch?v=xJGk3ZfM8Wc |
+| interview | *Inside the Mind of Wall Street's Newest Phenom!* | Crowded Market Report, w/ Jason Shapiro | https://www.youtube.com/watch?v=nBJggHuPUF4 |
+
+**Written**
+
+| Type | Title | Source | Link |
+|---|---|---|---|
+| letters | Quarterly investor letters, 2021–2026 | Militia Capital | https://www.militiacapital.com/#letters |
+| interview | *Idea Brunch with David Orr of Militia Capital*, 16 Oct 2022 | Edwin Dorsey, *Sunday's Idea Brunch* | https://www.readideabrunch.com/p/idea-brunch-with-david-orr-of-militia |
+| interview | *A Fresh Perspective on Long/Short Investing*, 24 Jun 2025 | William C. Martin, Raging Capital Ventures | https://ragingcapitalventures.com/provocative-long-short-investing/ |
+
+The two print interviews are nearly three years apart and describe the book at different
+sizes — around 200 positions at 255/140 gross in 2022, 300+ by 2025 — so they are worth
+reading in that order. The Monetary Matters pair works the same way: the first is the hedge
+fund, the bonus episode is the ETF running a related strategy under daily liquidity and
+full transparency.
 
 ## Other investors
 
