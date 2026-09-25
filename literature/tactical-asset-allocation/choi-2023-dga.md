@@ -50,39 +50,64 @@ rather than contemporaneous.
 The canary lineage runs through [[keller-keuning-2018-daa]] and
 [[keller-keuning-2023-haa]]; Choi cites both.
 
-## ⚠️ The valuation gate has become structurally binding
+## Allocate Smartly's adversarial version
 
-Measured November 2012 – September 2026, the gates pass individually at 69.6% (TIP), 79.8%
-(dividend yield) and 81.5% (curve), but all three together only **48.2%** of months.
+Allocate Smartly, who track DGA, make two changes and we follow the second here:
 
-The dividend-yield gate last passed in **April 2024** and has failed for **29 consecutive
-months** since. The S&P's trailing yield was 2.02% at the start of this window, peaked at
-2.76% in February 2016, and is **1.21%** now — the index has outrun its dividends for a
-decade.
+1. **TIP replaced by IEF before the TIP ETF existed (2003).** A data-quality hedge for
+   their long history — TIPS index data does not exist before 1997 and simulations before
+   then are an educated guess. Not applicable to a post-2012 test.
+2. **The dividend-yield check removed altogether**, *"due to concerns that it's a rule
+   overly fit to recent history."*
 
-A fixed 1.6% threshold calibrated on fifty years of history does not survive that drift.
-Absent roughly a 25% fall in the index or a sharp acceleration in dividend growth, gate two
-does not reopen. The book has been risk-off for **40 consecutive months**, the longest run
-in the sample, and it is ongoing.
+Their broader critique is about design rather than this rule alone: DGA takes one
+straightforward idea — bonds as a predictor of risk-asset performance — and then narrows
+time-in-market with further unrelated observations. *"The more we 'stack' historically
+successful observations on top of each other, the more we increase the likelihood of
+overfitting."* That is a different thing from diversifying across strategies, where the
+complexity of each observation is unchanged.
 
-This is a live design problem rather than a historical note: the paper was published in
-November 2023, when the yield was still around 1.8%.
+## ⚠️ Why the valuation gate goes
+
+The threshold binds only in recent memory. The S&P's yield first fell below 1.6% in the
+late 1990s and, on Shiller's data, was nowhere near it at any point back to the 1870s.
+
+Two facts, pulling opposite ways:
+
+**Historically the gate does nothing.** Over Nov 2012 – Sep 2026 it was the sole blocker in
+**6.0%** of months. With it, 14.04% a year at Sharpe 0.89; without it, 13.95% and 0.88 —
+the equity curves are indistinguishable.
+
+**Recently it does everything.** The yield fell through 1.6% for good in **April 2024** and
+has stayed below. With the gate, the book has been defensive **40 consecutive months**;
+without it, **three**. A rule that was redundant for a decade has become the binding
+constraint, which is precisely the failure mode Allocate Smartly warned of: *"What if a
+dividend yield of 1% becomes the norm in the future? The strategy would remain defensive
+indefinitely."* It is already happening — the paper was published in November 2023, when
+the yield was still near 1.8%.
 
 ## Measured 2012–2026
 
 | | DGA | 60/40 SPY–IEF |
 |---|---:|---:|
-| Ann. return | 14.04% | 9.57% |
-| Ann. volatility | 16.26% | 9.97% |
-| Sharpe | 0.89 | 0.97 |
+Two gates, dividend check removed:
+
+| | DGA | 60/40 SPY–IEF |
+|---|---:|---:|
+| Ann. return | 13.95% | 9.57% |
+| Ann. volatility | 16.27% | 9.97% |
+| Sharpe | 0.88 | 0.97 |
 | Sortino | 1.01 | 1.22 |
 | Calmar | 0.49 | 0.46 |
 | Max drawdown | −28.6% | −21.0% |
-| Skew | −0.66 | −0.21 |
+| Skew | −0.61 | −0.21 |
 
-Holdings: QQQ 33.9% of months, SCHD 14.3%, defensive 51.8%.
+Holdings: QQQ 38.1% of months, SCHD 16.1%, defensive 45.8%. Risk-on 54.2% of months.
 
-**Reproduction notes.** SCHD begins October 2011, which sets the start date. DBC stands in
+**Reproduction notes.** All series are total return, which matters here: SCHD yields 3.6%
+a year against QQQ's 1.0%, so on price-only data the dividend sleeve would systematically
+lose the momentum race. The dividend-yield denominator is correctly the price index, not a
+total-return series. SCHD begins October 2011, which sets the start date. DBC stands in
 for PDBC (inception November 2014). The dividend yield is SPY's trailing twelve-month
 distributions over price rather than the index's own; Shiller's canonical series ends mid
 -2023 and is no longer usable for a current test. Yield curve from FRED `T10Y3MM`.
