@@ -74,6 +74,8 @@ apparatus behind [[sharpe-1963]] and everything downstream in `factor-structure/
 - [[evans-rosenthal-2009-probability-and-statistics]] — the probability-first counterpart:
   chapter 4 separates the convergence modes and chapter 11 adds stochastic processes, where
   this book goes deeper on estimation procedure, ANOVA and nonparametrics
+- [[hopfensperger-1999-probability-models]] — Scheaffer again, teaching the same sequence
+  to high-school students; useful for how to order and anchor the material, never for claims
 - [[chopra-ziemba-1993]] — estimation error in the optimiser's inputs, quantified; the
   applied payoff of chapters 8–9
 - [[michaud-1989]] — mean-variance optimisation as an error-maximiser, the qualitative
