@@ -5,14 +5,10 @@
 | **Author** | Jean-François Le Gall (Université Paris-Saclay) |
 | **Year** | 2022 |
 | **Type** | Graduate text — Springer, Graduate Texts in Mathematics **295**, ~403pp |
-| **PDF** | ⚠️ **NOT HELD.** Only `le-gall-2022-measure-theory-probability-CONTENTS-ONLY.pdf` — a 5-page table of contents from the Swiss Library Service Platform |
+| **PDF** | `le-gall-2022-measure-theory-probability.pdf` (in this folder), 409pp |
 | **BibTeX** | `legall2022measure` |
-| **Status** | **Wanted** — identified as the text for the measure-theory block; acquire before relying on it |
-
-> **This entry is a decision, not a source.** The only file held is the contents listing.
-> Nothing here may be cited until the book itself is in the folder. When it arrives, drop it
-> in as `le-gall-2022-measure-theory-probability.pdf`, delete the contents-only file, and
-> change **Status** to *Reference*.
+| **DOI** | [10.1007/978-3-031-14205-5](https://doi.org/10.1007/978-3-031-14205-5) |
+| **Status** | Reference |
 
 ## What it is
 
@@ -39,7 +35,7 @@ Le Gall is a probabilist of the first rank — Wolf Prize 2019, and the author o
 standard modern work on Brownian motion and random trees. This is a text by someone who
 does research in the subject it ends on.
 
-## Why it's wanted
+## Why it's in the library
 
 **Chapters 10–12 are the formal answer to the look-ahead problem.** Convergence of random
 variables, conditioning, and martingale theory in that order is exactly the machinery that
@@ -73,6 +69,13 @@ records an argument that **chapters 10–12 want to be pulled forward to the end
 rather than waiting for Block III, because filtrations are load-bearing for backtest
 methodology long before the rest of measure theory is needed. Chapters 1–7 can wait; ch. 11
 and 12 cannot.
+
+**Reading order for that pull-forward**, which is not the book's own order: §8.1 for the
+probability-space definitions, then ch. 11 (conditioning) for conditional expectation as an
+Lᵖ projection, then ch. 12 §§1–2 for filtrations, adapted and predictable processes, and
+optional stopping. That is roughly sixty pages and it does not require Part I beyond the
+definition of a σ-field — Radon–Nikodym (§4.4) is the one back-reference, since it is what
+makes conditional expectation exist.
 
 ## Links
 
