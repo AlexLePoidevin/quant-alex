@@ -53,6 +53,8 @@ relied upon.
 
 ## Links
 
+- [[nelsen-2006-introduction-to-copulas]] — the textbook: Sklar's theorem, rank
+  correlations and the tail-dependence definitions used here
 - [[ledoit-wolf-2004]] — improves the *estimate* of the linear dependence; orthogonal to
   whether linear dependence was the right object
 - [[laloux-et-al-1999]], [[bouchaud-potters-2009]] — cleaning the correlation spectrum,
