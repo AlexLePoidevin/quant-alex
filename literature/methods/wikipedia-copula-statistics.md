@@ -57,6 +57,8 @@ dependence structure, and an elliptical structure is not where joint crashes com
 
 ## Links
 
+- [[mackenzie-spears-2014-formula-that-killed-wall-street]] — the sourced history behind
+  the page's one-line 2008 criticism
 - [[nelsen-2006-introduction-to-copulas]] — the source for everything here, with proofs
 - [[nguyen-2020-introduction-to-copulas-slides]] — definitions and bounds in slide form
 - [[finance-tutoring-2024-sklar-theorem]] — the informal version; this page supplies the

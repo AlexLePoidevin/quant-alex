@@ -53,6 +53,8 @@ relied upon.
 
 ## Links
 
+- [[mackenzie-spears-2014-formula-that-killed-wall-street]] — the history of the Gaussian
+  copula in credit, the model this paper's tail measurements contradict
 - [[nelsen-2006-introduction-to-copulas]] — the textbook: Sklar's theorem, rank
   correlations and the tail-dependence definitions used here
 - [[ledoit-wolf-2004]] — improves the *estimate* of the linear dependence; orthogonal to
