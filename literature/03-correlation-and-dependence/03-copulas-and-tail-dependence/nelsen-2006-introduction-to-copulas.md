@@ -59,6 +59,8 @@ returns with a chosen tail behaviour, as an alternative to a multivariate normal
 
 - [[mackenzie-spears-2014-formula-that-killed-wall-street]] — how the Gaussian copula
   reached credit markets (Vasicek → Li → base correlation)
+- [[donnelly-embrechts-2010-devil-is-in-the-tails]] — Gaussian against Gumbel at equal
+  correlation: the tail-dependence result applied to the 2008 crisis
 - [[wikipedia-copula-statistics]] — formula sheet: Archimedean generator table,
   Gaussian copula density, bounds
 - [[finance-tutoring-2024-sklar-theorem]] — plain-language Sklar's theorem blog post;

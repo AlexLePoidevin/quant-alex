@@ -81,6 +81,8 @@ sophisticated investment-bank models. The details are in the companion paper.
 
 ## Links
 
+- [[donnelly-embrechts-2010-devil-is-in-the-tails]] — the mathematicians' rebuttal: why
+  the Gaussian copula fails in the tail, the May 2005 hedge failure, AIG
 - [[nelsen-2006-introduction-to-copulas]] — Sklar's theorem and the tail-dependence result
   the Gaussian copula fails
 - [[wikipedia-copula-statistics]] — the Gaussian copula density and the brief 2008 note
