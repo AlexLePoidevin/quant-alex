@@ -42,6 +42,8 @@ It is the shortest intuition for Sklar's theorem in the library. Read it before
 
 ## Links
 
+- [[wikipedia-copula-statistics]] — formula sheet: Archimedean generator table,
+  Gaussian copula density, bounds
 - [[nelsen-2006-introduction-to-copulas]] — the theorem with its conditions; chapter 5 for
   rank correlations and tail dependence
 - [[nguyen-2020-introduction-to-copulas-slides]] — the next step: definitions and the
