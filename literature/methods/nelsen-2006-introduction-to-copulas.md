@@ -57,6 +57,8 @@ returns with a chosen tail behaviour, as an alternative to a multivariate normal
 
 ## Links
 
+- [[wikipedia-copula-statistics]] — formula sheet: Archimedean generator table,
+  Gaussian copula density, bounds
 - [[finance-tutoring-2024-sklar-theorem]] — plain-language Sklar's theorem blog post;
   overstates invariance, see its caveats
 - [[nguyen-2020-introduction-to-copulas-slides]] — 37-slide walk through chapter 2, a

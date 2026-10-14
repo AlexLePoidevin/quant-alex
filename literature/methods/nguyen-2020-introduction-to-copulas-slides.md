@@ -39,6 +39,8 @@ returns. The material in the slides is all in Nelsen, so cite the book.
 
 ## Links
 
+- [[wikipedia-copula-statistics]] — formula sheet: Archimedean generator table,
+  Gaussian copula density, bounds
 - [[finance-tutoring-2024-sklar-theorem]] — the plain-language version, to read first
 - [[nelsen-2006-introduction-to-copulas]] — the source; chapter 2 in full, chapter 5 for
   tail dependence
