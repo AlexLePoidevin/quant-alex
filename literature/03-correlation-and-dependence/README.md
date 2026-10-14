@@ -15,7 +15,8 @@ estimate it well, what it misses, and where the structure comes from.
 
 **Suggested path:** [[laloux-et-al-1999]] → [[bouchaud-potters-2009]] → [[ledoit-wolf-2004]]
 → [[ang-chen-2002]] → [[nelsen-2006-introduction-to-copulas]] (chapters 2 and 5) →
-[[munnix-schafer-2011-copula-dependencies]] → [[mackenzie-spears-2014-formula-that-killed-wall-street]].
+[[munnix-schafer-2011-copula-dependencies]] → [[mackenzie-spears-2014-formula-that-killed-wall-street]]
+→ [[donnelly-embrechts-2010-devil-is-in-the-tails]].
 
 For the copulas folder, the explainers go from easiest to hardest:
 [[finance-tutoring-2024-sklar-theorem]] → [[nguyen-2020-introduction-to-copulas-slides]] →
