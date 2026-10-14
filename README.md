@@ -1,6 +1,7 @@
 # Quant Research
 
-My research repository: notes on the sources I read while learning quantitative finance,
-kept for my own reference.
+My research repository: notes on the sources I read while learning quantitative finance.
 
-It's public in case anyone else wants to learn from it too. Open the literature folder its all there
+It's public so anyone else can learn from it too. Everything is in
+[`literature/`](literature/), organised by subject and numbered as a learning path. Start
+with [`literature/README.md`](literature/README.md) for the map.
