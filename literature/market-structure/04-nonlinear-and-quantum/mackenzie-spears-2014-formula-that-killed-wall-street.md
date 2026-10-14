@@ -72,8 +72,7 @@ historical case of what the elliptical-trap argument warns about.
 **It is a case study in calibration being mistaken for validation.** Backing out an implied
 correlation that reproduces market prices exactly tells you nothing about whether the
 model's dependence structure is right. The base-correlation skew was itself evidence of
-misspecification. The same applies to any backtest fitted to its own evaluation window
-(`docs/BACKTEST_CRIMES.md` in Vinland Saga makes the same point).
+misspecification. The same applies to any backtest fitted to its own evaluation window.
 
 **It corrects the popular story.** Salmon's version, one formula and one author, is too
 simple. The authors note that the main channel into the crisis ran through *simpler* uses
