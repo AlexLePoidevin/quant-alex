@@ -57,6 +57,8 @@ returns with a chosen tail behaviour, as an alternative to a multivariate normal
 
 ## Links
 
+- [[finance-tutoring-2024-sklar-theorem]] — plain-language Sklar's theorem blog post;
+  overstates invariance, see its caveats
 - [[nguyen-2020-introduction-to-copulas-slides]] — 37-slide walk through chapter 2, a
   quick way in before the book
 - [[munnix-schafer-2011-copula-dependencies]] — the empirical counterpart: average
