@@ -57,6 +57,8 @@ returns with a chosen tail behaviour, as an alternative to a multivariate normal
 
 ## Links
 
+- [[mackenzie-spears-2014-formula-that-killed-wall-street]] — how the Gaussian copula
+  reached credit markets (Vasicek → Li → base correlation)
 - [[wikipedia-copula-statistics]] — formula sheet: Archimedean generator table,
   Gaussian copula density, bounds
 - [[finance-tutoring-2024-sklar-theorem]] — plain-language Sklar's theorem blog post;
