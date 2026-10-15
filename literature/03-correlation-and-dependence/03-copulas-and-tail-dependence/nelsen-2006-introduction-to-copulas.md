@@ -67,6 +67,8 @@ returns with a chosen tail behaviour, as an alternative to a multivariate normal
   overstates invariance, see its caveats
 - [[nguyen-2020-introduction-to-copulas-slides]] — 37-slide walk through chapter 2, a
   quick way in before the book
+- [[haugh-2016-introduction-to-copulas-slides]] — 64-slide Columbia lecture: fallacies of
+  correlation, pseudo-MLE, Gaussian-copula CDO pricing
 - [[munnix-schafer-2011-copula-dependencies]] — the empirical counterpart: average
   pairwise copula and tail dependence across S&P 500 constituents
 - [[evans-rosenthal-2009-probability-and-statistics]],

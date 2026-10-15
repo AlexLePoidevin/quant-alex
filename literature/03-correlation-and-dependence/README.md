@@ -20,7 +20,7 @@ estimate it well, what it misses, and where the structure comes from.
 
 For the copulas folder, the explainers go from easiest to hardest:
 [[finance-tutoring-2024-sklar-theorem]] → [[nguyen-2020-introduction-to-copulas-slides]] →
-[[wikipedia-copula-statistics]] → Nelsen.
+[[haugh-2016-introduction-to-copulas-slides]] → [[wikipedia-copula-statistics]] → Nelsen.
 
 Related: the factor-model view of the same matrix is in `../02-factor-models-and-asset-pricing/`
 (**model there, measurement here**). What the matrix implies for diversification is in

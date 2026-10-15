@@ -82,6 +82,8 @@ reproduce what it is evaluated on has not been tested.
   model, from the sociology-of-finance side
 - [[nelsen-2006-introduction-to-copulas]] — Sklar's theorem, Kendall's τ, and the tail
   dependence coefficient used in §5.1
+- [[haugh-2016-introduction-to-copulas-slides]] — the CDO pricing model worked through
+  equation by equation
 - [[munnix-schafer-2011-copula-dependencies]] — equity tail dependence measured above the
   Gaussian copula's
 - [[wikipedia-copula-statistics]] — Gumbel and other Archimedean generators, Gaussian
