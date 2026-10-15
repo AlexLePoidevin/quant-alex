@@ -99,6 +99,8 @@ the data really has limits how small a useful representation can get.
 
 ## Links
 
+- [[conklin-2026-i-am-myself-a-lossy-compression]] — the first author's plain-language blog
+  companion; read it first
 - [[ica]], [[kernel-pca]], [[hyvarinen-oja-2000]] — unsupervised compression, the baseline
   this paper's supervised criterion moves past
 - [[levina-bickel-2004]], [[facco-et-al-2017]] — intrinsic dimension, the geometric
