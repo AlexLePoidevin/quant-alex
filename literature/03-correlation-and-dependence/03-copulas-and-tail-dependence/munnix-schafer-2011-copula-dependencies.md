@@ -53,6 +53,8 @@ relied upon.
 
 ## Links
 
+- [[czado-2019-analyzing-dependent-data-with-vine-copulas]] — vine copulas, which model
+  different tail dependence for each pair in one multivariate model
 - [[mackenzie-spears-2014-formula-that-killed-wall-street]] — the history of the Gaussian
   copula in credit, the model this paper's tail measurements contradict
 - [[nelsen-2006-introduction-to-copulas]] — the textbook: Sklar's theorem, rank

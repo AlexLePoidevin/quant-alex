@@ -57,6 +57,8 @@ returns with a chosen tail behaviour, as an alternative to a multivariate normal
 
 ## Links
 
+- [[czado-2019-analyzing-dependent-data-with-vine-copulas]] — the next step: building
+  many-asset copulas from bivariate ones (vines)
 - [[mackenzie-spears-2014-formula-that-killed-wall-street]] — how the Gaussian copula
   reached credit markets (Vasicek → Li → base correlation)
 - [[donnelly-embrechts-2010-devil-is-in-the-tails]] — Gaussian against Gumbel at equal
