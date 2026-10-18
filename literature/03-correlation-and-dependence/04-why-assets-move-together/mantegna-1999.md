@@ -19,3 +19,9 @@ structure is hierarchical, not flat.
 The best *picture* available for this series: one figure in which sector structure emerges
 from prices alone. Deploy it as illustration — it is a rendering of the correlation matrix,
 not an independent argument.
+
+## Links
+
+- [[wikipedia-tree-graph-theory]] — definitions: a spanning tree on n assets keeps n − 1 links
+- [[czado-2019-analyzing-dependent-data-with-vine-copulas]] — vine copulas, whose first tree
+  is the rank-correlation version of this one
