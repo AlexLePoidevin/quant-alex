@@ -79,6 +79,8 @@ choices in mind (ch. 8–9).
   vine can model pair by pair
 - [[mantegna-1999]] — correlation spanning trees, the linear relative of Dißmann's tree
   selection
+- [[wikipedia-tree-graph-theory]] — trees, paths, stars and spanning trees: the vocabulary
+  for R-, D- and C-vines
 - [[donnelly-embrechts-2010-devil-is-in-the-tails]],
   [[mackenzie-spears-2014-formula-that-killed-wall-street]] — what a single one-factor
   Gaussian copula got wrong
