@@ -81,6 +81,8 @@ choices in mind (ch. 8–9).
   selection
 - [[wikipedia-tree-graph-theory]] — trees, paths, stars and spanning trees: the vocabulary
   for R-, D- and C-vines
+- [[lv-wang-yuan-2026-garch-evt-rvine-scad-portfolio]] — an R-vine used end to end:
+  GARCH-EVT margins, vine scenarios, sparse CVaR portfolio
 - [[donnelly-embrechts-2010-devil-is-in-the-tails]],
   [[mackenzie-spears-2014-formula-that-killed-wall-street]] — what a single one-factor
   Gaussian copula got wrong

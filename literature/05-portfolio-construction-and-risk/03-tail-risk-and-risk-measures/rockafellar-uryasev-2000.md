@@ -22,3 +22,8 @@ single-leverage case there is a useful simplification worth stating explicitly: 
 Gaussian returns `CVaR_alpha(f)` is **linear in `f`**, so a CVaR limit becomes a leverage
 cap and the constrained optimum is just `min(f*, f_CVaR)` — a clean kink on the frontier.
 Under empirical returns the cap binds considerably earlier, which is the point.
+
+## Links
+
+- [[lv-wang-yuan-2026-garch-evt-rvine-scad-portfolio]] — the same scenario CVaR problem with
+  vine-copula scenarios and a SCAD sparsity penalty, solved as a quantile regression
