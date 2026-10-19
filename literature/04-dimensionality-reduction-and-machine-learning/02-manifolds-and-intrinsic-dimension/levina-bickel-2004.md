@@ -17,3 +17,8 @@ estimator of intrinsic dimension. The standard baseline that TWO-NN is measured 
 
 Second opinion. Quoting one intrinsic-dimension number is a claim; quoting two estimators
 that agree is evidence.
+
+## Links
+
+- [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — why nearest-neighbour distances
+  stop discriminating in high ambient dimension unless the intrinsic dimension is low

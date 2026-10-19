@@ -8,7 +8,7 @@ one of its assumptions.
 | Folder | What it relaxes |
 |---|---|
 | `01-component-analysis` | *Uncorrelated* → *independent* (ICA), and *linear* → *curved* (kernel PCA) |
-| `02-manifolds-and-intrinsic-dimension` | Structure as a manifold rather than a subspace: diffusion maps, and estimators of how many dimensions the data really has (MLE, two-NN) |
+| `02-manifolds-and-intrinsic-dimension` | Structure as a manifold rather than a subspace: diffusion maps, and estimators of how many dimensions the data really has (MLE, two-NN), and why it matters for nearest-neighbour methods (distance concentration) |
 | `03-quantum-cognition-ml` | Data as states in a Hilbert space (Qognitive's QCML programme and its cognitive-science foundation) |
 | `04-information-bottleneck-and-compression` | *Keep the variance* → *keep what predicts the target*: the Information Bottleneck, measured on LLMs as they train |
 

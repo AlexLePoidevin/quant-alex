@@ -18,3 +18,8 @@ non-uniform density that break global methods.
 
 The concrete way to say "the nonlinear intrinsic dimension is lower than the linear rank."
 A PCA scree plot and a TWO-NN estimate on the same panel is a strong two-number figure.
+
+## Links
+
+- [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — distance concentration, the
+  reason a low intrinsic dimension matters for any neighbour-based method
