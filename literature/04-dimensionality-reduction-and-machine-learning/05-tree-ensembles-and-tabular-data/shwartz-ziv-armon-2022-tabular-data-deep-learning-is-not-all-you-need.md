@@ -69,6 +69,8 @@ adding another tree model mostly doesn't.
 
 - [[elsayed-et-al-2021-do-we-really-need-deep-learning-for-time-series-forecasting]] — the
   same comparison for forecasting, with the series cast as windowed tabular regression
+- [[hall-rasheed-2025-survey-of-machine-learning-methods-for-time-series-prediction]] — the
+  same selection bias across 79 time-series papers: the authors' favoured model class wins
 - [[gu-kelly-xiu-2021]] — autoencoder factor models, the deep-learning approach for
   return panels that tree models should be compared with
 - [[kelly-pruitt-su-2019]] — IPCA, the linear baseline for the same problem

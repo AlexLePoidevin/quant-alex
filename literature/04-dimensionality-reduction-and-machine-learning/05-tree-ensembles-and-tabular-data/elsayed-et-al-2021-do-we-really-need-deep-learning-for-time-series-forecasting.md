@@ -78,6 +78,8 @@ should include the naive forecast and score on returns, not levels.
 
 - [[shwartz-ziv-armon-2022-tabular-data-deep-learning-is-not-all-you-need]] — the same
   question for cross-sectional tabular data, with the same answer
+- [[hall-rasheed-2025-survey-of-machine-learning-methods-for-time-series-prediction]] — a
+  tally of 79 tree-vs-deep time-series comparisons; roughly a tie on accuracy, trees far cheaper
 - [[gu-kelly-xiu-2021]] — deep learning on a return panel, where the benchmark should
   include a well-configured tree model
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — a long flattened window is a
