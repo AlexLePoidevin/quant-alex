@@ -81,3 +81,5 @@ at random.
 - [[coifman-lafon-2006]] — diffusion maps, a way to work on the manifold instead of in the
   ambient space
 - [[kernel-pca]] — a kernel built on Euclidean distance inherits the same concentration
+- [[aggarwal-hinneburg-keim-2001-surprising-behavior-of-distance-metrics]] — the follow-up:
+  the rate of concentration depends on the norm, and L₁ or k < 1 keeps more contrast than L₂
