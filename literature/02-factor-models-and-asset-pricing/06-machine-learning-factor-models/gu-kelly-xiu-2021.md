@@ -18,3 +18,8 @@ PCA fitted under a no-arbitrage restriction.
 
 The finance-legitimate nonlinear dimensionality reduction — the one that isn't just a
 visualisation trick. This is what "beyond the covariance matrix" should mean.
+
+## Links
+
+- [[shwartz-ziv-armon-2022-tabular-data-deep-learning-is-not-all-you-need]] — on tabular
+  data, gradient-boosted trees beat purpose-built deep nets; the baseline to check against

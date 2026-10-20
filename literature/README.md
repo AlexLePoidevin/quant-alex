@@ -15,7 +15,7 @@ section has a README that lists its subfolders and the question each one answers
 | 01 | [`01-mathematical-foundations`](01-mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
 | 02 | [`02-factor-models-and-asset-pricing`](02-factor-models-and-asset-pricing/) | Single-index models to Fama–French, APT, how much of a return is common, the factor zoo, ML factor models |
 | 03 | [`03-correlation-and-dependence`](03-correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
-| 04 | [`04-dimensionality-reduction-and-machine-learning`](04-dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck |
+| 04 | [`04-dimensionality-reduction-and-machine-learning`](04-dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck, tree ensembles vs deep learning |
 | 05 | [`05-portfolio-construction-and-risk`](05-portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
 | 06 | [`06-compounding-leverage-and-position-sizing`](06-compounding-leverage-and-position-sizing/) | Volatility drag, the Kelly criterion, leveraged ETFs, ergodicity |
 | 07 | [`07-active-management`](07-active-management/) | The fundamental law, skill versus scale, active share, the rise of passive |
