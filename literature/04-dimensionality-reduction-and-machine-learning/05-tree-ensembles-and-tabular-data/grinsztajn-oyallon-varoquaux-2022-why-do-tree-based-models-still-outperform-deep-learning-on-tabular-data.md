@@ -95,6 +95,8 @@ the function.
 
 ## Links
 
+- [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
+  — the symmetry framework: tabular columns have no rotation group to be invariant to
 - [[shwartz-ziv-armon-2022-tabular-data-deep-learning-is-not-all-you-need]] — the earlier,
   smaller comparison on 11 datasets, which this benchmark supersedes
 - [[elsayed-et-al-2021-do-we-really-need-deep-learning-for-time-series-forecasting]] — the
