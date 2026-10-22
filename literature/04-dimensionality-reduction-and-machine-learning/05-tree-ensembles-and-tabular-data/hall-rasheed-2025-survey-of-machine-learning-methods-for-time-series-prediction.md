@@ -90,6 +90,8 @@ periods), not on RMSE of the forecast.
 
 ## Links
 
+- [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]] — the
+  controlled tabular benchmark behind "start with a boosted tree"
 - [[elsayed-et-al-2021-do-we-really-need-deep-learning-for-time-series-forecasting]] — one
   controlled experiment of the kind this survey tallies, with windowed XGBoost against deep
   forecasters

@@ -76,6 +76,8 @@ should include the naive forecast and score on returns, not levels.
 
 ## Links
 
+- [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]] — the i.i.d.
+  tabular benchmark, with three reasons trees beat networks there
 - [[shwartz-ziv-armon-2022-tabular-data-deep-learning-is-not-all-you-need]] — the same
   question for cross-sectional tabular data, with the same answer
 - [[hall-rasheed-2025-survey-of-machine-learning-methods-for-time-series-prediction]] — a

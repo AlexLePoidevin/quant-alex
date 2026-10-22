@@ -67,6 +67,8 @@ adding another tree model mostly doesn't.
 
 ## Links
 
+- [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]] — the larger
+  follow-up benchmark (45 datasets, equal tuning budgets) and why trees win
 - [[elsayed-et-al-2021-do-we-really-need-deep-learning-for-time-series-forecasting]] — the
   same comparison for forecasting, with the series cast as windowed tabular regression
 - [[hall-rasheed-2025-survey-of-machine-learning-methods-for-time-series-prediction]] — the
