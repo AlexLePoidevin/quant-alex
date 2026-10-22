@@ -21,5 +21,7 @@ A PCA scree plot and a TWO-NN estimate on the same panel is a strong two-number 
 
 ## Links
 
+- [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]] — symmetry
+  priors, the other way past the curse of dimensionality
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — distance concentration, the
   reason a low intrinsic dimension matters for any neighbour-based method
