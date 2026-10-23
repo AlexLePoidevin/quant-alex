@@ -86,6 +86,8 @@ should match it ([[wikipedia-neural-tangent-kernel]]).
 
 ## Links
 
+- [[karkada-2024-the-lazy-ntk-and-rich-mup-regimes-a-gentle-tutorial]] — what µP and the
+  lazy/rich distinction mean
 - [[bordelon-pehlevan-2023-dynamics-of-finite-width-kernel-and-prediction-fluctuations-in-mean-field-neural-networks]]
   — feature learning also pulls finite networks toward their infinite-width limit
 - [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — the

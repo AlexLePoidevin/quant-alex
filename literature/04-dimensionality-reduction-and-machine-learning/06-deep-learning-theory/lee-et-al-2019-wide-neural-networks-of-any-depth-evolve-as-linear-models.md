@@ -74,6 +74,8 @@ predictions across initialisations, which is the variance a seed ensemble averag
 
 ## Links
 
+- [[karkada-2024-the-lazy-ntk-and-rich-mup-regimes-a-gentle-tutorial]] — start here: lazy vs rich
+  as one hyperparameter, and where this paper sits on it
 - [[bordelon-pehlevan-2023-dynamics-of-finite-width-kernel-and-prediction-fluctuations-in-mean-field-neural-networks]]
   — finite width and feature learning: seed variance, and what ensembling can't fix
 - [[nikolaou-et-al-2026-spectral-reach-neural-scaling-as-progress-into-the-spectral-tail]]

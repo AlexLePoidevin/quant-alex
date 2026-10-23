@@ -12,7 +12,7 @@ one of its assumptions.
 | `03-quantum-cognition-ml` | Data as states in a Hilbert space (Qognitive's QCML programme and its cognitive-science foundation) |
 | `04-information-bottleneck-and-compression` | *Keep the variance* → *keep what predicts the target*: the Information Bottleneck, measured on LLMs as they train |
 | `05-tree-ensembles-and-tabular-data` | *Learn a representation first* → *split on the raw features*: gradient-boosted trees against deep nets on tabular data and on windowed time series |
-| `06-deep-learning-theory` | *A network learns features* → *a wide network is a fixed kernel*: the neural tangent kernel and lazy training; why networks that can memorise random labels still generalise; scaling as learning from the NTK spectral tail |
+| `06-deep-learning-theory` | *A network learns features* → *a wide network is a fixed kernel*: the neural tangent kernel, lazy vs rich (µP) training, finite-width fluctuations; why networks that can memorise random labels still generalise; scaling as learning from the NTK spectral tail |
 
 The finance-specific nonlinear factor models (IPCA, autoencoders) are in
 `../02-factor-models-and-asset-pricing/06-machine-learning-factor-models/`. They are the
