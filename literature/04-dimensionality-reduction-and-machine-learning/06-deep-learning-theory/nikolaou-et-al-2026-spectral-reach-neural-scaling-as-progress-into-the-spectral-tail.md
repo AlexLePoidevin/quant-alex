@@ -86,6 +86,8 @@ should match it ([[wikipedia-neural-tangent-kernel]]).
 
 ## Links
 
+- [[bordelon-pehlevan-2023-dynamics-of-finite-width-kernel-and-prediction-fluctuations-in-mean-field-neural-networks]]
+  — feature learning also pulls finite networks toward their infinite-width limit
 - [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — the
   linearised (NTK) dynamics the LNP decomposition is built on
 - [[wikipedia-neural-tangent-kernel]] — definitions, lazy vs feature-learning regimes
