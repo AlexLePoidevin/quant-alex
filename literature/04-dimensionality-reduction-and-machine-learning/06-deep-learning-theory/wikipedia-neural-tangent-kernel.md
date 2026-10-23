@@ -65,6 +65,8 @@ in the lazy regime and a cheaper kernel method would do.
 
 ## Links
 
+- [[zhang-et-al-2017-understanding-deep-learning-requires-rethinking-generalization]] — networks
+  interpolate even random labels; the experiment behind the interpolation debate
 - [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — the
   linearisation and Gaussian-process results this article summarises
 - [[kernel-pca]] — kernel methods and feature maps
