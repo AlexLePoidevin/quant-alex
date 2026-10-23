@@ -95,6 +95,8 @@ the function.
 
 ## Links
 
+- [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — why
+  gradient-trained networks fit smooth functions first (NTK eigenvalues)
 - [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
   — the symmetry framework: tabular columns have no rotation group to be invariant to
 - [[shwartz-ziv-armon-2022-tabular-data-deep-learning-is-not-all-you-need]] — the earlier,
