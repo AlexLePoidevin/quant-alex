@@ -81,6 +81,8 @@ where feature learning is what sustains progress.
 
 ## Links
 
+- [[karkada-2024-the-lazy-ntk-and-rich-mup-regimes-a-gentle-tutorial]] — the richness scale; shows
+  this paper's γ is the same as choosing richness r (γ = nʳ)
 - [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — the lazy,
   infinite-width baseline this paper perturbs around (γ → 0)
 - [[wikipedia-neural-tangent-kernel]] — lazy vs mean-field / μP scalings and the neural tangent
