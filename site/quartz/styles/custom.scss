@@ -6,3 +6,9 @@
 .graph > .graph-outer {
   height: 380px;
 }
+
+// Folder pages whose README already links everything in the folder: hide the automatic
+// "N items under this folder" listing so each item is linked once, from the table.
+article.readme-index + .page-listing {
+  display: none;
+}
