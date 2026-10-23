@@ -74,6 +74,8 @@ predictions across initialisations, which is the variance a seed ensemble averag
 
 ## Links
 
+- [[nikolaou-et-al-2026-spectral-reach-neural-scaling-as-progress-into-the-spectral-tail]]
+  — measures which NTK eigenmodes drive learning in real transformers, at scale
 - [[zhang-et-al-2017-understanding-deep-learning-requires-rethinking-generalization]] — the
   random-labels puzzle this kernel view helps answer
 - [[wikipedia-neural-tangent-kernel]] — overview of the NTK literature: definition,
