@@ -57,6 +57,8 @@ Secondary caveats:
 
 ## Links
 
+- [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — a wide network
+  trained by gradient descent is a kernel method with a fixed kernel
 - [[coifman-lafon-2006]] — diffusion maps, the other nonlinear method with out-of-sample
   extension and stronger theoretical grounding
 - [[facco-et-al-2017]] — intrinsic-dimension estimation, the cheaper way to ask whether the
