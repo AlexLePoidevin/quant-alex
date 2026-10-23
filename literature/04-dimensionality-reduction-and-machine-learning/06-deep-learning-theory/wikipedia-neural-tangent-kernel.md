@@ -65,6 +65,8 @@ in the lazy regime and a cheaper kernel method would do.
 
 ## Links
 
+- [[nikolaou-et-al-2026-spectral-reach-neural-scaling-as-progress-into-the-spectral-tail]]
+  — empirical NTK spectra during training; feature learning extends reach into the tail
 - [[zhang-et-al-2017-understanding-deep-learning-requires-rethinking-generalization]] — networks
   interpolate even random labels; the experiment behind the interpolation debate
 - [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — the
