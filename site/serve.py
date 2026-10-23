@@ -23,8 +23,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             self.end_headers()
             return None
         if not path.startswith(BASE + "/"):
-            self.path = "/404.html"
-            return super().send_head()
+            return self.not_found()
         path = path[len(BASE):]
         fs = self.translate_path(path)
         if os.path.isdir(fs) and os.path.exists(os.path.join(fs, "index.html")):
@@ -34,8 +33,16 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         elif os.path.exists(fs):
             self.path = path
         else:
-            self.path = "/404.html"
+            return self.not_found()
         return super().send_head()
+
+    def not_found(self):
+        body = open(os.path.join(root, "404.html"), "rb").read()
+        self.send_response(404)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.send_header("Content-Length", str(len(body)))
+        self.end_headers()
+        return __import__("io").BytesIO(body)
 
     def end_headers(self):
         self.send_header("Cache-Control", "no-store")    # always show the latest build

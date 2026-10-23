@@ -5,7 +5,7 @@
 | **Authors** | Patrick Hopfensperger, Henry Kranendonk, Richard L. Scheaffer |
 | **Year** | 1999 |
 | **Type** | **High-school curriculum module** — Dale Seymour / Addison Wesley Longman, 96pp |
-| **Origin** | American Statistical Association, "A Data-Driven Curriculum Strand for High School", NSF Grant #MDR-9054648 |
+| **Origin** | American Statistical Association, "A Data-Driven Curriculum Strand for High School", NSF Grant MDR-9054648 |
 | **PDF** | `hopfensperger-1999-probability-models.pdf` (in this folder) |
 | **BibTeX** | `hopfensperger1999probmodels` |
 | **Source** | [amstat.org](https://www.amstat.org/docs/default-source/amstat-documents/probabilitymodels.pdf) |

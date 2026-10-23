@@ -22,6 +22,7 @@ from __future__ import annotations
 import re
 import shutil
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -285,6 +286,39 @@ def add_media(nodes: dict, edges: list, stems: dict) -> None:
                 edges.append({"source": rid, "target": topic, "kind": "cite"})
 
 
+def rooted_links(text: str, here: Path) -> str:
+    """Rewrite relative Markdown links as paths from the content root.
+
+    Quartz (markdownLinkResolution: shortest) reads any link containing "/" as a path from
+    the site root, so '../04-ergodicity/' or '01-probability-and-statistics/' would break.
+    """
+    def sub(m: re.Match) -> str:
+        target, anchor_ = (m.group(1).split("#", 1) + [""])[:2]
+        resolved = Path(os.path.normpath(here / target))
+        if SRC not in [resolved, *resolved.parents]:
+            return m.group(0)
+        out = resolved.relative_to(SRC).as_posix()
+        out = "" if out == "." else out
+        if target.endswith("/") or resolved.is_dir():
+            out = out + "/" if out else "./"
+        return f"]({out}{'#' + anchor_ if anchor_ else ''})"
+    return re.sub(r"\]\((?!https?:|#|/|mailto:)([^)\s]+)\)", sub, text)
+
+
+def covers_children(folder: Path) -> bool:
+    """True if the folder's README links every subfolder and note in it, so Quartz's
+    automatic folder listing would only repeat it (site CSS then hides the listing)."""
+    readme = folder / "README.md"
+    if not readme.exists():
+        return False
+    text = readme.read_text(encoding="utf-8")
+    links = set(WIKI.findall(text)) | {Path(u.rstrip("/")).name for u in re.findall(r"\]\(([^)\s]+)\)", text)}
+    links |= {c.rstrip("/") for c in CODE.findall(text)}
+    kids = [d.name for d in folder.iterdir() if d.is_dir()]
+    kids += [p.stem for p in folder.glob("*.md") if p.name != "README.md"]
+    return bool(kids) and all(k in links for k in kids)
+
+
 def convert(text: str, rel: Path, dates: tuple[str, str] | None) -> str:
     title = None
     m = H1.match(text)
@@ -294,6 +328,10 @@ def convert(text: str, rel: Path, dates: tuple[str, str] | None) -> str:
     text = link_folders(text, (SRC / rel).parent)
     text = titled_links(text, TITLES)
     front = []
+    text = rooted_links(text, (SRC / rel).parent)
+    if rel.name == "index.md" and len(rel.parts) > 1:
+        if covers_children(SRC / rel.parent):
+            front.append("cssclasses: [readme-index]")
     if rel.name == "index.md":
         title = folder_title(rel.parent.name, title) if len(rel.parts) > 1 else "Quant Alex"
     if title:
