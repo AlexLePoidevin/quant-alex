@@ -74,6 +74,8 @@ predictions across initialisations, which is the variance a seed ensemble averag
 
 ## Links
 
+- [[wikipedia-neural-tangent-kernel]] — overview of the NTK literature: definition,
+  convergence, generalisation, and the feature-learning limitation
 - [[kernel-pca]] — kernel methods with a fixed feature map, the class a lazy network falls into
 - [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]]
   — the empirical smoothness bias this paper's dynamics explain
