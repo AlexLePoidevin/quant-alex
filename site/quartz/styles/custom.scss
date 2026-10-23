@@ -1,0 +1,8 @@
+@use "./variables.scss" as *;
+
+// put your custom CSS here!
+
+// The graph is the centre of this site: give each page's local graph more room.
+.graph > .graph-outer {
+  height: 380px;
+}
