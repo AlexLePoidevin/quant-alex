@@ -65,6 +65,8 @@ in the lazy regime and a cheaper kernel method would do.
 
 ## Links
 
+- [[bordelon-pehlevan-2023-dynamics-of-finite-width-kernel-and-prediction-fluctuations-in-mean-field-neural-networks]]
+  — finite-width fluctuations in the feature-learning (mean-field / μP) regime
 - [[nikolaou-et-al-2026-spectral-reach-neural-scaling-as-progress-into-the-spectral-tail]]
   — empirical NTK spectra during training; feature learning extends reach into the tail
 - [[zhang-et-al-2017-understanding-deep-learning-requires-rethinking-generalization]] — networks
