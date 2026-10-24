@@ -112,6 +112,7 @@ also runs in an ETF wrapper (`ORR`).
 | interview | *Hedge Fund Manager Who Has Crushed the S&P 500 — "Most Investors Don't Understand Real Investing"* | Monetary Matters — *Other People's Money* | https://www.youtube.com/watch?v=bifiTb2FIgc |
 | interview | *How Hedge Funds Are Entering the ETF Game* — OPM bonus episode | Monetary Matters | https://www.youtube.com/watch?v=yDrvvqDI1-s |
 | interview | *This Ex-Poker Pro Built a Hedge Fund by Betting Against Beta — David Orr on Asymmetric Bets* | Odds on Open, w/ Ethan Kho | https://www.youtube.com/watch?v=NpqZ2QVRhYw |
+| interview | *Hedge Fund Manager David Orr: Investing is 99% Talent* | Odds on Open | https://www.youtube.com/watch?v=RgiRLCsZKUw |
 | interview | *Navigating 300 Positions and the New Market Reality* | Senzal Capital | https://www.youtube.com/watch?v=oRqc9p_0l-w |
 | interview | *Learning the Language of Investing* | Senzal Capital | https://www.youtube.com/watch?v=xJGk3ZfM8Wc |
 | interview | *Inside the Mind of Wall Street's Newest Phenom!* | Crowded Market Report, w/ Jason Shapiro | https://www.youtube.com/watch?v=nBJggHuPUF4 |
