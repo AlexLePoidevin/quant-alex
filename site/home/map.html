@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quant Alex · Map</title>
+<meta name="description" content="An interactive map of reading notes on quantitative finance: every source, how it connects to the others, and where it sits in the learning path.">
+<link rel="icon" href="static/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<script>
+  // Same theme key as the rest of the site (Quartz darkmode plugin).
+  (function () {
+    let t = null
+    try { t = localStorage.getItem("theme") } catch (e) {}
+    if (!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
+    document.documentElement.setAttribute("saved-theme", t)
+  })()
+</script>
+<style>
+  :root {
+    --bg: #faf8f8; --panel: #ffffff; --ink: #2b2b2b; --ink2: #4e4e4e; --muted: #8a8a8a;
+    --line: #e5e5e5; --accent: #284b63; --edge: rgba(43, 43, 43, 0.16); --cite: rgba(43, 43, 43, 0.42);
+    --shadow: 0 8px 30px rgba(0, 0, 0, 0.10);
+  }
+  :root[saved-theme="dark"] {
+    --bg: #161618; --panel: #1f1f22; --ink: #ebebec; --ink2: #d4d4d4; --muted: #8b8b90;
+    --line: #393639; --accent: #7b97aa; --edge: rgba(235, 235, 236, 0.10); --cite: rgba(235, 235, 236, 0.38);
+    --shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink);
+    font-family: "Source Sans Pro", system-ui, sans-serif; overflow: hidden; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  #map { position: fixed; inset: 0; width: 100%; height: 100%; cursor: grab; touch-action: none; }
+  #map:active { cursor: grabbing; }
+
+  header { position: fixed; top: 0; left: 0; right: 0; padding: 18px 22px 0; pointer-events: none;
+    display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+  header > * { pointer-events: auto; }
+  .brand h1 { font-family: "Schibsted Grotesk", sans-serif; font-size: 26px; margin: 0; line-height: 1.1;
+    color: var(--accent); letter-spacing: -0.01em; }
+  .brand p { margin: 4px 0 0; color: var(--muted); font-size: 14px; }
+  .spacer { flex: 1; }
+  .tools { display: flex; gap: 8px; align-items: center; position: relative; }
+  .search { width: 300px; max-width: calc(100vw - 44px); position: relative; }
+  .search input { width: 100%; padding: 9px 12px 9px 34px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--panel); color: var(--ink); font: inherit; font-size: 15px; box-shadow: var(--shadow); outline: none; }
+  .search input:focus { border-color: var(--accent); }
+  .search svg { position: absolute; left: 11px; top: 11px; width: 15px; height: 15px; stroke: var(--muted); }
+  .results { position: absolute; top: 44px; left: 0; right: 0; background: var(--panel); border: 1px solid var(--line);
+    border-radius: 8px; box-shadow: var(--shadow); overflow: hidden; display: none; max-height: 60vh; overflow-y: auto; }
+  .results button { display: block; width: 100%; text-align: left; border: 0; background: none; color: var(--ink);
+    font: inherit; padding: 8px 12px; cursor: pointer; border-bottom: 1px solid var(--line); }
+  .results button:last-child { border-bottom: 0; }
+  .results button:hover, .results button.on { background: var(--line); }
+  .results small { display: block; color: var(--muted); font-size: 12px; }
+  .btn { border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 8px; height: 38px;
+    padding: 0 12px; font: inherit; font-size: 14px; cursor: pointer; box-shadow: var(--shadow); white-space: nowrap;
+    display: inline-flex; align-items: center; gap: 6px; }
+  .btn:hover { border-color: var(--accent); text-decoration: none; }
+
+  .legend { position: fixed; left: 22px; bottom: 20px; display: flex; flex-direction: column; gap: 4px;
+    background: color-mix(in srgb, var(--panel) 88%, transparent); border: 1px solid var(--line); border-radius: 10px;
+    padding: 10px 12px; box-shadow: var(--shadow); max-height: calc(100vh - 140px); overflow-y: auto; }
+  .legend h2 { font-family: "Schibsted Grotesk", sans-serif; font-size: 12px; text-transform: uppercase;
+    letter-spacing: 0.06em; color: var(--muted); margin: 0 0 4px; font-weight: 600; }
+  .legend button { display: flex; align-items: center; gap: 8px; border: 0; background: none; color: var(--ink2);
+    font: inherit; font-size: 13px; padding: 2px 4px; cursor: pointer; text-align: left; border-radius: 5px; }
+  .legend button:hover { background: var(--line); }
+  .legend button.off { opacity: 0.35; }
+  .legend i { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+  .legend .num { color: var(--muted); font-variant-numeric: tabular-nums; width: 18px; }
+  .legend .key.hide { display: none; }
+  .legend .how { color: var(--muted); font-size: 12px; margin-top: 6px; }
+  .legend .key { margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--line); color: var(--muted);
+    font-size: 12px; display: grid; gap: 4px; }
+  .legend .key span { display: flex; align-items: center; gap: 8px; }
+  .legend .key b { display: inline-block; width: 18px; height: 0; border-top: 1.5px solid var(--cite); }
+  .legend .key b.tree { border-top: 1.5px dashed var(--muted); opacity: 0.6; }
+
+  .panel { position: fixed; top: 76px; right: 22px; width: 380px; max-height: calc(100vh - 100px); overflow-y: auto;
+    background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow);
+    padding: 18px 20px; display: none; }
+  .panel.open { display: block; }
+  .panel .close { position: absolute; top: 10px; right: 12px; border: 0; background: none; color: var(--muted);
+    font-size: 22px; cursor: pointer; line-height: 1; }
+  .chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: var(--ink2); border-radius: 99px;
+    padding: 2px 9px 2px 7px; border: 1px solid var(--line); }
+  .chip i { width: 8px; height: 8px; border-radius: 50%; }
+  .panel h3 { font-family: "Schibsted Grotesk", sans-serif; font-size: 20px; line-height: 1.25; margin: 10px 0 4px; }
+  .panel .meta { color: var(--muted); font-size: 14px; margin-bottom: 10px; }
+  .panel p { line-height: 1.5; margin: 0 0 12px; color: var(--ink2); font-size: 15px; }
+  .panel .actions { display: flex; gap: 8px; margin: 4px 0 14px; flex-wrap: wrap; }
+  .panel .actions a { box-shadow: none; }
+  .panel .primary { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+  .panel h4 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted);
+    margin: 12px 0 6px; font-weight: 600; }
+  .panel ul { list-style: none; margin: 0; padding: 0; }
+  .panel li button { display: flex; gap: 8px; align-items: baseline; width: 100%; text-align: left; border: 0;
+    background: none; color: var(--ink); font: inherit; font-size: 14px; padding: 4px 6px; cursor: pointer; border-radius: 5px; line-height: 1.35; }
+  .panel li button:hover { background: var(--line); }
+  .panel li i { width: 7px; height: 7px; border-radius: 50%; flex: none; transform: translateY(-1px); }
+
+  .tip { position: fixed; pointer-events: none; background: var(--panel); color: var(--ink); border: 1px solid var(--line);
+    border-radius: 6px; padding: 5px 9px; font-size: 13px; box-shadow: var(--shadow); max-width: 320px; display: none; z-index: 5; }
+
+  svg text { font-family: "Source Sans Pro", sans-serif; paint-order: stroke; stroke: var(--bg); stroke-width: 3px;
+    stroke-linejoin: round; fill: var(--ink2); pointer-events: none; }
+  svg .section-label { font-family: "Schibsted Grotesk", sans-serif; font-weight: 700; fill: var(--ink); }
+  svg .topic-label { font-weight: 600; fill: var(--muted); opacity: 0; transition: opacity 0.15s; }
+  svg.zoomed .topic-label, svg .topic-label.hl { opacity: 1; }
+  svg .note-label { opacity: 0; transition: opacity 0.15s; }
+  svg.zoomed .note-label.cited, svg.zoomed2 .note-label { opacity: 1; }
+  svg .note-label.show { opacity: 1 !important; font-weight: 600; fill: var(--ink); }
+  svg text.sel { font-weight: 700; fill: var(--ink); opacity: 1 !important; }
+  .node.sel circle { stroke: var(--ink); stroke-width: 2.5px; }
+  svg.focus .node:not(.hl) { opacity: 0.12; }
+  svg.focus .link:not(.hl) { opacity: 0.04; }
+  svg.focus text:not(.hl) { opacity: 0 !important; }
+  svg.focus .section-label:not(.hl) { opacity: 0.25 !important; }
+  .link { transition: opacity 0.15s; }
+  .node { cursor: pointer; transition: opacity 0.15s; }
+  .loading { position: fixed; inset: 0; display: grid; place-items: center; color: var(--muted); }
+
+  @media (max-width: 760px) {
+    header { padding: 12px 14px 0; }
+    .brand h1 { font-size: 21px; }
+    .brand p { font-size: 12px; }
+    .search { width: 100%; }
+    .tools { width: 100%; flex-wrap: wrap; }
+    .legend { left: 14px; right: 14px; bottom: 14px; flex-direction: row; flex-wrap: wrap; max-height: 30vh; }
+    .legend h2, .legend .key { display: none; }
+    .legend .label { display: none; }
+    .panel { top: auto; bottom: 0; left: 0; right: 0; width: auto; max-height: 62vh; border-radius: 14px 14px 0 0; }
+  }
+</style>
+</head>
+<body>
+<div class="loading" id="loading">Loading the map…</div>
+<svg id="map" role="img" aria-label="Interactive map of the library"></svg>
+
+<header>
+  <div class="brand">
+    <h1>Quant Alex</h1>
+    <p id="stats">A map of the library</p>
+  </div>
+  <div class="spacer"></div>
+  <div class="tools">
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search sources, authors, ideas…" autocomplete="off" aria-label="Search">
+      <div class="results" id="results"></div>
+    </div>
+    <a class="btn" href="library">Outline</a>
+    <a class="btn" href="./">Board</a>
+    <button class="btn" id="reset" title="Fit the whole map">Fit</button>
+    <button class="btn" id="theme" title="Toggle dark mode" aria-label="Toggle dark mode">◐</button>
+  </div>
+</header>
+
+<nav class="legend" id="legend" aria-label="Subjects">
+  <h2>Learning path</h2>
+</nav>
+
+<aside class="panel" id="panel" aria-live="polite"></aside>
+<div class="tip" id="tip"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+const PALETTE = ["#4e79a7", "#e8a33d", "#e15759", "#59a14f", "#9c6ade", "#2fa9b8", "#f28e2b", "#3a9c86", "#b07aa1", "#e05aa8"]
+const svg = d3.select("#map")
+const g = svg.append("g")
+const tip = document.getElementById("tip")
+const panel = document.getElementById("panel")
+let sizeLabels = () => {}, nodes, links, byId, color, sim, zoom, sectionList, hidden = new Set(), selected = null
+
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]))
+const isDark = () => document.documentElement.getAttribute("saved-theme") === "dark"
+
+fetch("graph.json").then((r) => r.json()).then(init).catch((e) => {
+  document.getElementById("loading").textContent = "Couldn't load the map. Browse the library from Start here."
+  console.error(e)
+})
+
+function init(data) {
+  document.getElementById("loading").remove()
+  nodes = data.nodes
+  links = data.edges.map((e) => ({ ...e }))
+  byId = new Map(nodes.map((n) => [n.id, n]))
+  sectionList = nodes.filter((n) => n.kind === "section").sort((a, b) => (a.num || "99").localeCompare(b.num || "99"))
+  color = new Map(sectionList.map((s, i) => [s.id, PALETTE[i % PALETTE.length]]))
+
+  for (const n of nodes) { n.cites = []; n.citedBy = []; n.children = [] }
+  for (const l of links) {
+    const s = byId.get(l.source), t = byId.get(l.target)
+    if (l.kind === "cite") { s.cites.push(t); t.citedBy.push(s) } else s.children.push(t)
+  }
+  for (const n of nodes) n.deg = n.cites.length + n.citedBy.length
+
+  const notes = nodes.filter((n) => n.kind === "note"), media = nodes.filter((n) => n.kind === "media")
+  const cross = links.filter((l) => l.kind === "cite").length
+  document.getElementById("stats").textContent =
+    `${notes.length} notes · ${media.length} recordings · ${cross} cross-references` + (innerWidth < 760 ? "" : " — click anything to explore")
+
+  buildLegend()
+  draw()
+  window.addEventListener("resize", () => { placeAnchors(); sim.alpha(0.3).restart() })
+}
+
+function anchors() {
+  const left = innerWidth > 1100 ? 300 : 0, w = innerWidth - left, h = innerHeight, k = sectionList.length
+  const small = innerWidth < 760
+  const rx = small ? w * 0.42 : Math.max(w * 0.34, 260), ry = small ? h * 0.3 : Math.max(h * 0.33, 230)
+  const pos = new Map()
+  sectionList.forEach((s, i) => {
+    const a = -Math.PI / 2 + (2 * Math.PI * i) / k
+    pos.set(s.id, [left + w / 2 + rx * Math.cos(a), h / 2 + 30 + ry * Math.sin(a)])
+  })
+  return pos
+}
+let anchorPos
+function placeAnchors() { anchorPos = anchors() }
+
+function radius(n) {
+  if (n.kind === "section") return 15
+  if (n.kind === "topic") return 7
+  if (n.kind === "media") return 4.2 + 1.7 * Math.sqrt(n.deg)
+  return 3.6 + 1.7 * Math.sqrt(n.deg)
+}
+
+function draw() {
+  placeAnchors()
+  for (const n of nodes) {
+    const [ax, ay] = anchorPos.get(n.section)
+    n.x = ax + (Math.random() - 0.5) * 80
+    n.y = ay + (Math.random() - 0.5) * 80
+  }
+
+  const link = g.append("g").selectAll("line").data(links).join("line")
+    .attr("class", (d) => `link ${d.kind}`)
+    .attr("stroke", (d) => (d.kind === "cite" ? "var(--cite)" : "var(--edge)"))
+    .attr("stroke-width", (d) => (d.kind === "cite" ? 1.1 : 1))
+    .attr("stroke-dasharray", (d) => (d.kind === "tree" ? "3 3" : null))
+
+  const node = g.append("g").selectAll("g").data(nodes).join("g")
+    .attr("class", (d) => `node ${d.kind}`)
+    .on("mouseenter", (e, d) => hover(d, e))
+    .on("mousemove", (e) => moveTip(e))
+    .on("mouseleave", () => hover(null))
+    .on("click", (e, d) => { e.stopPropagation(); select(d) })
+    .on("dblclick", (e, d) => { e.stopPropagation(); d.kind === "media" ? open(d.url, "_blank", "noopener") : (location.href = d.url) })
+    .call(d3.drag()
+      .on("start", (e, d) => { if (!e.active) sim.alphaTarget(0.2).restart(); d.fx = d.x; d.fy = d.y })
+      .on("drag", (e, d) => { d.fx = e.x; d.fy = e.y })
+      .on("end", (e, d) => { if (!e.active) sim.alphaTarget(0); d.fx = null; d.fy = null }))
+
+  node.filter((d) => d.kind === "media").append("path")
+    .attr("d", (d) => d3.symbol(d3.symbolTriangle, Math.PI * radius(d) ** 2 * 0.95)())
+    .attr("transform", "rotate(90)")
+    .attr("fill", (d) => color.get(d.section)).attr("stroke", "var(--bg)").attr("stroke-width", 1)
+  node.filter((d) => d.kind !== "media").append("circle")
+    .attr("r", radius)
+    .attr("fill", (d) => (d.kind === "note" ? color.get(d.section) : d.kind === "section" ? color.get(d.section) : "var(--bg)"))
+    .attr("stroke", (d) => (d.kind === "note" ? "var(--bg)" : color.get(d.section)))
+    .attr("stroke-width", (d) => (d.kind === "note" ? 1 : d.kind === "topic" ? 2.2 : 3))
+    .attr("fill-opacity", (d) => (d.kind === "section" ? 0.22 : 1))
+
+  const label = g.append("g").selectAll("text").data(nodes).join("text")
+    .attr("class", (d) => `${d.kind === "media" ? "note" : d.kind}-label${d.kind !== "topic" && d.kind !== "section" && d.deg >= 5 ? " cited" : ""}`)
+    .attr("text-anchor", "middle")
+    .attr("dy", (d) => -radius(d) - 5)
+    .text((d) => (d.kind === "section" ? `${d.num ? d.num + " · " : ""}${d.title}` : short(d.title, d.kind === "topic" ? 40 : 46)))
+
+  sim = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id((d) => d.id)
+      .distance((l) => (l.kind === "cite" ? 110 : l.source.kind === "section" ? 50 : 24))
+      .strength((l) => (l.kind === "cite" ? 0.015 : 0.8)))
+    .force("charge", d3.forceManyBody().strength((d) => (d.kind === "section" ? -420 : d.kind === "topic" ? -90 : -30)).distanceMax(320))
+    .force("x", d3.forceX((d) => anchorPos.get(d.section)[0]).strength((d) => (d.kind === "section" ? 0.6 : 0.16)))
+    .force("y", d3.forceY((d) => anchorPos.get(d.section)[1]).strength((d) => (d.kind === "section" ? 0.6 : 0.16)))
+    .force("collide", d3.forceCollide((d) => radius(d) + (d.kind === "note" ? 6 : 12)))
+    .on("tick", () => {
+      link.attr("x1", (d) => d.source.x).attr("y1", (d) => d.source.y).attr("x2", (d) => d.target.x).attr("y2", (d) => d.target.y)
+      node.attr("transform", (d) => `translate(${d.x},${d.y})`)
+      label.attr("x", (d) => d.x).attr("y", (d) => d.y)
+    })
+
+  // Labels keep the same size on screen at any zoom.
+  const base = (d) => (d.kind === "section" ? 15 : d.kind === "topic" ? 12 : d === selected ? 14 : 11.5)
+  sizeLabels = (k) => label.style("font-size", (d) => base(d) / k + "px").style("stroke-width", 3 / k + "px")
+    .attr("dy", (d) => -radius(d) - 5 / k)
+  sizeLabels(1)
+  zoom = d3.zoom().scaleExtent([0.25, 6]).on("zoom", (e) => {
+    g.attr("transform", e.transform)
+    sizeLabels(e.transform.k)
+    svg.classed("zoomed", e.transform.k >= 1.35).classed("zoomed2", e.transform.k >= 2.3)
+  })
+  svg.call(zoom).on("dblclick.zoom", null).on("click", () => select(null))
+  sim.on("end.fit", () => { if (!selected) fit(false) })
+  setTimeout(() => { if (!selected) fit(true) }, 1400)
+
+  document.getElementById("reset").onclick = () => { select(null); fit(true) }
+  document.getElementById("theme").onclick = () => {
+    const t = isDark() ? "light" : "dark"
+    document.documentElement.setAttribute("saved-theme", t)
+    try { localStorage.setItem("theme", t) } catch (e) {}
+  }
+  setupSearch()
+  window.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") { select(null); document.getElementById("results").style.display = "none" }
+    if (e.key === "/" && document.activeElement !== document.getElementById("q")) { e.preventDefault(); document.getElementById("q").focus() }
+  })
+  const hash = decodeURIComponent(location.hash.slice(1))
+  if (hash && byId.has(hash)) setTimeout(() => select(byId.get(hash), true), 900)
+}
+
+function short(s, n) { return s.length > n ? s.slice(0, n - 1).trimEnd() + "…" : s }
+
+function fit(animate) {
+  const vis = nodes.filter((n) => !hidden.has(n.section))
+  if (!vis.length) return
+  const [x0, x1] = d3.extent(vis, (d) => d.x), [y0, y1] = d3.extent(vis, (d) => d.y)
+  const wide = innerWidth > 1100, left = wide ? 300 : 0, w = innerWidth - left, h = innerHeight - (innerWidth < 760 ? 90 : 0), pad = innerWidth < 760 ? 16 : 60, top = innerWidth < 760 ? 150 : 90
+  const labelRoom = wide ? 220 : 40
+  const k = Math.min(2.2, 0.95 * Math.min((w - 2 * pad - labelRoom) / (x1 - x0 || 1), (h - top - pad) / (y1 - y0 || 1)))
+  const t = d3.zoomIdentity.translate(left + w / 2 - (k * (x0 + x1)) / 2, top + (h - top) / 2 - (k * (y0 + y1)) / 2).scale(k)
+  ;(animate ? svg.transition().duration(700) : svg).call(zoom.transform, t)
+}
+
+function focusOn(n, kMax = 2.4) {
+  // Frame the node together with everything it connects to, beside the panel.
+  const set = [...neighbourhood(n)]
+  const [x0, x1] = d3.extent(set, (d) => d.x), [y0, y1] = d3.extent(set, (d) => d.y)
+  const wide = innerWidth > 760, panelW = wide && panel.classList.contains("open") ? 420 : 0
+  const legendW = innerWidth > 1100 ? 300 : 0
+  const w = innerWidth - panelW - legendW, top = wide ? 90 : 120
+  const h = (wide ? innerHeight : innerHeight * 0.38) - top
+  const k = Math.max(0.6, Math.min(kMax, 0.8 * Math.min((w - 160) / (x1 - x0 || 1), (h - 60) / (y1 - y0 || 1))))
+  const t = d3.zoomIdentity.translate(legendW + w / 2 - (k * (x0 + x1)) / 2, top + h / 2 - (k * (y0 + y1)) / 2).scale(k)
+  svg.transition().duration(650).call(zoom.transform, t)
+  if (sim.alpha() > 0.08) sim.on("end.focus", () => { sim.on("end.focus", null); if (selected === n) focusOn(n, kMax) })
+}
+
+function neighbourhood(n) {
+  const set = new Set([n])
+  if (leaf(n)) {
+    n.cites.forEach((m) => set.add(m)); n.citedBy.forEach((m) => set.add(m))
+  } else {
+    const walk = (m) => { set.add(m); m.children.forEach(walk) }
+    walk(n)
+    n.cites.forEach((m) => set.add(m)); n.citedBy.forEach((m) => set.add(m))
+  }
+  return set
+}
+
+function highlight(n) {
+  const set = n ? neighbourhood(n) : null
+  svg.classed("focus", !!n)
+  g.selectAll(".node").classed("hl", (d) => !!set && set.has(d))
+  g.selectAll(".link").classed("hl", (d) => !!set && set.has(d.source) && set.has(d.target) &&
+    (!leaf(n) || d.kind === "cite" || d.target === n))
+  g.selectAll("text").classed("hl", (d) => !!set && set.has(d)).classed("show", (d) => !!set && set.has(d) && leaf(d) && (leaf(n) || d.deg >= 4 || n.kind === "topic"))
+  g.selectAll("text").classed("sel", (d) => d === selected)
+  g.selectAll(".node").classed("sel", (d) => d === selected)
+  sizeLabels(d3.zoomTransform(svg.node()).k)
+}
+
+function hover(n, e) {
+  if (!n) { tip.style.display = "none"; highlight(selected); return }
+  tip.innerHTML = leaf(n)
+    ? `<b>${esc(n.title)}</b>${n.type ? ` <span style="color:var(--muted)">· ${esc(n.type)}</span>` : ""}${n.year ? ` <span style="color:var(--muted)">· ${esc(n.year)}</span>` : ""}`
+    : `<b>${esc((n.num ? n.num + " · " : "") + n.title)}</b> <span style="color:var(--muted)">· ${countNotes(n)} sources</span>`
+  tip.style.display = "block"
+  moveTip(e)
+  highlight(n)
+}
+function moveTip(e) {
+  tip.style.left = Math.min(e.clientX + 14, innerWidth - tip.offsetWidth - 10) + "px"
+  tip.style.top = e.clientY + 14 + "px"
+}
+const leaf = (n) => n.kind === "note" || n.kind === "media"
+function countNotes(n) { let c = 0; const walk = (m) => { if (leaf(m)) c++; m.children.forEach(walk) }; walk(n); return c }
+
+function chip(n) {
+  const s = byId.get(n.section)
+  return `<span class="chip"><i style="background:${color.get(n.section)}"></i>${esc((s.num ? s.num + " · " : "") + s.title)}</span>`
+}
+function hubItem(m) {
+  return `<li><button data-id="${esc(m.id)}"><i style="background:${color.get(m.section)}"></i><span>${esc(m.title)}</span></button></li>`
+}
+function item(m) {
+  return `<li><button data-id="${esc(m.id)}"><i style="background:${color.get(m.section)}"></i><span>${m.kind === "media" ? "▸ " : ""}${esc(m.title)}${m.type ? ` <span style="color:var(--muted)">${esc(m.type)}</span>` : ""}${m.year ? ` <span style="color:var(--muted)">${esc(m.year)}</span>` : ""}</span></button></li>`
+}
+
+function select(n, zoomTo = false) {
+  selected = n
+  highlight(n)
+  if (!n) { panel.classList.remove("open"); history.replaceState(null, "", location.pathname); return }
+  history.replaceState(null, "", "#" + encodeURIComponent(n.id))
+  let html = `<button class="close" aria-label="Close">×</button>${chip(n)}`
+  if (n.kind === "media") {
+    html += `<h3>${esc(n.title)}</h3>`
+    const meta = [n.type && n.type[0].toUpperCase() + n.type.slice(1), n.authors, n.year].filter(Boolean).map(esc).join(" · ")
+    if (meta) html += `<div class="meta">${meta}</div>`
+    html += `<div class="actions"><a class="btn primary" href="${esc(n.url)}" target="_blank" rel="noopener">Watch / open ↗</a></div>`
+    const topic = byId.get(n.id.split("/")[0])
+    if (topic) html += `<h4>${n.summary.includes("·") ? esc(n.summary.split("·").slice(1).join("·").trim()) + " — " : ""}from</h4><ul>${`<li><button data-id="${esc(topic.id)}"><i style="background:${color.get(topic.section)}"></i><span>${esc(topic.title)}</span></button></li>`}</ul>`
+    if (n.cites.length) html += `<h4>With</h4><ul>${n.cites.map(hubItem).join("")}</ul>`
+  } else if (n.kind === "note") {
+    html += `<h3>${esc(n.title)}</h3>`
+    const meta = [n.authors, n.year].filter(Boolean).map(esc).join(" · ")
+    if (meta) html += `<div class="meta">${meta}</div>`
+    if (n.summary) html += `<p>${esc(n.summary)}</p>`
+    html += `<div class="actions"><a class="btn primary" href="${esc(n.url)}">Read the note →</a>`
+    if (n.pdf) html += `<a class="btn" href="${esc(n.pdf)}">PDF</a>`
+    html += `</div>`
+    const topic = byId.get(n.id.split("/").slice(0, -1).join("/"))
+    if (topic && topic.kind === "topic") html += `<h4>Topic</h4><ul>${`<li><button data-id="${esc(topic.id)}"><i style="background:${color.get(topic.section)}"></i><span>${esc(topic.title)}</span></button></li>`}</ul>`
+    if (n.cites.length) html += `<h4>Builds on (${n.cites.length})</h4><ul>${n.cites.map(item).join("")}</ul>`
+    if (n.citedBy.length) html += `<h4>Referenced by (${n.citedBy.length})</h4><ul>${n.citedBy.map(item).join("")}</ul>`
+    if (!n.deg) html += `<p style="color:var(--muted);font-size:13px">Not linked to other notes yet.</p>`
+  } else {
+    html += `<h3>${esc((n.num ? n.num + " · " : "") + n.title)}</h3><div class="meta">${countNotes(n)} sources</div>`
+    html += `<div class="actions"><a class="btn primary" href="${esc(n.url)}">Open this ${n.kind} →</a></div>`
+    const topics = n.children.filter((m) => m.kind === "topic")
+    const direct = n.children.filter((m) => m.kind === "note")
+    if (topics.length) html += `<h4>Topics</h4><ul>${topics.map((m) => `<li><button data-id="${esc(m.id)}"><i style="background:${color.get(m.section)}"></i><span>${esc((m.num ? m.num + " · " : "") + m.title)} <span style="color:var(--muted)">${countNotes(m)}</span></span></button></li>`).join("")}</ul>`
+    const recs = n.children.filter((m) => m.kind === "media")
+    if (direct.length) html += `<h4>Sources</h4><ul>${direct.map(item).join("")}</ul>`
+    if (recs.length) html += `<h4>Recordings (${recs.length})</h4><ul>${recs.map(item).join("")}</ul>`
+    if (n.cites.length) html += `<h4>Related notes</h4><ul>${n.cites.map(item).join("")}</ul>`
+    const convs = n.citedBy.filter((m) => m.kind === "media")
+    if (convs.length) html += `<h4>In conversation</h4><ul>${convs.map(item).join("")}</ul>`
+  }
+  panel.innerHTML = html
+  panel.classList.add("open")
+  panel.scrollTop = 0
+  panel.querySelector(".close").onclick = () => select(null)
+  panel.querySelectorAll("li button").forEach((b) => (b.onclick = () => select(byId.get(b.dataset.id), true)))
+  if (zoomTo) focusOn(n)
+}
+
+function buildLegend() {
+  const legend = document.getElementById("legend")
+  for (const s of sectionList) {
+    const b = document.createElement("button")
+    b.innerHTML = `<i style="background:${color.get(s.id)}"></i><span class="num">${esc(s.num)}</span><span class="label">${esc(s.title)}</span>`
+    b.title = "Click to explore · Shift-click to hide"
+    b.onclick = (e) => {
+      if (e.shiftKey) {
+        hidden.has(s.id) ? hidden.delete(s.id) : hidden.add(s.id)
+        b.classList.toggle("off", hidden.has(s.id))
+        g.selectAll(".node, text").style("display", (d) => (hidden.has(d.section) ? "none" : null))
+        g.selectAll(".link").style("display", (d) => (hidden.has(d.source.section) || hidden.has(d.target.section) ? "none" : null))
+      } else select(s, true)
+    }
+    legend.appendChild(b)
+  }
+  const key = document.createElement("div")
+  key.className = "key hide"
+  key.innerHTML = `<span><b></b>one note builds on another</span><span><b class="tree"></b>belongs to topic / subject</span><span>● note &nbsp; ▶ recording (video, talk, letter)</span>
+    <span>Bigger dot = more connected · Shift-click a subject to hide it</span>`
+  const how = document.createElement("button")
+  how.className = "how"
+  how.textContent = "How to read the map"
+  how.onclick = () => { key.classList.toggle("hide"); how.textContent = key.classList.contains("hide") ? "How to read the map" : "Hide" }
+  legend.appendChild(how)
+  legend.appendChild(key)
+}
+
+function setupSearch() {
+  const q = document.getElementById("q"), box = document.getElementById("results")
+  let hits = [], cur = 0
+  const render = () => {
+    box.innerHTML = hits.map((n, i) => `<button class="${i === cur ? "on" : ""}" data-id="${esc(n.id)}">${n.kind === "media" ? "▸ " : ""}${esc(n.title)}<small>${esc([n.kind === "media" ? n.summary.split(" · ")[0] + " · " + n.type : leaf(n) ? byId.get(n.section).title : n.kind, n.year].filter(Boolean).join(" · "))}</small></button>`).join("")
+    box.style.display = hits.length ? "block" : "none"
+    box.querySelectorAll("button").forEach((b) => (b.onmousedown = (e) => { e.preventDefault(); pick(byId.get(b.dataset.id)) }))
+  }
+  const pick = (n) => { box.style.display = "none"; q.blur(); select(n, true) }
+  q.addEventListener("input", () => {
+    const terms = q.value.toLowerCase().split(/\s+/).filter(Boolean)
+    if (!terms.length) { hits = []; render(); highlight(selected); return }
+    const score = (n) => {
+      const t = n.title.toLowerCase(), rest = `${n.authors || ""} ${n.summary || ""} ${n.year || ""} ${n.type || ""}`.toLowerCase()
+      let s = 0
+      for (const w of terms) { if (t.includes(w)) s += 3; else if (rest.includes(w)) s += 1; else return 0 }
+      return s + (n.kind !== "note" ? 0.5 : 0) + n.deg * 0.01
+    }
+    hits = nodes.map((n) => [score(n), n]).filter(([s]) => s > 0).sort((a, b) => b[0] - a[0]).slice(0, 9).map(([, n]) => n)
+    cur = 0
+    render()
+    const set = new Set(hits)
+    svg.classed("focus", hits.length > 0)
+    g.selectAll(".node").classed("hl", (d) => set.has(d))
+    g.selectAll(".link").classed("hl", false)
+    g.selectAll("text").classed("hl", (d) => set.has(d)).classed("show", (d) => set.has(d) && d.kind === "note")
+  })
+  q.addEventListener("keydown", (e) => {
+    if (!hits.length) return
+    if (e.key === "ArrowDown") { cur = (cur + 1) % hits.length; render(); e.preventDefault() }
+    if (e.key === "ArrowUp") { cur = (cur - 1 + hits.length) % hits.length; render(); e.preventDefault() }
+    if (e.key === "Enter") pick(hits[cur])
+  })
+  q.addEventListener("blur", () => setTimeout(() => (box.style.display = "none"), 150))
+  q.addEventListener("focus", () => { if (hits.length) box.style.display = "block" })
+}
+</script>
+</body>
+</html>
