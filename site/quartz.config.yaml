@@ -207,7 +207,9 @@ plugins:
     enabled: true
     options:
       links:
-        Library map: https://alexlepoidevin.github.io/quant-alex/
+        Board: https://alexlepoidevin.github.io/quant-alex/
+        Outline: https://alexlepoidevin.github.io/quant-alex/library
+        Map: https://alexlepoidevin.github.io/quant-alex/map
         Start here: https://alexlepoidevin.github.io/quant-alex/start-here
         GitHub: https://github.com/AlexLePoidevin/quant-alex
     layout:

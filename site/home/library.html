@@ -1,0 +1,399 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quant Alex · Outline</title>
+<meta name="description" content="Reading notes on quantitative finance: every source in the library, grouped by subject and topic, with how each one connects to the others.">
+<link rel="icon" href="static/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;600;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<script>
+  // Same theme key as the rest of the site (Quartz darkmode plugin).
+  (function () {
+    let t = null
+    try { t = localStorage.getItem("theme") } catch (e) {}
+    if (!t) t = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light"
+    document.documentElement.setAttribute("saved-theme", t)
+  })()
+</script>
+<style>
+  :root {
+    --bg: #faf8f8; --panel: #ffffff; --ink: #2b2b2b; --ink2: #4e4e4e; --muted: #7d7d7d;
+    --line: #e5e5e5; --soft: #f1eeee; --accent: #284b63; --mark: #fff23688;
+  }
+  :root[saved-theme="dark"] {
+    --bg: #161618; --panel: #1d1d20; --ink: #ebebec; --ink2: #d4d4d4; --muted: #8b8b90;
+    --line: #333135; --soft: #232326; --accent: #7b97aa; --mark: #b3aa0266;
+  }
+  * { box-sizing: border-box; }
+  html { scroll-padding-top: 130px; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: "Source Sans Pro", system-ui, sans-serif;
+    font-size: 16px; line-height: 1.45; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  button { font: inherit; color: inherit; }
+
+  /* ── header ── */
+  header { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg) 94%, transparent);
+    backdrop-filter: blur(6px); border-bottom: 1px solid var(--line); }
+  .bar { max-width: 1240px; margin: 0 auto; padding: 14px 24px 10px; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; }
+  .brand { margin-right: auto; }
+  .brand h1 { font-family: "Schibsted Grotesk", sans-serif; font-size: 26px; margin: 0; line-height: 1.1; color: var(--accent); }
+  .brand p { margin: 2px 0 0; color: var(--muted); font-size: 14px; }
+  .search { position: relative; width: 320px; max-width: 100%; }
+  .search input { width: 100%; padding: 8px 12px 8px 34px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--panel); color: var(--ink); font: inherit; font-size: 15px; outline: none; }
+  .search input:focus { border-color: var(--accent); }
+  .search svg { position: absolute; left: 11px; top: 10px; width: 15px; height: 15px; stroke: var(--muted); }
+  .btn { border: 1px solid var(--line); background: var(--panel); border-radius: 8px; height: 36px; padding: 0 12px;
+    font-size: 14px; cursor: pointer; white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; color: var(--ink); }
+  .btn:hover { border-color: var(--accent); text-decoration: none; }
+  .btn.on { border-color: var(--accent); color: var(--accent); }
+  .filters { max-width: 1240px; margin: 0 auto; padding: 0 24px 12px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .filters .lbl { color: var(--muted); font-size: 13px; margin-right: 4px; }
+  .chip { border: 1px solid var(--line); background: var(--panel); border-radius: 99px; padding: 2px 10px; font-size: 13px;
+    cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
+  .chip b { font-weight: 600; color: var(--muted); }
+  .chip.off { opacity: 0.4; }
+  .chip i { width: 8px; height: 8px; border-radius: 2px; }
+  .result { color: var(--muted); font-size: 13px; margin-left: auto; }
+
+  /* ── layout ── */
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 18px 24px 80px; display: grid; grid-template-columns: 250px 1fr; gap: 36px; }
+  nav.toc { position: sticky; top: 140px; align-self: start; max-height: calc(100vh - 160px); overflow-y: auto; font-size: 14px; }
+  nav.toc h2 { font-family: "Schibsted Grotesk", sans-serif; font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em;
+    color: var(--muted); margin: 0 0 8px; }
+  nav.toc a { display: grid; grid-template-columns: 22px 1fr auto; gap: 6px; padding: 4px 8px; border-radius: 6px;
+    color: var(--ink2); border-left: 3px solid transparent; }
+  nav.toc a:hover { background: var(--soft); text-decoration: none; }
+  nav.toc a.cur { background: var(--soft); color: var(--ink); border-left-color: var(--c); }
+  nav.toc .n { color: var(--muted); font-variant-numeric: tabular-nums; }
+  nav.toc .k { color: var(--muted); font-variant-numeric: tabular-nums; }
+  nav.toc .foot { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--line); display: grid; gap: 6px; }
+  nav.toc .foot a { display: block; padding: 2px 8px; border: 0; }
+
+  /* ── sections ── */
+  .intro { color: var(--ink2); margin: 0 0 22px; max-width: 780px; }
+  .sec { margin: 0 0 34px; }
+  .sec > header.sh { position: static; backdrop-filter: none; background: none; border: 0; display: grid;
+    grid-template-columns: auto 1fr auto; gap: 4px 14px; align-items: baseline; padding: 0 0 10px;
+    border-bottom: 2px solid var(--c); margin-bottom: 6px; }
+  .sh .num { font-family: "Schibsted Grotesk", sans-serif; font-weight: 700; font-size: 22px; color: var(--c); }
+  .sh h2 { font-family: "Schibsted Grotesk", sans-serif; font-size: 22px; margin: 0; line-height: 1.2; }
+  .sh h2 a { color: var(--ink); }
+  .sh .cnt { color: var(--muted); font-size: 14px; white-space: nowrap; }
+  .sh .about { grid-column: 2 / 4; color: var(--ink2); font-size: 15px; }
+  .topic { border-bottom: 1px solid var(--line); }
+  .topic > summary { list-style: none; cursor: pointer; padding: 10px 4px 8px; display: grid; grid-template-columns: 18px 1fr auto;
+    gap: 2px 8px; align-items: baseline; }
+  .topic > summary::-webkit-details-marker { display: none; }
+  .topic > summary .car { color: var(--muted); transition: transform 0.15s; display: inline-block; }
+  .topic[open] > summary .car { transform: rotate(90deg); }
+  .topic > summary h3 { margin: 0; font-size: 17px; font-weight: 600; }
+  .topic > summary .cnt { color: var(--muted); font-size: 13px; white-space: nowrap; }
+  .topic > summary .about { grid-column: 2 / 4; color: var(--muted); font-size: 14px; }
+  .topic > summary:hover h3 { color: var(--accent); }
+  .group { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; margin: 10px 0 2px 26px; }
+  ul.items { list-style: none; margin: 0 0 10px; padding: 0 0 0 22px; }
+  .item { padding: 6px 8px; border-radius: 8px; display: grid; grid-template-columns: 74px 1fr auto; gap: 2px 10px; align-items: baseline; }
+  .item:hover { background: var(--soft); }
+  .item.flash { animation: flash 1.8s ease-out; }
+  @keyframes flash { 0%, 40% { background: var(--mark); } 100% { background: transparent; } }
+  .badge { font-size: 11px; font-weight: 600; letter-spacing: 0.03em; text-transform: uppercase; border-radius: 4px;
+    padding: 1px 6px; text-align: center; color: var(--tc); background: color-mix(in srgb, var(--tc) 13%, transparent); white-space: nowrap; }
+  .item .t { font-weight: 600; }
+  .item .t a { color: var(--ink); }
+  .item .t a:hover { color: var(--accent); }
+  .item .m { color: var(--muted); font-size: 14px; font-weight: 400; }
+  .item .acts { display: flex; gap: 6px; align-items: center; }
+  .item .acts a, .item .acts button { font-size: 12px; border: 1px solid var(--line); border-radius: 6px; padding: 1px 7px;
+    background: var(--panel); cursor: pointer; color: var(--ink2); white-space: nowrap; }
+  .item .acts a:hover, .item .acts button:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+  .item .acts button.open { border-color: var(--accent); color: var(--accent); }
+  .item .sum { grid-column: 2 / 4; color: var(--ink2); font-size: 14px; display: none; }
+  body.sums .item .sum { display: block; }
+  .rel { grid-column: 2 / 4; margin: 6px 0 4px; padding: 8px 12px; border-left: 3px solid var(--line); background: var(--soft);
+    border-radius: 0 8px 8px 0; font-size: 14px; display: none; }
+  .rel.open { display: block; }
+  .rel h4 { margin: 4px 0 2px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); font-weight: 600; }
+  .rel ul { list-style: none; margin: 0 0 4px; padding: 0; }
+  .rel li { padding: 1px 0; }
+  .rel li a { color: var(--ink); }
+  .rel li a:hover { color: var(--accent); }
+  .rel .where { color: var(--muted); font-size: 12px; }
+  .rel .dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%; margin-right: 6px; transform: translateY(-1px); }
+  .hide { display: none !important; }
+  mark { background: var(--mark); color: inherit; border-radius: 2px; }
+  .empty { color: var(--muted); padding: 40px 0; text-align: center; display: none; }
+
+  @media (max-width: 960px) {
+    .wrap { grid-template-columns: 1fr; }
+    nav.toc { display: none; }
+  }
+  @media (max-width: 640px) {
+    .bar { padding: 12px 14px 8px; }
+    .filters { padding: 0 14px 10px; }
+    .wrap { padding: 14px 14px 60px; }
+    .search { width: 100%; order: 3; }
+    .item { grid-template-columns: 1fr; padding: 8px 4px; }
+    .item .sum, .rel { grid-column: 1; }
+    .badge { justify-self: start; }
+    ul.items { padding-left: 4px; }
+    .sh .about { grid-column: 1 / 4; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="brand">
+      <h1>Quant Alex</h1>
+      <p id="stats">Reading notes on quantitative finance</p>
+    </div>
+    <div class="search">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Filter by title, author, idea…  ( / )" autocomplete="off" aria-label="Filter the library">
+    </div>
+    <button class="btn" id="sums" title="Show a one-line summary under every source">Summaries</button>
+    <button class="btn" id="fold">Expand all</button>
+    <a class="btn" href="./">Board view</a>
+    <a class="btn" href="map">Map view</a>
+    <button class="btn" id="theme" aria-label="Toggle dark mode">◐</button>
+  </div>
+  <div class="filters" id="filters"><span class="lbl">Show:</span><span class="result" id="result"></span></div>
+</header>
+
+<div class="wrap">
+  <nav class="toc" id="toc" aria-label="Sections"><h2>Learning path</h2></nav>
+  <main id="main">
+    <p class="intro">Every source in the library, grouped by subject and topic in learning-path order. Click a topic to see
+      its sources, or <b>Expand all</b>. Click a title to read the note; <b>links</b> shows what a source builds on and
+      what refers to it.</p>
+    <div class="empty" id="empty">Nothing matches that filter.</div>
+  </main>
+</div>
+
+<script>
+const PALETTE = ["#4e79a7", "#e8a33d", "#e15759", "#59a14f", "#9c6ade", "#2fa9b8", "#f28e2b", "#3a9c86", "#b07aa1", "#e05aa8"]
+const TYPES = { Paper: "#4e79a7", Book: "#9c6ade", Lecture: "#2fa9b8", Article: "#e8a33d", Strategy: "#59a14f", Video: "#e05aa8" }
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]))
+const $ = (id) => document.getElementById(id)
+let byId, items = [], hiddenTypes = new Set(), wasFiltering = false
+
+fetch("graph.json").then((r) => r.json()).then(build).catch((e) => {
+  $("main").insertAdjacentHTML("beforeend", `<p>Couldn't load the library. <a href="start-here">Browse it here instead.</a></p>`)
+  console.error(e)
+})
+
+function build(data) {
+  const nodes = data.nodes
+  byId = new Map(nodes.map((n) => [n.id, n]))
+  for (const n of nodes) { n.cites = []; n.citedBy = []; n.children = [] }
+  for (const e of data.edges) {
+    const s = byId.get(e.source), t = byId.get(e.target)
+    if (e.kind === "cite") { s.cites.push(t); t.citedBy.push(s) } else s.children.push(t)
+  }
+  const sections = nodes.filter((n) => n.kind === "section").sort((a, b) => (a.num || "99").localeCompare(b.num || "99"))
+  sections.forEach((s, i) => (s.color = PALETTE[i % PALETTE.length]))
+  for (const n of nodes) {
+    n.color = byId.get(n.section).color
+    if (n.kind === "media") { n.mtype = n.type; n.type = "Video" }
+  }
+  const leaves = nodes.filter((n) => n.kind === "note" || n.kind === "media")
+  const notes = leaves.filter((n) => n.kind === "note").length
+  $("stats").textContent = `${notes} notes · ${leaves.length - notes} recordings · ${sections.length} subjects`
+
+  // type filter chips
+  const counts = {}
+  leaves.forEach((n) => (counts[n.type] = (counts[n.type] || 0) + 1))
+  const filters = $("filters"), result = $("result")
+  for (const [t, c] of Object.entries(TYPES)) {
+    if (!counts[t]) continue
+    const b = document.createElement("button")
+    b.className = "chip"
+    b.innerHTML = `<i style="background:${c}"></i>${t === "Video" ? "Videos & talks" : t + (t === "Strategy" ? "" : "s")} <b>${counts[t]}</b>`
+    b.onclick = () => { hiddenTypes.has(t) ? hiddenTypes.delete(t) : hiddenTypes.add(t); b.classList.toggle("off"); apply() }
+    filters.insertBefore(b, result)
+  }
+
+  const main = $("main"), toc = $("toc")
+  for (const s of sections) {
+    const total = countLeaves(s)
+    const sec = document.createElement("section")
+    sec.className = "sec"
+    sec.id = "s-" + s.id
+    sec.style.setProperty("--c", s.color)
+    sec.innerHTML = `<header class="sh"><span class="num">${esc(s.num || "▸")}</span>
+      <h2><a href="${esc(s.url)}">${esc(s.title)}</a></h2><span class="cnt">${breakdown(s)}</span>
+      ${s.about ? `<div class="about">${esc(s.about)}</div>` : ""}</header>`
+    const direct = s.children.filter(isLeaf)
+    if (direct.length) sec.appendChild(topicBlock(null, direct, s))
+    for (const t of s.children.filter((m) => m.kind === "topic")) sec.appendChild(topicBlock(t, t.children.filter(isLeaf), s))
+    main.insertBefore(sec, $("empty"))
+    s.el = sec
+    toc.insertAdjacentHTML("beforeend",
+      `<a href="#s-${esc(s.id)}" data-sec="${esc(s.id)}" style="--c:${s.color}"><span class="n">${esc(s.num || "▸")}</span><span>${esc(s.title)}</span><span class="k" data-k="${esc(s.id)}">${total}</span></a>`)
+  }
+  toc.insertAdjacentHTML("beforeend", `<div class="foot"><a href="./">Board view →</a><a href="map">Map view →</a><a href="start-here">Start here</a>
+    <a href="https://github.com/AlexLePoidevin/quant-alex">GitHub</a></div>`)
+
+  wire()
+  const h = decodeURIComponent(location.hash.slice(1))
+  if (h && byId.has(h)) setTimeout(() => jump(byId.get(h)), 50)
+  else if (h && document.getElementById(h)) setTimeout(() => document.getElementById(h).scrollIntoView(), 50)
+}
+
+const isLeaf = (n) => n.kind === "note" || n.kind === "media"
+function countLeaves(n) { let c = 0; const w = (m) => { if (isLeaf(m)) c++; m.children.forEach(w) }; w(n); return c }
+function breakdown(s) {
+  const c = {}; const w = (m) => { if (isLeaf(m)) c[m.type] = (c[m.type] || 0) + 1; m.children.forEach(w) }; w(s)
+  const total = Object.values(c).reduce((a, b) => a + b, 0)
+  const parts = Object.keys(TYPES).filter((t) => c[t]).map((t) => `${c[t]} ${t === "Video" ? "recording" : t.toLowerCase()}${c[t] > 1 ? "s" : ""}`)
+  return `${total} ${total === 1 ? "source" : "sources"}` + (parts.length > 1 ? ` · ${parts.join(", ")}` : "")
+}
+
+function topicBlock(t, leaves, s) {
+  const d = document.createElement("details")
+  d.className = "topic"
+  d.open = false                         // start collapsed: subjects and topics at a glance
+  d.innerHTML = `<summary><span class="car">▸</span><h3>${t ? esc((t.num ? t.num + " · " : "") + t.title) : "In this section"}</h3>
+    <span class="cnt">${leaves.length} ${leaves.length === 1 ? "source" : "sources"}</span>
+    ${t && t.about ? `<span class="about">${esc(t.about)}</span>` : ""}
+    ${t && t.cites.length ? `<span class="about">Related notes: ${t.cites.map((m) => `<a href="#${esc(m.id)}" data-jump="${esc(m.id)}">${esc(m.title)}</a>`).join(" · ")}</span>` : ""}</summary>`
+  const ul = document.createElement("ul")
+  ul.className = "items"
+  let group = null
+  for (const n of leaves) {
+    if (n.group && n.group !== group) {
+      group = n.group
+      const g = document.createElement("li"); g.className = "group"; g.textContent = group; ul.appendChild(g)
+    }
+    ul.appendChild(row(n))
+  }
+  d.appendChild(ul)
+  if (t) t.el = d
+  return d
+}
+
+function row(n) {
+  const li = document.createElement("li")
+  li.className = "item"
+  li.id = "n-" + n.id
+  const ext = n.kind === "media"
+  const meta = [(n.authors || "").replace(/\s*\([^)]*\)/g, ""), n.year].filter(Boolean)
+  const links = n.cites.length + n.citedBy.length
+  li.innerHTML = `<span class="badge" style="--tc:${TYPES[n.type]}">${esc(ext && n.mtype ? n.mtype : n.type)}</span>
+    <div><span class="t"><a href="${esc(n.url)}"${ext ? ' target="_blank" rel="noopener"' : ""}>${esc(n.title)}${ext ? " ↗" : ""}</a></span>
+    ${meta.length ? `<span class="m"> — ${esc(meta.join(" · "))}</span>` : ""}</div>
+    <span class="acts">${n.pdf ? `<a href="${esc(n.pdf)}">PDF</a>` : ""}${links ? `<button class="lk">${links} link${links > 1 ? "s" : ""}</button>` : ""}</span>
+    ${n.summary && !ext ? `<div class="sum">${esc(n.summary)}</div>` : ""}`
+  if (links) {
+    const rel = document.createElement("div")
+    rel.className = "rel"
+    const list = (arr) => `<ul>${arr.map((m) => `<li><a href="#${esc(m.id)}" data-jump="${esc(m.id)}"><span class="dot" style="background:${m.color}"></span>${esc(m.title)}</a>
+      <span class="where"> · ${esc(where(m))}</span></li>`).join("")}</ul>`
+    rel.innerHTML = (n.cites.length ? `<h4>${n.kind === "media" ? "With" : "Builds on"} (${n.cites.length})</h4>${list(n.cites)}` : "") +
+      (n.citedBy.length ? `<h4>Referenced by (${n.citedBy.length})</h4>${list(n.citedBy)}` : "")
+    li.appendChild(rel)
+    li.querySelector(".lk").onclick = (e) => { rel.classList.toggle("open"); e.currentTarget.classList.toggle("open") }
+  }
+  n.row = li
+  n.hay = [n.title, n.authors, n.summary, n.year, n.type, n.mtype, n.group, where(n)].join(" ").toLowerCase()
+  items.push(n)
+  return li
+}
+
+function where(m) {
+  const s = byId.get(m.section)
+  if (m.kind === "topic" || m.kind === "section") return (s.num ? s.num + " " : "") + s.title
+  const parentId = m.kind === "media" ? m.id.split("/")[0] : m.id.split("/").slice(0, -1).join("/")
+  const t = byId.get(parentId)
+  return [s.num ? s.num + " " + s.title : s.title, t && t.kind === "topic" ? t.title : ""].filter(Boolean).join(" › ")
+}
+
+function jump(n) {
+  if (n.kind === "topic" || n.kind === "section") { (n.el || byId.get(n.section).el).scrollIntoView({ behavior: "smooth" }); if (n.el) n.el.open = true; return }
+  if (!n.row) return
+  const d = n.row.closest("details"); if (d) d.open = true
+  if (n.row.classList.contains("hide")) { $("q").value = ""; hiddenTypes.clear(); document.querySelectorAll(".chip.off").forEach((c) => c.classList.remove("off")); apply() }
+  n.row.scrollIntoView({ behavior: "smooth", block: "center" })
+  n.row.classList.remove("flash"); void n.row.offsetWidth; n.row.classList.add("flash")
+  history.replaceState(null, "", "#" + encodeURIComponent(n.id))
+}
+
+function apply() {
+  const terms = $("q").value.toLowerCase().split(/\s+/).filter(Boolean)
+  let shown = 0
+  for (const n of items) {
+    const ok = !hiddenTypes.has(n.type) && terms.every((w) => n.hay.includes(w))
+    n.row.classList.toggle("hide", !ok)
+    if (ok) shown++
+    const a = n.row.querySelector(".t a")
+    a.innerHTML = highlight(n.title, terms) + (n.kind === "media" ? " ↗" : "")
+  }
+  const filtering = terms.length || hiddenTypes.size
+  if (!filtering && wasFiltering) {      // filter cleared: back to the collapsed overview
+    document.querySelectorAll(".topic").forEach((d) => (d.open = false))
+    $("fold").textContent = "Expand all"
+  }
+  wasFiltering = !!filtering
+  for (const d of document.querySelectorAll(".topic")) {
+    const any = d.querySelector(".item:not(.hide)")
+    d.classList.toggle("hide", !any)
+    if (filtering && any) d.open = true
+    d.querySelectorAll(".group").forEach((g) => {
+      let el = g.nextElementSibling, vis = false
+      while (el && !el.classList.contains("group")) { if (!el.classList.contains("hide")) vis = true; el = el.nextElementSibling }
+      g.classList.toggle("hide", !vis)
+    })
+  }
+  for (const s of document.querySelectorAll(".sec")) {
+    const k = s.querySelectorAll(".item:not(.hide)").length
+    s.classList.toggle("hide", k === 0)
+    const badge = document.querySelector(`[data-k="${CSS.escape(s.id.slice(2))}"]`)
+    if (badge) badge.textContent = k
+  }
+  $("result").textContent = filtering ? `${shown} of ${items.length} sources` : ""
+  $("empty").style.display = shown ? "none" : "block"
+}
+function highlight(text, terms) {
+  let out = esc(text)
+  for (const w of terms) if (w.length > 1) out = out.replace(new RegExp(`(${w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "ig"), "<mark>$1</mark>")
+  return out
+}
+
+function wire() {
+  $("q").addEventListener("input", apply)
+  window.addEventListener("keydown", (e) => {
+    if (e.key === "/" && document.activeElement !== $("q")) { e.preventDefault(); $("q").focus() }
+    if (e.key === "Escape" && document.activeElement === $("q")) { $("q").value = ""; apply(); $("q").blur() }
+  })
+  $("sums").onclick = () => { document.body.classList.toggle("sums"); $("sums").classList.toggle("on") }
+  $("fold").onclick = () => {
+    const anyOpen = [...document.querySelectorAll(".topic")].some((d) => d.open)
+    document.querySelectorAll(".topic").forEach((d) => (d.open = !anyOpen))
+    $("fold").textContent = anyOpen ? "Expand all" : "Collapse all"
+  }
+  $("theme").onclick = () => {
+    const t = document.documentElement.getAttribute("saved-theme") === "dark" ? "light" : "dark"
+    document.documentElement.setAttribute("saved-theme", t)
+    try { localStorage.setItem("theme", t) } catch (e) {}
+  }
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("[data-jump]")
+    if (a) { e.preventDefault(); jump(byId.get(a.dataset.jump)) }
+  })
+  // highlight the section in view
+  const links = [...document.querySelectorAll("nav.toc a[data-sec]")]
+  const obs = new IntersectionObserver((entries) => {
+    for (const en of entries) if (en.isIntersecting) {
+      links.forEach((l) => l.classList.toggle("cur", l.dataset.sec === en.target.id.slice(2)))
+    }
+  }, { rootMargin: "-140px 0px -65% 0px" })
+  document.querySelectorAll(".sec").forEach((s) => obs.observe(s))
+}
+</script>
+</body>
+</html>

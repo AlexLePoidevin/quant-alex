@@ -159,6 +159,50 @@ def cell(body: str, *names: str) -> str:
     return ""
 
 
+TYPE_RULES = [  # first match wins; applied to the note's **Type** cell
+    ("Strategy", r"strategy"),
+    ("Book", r"book|textbook|graduate text|monograph"),
+    ("Lecture", r"lecture|seminar|tutorial|course|curriculum|slides"),
+    ("Article", r"blog|encyclop|practitioner note|research note|essay|explainer"),
+    ("Paper", r"paper|preprint|article|review|manuscript|chapter|peer"),
+]
+
+
+def note_type(body: str) -> str:
+    raw = cell(body, "Type").lower()
+    for label, pattern in TYPE_RULES:
+        if re.search(pattern, raw):
+            return label
+    return "Article" if re.search(r"^\|\s*\*\*(Link|Source)\*\*", body, flags=re.M) else "Paper"
+
+
+def blurbs() -> dict[str, str]:
+    """Folder path -> one-line description: the row describing it in its parent README's
+    table, else the first prose paragraph of its own README."""
+    out: dict[str, str] = {}
+    for d in sorted(p for p in SRC.rglob("*") if p.is_dir()):
+        readme = d / "README.md"
+        if not readme.exists():
+            continue
+        rel = d.relative_to(SRC).as_posix()
+        text = readme.read_text(encoding="utf-8")
+        m = H1.match(text)
+        own = summary(text[m.end():] if m else text, limit=260)
+        if own:
+            out.setdefault(rel, own)
+        for line in text.splitlines():
+            if not line.startswith("|"):
+                continue
+            cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            for i, c in enumerate(cells[:-1]):
+                ref = re.search(r"`([0-9]{2}-[a-z0-9-]+)/?`|\(([0-9]{2}-[a-z0-9-]+)/?\)", c)
+                if ref:
+                    child = f"{rel}/{ref.group(1) or ref.group(2)}" if rel != "." else (ref.group(1) or ref.group(2))
+                    out[child] = plain(cells[i + 1])
+                    break
+    return out
+
+
 def slug(rel: Path) -> str:
     """Quartz URL path for a staged file."""
     s = rel.with_suffix("").as_posix()
@@ -169,6 +213,13 @@ def build_graph(dst: Path) -> None:
     """Sections and topics as hubs, notes attached to their topic, [[links]] across."""
     nodes: dict[str, dict] = {}
     edges: list[dict] = []
+    about = blurbs()
+    top = SRC / "README.md"
+    if top.exists():                      # literature/README.md describes the sections
+        for line in top.read_text(encoding="utf-8").splitlines():
+            ref = re.search(r"\(([0-9]{2}-[a-z0-9-]+)/?\)|`([0-9]{2}-[a-z0-9-]+)/?`", line)
+            if line.startswith("|") and ref:
+                about[ref.group(1) or ref.group(2)] = plain(line.strip().strip("|").split("|")[-1])
     for d in sorted(p for p in SRC.rglob("*") if p.is_dir()):
         rel = d.relative_to(SRC)
         readme = d / "README.md"
@@ -177,7 +228,8 @@ def build_graph(dst: Path) -> None:
         nodes[rel.as_posix()] = {
             "id": rel.as_posix(), "kind": "section" if len(rel.parts) == 1 else "topic",
             "title": h1.group(1) if h1 else pretty(d.name), "num": num.group(1) if num else "",
-            "section": rel.parts[0], "url": rel.as_posix() + "/"}
+            "section": rel.parts[0], "url": rel.as_posix() + "/",
+            "about": about.get(rel.as_posix(), "")}
         if len(rel.parts) > 1:
             edges.append({"source": rel.parent.as_posix(), "target": rel.as_posix(), "kind": "tree"})
     stems = {}
@@ -196,7 +248,8 @@ def build_graph(dst: Path) -> None:
             "id": nid, "kind": "note", "title": TITLES.get(p.stem, pretty(p.stem)),
             "section": rel.parts[0], "url": slug(rel), "year": year,
             "authors": cell(body, "Authors", "Author", "Source")[:120],
-            "summary": summary(body), "pdf": slug(rel) + ".pdf" if pdf.exists() else ""}
+            "summary": summary(body), "pdf": slug(rel) + ".pdf" if pdf.exists() else "",
+            "type": note_type(body)}
         edges.append({"source": rel.parent.as_posix(), "target": nid, "kind": "tree"})
         stems[p.stem] = (nid, body)
     add_media(nodes, edges, stems)
@@ -235,20 +288,26 @@ def add_media(nodes: dict, edges: list, stems: dict) -> None:
     pending: list[tuple[str, str]] = []                      # (recording id, row text)
     topic = group = None
     cols: list[str] = []
+    seen_table = False
     for line in readme.read_text(encoding="utf-8").splitlines():
         h = re.match(r"^##\s+(.+)$", line)
         if h:
             name = h.group(1).strip()
             topic = f"{MEDIA}#{anchor(name)}"
             nodes[topic] = {"id": topic, "kind": "topic", "title": name, "num": "",
-                            "section": MEDIA, "url": f"{MEDIA}/#{anchor(name)}"}
+                            "section": MEDIA, "url": f"{MEDIA}/#{anchor(name)}", "about": ""}
             edges.append({"source": MEDIA, "target": topic, "kind": "tree"})
             if "between" not in name.lower():
                 people[name.split()[-1].lower()] = topic    # 'soros', 'jones', ...
-            group, cols = None, []
+            group, cols, seen_table = None, [], False
             continue
         if topic is None:
             continue
+        if line.startswith("|"):
+            seen_table = True
+        if (not seen_table and not nodes[topic]["about"] and line.strip()
+                and not line.startswith(("|", "#", "*", "<", "-")) and len(line) > 60):
+            nodes[topic]["about"] = plain(line)       # first prose line under the person
         g = re.match(r"^\*\*(.+)\*\*\s*$", line.strip())
         if g:
             group = g.group(1)
@@ -275,7 +334,7 @@ def add_media(nodes: dict, edges: list, stems: dict) -> None:
         nodes[rid] = {
             "id": rid, "kind": "media", "title": title, "section": MEDIA, "url": url.group(0),
             "type": row.get("type", ""), "authors": plain(where),
-            "summary": " · ".join(x for x in [nodes[topic]["title"], group] if x),
+            "summary": " · ".join(x for x in [nodes[topic]["title"], group] if x), "group": group or "",
             "year": (re.search(r"(19|20)\d\d", title) or [""])[0]}
         edges.append({"source": topic, "target": rid, "kind": "tree"})
         if "between" in nodes[topic]["title"].lower():

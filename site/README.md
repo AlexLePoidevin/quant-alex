@@ -9,9 +9,11 @@ every push to `main` that touches `literature/` or `site/`.
 folder pages, first headings into titles, subject folders into tags, and PDF names into
 links. The `[[wikilinks]]` between notes become the site's links, backlinks and graph.
 
-The home page is the **library map** (`home/index.html`, D3): sections and topics are hubs,
-every note hangs off its topic, and `[[wikilinks]]` are the cross-links. It reads
-`graph.json`, which `prepare_content.py` writes, so it updates whenever a note is added.
+The home page is the **library board** (`home/index.html`): a pan-and-zoom canvas with each
+subject as a frame, its topics as cards and every source inside, laid out from the folder
+structure so it never moves. Selecting a source draws its links. Two other views read the same
+`graph.json` (written by `prepare_content.py`, so all three update when a note is added):
+`home/library.html`, an outline at `/library`, and `home/map.html`, a force graph at `/map`.
 The README index that used to be the home page is now `start-here`.
 
 Preview locally:
