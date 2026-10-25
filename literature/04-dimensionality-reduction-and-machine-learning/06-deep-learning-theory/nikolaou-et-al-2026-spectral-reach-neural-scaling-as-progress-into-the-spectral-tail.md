@@ -99,3 +99,5 @@ should match it ([[wikipedia-neural-tangent-kernel]]).
   — spectral bias as a weakness on irregular tabular targets
 - [[conklin-et-al-2026-learning-is-forgetting]] — another measurement of how representations
   change during training
+- [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — outlier structure in the Hessian, gradient and
+  weight spectra of trained classifiers

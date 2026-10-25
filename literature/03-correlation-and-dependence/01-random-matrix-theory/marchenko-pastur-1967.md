@@ -29,3 +29,8 @@ correlation matrix (the denoising setup from López de Prado's work).
 The 1967 paper is the theorem; this is the simulation that makes it obvious. Useful as a
 sanity check when building the Part 02 spectrum figure — if a synthetic noise matrix
 doesn't reproduce the band, the estimator is wrong before any real data is involved.
+
+## Links
+
+- [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — the same bulk-plus-outliers shape in a trained
+  network's Hessian, with the outliers built from class means

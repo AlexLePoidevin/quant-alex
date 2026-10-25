@@ -90,3 +90,5 @@ and also noise. Treat richness as something to compare on held-out data, not a d
   what feature learning buys at scale, measured in µP and standard settings
 - [[zhang-et-al-2017-understanding-deep-learning-requires-rethinking-generalization]] — the
   generalisation question that neither regime fully answers
+- [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — far into the rich regime: neural collapse and the
+  bulk-plus-outlier spectra it produces

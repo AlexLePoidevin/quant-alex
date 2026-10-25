@@ -91,3 +91,5 @@ where feature learning is what sustains progress.
   feature learning as the thing that keeps training progressing
 - [[zhang-et-al-2017-understanding-deep-learning-requires-rethinking-generalization]] — the
   generalisation puzzle that infinite-width theories try to explain
+- [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — the opposite end: what the Hessian, gradients and
+  weights look like once features collapse onto class means

@@ -18,3 +18,8 @@ band — the market mode plus a small number of sector-like modes.
 
 The canonical empirical statement of the series' central fact, and the direct template for
 the figure in the first post.
+
+## Links
+
+- [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — the same bulk-plus-outliers shape in a trained
+  network's Hessian, with the outliers built from class means
