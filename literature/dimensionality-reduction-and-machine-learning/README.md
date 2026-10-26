@@ -13,6 +13,7 @@ one of its assumptions.
 | `information-bottleneck-and-compression` | *Keep the variance* → *keep what predicts the target*: the Information Bottleneck, measured on LLMs as they train |
 | `tree-ensembles-and-tabular-data` | *Learn a representation first* → *split on the raw features*: gradient-boosted trees against deep nets on tabular data and on windowed time series |
 | `deep-learning-theory` | *A network learns features* → *a wide network is a fixed kernel*: the neural tangent kernel, lazy vs rich (µP) training, finite-width fluctuations; why networks that can memorise random labels still generalise; scaling as learning from the NTK spectral tail; Hessian, gradient and weight spectra explained by neural collapse; depth separation, where one extra layer can beat exponential width |
+| `commonsense-reasoning-and-language-models` | *Choose from fixed labels* → *generate an explanation*: why common sense defeated logic-based AI, defeasible and abductive inference, and language models as the representation (COMET, ATOMIC) |
 | `energy-based-models-and-self-supervised-learning` | *Predict the output* → *predict a representation of it*: energy-based models, collapse and how contrastive or regularised training prevents it, and LeCun's joint embedding predictive architecture (JEPA) |
 | `ml-trading-strategies` | *Predict each return* → *learn the portfolio*: end-to-end training on net-of-cost Sharpe for futures, and an intraday decision-tree paper kept as a backtest-audit example |
 

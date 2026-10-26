@@ -47,3 +47,8 @@ estimable. Use it to motivate *why* a linear, stationary Ω should be expected t
 not cite it as evidence that it does; that job belongs to the rolling-correlation
 measurement. The honest framing is a prior with a mechanism, held to the same standard as
 any other.
+
+## Links
+
+- [[choi-2022-the-curious-case-of-commonsense-intelligence]] — commonsense inference as defeasible: best guesses that more context
+  should overturn

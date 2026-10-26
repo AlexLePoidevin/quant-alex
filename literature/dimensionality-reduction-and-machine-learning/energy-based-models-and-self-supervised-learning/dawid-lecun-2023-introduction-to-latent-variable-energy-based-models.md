@@ -97,3 +97,5 @@ drop the rest.
   kind of collapse: supervised features collapsing onto class means
 - [[karkada-2024-the-lazy-ntk-and-rich-mup-regimes-a-gentle-tutorial]] — how far a network
   learns features at all, which representation learning depends on
+- [[choi-2022-the-curious-case-of-commonsense-intelligence]] — the language-model route to common sense: generative, defeasible
+  inference through text rather than world models
