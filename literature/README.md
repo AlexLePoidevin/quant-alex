@@ -15,12 +15,13 @@ section has a README that lists its subfolders and the question each one answers
 | 01 | [`01-mathematical-foundations`](01-mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
 | 02 | [`02-factor-models-and-asset-pricing`](02-factor-models-and-asset-pricing/) | Single-index models to Fama–French, APT, how much of a return is common, the factor zoo, ML factor models |
 | 03 | [`03-correlation-and-dependence`](03-correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
-| 04 | [`04-dimensionality-reduction-and-machine-learning`](04-dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck, tree ensembles vs deep learning, neural tangent kernel, generalisation |
+| 04 | [`04-dimensionality-reduction-and-machine-learning`](04-dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck, tree ensembles vs deep learning, neural tangent kernel, generalisation, energy-based models, ML trading strategies |
 | 05 | [`05-portfolio-construction-and-risk`](05-portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
 | 06 | [`06-compounding-leverage-and-position-sizing`](06-compounding-leverage-and-position-sizing/) | Volatility drag, the Kelly criterion, leveraged ETFs, ergodicity |
 | 07 | [`07-active-management`](07-active-management/) | The fundamental law, skill versus scale, active share, the rise of passive |
 | 08 | [`08-tactical-asset-allocation`](08-tactical-asset-allocation/) | Published momentum/TAA rule-sets (Keller–Keuning family and others) and the evidence on them |
 | 09 | [`09-reflexivity-and-market-history`](09-reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |
+| 10 | [`10-reinforcement-learning`](10-reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity, RL trading agents |
 | — | [`podcasts-and-videos`](podcasts-and-videos/) | Lectures, interviews and documentaries, organised by person |
 
 [`refs.bib`](refs.bib) holds a BibTeX entry for every source. Each note names its key.

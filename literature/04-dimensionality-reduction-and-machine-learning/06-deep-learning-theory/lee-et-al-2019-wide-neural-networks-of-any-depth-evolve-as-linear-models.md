@@ -91,3 +91,4 @@ predictions across initialisations, which is the variance a seed ensemble averag
   — the other route to understanding architectures: through symmetry, not width
 - [[conklin-et-al-2026-learning-is-forgetting]] — the opposite picture, where representations
   change a lot during training
+- [[eldan-shamir-2016-the-power-of-depth-for-feedforward-neural-networks]] — a depth-versus-width separation result

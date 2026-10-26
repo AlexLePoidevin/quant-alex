@@ -92,3 +92,4 @@ and also noise. Treat richness as something to compare on held-out data, not a d
   generalisation question that neither regime fully answers
 - [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — far into the rich regime: neural collapse and the
   bulk-plus-outlier spectra it produces
+- [[eldan-shamir-2016-the-power-of-depth-for-feedforward-neural-networks]] — why depth matters at all: one extra layer can beat exponential width

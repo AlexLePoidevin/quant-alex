@@ -12,8 +12,9 @@ one of its assumptions.
 | `03-quantum-cognition-ml` | Data as states in a Hilbert space (Qognitive's QCML programme and its cognitive-science foundation) |
 | `04-information-bottleneck-and-compression` | *Keep the variance* → *keep what predicts the target*: the Information Bottleneck, measured on LLMs as they train |
 | `05-tree-ensembles-and-tabular-data` | *Learn a representation first* → *split on the raw features*: gradient-boosted trees against deep nets on tabular data and on windowed time series |
-| `06-deep-learning-theory` | *A network learns features* → *a wide network is a fixed kernel*: the neural tangent kernel, lazy vs rich (µP) training, finite-width fluctuations; why networks that can memorise random labels still generalise; scaling as learning from the NTK spectral tail; Hessian, gradient and weight spectra explained by neural collapse |
+| `06-deep-learning-theory` | *A network learns features* → *a wide network is a fixed kernel*: the neural tangent kernel, lazy vs rich (µP) training, finite-width fluctuations; why networks that can memorise random labels still generalise; scaling as learning from the NTK spectral tail; Hessian, gradient and weight spectra explained by neural collapse; depth separation, where one extra layer can beat exponential width |
 | `07-energy-based-models-and-self-supervised-learning` | *Predict the output* → *predict a representation of it*: energy-based models, collapse and how contrastive or regularised training prevents it, and LeCun's joint embedding predictive architecture (JEPA) |
+| `08-ml-trading-strategies` | *Predict each return* → *learn the portfolio*: end-to-end training on net-of-cost Sharpe for futures, and an intraday decision-tree paper kept as a backtest-audit example |
 
 The finance-specific nonlinear factor models (IPCA, autoencoders) are in
 `../02-factor-models-and-asset-pricing/06-machine-learning-factor-models/`. They are the

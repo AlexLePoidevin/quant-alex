@@ -78,3 +78,4 @@ adding another tree model mostly doesn't.
 - [[kelly-pruitt-su-2019]] — IPCA, the linear baseline for the same problem
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — why distance-based methods
   struggle on wide feature sets, where trees, which split one feature at a time, don't
+- [[fuhrer-tessler-dalal-2024-gradient-boosting-reinforcement-learning]] — trees replacing neural networks in RL

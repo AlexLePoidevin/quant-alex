@@ -27,3 +27,4 @@ Under empirical returns the cap binds considerably earlier, which is the point.
 
 - [[lv-wang-yuan-2026-garch-evt-rvine-scad-portfolio]] — the same scenario CVaR problem with
   vine-copula scenarios and a SCAD sparsity penalty, solved as a quantile regression
+- [[dabney-et-al-2018-implicit-quantile-networks-for-distributional-reinforcement-learning]] — learning the full return quantile function, which makes CVaR-style risk-sensitive policies possible

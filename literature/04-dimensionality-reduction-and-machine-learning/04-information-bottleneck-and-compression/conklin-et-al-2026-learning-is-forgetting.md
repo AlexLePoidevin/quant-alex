@@ -112,3 +112,5 @@ the data really has limits how small a useful representation can get.
   probability); this paper comes from the Bayesian and compression side of the same field
 - [[dawid-lecun-2023-introduction-to-latent-variable-energy-based-models]] — LeCun's JEPA: predict in representation space, keep
   representations informative and the latent variable small
+- [[mccloskey-cohen-1989-catastrophic-interference-in-connectionist-networks]] — the original account of forgetting when a network learns in sequence
+- [[dohare-et-al-2024-loss-of-plasticity-in-deep-continual-learning]] — the opposite failure: a network that can no longer learn
