@@ -25,7 +25,7 @@ there is something to record that a row in this table cannot hold.
 | documentary | *The Great Speculator — The Mysterious Life of George Soros* | https://www.youtube.com/watch?v=0_gQhrFq1oU |
 
 His refereed statement of reflexivity is [[soros-2013]] in
-`../09-reflexivity-and-market-history/`.
+`../reflexivity-and-market-history/`.
 
 Three things worth knowing before watching. **Take *Financial Markets* before *General
 Theory*** if the goal is something testable: the general claim, that participants' views
@@ -102,9 +102,9 @@ Militia Capital, founded January 2021 and run from Osaka. A leveraged long/short
 roughly 200% long and 100% short on average — spread across several hundred names at once,
 longs sized 1–10% and shorts 0.1–2.5%. The stated edge is two published anomalies, low
 volatility and small size, harvested at breadth rather than concentration; the size leg is
-[[fama-french-1993]] in `../02-factor-models-and-asset-pricing/03-what-the-factors-are/`, and the breadth
+[[fama-french-1993]] in `../factor-models-and-asset-pricing/what-the-factors-are/`, and the breadth
 argument itself is [[grinold-kahn-1999]] in
-`../07-active-management/01-foundations/`. Since January 2025 a similar strategy
+`../active-management/foundations/`. Since January 2025 a similar strategy
 also runs in an ETF wrapper (`ORR`).
 
 | Type | Title | Channel | Link |

@@ -10,9 +10,9 @@ git-ignored, so the staged copy can't live in the repo), with the changes Quartz
 - the first "# Heading" becomes the page title (frontmatter) instead of a duplicate H1;
 - the subject folder becomes a tag, which the graph and tag pages group by;
 - "`some-file.pdf` (in this folder)" becomes a clickable link to the PDF;
-- folder pages are titled "03 · Correlation and dependence" so the explorer follows the
-  numbered learning path, and folders without a README get a generated page;
-- a folder written as `03-correlation-and-dependence/` in backticks becomes a link to it;
+- folder pages are titled from the folder name, and folders without a README get a
+  generated page;
+- a folder written as `correlation-and-dependence/` in backticks becomes a link to it;
 - [[note-slug]] links display the linked note's title instead of its file name;
 - literature/README.md becomes start-here.md, and the site root is the map in home/index.html;
 - graph.json is written for the map on the home page (site/home/index.html).
@@ -36,9 +36,13 @@ CODE = re.compile(r"(?<!\[)`([^`\s]+)`(?!\]\()")
 NUM = re.compile(r"^(\d+)-(.+)$")
 
 
+ACRONYMS = {"etfs": "ETFs", "ml": "ML", "rl": "RL", "pca": "PCA"}
+
+
 def pretty(folder: str) -> str:
-    """'02-manifolds-and-intrinsic-dimension' -> 'Manifolds and intrinsic dimension'."""
-    name = NUM.sub(r"\2", folder).replace("-", " ")
+    """'manifolds-and-intrinsic-dimension' -> 'Manifolds and intrinsic dimension'."""
+    words = NUM.sub(r"\2", folder).split("-")
+    name = " ".join(ACRONYMS.get(w, w) for w in words)
     return name[:1].upper() + name[1:]
 
 
@@ -59,7 +63,7 @@ def link_folders(text: str, here: Path) -> str:
             return f"[{m.group(0)}]({ref.rstrip('/')}/)"
         return m.group(0)
     text = CODE.sub(sub, text)
-    # [`03-correlation-and-dependence`](…/) -> [Correlation and dependence](…/)
+    # [`correlation-and-dependence`](…/) -> [Correlation and dependence](…/)
     return re.sub(r"\[`([^`]+?)/?`\]\(([^)]+/)\)",
                   lambda m: f"[{pretty(Path(m.group(1)).name)}]({m.group(2)})", text)
 
@@ -82,22 +86,22 @@ def git_dates() -> dict[str, tuple[str, str]]:
 
 
 TAGS = {  # short subject tags: they become hub nodes in the graph
-    "01-mathematical-foundations": "foundations",
-    "02-factor-models-and-asset-pricing": "factor-models",
-    "03-correlation-and-dependence": "dependence",
-    "04-dimensionality-reduction-and-machine-learning": "machine-learning",
-    "05-portfolio-construction-and-risk": "portfolio-and-risk",
-    "06-compounding-leverage-and-position-sizing": "sizing-and-leverage",
-    "07-active-management": "active-management",
-    "08-tactical-asset-allocation": "tactical-allocation",
-    "09-reflexivity-and-market-history": "market-history",
-    "10-reinforcement-learning": "reinforcement-learning",
+    "mathematical-foundations": "foundations",
+    "factor-models-and-asset-pricing": "factor-models",
+    "correlation-and-dependence": "dependence",
+    "dimensionality-reduction-and-machine-learning": "machine-learning",
+    "portfolio-construction-and-risk": "portfolio-and-risk",
+    "compounding-leverage-and-position-sizing": "sizing-and-leverage",
+    "active-management": "active-management",
+    "tactical-asset-allocation": "tactical-allocation",
+    "reflexivity-and-market-history": "market-history",
+    "reinforcement-learning": "reinforcement-learning",
     "podcasts-and-videos": "podcasts-and-videos",
 }
 
 
 def subject_tag(rel: Path) -> str | None:
-    """'03-correlation-and-dependence/...' -> 'dependence'."""
+    """'correlation-and-dependence/...' -> 'dependence'."""
     if len(rel.parts) < 2:
         return None
     return TAGS.get(rel.parts[0], re.sub(r"^\d+-", "", rel.parts[0]))
@@ -350,7 +354,7 @@ def rooted_links(text: str, here: Path) -> str:
     """Rewrite relative Markdown links as paths from the content root.
 
     Quartz (markdownLinkResolution: shortest) reads any link containing "/" as a path from
-    the site root, so '../04-ergodicity/' or '01-probability-and-statistics/' would break.
+    the site root, so '../ergodicity/' or 'probability-and-statistics/' would break.
     """
     def sub(m: re.Match) -> str:
         target, anchor_ = (m.group(1).split("#", 1) + [""])[:2]

@@ -143,6 +143,7 @@
     ul.items { padding-left: 4px; }
     .sh .about { grid-column: 1 / 4; }
   }
+  .num:empty, .bn:empty { display: none; }
 </style>
 </head>
 <body>
@@ -166,9 +167,9 @@
 </header>
 
 <div class="wrap">
-  <nav class="toc" id="toc" aria-label="Sections"><h2>Learning path</h2></nav>
+  <nav class="toc" id="toc" aria-label="Sections"><h2>Subjects</h2></nav>
   <main id="main">
-    <p class="intro">Every source in the library, grouped by subject and topic in learning-path order. Click a topic to see
+    <p class="intro">Every source in the library, grouped by subject and topic. Click a topic to see
       its sources, or <b>Expand all</b>. Click a title to read the note; <b>links</b> shows what a source builds on and
       what refers to it.</p>
     <div class="empty" id="empty">Nothing matches that filter.</div>
@@ -195,7 +196,7 @@ function build(data) {
     const s = byId.get(e.source), t = byId.get(e.target)
     if (e.kind === "cite") { s.cites.push(t); t.citedBy.push(s) } else s.children.push(t)
   }
-  const sections = nodes.filter((n) => n.kind === "section").sort((a, b) => (a.num || "99").localeCompare(b.num || "99"))
+  const sections = nodes.filter((n) => n.kind === "section").sort((a, b) => (a.id === "podcasts-and-videos") - (b.id === "podcasts-and-videos") || a.title.localeCompare(b.title))
   sections.forEach((s, i) => (s.color = PALETTE[i % PALETTE.length]))
   for (const n of nodes) {
     n.color = byId.get(n.section).color
@@ -225,7 +226,7 @@ function build(data) {
     sec.className = "sec"
     sec.id = "s-" + s.id
     sec.style.setProperty("--c", s.color)
-    sec.innerHTML = `<header class="sh"><span class="num">${esc(s.num || "▸")}</span>
+    sec.innerHTML = `<header class="sh"><span class="num">${esc(s.num || "")}</span>
       <h2><a href="${esc(s.url)}">${esc(s.title)}</a></h2><span class="cnt">${breakdown(s)}</span>
       ${s.about ? `<div class="about">${esc(s.about)}</div>` : ""}</header>`
     const direct = s.children.filter(isLeaf)
@@ -234,7 +235,7 @@ function build(data) {
     main.insertBefore(sec, $("empty"))
     s.el = sec
     toc.insertAdjacentHTML("beforeend",
-      `<a href="#s-${esc(s.id)}" data-sec="${esc(s.id)}" style="--c:${s.color}"><span class="n">${esc(s.num || "▸")}</span><span>${esc(s.title)}</span><span class="k" data-k="${esc(s.id)}">${total}</span></a>`)
+      `<a href="#s-${esc(s.id)}" data-sec="${esc(s.id)}" style="--c:${s.color}"><span class="n">${esc(s.num || "")}</span><span>${esc(s.title)}</span><span class="k" data-k="${esc(s.id)}">${total}</span></a>`)
   }
   toc.insertAdjacentHTML("beforeend", `<div class="foot"><a href="./">Board view →</a><a href="map">Map view →</a><a href="start-here">Start here</a>
     <a href="https://github.com/AlexLePoidevin/quant-alex">GitHub</a></div>`)

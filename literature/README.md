@@ -4,25 +4,23 @@ Reading notes on quantitative finance, grouped by **subject**. Each note covers 
 It records what the source says, why it matters, and how it links to the others. Where the
 source is freely redistributable, or is a lecture note, the PDF sits next to the note.
 
-The sections are numbered as a rough **learning path**. Mathematical foundations come first.
-Then come the questions in order: what drives returns (factor models), how assets move
-together (correlation and dependence), how to find structure in data (dimensionality
-reduction and ML), and how to build, size and run a portfolio from that structure. Every
-section has a README that lists its subfolders and the question each one answers.
+The sections are not in a set order: start wherever the question you have is. Each
+section has a README that lists its subfolders and the question each one answers, and the
+notes link across sections freely.
 
-| # | Section | What's in it |
-|---|---|---|
-| 01 | [`01-mathematical-foundations`](01-mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
-| 02 | [`02-factor-models-and-asset-pricing`](02-factor-models-and-asset-pricing/) | Single-index models to Fama–French, APT, how much of a return is common, the factor zoo, ML factor models |
-| 03 | [`03-correlation-and-dependence`](03-correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
-| 04 | [`04-dimensionality-reduction-and-machine-learning`](04-dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck, tree ensembles vs deep learning, neural tangent kernel, generalisation, energy-based models, ML trading strategies |
-| 05 | [`05-portfolio-construction-and-risk`](05-portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
-| 06 | [`06-compounding-leverage-and-position-sizing`](06-compounding-leverage-and-position-sizing/) | Volatility drag, the Kelly criterion, leveraged ETFs, ergodicity |
-| 07 | [`07-active-management`](07-active-management/) | The fundamental law, skill versus scale, active share, the rise of passive |
-| 08 | [`08-tactical-asset-allocation`](08-tactical-asset-allocation/) | Published momentum/TAA rule-sets (Keller–Keuning family and others) and the evidence on them |
-| 09 | [`09-reflexivity-and-market-history`](09-reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |
-| 10 | [`10-reinforcement-learning`](10-reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity, RL trading agents |
-| — | [`podcasts-and-videos`](podcasts-and-videos/) | Lectures, interviews and documentaries, organised by person |
+| Section | What's in it |
+|---|---|
+| [`active-management`](active-management/) | The fundamental law, skill versus scale, active share, the rise of passive |
+| [`compounding-leverage-and-position-sizing`](compounding-leverage-and-position-sizing/) | Volatility drag, the Kelly criterion, leveraged ETFs, ergodicity |
+| [`correlation-and-dependence`](correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
+| [`dimensionality-reduction-and-machine-learning`](dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck, tree ensembles vs deep learning, neural tangent kernel, generalisation, energy-based models, ML trading strategies |
+| [`factor-models-and-asset-pricing`](factor-models-and-asset-pricing/) | Single-index models to Fama–French, APT, how much of a return is common, the factor zoo, ML factor models |
+| [`mathematical-foundations`](mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
+| [`portfolio-construction-and-risk`](portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
+| [`reflexivity-and-market-history`](reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |
+| [`reinforcement-learning`](reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity, RL trading agents |
+| [`tactical-asset-allocation`](tactical-asset-allocation/) | Published momentum/TAA rule-sets (Keller–Keuning family and others) and the evidence on them |
+| [`podcasts-and-videos`](podcasts-and-videos/) | Lectures, interviews and documentaries, organised by person |
 
 [`refs.bib`](refs.bib) holds a BibTeX entry for every source. Each note names its key.
 

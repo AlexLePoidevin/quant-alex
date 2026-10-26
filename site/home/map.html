@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Quant Alex · Map</title>
-<meta name="description" content="An interactive map of reading notes on quantitative finance: every source, how it connects to the others, and where it sits in the learning path.">
+<meta name="description" content="An interactive map of reading notes on quantitative finance: every source, how it connects to the others, and which subject it sits in.">
 <link rel="icon" href="static/icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -136,6 +136,7 @@
     .legend .label { display: none; }
     .panel { top: auto; bottom: 0; left: 0; right: 0; width: auto; max-height: 62vh; border-radius: 14px 14px 0 0; }
   }
+  .num:empty, .bn:empty { display: none; }
 </style>
 </head>
 <body>
@@ -162,7 +163,7 @@
 </header>
 
 <nav class="legend" id="legend" aria-label="Subjects">
-  <h2>Learning path</h2>
+  <h2>Subjects</h2>
 </nav>
 
 <aside class="panel" id="panel" aria-live="polite"></aside>
@@ -190,7 +191,7 @@ function init(data) {
   nodes = data.nodes
   links = data.edges.map((e) => ({ ...e }))
   byId = new Map(nodes.map((n) => [n.id, n]))
-  sectionList = nodes.filter((n) => n.kind === "section").sort((a, b) => (a.num || "99").localeCompare(b.num || "99"))
+  sectionList = nodes.filter((n) => n.kind === "section").sort((a, b) => (a.id === "podcasts-and-videos") - (b.id === "podcasts-and-videos") || a.title.localeCompare(b.title))
   color = new Map(sectionList.map((s, i) => [s.id, PALETTE[i % PALETTE.length]]))
 
   for (const n of nodes) { n.cites = []; n.citedBy = []; n.children = [] }

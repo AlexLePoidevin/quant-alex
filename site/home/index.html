@@ -144,6 +144,7 @@
     .search { width: 100%; order: 5; }
     .panel { top: auto; bottom: 0; left: 0; right: 0; width: auto; max-height: 60vh; border-radius: 14px 14px 0 0; }
   }
+  .num:empty, .bn:empty { display: none; }
 </style>
 </head>
 <body>
@@ -191,7 +192,7 @@ function init(data) {
     const s = byId.get(e.source), t = byId.get(e.target)
     if (e.kind === "cite") { s.cites.push(t); t.citedBy.push(s) } else s.children.push(t)
   }
-  const sections = data.nodes.filter((n) => n.kind === "section").sort((a, b) => (a.num || "99").localeCompare(b.num || "99"))
+  const sections = data.nodes.filter((n) => n.kind === "section").sort((a, b) => (a.id === "podcasts-and-videos") - (b.id === "podcasts-and-videos") || a.title.localeCompare(b.title))
   sections.forEach((s, i) => (s.color = PALETTE[i % PALETTE.length]))
   for (const n of data.nodes) {
     n.color = byId.get(n.section).color
@@ -222,7 +223,7 @@ function init(data) {
   else fit(false)
 }
 
-/* ── deterministic layout: frames in learning-path order, topics masonry-packed inside ── */
+/* ── deterministic layout: frames in alphabetical order, topics masonry-packed inside ── */
 function layout(sections) {
   for (const s of sections) {
     const groups = []
@@ -279,9 +280,9 @@ function render(sections) {
     Object.assign(f.style, { left: s.x + "px", top: s.y + "px", width: s.w + "px", height: s.h + "px" })
     f.style.setProperty("--c", s.color)
     const k = countLeaves(s), t = s.groups.filter((g) => g.node).length
-    f.innerHTML = `<div class="fh"><span class="num">${esc(s.num || "▸")}</span><span class="ttl">${esc(s.title)}</span>
+    f.innerHTML = `<div class="fh"><span class="num">${esc(s.num || "")}</span><span class="ttl">${esc(s.title)}</span>
       <div class="meta">${t ? `${t} topics · ` : ""}${k} sources</div>${s.about ? `<div class="about">${esc(s.about)}</div>` : ""}</div>
-      <div class="big"><div class="bn">${esc(s.num || "▸")}</div><div class="bt">${esc(s.title)}</div><div class="bc">${t ? `${t} topics · ` : ""}${k} sources</div></div>`
+      <div class="big"><div class="bn">${esc(s.num || "")}</div><div class="bt">${esc(s.title)}</div><div class="bc">${t ? `${t} topics · ` : ""}${k} sources</div></div>`
     f.querySelector(".fh").onclick = () => flyTo(s)
     f.querySelector(".big").onclick = () => flyTo(s)
     s.el = f

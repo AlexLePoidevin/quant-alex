@@ -6,5 +6,5 @@ My research repository: notes on the sources I read while learning quantitative 
 an interactive map of every source and how they connect, with search and backlinks.
 
 It's public so anyone else can learn from it too. Everything is in
-[`literature/`](literature/), organised by subject and numbered as a learning path. Start
+[`literature/`](literature/), organised by subject. Start
 with [`literature/README.md`](literature/README.md) for the map.
