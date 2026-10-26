@@ -91,6 +91,7 @@ TAGS = {  # short subject tags: they become hub nodes in the graph
     "07-active-management": "active-management",
     "08-tactical-asset-allocation": "tactical-allocation",
     "09-reflexivity-and-market-history": "market-history",
+    "10-reinforcement-learning": "reinforcement-learning",
     "podcasts-and-videos": "podcasts-and-videos",
 }
 
