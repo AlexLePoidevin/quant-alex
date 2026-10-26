@@ -99,3 +99,5 @@ lot and training runs past interpolation. That is the rich end of
   interpolation regime that this paper's model assumes
 - [[laloux-et-al-1999]] — bulk-plus-outliers in financial correlation matrices
 - [[marchenko-pastur-1967]] — the noise bulk that the outliers stand out from
+- [[dawid-lecun-2023-introduction-to-latent-variable-energy-based-models]] — collapse in self-supervised learning, and the
+  variance and decorrelation constraints that prevent it

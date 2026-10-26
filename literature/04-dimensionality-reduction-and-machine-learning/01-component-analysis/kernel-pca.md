@@ -64,3 +64,5 @@ Secondary caveats:
 - [[facco-et-al-2017]] — intrinsic-dimension estimation, the cheaper way to ask whether the
   nonlinear dimension is lower than the linear rank
 - [[marchenko-pastur-1967]] — the null that kernel methods give up
+- [[dawid-lecun-2023-introduction-to-latent-variable-energy-based-models]] — PCA as one of several ways to limit what a model
+  treats as normal (energy-based view)

@@ -110,3 +110,5 @@ the data really has limits how small a useful representation can get.
   characteristics into return factors
 - [[busemeyer-bruza-2012]] — a different cognitive-science model of representation (quantum
   probability); this paper comes from the Bayesian and compression side of the same field
+- [[dawid-lecun-2023-introduction-to-latent-variable-energy-based-models]] — LeCun's JEPA: predict in representation space, keep
+  representations informative and the latent variable small
