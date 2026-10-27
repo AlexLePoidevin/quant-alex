@@ -26,7 +26,7 @@ listed under his name in `../../podcasts-and-videos/`.
 
 | Year | Title | Authors | Link |
 |---|---|---|---|
-| 2025 | *Robust estimation of the intrinsic dimension of data sets with QCML* | Candelori, Abanov, Berger, Hogan, Kirakosyan, Musaelian, Samson, Smith, Villani, Wells, Xu | [PDF](https://www.qognitiveai.com/papers/Nature-IntrinsicDimension.pdf) |
+| 2025 | *Robust estimation of the intrinsic dimension of data sets with QCML* — *Scientific Reports* 15, 6933; note [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] | Candelori, Abanov, Berger, Hogan, Kirakosyan, Musaelian, Samson, Smith, Villani, Wells, Xu | [PDF](candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml.pdf) |
 | 2026 | *Shallow-circuit Supervised Learning on a Quantum Processor* | Candelori, Majumder, Mezzacapo, Robledo Moreno, Musaelian, Nagarajan, Pinnamaneni, Sharma, Villani | [PDF](https://www.qognitiveai.com/papers/quantum.pdf) |
 | 2026 | *Data Cleaning White Paper* | Candelori, Santhanam | [PDF](https://www.qognitiveai.com/papers/Data_Cleaning_Whitepaper.pdf) |
 
@@ -57,7 +57,7 @@ probability cannot. Busemeyer is a co-author on *Quantum Geometry of Data*.
 **Intrinsic dimension is the sharpest point of comparison in the whole repo.**
 `../manifolds-and-intrinsic-dimension/` already holds two classical estimators of the same quantity — **[[levina-bickel-2004]]**
 (maximum-likelihood) and **[[facco-et-al-2017]]** (two-NN) — and the 2025 QCML paper claims
-a more robust one. Three estimators, one target, on data you have. That is a runnable
+a more robust one ([[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]]). Three estimators, one target, on data you have. That is a runnable
 comparison rather than a reading exercise.
 
 `../../factor-models-and-asset-pricing/machine-learning-factor-models/` holds the finance-legitimate nonlinear

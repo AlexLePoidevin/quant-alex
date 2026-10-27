@@ -25,3 +25,5 @@ A PCA scree plot and a TWO-NN estimate on the same panel is a strong two-number 
   priors, the other way past the curse of dimensionality
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — distance concentration, the
   reason a low intrinsic dimension matters for any neighbour-based method
+- [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] — QCML spectral-gap
+  estimator, claimed robust to the noise that inflates local estimates like this one

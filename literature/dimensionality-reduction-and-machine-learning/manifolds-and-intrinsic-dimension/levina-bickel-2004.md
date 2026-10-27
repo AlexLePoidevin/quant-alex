@@ -22,3 +22,5 @@ that agree is evidence.
 
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — why nearest-neighbour distances
   stop discriminating in high ambient dimension unless the intrinsic dimension is low
+- [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] — QCML spectral-gap
+  estimator, claimed robust to the noise that inflates local estimates like this one
