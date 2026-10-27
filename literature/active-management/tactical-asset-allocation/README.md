@@ -8,6 +8,6 @@ the public description is a reconstruction and should be reported as one.
 
 Allocation methods these strategies borrow, such as the minimum-correlation algorithm
 ([[varadi-et-al-2012]]), are filed under
-`../portfolio-construction-and-risk/diversification-and-effective-bets/`.
+`../../portfolio-construction-and-risk/diversification-and-effective-bets/`.
 [[prior-sanz-et-al-2026]] is the out-of-sample evidence across 86 such strategies; read it
 before any single rule-set.

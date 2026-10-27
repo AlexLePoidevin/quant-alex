@@ -93,7 +93,6 @@ TAGS = {  # short subject tags: they become hub nodes in the graph
     "portfolio-construction-and-risk": "portfolio-and-risk",
     "compounding-leverage-and-position-sizing": "sizing-and-leverage",
     "active-management": "active-management",
-    "tactical-asset-allocation": "tactical-allocation",
     "reflexivity-and-market-history": "market-history",
     "reinforcement-learning": "reinforcement-learning",
     "podcasts-and-videos": "podcasts-and-videos",

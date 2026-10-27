@@ -10,7 +10,7 @@ notes link across sections freely.
 
 | Section | What's in it |
 |---|---|
-| [`active-management`](active-management/) | The fundamental law, skill versus scale, active share, the rise of passive |
+| [`active-management`](active-management/) | The fundamental law, skill versus scale, active share, the rise of passive, and tactical asset allocation rule-sets (Keller–Keuning family and others) |
 | [`compounding-leverage-and-position-sizing`](compounding-leverage-and-position-sizing/) | Volatility drag, the Kelly criterion, leveraged ETFs, ergodicity |
 | [`correlation-and-dependence`](correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
 | [`dimensionality-reduction-and-machine-learning`](dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck, tree ensembles vs deep learning, neural tangent kernel, generalisation, energy-based models, commonsense reasoning and language models, ML trading strategies |
@@ -19,7 +19,6 @@ notes link across sections freely.
 | [`portfolio-construction-and-risk`](portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
 | [`reflexivity-and-market-history`](reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |
 | [`reinforcement-learning`](reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity, RL trading agents |
-| [`tactical-asset-allocation`](tactical-asset-allocation/) | Published momentum/TAA rule-sets (Keller–Keuning family and others) and the evidence on them |
 | [`podcasts-and-videos`](podcasts-and-videos/) | Lectures, interviews and documentaries, organised by person |
 
 [`refs.bib`](refs.bib) holds a BibTeX entry for every source. Each note names its key.

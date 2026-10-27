@@ -9,6 +9,7 @@ What it takes to beat a benchmark, and how much of the industry does.
 | `active-share` | Measuring how active a fund really is, and whether that predicts performance |
 | `rise-of-passive` | What the growth of indexing does to active managers' opportunity set |
 | `combining-active-and-passive` | Allocating between active and passive dynamically |
+| `tactical-asset-allocation` | Published momentum/TAA rule-sets (Keller–Keuning family and others) and the evidence on them |
 
 **Start with** [[grinold-kahn-1999]]. Every other note here either tests its formula or
 extends it.
