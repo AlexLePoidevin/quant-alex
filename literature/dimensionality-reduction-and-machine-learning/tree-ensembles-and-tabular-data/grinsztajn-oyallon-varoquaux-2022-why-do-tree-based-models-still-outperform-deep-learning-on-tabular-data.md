@@ -109,4 +109,4 @@ the function.
   dimensions hurt methods that treat all features together
 - [[gu-kelly-xiu-2021]] — deep models on a return panel, where a tuned tree model belongs in
   the comparison
-- [[fuhrer-tessler-dalal-2024-gradient-boosting-reinforcement-learning]] — gradient-boosted trees as the function approximator in RL
+- [[fuhrer-tessler-dalal-2025-gradient-boosting-reinforcement-learning]] — gradient-boosted trees as the function approximator in RL

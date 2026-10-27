@@ -88,7 +88,7 @@ methods adapt the step and objective online.
   sample cost as the problem to solve
 - [[vieillard-pietquin-geist-2020-munchausen-reinforcement-learning]] — KL regularisation
   between successive policies, obtained implicitly
-- [[fuhrer-tessler-dalal-2024-gradient-boosting-reinforcement-learning]] — PPO, TRPO's
+- [[fuhrer-tessler-dalal-2025-gradient-boosting-reinforcement-learning]] — PPO, TRPO's
   successor, run with gradient-boosted trees as the function class
 - [[luketina-et-al-2022-meta-gradients-in-non-stationary-environments]] — adapting update
   hyperparameters online when the environment drifts

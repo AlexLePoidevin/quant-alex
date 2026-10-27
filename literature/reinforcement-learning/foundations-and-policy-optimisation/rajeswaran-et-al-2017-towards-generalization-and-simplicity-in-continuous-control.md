@@ -73,7 +73,7 @@ different volatility.
 
 - [[schulman-et-al-2015-trust-region-policy-optimization]] — the trust-region method this
   paper's normalised natural gradient simplifies
-- [[fuhrer-tessler-dalal-2024-gradient-boosting-reinforcement-learning]] — another check of
+- [[fuhrer-tessler-dalal-2025-gradient-boosting-reinforcement-learning]] — another check of
   whether a network is the right function class for an RL policy
 - [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]]
   — the supervised version of "simple models are competitive"
