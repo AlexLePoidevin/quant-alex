@@ -25,3 +25,6 @@ not an independent argument.
 - [[wikipedia-tree-graph-theory]] — definitions: a spanning tree on n assets keeps n − 1 links
 - [[czado-2019-analyzing-dependent-data-with-vine-copulas]] — vine copulas, whose first tree
   is the rank-correlation version of this one
+- [[sonthalia-gilbert-2020-tree-i-am-no-tree-i-am-a-low-dimensional-hyperbolic-embedding]] —
+  a test of how tree-like the distances are (δ-hyperbolicity) and a faster tree fit from
+  distances alone
