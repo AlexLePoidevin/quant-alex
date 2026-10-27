@@ -63,3 +63,5 @@ has the geometry without the estimation problem.
   estimated from a sample rather than measured from a body
 - [[wackerly-2008-mathematical-statistics]] — moments of a distribution, defined without
   the mechanical analogy
+- [[axler-2024-linear-algebra-done-right]] — the spectral theorem and SVD proved in general
+  (chapter 7)
