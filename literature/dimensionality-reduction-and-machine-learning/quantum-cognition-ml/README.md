@@ -9,6 +9,9 @@ All ten papers below are published by Qognitive at
 [qognitiveai.com/research](https://www.qognitiveai.com/research/). Several have appeared in
 peer-reviewed venues; the PDFs carry the venue where there is one.
 
+For a spoken introduction, Kharen Musaelian's January 2025 IBM Research talk on QCML is
+listed under his name in `../../podcasts-and-videos/`.
+
 
 ---
 

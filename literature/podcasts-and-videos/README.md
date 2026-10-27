@@ -131,6 +131,20 @@ reading in that order. The Monetary Matters pair works the same way: the first i
 fund, the bonus episode is the ETF running a related strategy under daily liquidity and
 full transparency.
 
+## Kharen Musaelian — Duality and Qognitive
+
+Co-founder of Qognitive, the firm behind quantum cognition machine learning (QCML).
+Its papers are listed in `../dimensionality-reduction-and-machine-learning/quantum-cognition-ml/`,
+next to their foundation, [[busemeyer-bruza-2012]]. The link to the Duality Group hedge fund is from
+general knowledge, not confirmed from the page.
+
+| Type | Title | Channel | Link |
+|---|---|---|---|
+| lecture | *Quantum Cognition Machine Learning (QCML): a path to human-like abstraction and inference* — IBM Research Distinguished Speaker Series, Jan 2025, 55 min | Vimeo, uploaded by Andy Aaron | https://vimeo.com/1047630393 |
+
+The talk is the spoken version of the 2024 programme paper, *Quantum Cognition Machine
+Learning: AI Needs Quantum*. Watch it before reading the finance papers.
+
 ## Other investors
 
 | Type | Title | Link |
