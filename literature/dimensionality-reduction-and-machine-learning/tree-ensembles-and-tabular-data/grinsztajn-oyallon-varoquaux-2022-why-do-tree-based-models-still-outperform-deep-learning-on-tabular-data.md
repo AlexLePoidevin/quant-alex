@@ -110,3 +110,5 @@ the function.
 - [[gu-kelly-xiu-2021]] — deep models on a return panel, where a tuned tree model belongs in
   the comparison
 - [[fuhrer-tessler-dalal-2025-gradient-boosting-reinforcement-learning]] — gradient-boosted trees as the function approximator in RL
+- [[li-et-al-2019-manifold-forests-closing-the-gap-on-neural-networks]] — the case where trees
+  lose: features with a meaningful order, and a forest that splits on contiguous patches

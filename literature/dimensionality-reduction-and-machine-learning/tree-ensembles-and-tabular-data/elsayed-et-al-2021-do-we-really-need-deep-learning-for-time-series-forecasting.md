@@ -86,3 +86,5 @@ should include the naive forecast and score on returns, not levels.
   include a well-configured tree model
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — a long flattened window is a
   wide feature vector; trees split one feature at a time and avoid distance concentration
+- [[li-et-al-2019-manifold-forests-closing-the-gap-on-neural-networks]] — forests that learn
+  look-back windows as contiguous patches instead of fixed lag columns
