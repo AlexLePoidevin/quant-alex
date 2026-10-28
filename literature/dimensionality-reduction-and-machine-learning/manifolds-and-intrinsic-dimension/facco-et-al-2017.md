@@ -27,3 +27,5 @@ A PCA scree plot and a TWO-NN estimate on the same panel is a strong two-number 
   reason a low intrinsic dimension matters for any neighbour-based method
 - [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] — QCML spectral-gap
   estimator, claimed robust to the noise that inflates local estimates like this one
+- [[koulakis-seibold-2026-the-data-manifold-under-the-microscope]] — a controlled benchmark where intrinsic dimension and
+  curvature are known, for checking estimators like this one
