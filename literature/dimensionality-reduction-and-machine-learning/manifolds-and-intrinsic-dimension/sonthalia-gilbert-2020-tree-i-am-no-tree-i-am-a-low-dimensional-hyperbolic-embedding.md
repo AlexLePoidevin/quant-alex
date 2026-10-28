@@ -81,3 +81,5 @@ shape the data really has before choosing a model: [[levina-bickel-2004]] and
   measurements in this folder
 - [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
   — the wider case for matching a model's geometry to the data's
+- [[chlenski-et-al-2025-mixed-curvature-decision-trees-and-random-forests]] — a random forest that splits on hyperbolic and
+  spherical embeddings like these

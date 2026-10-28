@@ -83,3 +83,5 @@ The authors suggest building the same patch splits into XGBoost.
   — the general case for building a domain's structure into the model
 - [[fuhrer-tessler-dalal-2025-gradient-boosting-reinforcement-learning]] — tree ensembles
   in RL, a candidate for the same structured splits
+- [[chlenski-et-al-2025-mixed-curvature-decision-trees-and-random-forests]] — the same
+  keep-the-tree, change-the-split idea for curved (hyperbolic, spherical) spaces
