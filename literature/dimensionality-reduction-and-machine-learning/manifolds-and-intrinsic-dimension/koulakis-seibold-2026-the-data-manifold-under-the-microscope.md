@@ -81,3 +81,5 @@ found the underlying structure.
 - [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
   — the case for building known geometry into models
 - [[gu-kelly-xiu-2021]] — autoencoders as factor models, the finance case of a learned manifold
+- [[bengio-courville-vincent-2013-representation-learning-a-review-and-new-perspectives]] — the manifold prior
+  and autoencoders as manifold learners, the claims this benchmark tests

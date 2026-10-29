@@ -99,3 +99,5 @@ drop the rest.
   learns features at all, which representation learning depends on
 - [[choi-2022-the-curious-case-of-commonsense-intelligence]] — the language-model route to common sense: generative, defeasible
   inference through text rather than world models
+- [[bengio-courville-vincent-2013-representation-learning-a-review-and-new-perspectives]] — the 2013 survey of
+  representation learning that energy-based models and autoencoders grew out of

@@ -25,3 +25,5 @@ visualisation trick. This is what "beyond the covariance matrix" should mean.
   data, gradient-boosted trees beat purpose-built deep nets; the baseline to check against
 - [[dawid-lecun-2023-introduction-to-latent-variable-energy-based-models]] — autoencoders as regularised energy-based models: the
   bottleneck is what stops them learning the identity
+- [[bengio-courville-vincent-2013-representation-learning-a-review-and-new-perspectives]] — the survey of
+  autoencoders and learned representations behind this model
