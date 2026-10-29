@@ -19,3 +19,9 @@ noise, and the Nyström extension gives genuine out-of-sample embedding.
 The manifold-learning method with actual mathematical standing. **Contrast deliberately
 with t-SNE/UMAP** — no out-of-sample extension, distances not meaningful, routinely abused
 in quant writing. Being the person who says so is worth a paragraph.
+
+## Links
+
+- [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — SMCE; spectral
+  embedding on a sparse graph where each point chooses its own neighbours, instead of a
+  fixed kernel

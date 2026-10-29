@@ -90,3 +90,5 @@ will struggle.
   — another test of what shape the data has before fitting a model
 - [[coifman-lafon-2006]] — diffusion maps, which also separate clusters before
   embedding them
+- [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — finds the separate
+  manifolds and their dimensions without labels

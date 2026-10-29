@@ -31,3 +31,5 @@ A PCA scree plot and a TWO-NN estimate on the same panel is a strong two-number 
   curvature are known, for checking estimators like this one
 - [[brown-et-al-2022-the-union-of-manifolds-hypothesis-and-its-implications-for-deep-generative-modelling]] — evidence that intrinsic dimension
   varies across parts of a data set, so one global estimate can mislead
+- [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — SMCE; a per-cluster
+  dimension from sparse, self-chosen neighbourhoods

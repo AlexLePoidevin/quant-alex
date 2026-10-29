@@ -28,3 +28,5 @@ that agree is evidence.
   curvature are known, for checking estimators like this one
 - [[brown-et-al-2022-the-union-of-manifolds-hypothesis-and-its-implications-for-deep-generative-modelling]] — applies this estimator class by class and finds
   intrinsic dimension varies across the data
+- [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — SMCE; lets each point pick
+  its own neighbours and reads off a dimension per cluster, with no fixed k
