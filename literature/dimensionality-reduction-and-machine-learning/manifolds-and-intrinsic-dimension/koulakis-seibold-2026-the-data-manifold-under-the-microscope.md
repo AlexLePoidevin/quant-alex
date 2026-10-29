@@ -6,7 +6,7 @@
 | **Year** | 2026 |
 | **Type** | Conference paper — ICML 2026 (poster); arXiv:2606.15760v1, CC BY 4.0 |
 | **PDF** | `koulakis-seibold-2026-the-data-manifold-under-the-microscope.pdf` (in this folder; the arXiv paper) |
-| **Slides** | [ICML 2026 talk slides with speaker script](https://icml.cc/media/icml-2026/Slides/66403.pdf) — not committed |
+| **Slides** | `koulakis-seibold-2026-the-data-manifold-under-the-microscope-slides.pdf` (in this folder) — the 10-slide ICML 2026 talk with the speaker script; also at [icml.cc](https://icml.cc/media/icml-2026/Slides/66403.pdf) |
 | **Code** | [github.com/koulakis/manifold-microscope](https://github.com/koulakis/manifold-microscope) |
 | **BibTeX** | `koulakis2026data` |
 | **Status** | Reference — §3 (definitions) and §5 (the two use cases); the slides are a 10-minute summary |
