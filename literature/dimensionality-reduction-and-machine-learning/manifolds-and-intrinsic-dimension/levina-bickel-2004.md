@@ -26,3 +26,5 @@ that agree is evidence.
   estimator, claimed robust to the noise that inflates local estimates like this one
 - [[koulakis-seibold-2026-the-data-manifold-under-the-microscope]] — a controlled benchmark where intrinsic dimension and
   curvature are known, for checking estimators like this one
+- [[brown-et-al-2022-the-union-of-manifolds-hypothesis-and-its-implications-for-deep-generative-modelling]] — applies this estimator class by class and finds
+  intrinsic dimension varies across the data

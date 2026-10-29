@@ -83,3 +83,5 @@ found the underlying structure.
 - [[gu-kelly-xiu-2021]] — autoencoders as factor models, the finance case of a learned manifold
 - [[bengio-courville-vincent-2013-representation-learning-a-review-and-new-perspectives]] — the manifold prior
   and autoencoders as manifold learners, the claims this benchmark tests
+- [[brown-et-al-2022-the-union-of-manifolds-hypothesis-and-its-implications-for-deep-generative-modelling]] — data as several manifolds
+  of different dimension, and why single generative models struggle with that

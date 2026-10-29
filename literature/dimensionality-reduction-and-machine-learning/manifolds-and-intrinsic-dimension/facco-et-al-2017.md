@@ -29,3 +29,5 @@ A PCA scree plot and a TWO-NN estimate on the same panel is a strong two-number 
   estimator, claimed robust to the noise that inflates local estimates like this one
 - [[koulakis-seibold-2026-the-data-manifold-under-the-microscope]] — a controlled benchmark where intrinsic dimension and
   curvature are known, for checking estimators like this one
+- [[brown-et-al-2022-the-union-of-manifolds-hypothesis-and-its-implications-for-deep-generative-modelling]] — evidence that intrinsic dimension
+  varies across parts of a data set, so one global estimate can mislead
