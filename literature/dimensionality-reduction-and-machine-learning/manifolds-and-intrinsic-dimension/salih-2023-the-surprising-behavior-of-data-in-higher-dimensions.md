@@ -51,3 +51,5 @@ lift chosen without that prior adds dimensions and invites overfitting.
 - [[aggarwal-hinneburg-keim-2001-surprising-behavior-of-distance-metrics]] — how the choice
   of norm changes the rate
 - [[kernel-pca]] — the kernel trick applied to PCA
+- [[salih-2023-curse-of-dimensionality-an-intuitive-exploration]] — part two: sparsity,
+  distances bunching together, and why (the law of large numbers)

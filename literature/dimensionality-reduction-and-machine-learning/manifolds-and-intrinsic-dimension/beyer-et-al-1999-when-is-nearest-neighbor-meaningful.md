@@ -74,3 +74,5 @@ at random.
   the rate of concentration depends on the norm, and L₁ or k < 1 keeps more contrast than L₂
 - [[altman-krzywinski-2018-the-curses-of-dimensionality]] — two-page primer: sparsity,
   concentration, collinearity and multiple testing, each with a simulation
+- [[salih-2023-curse-of-dimensionality-an-intuitive-exploration]] — blog explainer that
+  simulates this result and gives the law-of-large-numbers intuition for it

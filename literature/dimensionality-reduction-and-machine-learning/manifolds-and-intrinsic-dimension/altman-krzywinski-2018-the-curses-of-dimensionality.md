@@ -68,3 +68,5 @@ prerequisites.
   ambient space
 - [[salih-2023-the-surprising-behavior-of-data-in-higher-dimensions]] — blog explainer:
   volume moves to the corners of the cube, and the kernel trick as the upside
+- [[salih-2023-curse-of-dimensionality-an-intuitive-exploration]] — blog explainer of
+  sparsity and distance concentration, with the law-of-large-numbers reason
