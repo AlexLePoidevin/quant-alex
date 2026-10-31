@@ -49,27 +49,6 @@ model each change hurts.
      The authors suggest this is why per-feature embeddings help FT-Transformer and SAINT:
      they break the invariance.
 
-## Read with care
-
-- **I.i.d. data only, by design.** Time series and stream data are excluded, so nothing here
-  speaks directly to non-stationarity, temporal dependence or regime change. For those see
-  [[elsayed-et-al-2021-do-we-really-need-deep-learning-for-time-series-forecasting]] and
-  [[hall-rasheed-2025-survey-of-machine-learning-methods-for-time-series-prediction]].
-- **Medium-sized data.** Training sets are capped at 10,000 rows. The paper doesn't claim the
-  gap holds at much larger sizes; the appendix's 50,000-row setting has fewer datasets.
-- **The selection rules shape the answer.** The "not too easy" filter keeps only datasets
-  where flexible models clearly beat a single tree or a linear model, and it uses a default
-  GBT as one of its yardsticks. Removing missing values and high-cardinality categoricals
-  also removes things some networks handle differently.
-- **Averages of normalised scores.** The headline curves average across datasets after a
-  per-dataset rescaling, and the ribbons show search-order variation, not dataset-to-dataset
-  spread. The authors warn that this variance estimate is optimistic at large budgets.
-- **The networks are the 2021 field.** Well-regularised MLPs (Kadra et al. 2021) and later
-  tabular architectures are discussed but not all benchmarked. The conclusion has largely
-  held since, but the size of the gap depends on the year.
-- **The mechanisms are evidence, not proof.** Each one is shown by a single transformation
-  averaged across datasets, on numerical-feature classification only.
-
 ## Why it's in the library
 
 **It is the strongest version of the "start with boosted trees" result.** Compared with

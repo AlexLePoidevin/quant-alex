@@ -40,22 +40,6 @@ is about losing old knowledge. The fix that works best keeps injecting randomnes
 - **Conclusion (Discussion).** Gradient descent alone is not enough for sustained learning;
   **a random, non-gradient component** is needed to keep variability.
 
-## Read with care
-
-- **"Deep learning does not work" is deliberately strong.** It means: in long continual
-  settings, standard methods eventually stop beating shallow ones. Loss of plasticity
-  **may not appear at all over a small number of tasks**, as the authors say.
-- **Compute limits what was tested.** The networks are classic, not large modern ones; the
-  authors note that a systematic study with large language models is not affordable.
-- **Head resetting in Continual ImageNet.** Output weights are reset at each task change,
-  which gives the learner knowledge of task boundaries (Methods). The other experiments do
-  not use it.
-- **Best hyperparameters were chosen over the whole run.** Each method's curves are the best
-  of a grid search on average accuracy over 5,000 tasks. Fair across methods, but optimistic
-  for each one.
-- **RL results are noisier.** The authors say themselves that negative RL results are harder
-  to make definitive than supervised ones.
-
 ## Why it's in the library
 
 **It is direct evidence on warm-start versus retrain-from-scratch.** The CIFAR-100 experiment

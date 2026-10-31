@@ -37,19 +37,6 @@ f_lin(x; θ) = f(x; θ₀) + ∇θ f(x; θ₀) · (θ − θ₀)
   MSE and cross-entropy losses (Figs. 2–4). The authors computed the analytic NTK for ReLU and
   erf networks, and released code (neural-tangents).
 
-## Read with care
-
-- **"Wide enough" and "small learning rate" are doing the work.** The theorem needs a
-  learning rate below η_critical and very large width. Practical networks trained with large
-  learning rates, normalisation layers and long schedules can leave the linear regime.
-- **In this regime the network learns no features.** The kernel is fixed at initialisation,
-  so a lazy network is a kernel machine. Later work (Chizat–Oyallon–Bach 2019 on lazy
-  training, Yang–Hu 2021 on feature learning) shows that what makes real networks better than
-  kernels happens *outside* this regime. The paper itself notes that infinite-width kernels
-  beat finite CNNs without pooling in some settings and lose in others (§6).
-- **Experiments are on vision benchmarks** (MNIST, CIFAR-10), mostly with small training
-  subsets. Nothing on noisy, non-stationary or tabular targets.
-
 ## Why it's in the library
 
 **It tells you what a wide network is doing when it is trained conservatively: kernel

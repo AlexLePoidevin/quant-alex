@@ -48,28 +48,6 @@ fits one new tree to the policy-gradient and value gradients from the latest bat
   deeper trees give more accurate gradients at higher cost; small batches learn fast but
   are unstable.
 
-## Read with care
-
-- **The robustness tests are the authors' own designs,** built to show where trees should
-  win. They support the claim that trees' inductive bias helps on structured inputs; they
-  are not a neutral benchmark.
-- **Training budgets differ.** In the challenge tasks GBRL ran 15M steps against the
-  network's 30M, and 5M against 20M. That makes GBRL's wins stronger, but the two are not
-  compute-matched.
-- **Five seeds, partly tuned.** Hyperparameters come from RL Zoo where available and were
-  tuned otherwise. The main plots normalise GBRL against the network, which hides absolute
-  scale; raw numbers are in the appendix.
-- **The ensemble grows without bound** (§7). Every update adds a tree, so memory and
-  inference cost rise through training. The authors suggest pruning or compression as
-  future work.
-- **Only on-policy or advantage-weighted algorithms.** Trees are not differentiable in the
-  input, so DDPG and SAC, which need ∇a Q, are not supported.
-- **"Structured" is doing the work.** Wins come where each feature already means
-  something. Nothing here tests very low signal-to-noise rewards like daily returns.
-- **The earlier version (v1, 2024) differed.** It had no challenge environments and
-  reported compute costs (up to 24 GB GPU memory and 5 days per run) that this version no
-  longer gives.
-
 ## Why it's in the library
 
 **It is the bridge from tree-based ranking to RL.** If a cross-sectional model is already a

@@ -41,21 +41,6 @@ same choice serves for clustering, embedding and dimension estimation.
   with a 2-dimensional estimate matching the light source's two degrees of freedom. Also
   shown: a punctured sphere, Frey faces and five MNIST digits.
 
-## Read with care
-
-- **One parameter, but still a parameter.** Results are stable for λ from 1 to 200 in the
-  examples, but break at λ = 0.1. Each point is also only allowed to choose among its
-  N/10 nearest neighbours, which is a hidden neighbourhood size.
-- **The key assumption can fail.** It needs each manifold to be locally close to flat at
-  the sampling density. Sparse samples, heavy noise or sharp curvature break it, and the
-  paper gives no guarantee that each manifold forms one connected piece of the graph.
-- **The dimension read-out is informal.** "Number of relatively large entries" is judged
-  by eye; there is no threshold or error bar.
-- **Cost.** One convex problem per point makes it slower than nearest-neighbour graphs on
-  large data sets.
-- **Small, clean experiments.** Two or five clusters, at most about 2,000 points, all
-  images or synthetic shapes. No finance data.
-
 ## Why it's in the library
 
 **It is the algorithm behind the union of manifolds picture.**

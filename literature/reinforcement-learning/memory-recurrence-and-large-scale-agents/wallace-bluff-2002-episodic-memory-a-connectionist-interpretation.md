@@ -39,16 +39,6 @@ which parts a neural network could do better, and which it struggles with.
     significance acts. Learning proceeds from simple to detailed versions, which the authors
     argue lets Hebbian learning handle problems such as XOR that it cannot learn directly.
 
-## Read with care
-
-- **Speculative and dated.** No simulations, no data and no testable predictions. The
-  hebbosome mechanism is borrowed from early 2000s proteomics and is not established
-  neuroscience.
-- **Short.** Six pages, with BAIRN itself described elsewhere. Most claims point to other
-  work.
-- **Not machine learning in the modern sense.** There is no learning rule, loss or
-  architecture to implement. Its value is conceptual.
-
 ## Why it's in the library
 
 **It states the episodic-to-semantic problem in plain terms.** An agent, or a research

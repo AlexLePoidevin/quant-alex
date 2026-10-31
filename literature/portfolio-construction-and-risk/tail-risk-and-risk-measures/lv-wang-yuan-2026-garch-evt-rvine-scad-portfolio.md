@@ -38,32 +38,6 @@ variance and mean-variance are both negative (−0.47, −0.36). The τ = 0.01 v
 tail-averse, is the weakest of the three (Sharpe 0.59). Including the vine lowers forecast
 VaR and CVaR against an independence copula (Fig. 4).
 
-## Read with care
-
-- **Survivorship and selection on the full sample.** 131 of the 300 CSI 300 names survive a
-  filter that drops "abnormal returns, missing data, or [failure] to converge". The filter
-  is not described as point-in-time, and current constituents are used throughout. Both
-  favour the strategy.
-- **No transaction costs.** The weights are re-solved every day from a fresh vine fit, and
-  turnover is not reported.
-- **The significance is thin.** Four years of daily data give a Sharpe standard error of about
-  ±0.5, so 0.91 against the index's 0.55 is inside the noise. The excess-return t-test is
-  one-sided at p = 0.044 with three τ values tried. The Scheffé tests and the 60/90-day
-  RAROC and Sharpe tables use windows advanced one day at a time, so the observations
-  overlap by 59/60 or 89/90 and are far from independent. Tests that treat them as
-  independent overstate significance.
-- **The vine is not isolated in the return comparison.** EWP, MVP and MVO "all employ the
-  R-vine copula" too, so Table 2 compares objectives (CVaR + SCAD against variance), not
-  copulas. The only with/without-vine comparison is on forecast risk (Fig. 4), not realised
-  returns.
-- **Fixed tuning.** λ = 1 and α = 3.7 (the Fan & Li default) are fixed, on the grounds that
-  sparsity is "insensitive" to them. Why τ = 0.05 beats τ = 0.01 by 0.3 of Sharpe is not
-  examined.
-- Eq. (24) defines the reported portfolio return with the **mean simulated forecast** r̂,
-  which reads as a forecast rather than a realised return. Table 2 presumably uses realised
-  returns, but the text doesn't say so. The log-return formula is also printed upside down,
-  ln(p_{t−1}/p_t).
-
 ## Why it's in the library
 
 **It is the reference implementation of "copula-based scenarios into a CVaR optimiser".**

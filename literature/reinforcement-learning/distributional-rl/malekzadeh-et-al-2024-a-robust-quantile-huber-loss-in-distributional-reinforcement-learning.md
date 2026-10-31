@@ -39,18 +39,6 @@ the data.
   D4PG quantile baseline, and the estimated b settles near κ ≈ 2 — the value that a grid
   search finds best, not the default of 1.
 
-## Read with care
-
-- **Short paper, thin evidence.** Atari gains are a few points of median score, with no seeds,
-  confidence intervals or significance reported. The hedging result is a single simulated
-  market model and a training curve.
-- **The Gaussian noise model is an assumption.** It is what makes the closed form possible.
-  Real TD-target noise is neither Gaussian nor independent of the prediction. The quantity
-  b = |σ1 − σ2| is also odd as a noise scale: it vanishes when both sides are equally noisy.
-- **How σ1 and σ2 are estimated is brief.** "Sample standard deviation averaged across
-  batches" leaves room for interpretation; the code is the reference.
-- **Robustness is argued, not measured.** There is no experiment with injected outliers.
-
 ## Why it's in the library
 
 **κ is a noise-scale parameter, so set it from the noise.** Anyone fitting quantiles to

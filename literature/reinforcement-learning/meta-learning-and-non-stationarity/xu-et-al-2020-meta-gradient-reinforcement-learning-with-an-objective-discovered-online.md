@@ -43,20 +43,6 @@ task**, by differentiating through the agent's own updates. The algorithm is cal
 - **What gets learned (§5.4, Fig. 3d).** The discovered target drifts over training and
   differs from V-trace in a game-specific way; only in Pong does it stay close to V-trace.
 
-## Read with care
-
-- **Expensive and slow to start.** Meta-gradients through M inner steps multiply compute,
-  and Fig. 3a shows FRODO behind the baseline for much of training before overtaking it.
-- **Needs a hand-built prior to work at scale.** Without the consistency loss performance
-  drops and becomes unstable; too much (c = 1) also hurts. "Discovered online" still leans
-  on a classical RL structure and on another hyperparameter.
-- **The outer loss is still hand-designed.** The meta-network learns a target that serves a
-  canonical RL objective (V-trace, TD(1)). It discovers how to optimise that objective
-  faster, not what to want.
-- **Small number of seeds and a median.** Atari results are one run per game for the main
-  curve; ablations use three seeds on eight games. The non-stationarity evidence is a single
-  five-state toy with a regular, periodic switch.
-
 ## Why it's in the library
 
 **It is the cleanest statement of "let the learning rule adapt online".** Market models are

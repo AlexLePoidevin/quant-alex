@@ -45,20 +45,6 @@ meta-gradients that see a few summary statistics of recent performance help clea
 - **Too fast a change defeats everything (§6.4, Fig. 5).** When the task switches every 25k
   steps, no meta-gradient method beats the fixed baseline; rich context degrades least.
 
-## Read with care
-
-- **Toy gridworlds with regular, discrete switches.** The switches happen on a clock, and in
-  Two Colors the same two tasks alternate, which is the best case for learning a
-  context-to-hyperparameter map. Real non-stationarity is gradual, irregular and rarely
-  repeats exactly.
-- **Best configuration per method.** Every row reports the best point of a hyperparameter
-  sweep over meta learning rate, meta-rollout length and other settings, ten seeds each.
-  Reasonable for a methods comparison, but it means the adaptive method was itself tuned.
-- **One or two hyperparameters tuned.** The claims are about exploration-type
-  hyperparameters in small agents, not learning rates or architectures at scale.
-- **The context features are hand-picked.** The finding is that the right summary
-  statistics help, which leaves the choice of statistics to the designer.
-
 ## Why it's in the library
 
 **It is the honest test of "make the hyperparameters adapt".** In a changing market the

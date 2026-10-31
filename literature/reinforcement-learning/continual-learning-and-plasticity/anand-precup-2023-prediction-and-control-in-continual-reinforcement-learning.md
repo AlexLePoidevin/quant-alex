@@ -42,16 +42,6 @@ of the brain (a slow neocortex and a fast hippocampus).
   DQN, DQN with a large replay buffer, and a multi-head DQN that is told the task identity.
   **A large replay buffer hurt**, because old samples are stale.
 
-## Read with care
-
-- **Theory assumes piecewise change and i.i.d. tasks** (Assumption 1), tabular prediction
-  only. Smooth drift is listed as future work (§7.1).
-- **Two new hyperparameters.** k and λ interact; the authors suspect they could be merged
-  but do not show how.
-- **Small domains.** JellyBeanWorld and MinAtar were chosen to afford 30 seeds; scale-up is
-  untested.
-- **Value-based only.** Policy-gradient and actor-critic versions are proposed, not tested.
-
 ## Why it's in the library
 
 **It is the cleanest form of "slow model plus fast correction".** In a rolling-window setting,

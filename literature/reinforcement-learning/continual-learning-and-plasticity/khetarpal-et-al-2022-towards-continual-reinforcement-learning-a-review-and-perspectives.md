@@ -42,16 +42,6 @@ lifelong or non-stationary RL. Its main contribution is **vocabulary**: a way to
   in truly continual settings, and that a purely data-driven agent has no reason to keep
   skills for old tasks it has no evidence will return.
 
-## Read with care
-
-- **Breadth over depth.** It is a map, not a method. Specific claims about each approach
-  must be checked in the cited papers.
-- **Written before the plasticity results.** Loss of plasticity — networks losing the
-  ability to learn at all — is only lightly covered. Read with
-  [[dohare-et-al-2024-loss-of-plasticity-in-deep-continual-learning]].
-- **Neuroscience sections (§7.1) are suggestive.** The analogies to brain systems motivate
-  ideas but do not test them.
-
 ## Why it's in the library
 
 **Markets are a hybrid non-stationary environment.** In the survey's terms, a trading model

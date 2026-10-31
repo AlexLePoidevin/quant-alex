@@ -37,18 +37,6 @@ each shown with a small simulation of standard-normal data in p dimensions.
 - **Overfitting.** More variables give a more flexible rule, which fits the noise as well as
   the signal.
 
-## Read with care
-
-- **It is a primer, not a result.** Everything is IID Gaussian, with no theorems and no real
-  data. The point is to build intuition. [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]]
-  gives the proof of concentration and [[aggarwal-hinneburg-keim-2001-surprising-behavior-of-distance-metrics]]
-  shows how it depends on the norm.
-- **Independent coordinates are the worst case.** Real features are correlated and often
-  lie close to a low-dimensional manifold, so the effective p is the intrinsic dimension,
-  not the column count. That is the reason for the rest of this folder.
-- **The remedies are only named.** Dimensionality reduction, regularisation and
-  cross-validation get a sentence each.
-
 ## Why it's in the library
 
 **It is the clearest short statement of the four problems, and each one needs a different

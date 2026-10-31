@@ -45,22 +45,6 @@ network's representations collapse onto those means.
   predicted eigenvectors align with the true ones early in training, and the K² = 100
   outliers emerge from the bulk.
 
-## Read with care
-
-- **A limit, not a training trajectory.** Results hold at global optima of an idealised model:
-  infinitely expressive features, interpolation of the training data, and (for the full
-  Hessian) a depth limit. The authors use it to describe converged, heavily
-  overparameterised networks, not training on the way there.
-- **MSE and feature regularisation.** The main results use MSE loss and penalise the features
-  directly rather than the parameters. Cross-entropy is handled in App. B; §5 checks that
-  standard regularisation shows the same picture.
-- **Classification with many samples per class.** The structure exists because there are K
-  discrete classes to collapse onto. A regression model on a continuous target has no class
-  means, so it is not clear how much carries over (regression variants of collapse exist,
-  but are not analysed here).
-- **Clean data.** The experiments are MNIST and CIFAR-10, where networks fit the training set
-  exactly. Nothing here covers noisy, low-signal labels.
-
 ## Why it's in the library
 
 **It is the bulk-plus-outliers story again, inside a network.** A sample correlation matrix

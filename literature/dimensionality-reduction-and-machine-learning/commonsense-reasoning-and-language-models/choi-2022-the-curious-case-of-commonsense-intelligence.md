@@ -47,17 +47,6 @@ It then describes the author's group's systems as evidence:
   agreement with human vetting vs 52.3% for GPT-3 off the shelf), with the author's own
   caveats about bias and that AI should not be a moral authority.
 
-## Read with care
-
-- **An essay, not a study.** The evidence is the author's own projects, described briefly;
-  the numbers come from the cited papers and are not reproduced or compared here.
-- **Dated by its moment.** Written around GPT-3, before instruction-tuned chat models. Some
-  claims (that scale alone does not give common sense or values) read differently now, and
-  should be checked against later work rather than taken as settled.
-- **Delphi was controversial.** Its public demo drew criticism for confident, sometimes
-  biased judgments. The essay acknowledges limitations but is not a neutral account.
-- **Nothing on finance.** Its relevance here is by analogy, set out below.
-
 ## Why it's in the library
 
 **Classification over fixed labels is a modelling choice, and it limits what can be said.**

@@ -46,29 +46,6 @@ different datasets and setups.
   many categorical features), tune with Bayesian search or Optuna, try an LSTM/GRU next, and
   ensemble the two.
 
-## Read with care
-
-- **Vote counting, not effect sizes.** FPA and WRA ignore how much a model won by, so a
-  0.1% RMSE edge counts the same as a 50% one. There are no confidence intervals. The 2.5%
-  overall gap is well inside what a different paper sample would give.
-- **The sample is selected on citations**, which favour papers with a striking new model, and
-  then topped up with 2023–2024 papers by a different rule. Each study's own tuning effort is
-  not recorded, and §5.3.5 shows that effort follows the authors' preferred model.
-- **The finance result rests on almost nothing.** Group 7 holds six task instances: three
-  stock-price or trend tasks, one hedge-fund return task, and two **retail demand** tasks
-  (store items, vegetables). "DL is better for finance" comes from that handful. The paper
-  itself says the per-domain cells are too small to be definitive.
-- **Splits by dataset size and sampling interval** have similar problems: some cells have three
-  to eight comparisons, and the size buckets mix sample counts across very different tasks.
-- **The training-time mean (127,000%) is two outliers** (905,140% and 235,559%). Use the
-  median. Several of the surveyed papers also time a tuned tree model against an untuned
-  network, or the other way round.
-- **Careless editing in places.** For the largest datasets the text says trees beat deep
-  models "by 15.15 in WRA", impossible on a 0–1 scale. Table 3's dataset-size row reads
-  "Medium/Large (35,712)" with no upper bound. Software version numbers ("LightGBM 4.6.0",
-  "XGBoost 2.1.4") are attached to the abstract and inclusion criteria, although the surveyed
-  papers used many versions. Check the figures before quoting a number from the prose.
-
 ## Why it's in the library
 
 **It is the base rate for "trees or nets?" on time series.** Across 79 head-to-head studies

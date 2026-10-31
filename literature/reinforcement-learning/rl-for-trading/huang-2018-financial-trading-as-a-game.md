@@ -39,26 +39,6 @@ trades one FX pair at a time on 15-minute bars, with three changes to the standa
   0.2 "basis points" (pips); two pairs turn negative at the widest setting. Action
   augmentation adds about 6 percentage points of annual return over ε-greedy (Table 4).
 
-## Read with care
-
-- **The cost model is far too kind.** A fixed spread of 0.08 pip, no slippage, no impact and
-  fills at the next bar's open, applied to ~30,000 round trips per pair. At that turnover the
-  result depends almost entirely on the cost assumption, and Table 3 shows the edge
-  shrinking quickly as the spread grows. TrueFX quotes are indicative bank prices, not a
-  tradeable book.
-- **No clean out-of-sample test.** Hyperparameters came from a random search on the same
-  2012–2017 data the agent is then evaluated on. Online learning is prequential, but the
-  design choices were not.
-- **Five seeds, 12 pairs, one period.** No significance tests, no deflation for the
-  configurations tried, and no comparison to simple FX baselines such as short-horizon
-  momentum or carry.
-- **Weak benchmark, chosen after the fact.** Buy-and-hold or "sell-and-hold", whichever did
-  better over the test period.
-- **Units are mixed.** Net profit for JPY-quoted pairs is in yen, so the Table 1 columns are
-  not comparable across pairs; use the percentage returns.
-- **Risk-neutral reward.** The agent maximises expected log return; risk enters only through
-  the author's suggestion of distributional RL as future work.
-
 ## Why it's in the library
 
 **It shows the one trick that genuinely transfers to trading RL.** When your own actions do

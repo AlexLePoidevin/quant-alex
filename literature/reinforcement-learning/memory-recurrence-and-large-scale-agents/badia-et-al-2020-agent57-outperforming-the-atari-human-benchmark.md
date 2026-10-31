@@ -43,19 +43,6 @@ ones.
 - **Transfers to R2D2 (§4.4).** Adding the bandit over discounts alone to R2D2 lifts its
   capped score by nearly 20 points.
 
-## Read with care
-
-- **Enormous data and compute.** Tens of billions of frames per game. The authors say so in
-  the conclusion, and the follow-up
-  [[kapturowski-et-al-2022-human-level-atari-200x-faster]] exists because of it.
-- **Max over training.** The reported score is the maximum of a smoothed evaluation curve
-  during training, averaged over seeds. That flatters any method and makes small gaps
-  unreliable.
-- **Benchmark-specific goal.** "Above human on all 57" is a coverage target on a fixed suite
-  of deterministic games. The human baselines themselves are weak on some games.
-- **Ablations on a chosen subset.** Component studies use a 10-game "challenging set"
-  selected for exploration and credit-assignment difficulty, with three seeds.
-
 ## Why it's in the library
 
 **A bandit over hyperparameters is a practical answer to non-stationarity.** Agent57 does

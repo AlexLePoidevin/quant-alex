@@ -44,15 +44,6 @@
 - **Software.** Neural Tangents (Google) for exact infinite-width NTK/NNGP inference;
   scikit-ntk for an NTK Gaussian-process kernel in scikit-learn.
 
-## Read with care
-
-- **A Wikipedia article can change.** The permanent link above pins the version read here.
-  Check equations against Jacot et al. (2018) and Lee et al. (2019) before quoting them.
-- **The "always interpolates" result is a warning for noisy targets.** Ridgeless kernel
-  regression fits every training label exactly. On returns, where most of each label is
-  noise, that means fitting the noise unless training is stopped early or a ridge term is
-  added.
-
 ## Why it's in the library
 
 **It is the quickest map of the NTK literature**, from the definition through convergence,

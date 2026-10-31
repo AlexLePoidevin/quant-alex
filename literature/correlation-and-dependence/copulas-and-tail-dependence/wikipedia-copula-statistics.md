@@ -37,17 +37,6 @@ A one-page overview of copulas, most useful as a formula sheet:
   as the later fixes. The rest of the section, on engineering, hydrology, medicine and so
   on, is not relevant here.
 
-## Read with care
-
-- It is light on **tail dependence**. The coefficients λ_L and λ_U are mentioned rather than
-  derived. Use Nelsen §5.4.
-- It barely covers **estimation**: there is no maximum likelihood, IFM or
-  canonical-maximum-likelihood fitting.
-- The 2008 criticism of the Gaussian copula appears as a link to the Li article rather than
-  a sourced argument. The point holds: the Gaussian copula has zero tail dependence for
-  |ρ| < 1, so a correlation-only model misses joint crashes. But the source for it is
-  [[munnix-schafer-2011-copula-dependencies]] together with Nelsen, not this page.
-
 ## Why it's here
 
 It is the quickest lookup for a formula: an Archimedean generator, a Gaussian copula

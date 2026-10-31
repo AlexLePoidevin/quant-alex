@@ -44,21 +44,6 @@ distribution", and gives both the theory for it and a practical algorithm (C51).
   approximation, better handling of state aliasing, a rich set of auxiliary predictions, and
   an easier optimisation target.
 
-## Read with care
-
-- **The agent is still risk-neutral.** It acts on the mean. The gains come from learning a
-  better representation, not from using the tails. Risk-sensitive control is left as future
-  work, and the control theory (Thm 1) is discouraging.
-- **The support is a hyperparameter.** V_MIN and V_MAX must be set in advance (±10 here), with
-  a uniform grid. Returns outside the range are clipped onto the end atoms. Returns with a
-  wide or shifting scale need rescaling.
-- **Theory and algorithm do not match.** The contraction is in Wasserstein, but the algorithm
-  minimises a projected KL. The quantile papers in this folder were written to close that gap.
-- **The explanations in §6.1 are hypotheses.** The experiments show that it works, not why.
-- **An erratum** corrects the headline mean score from 1010% to 701% of human because one game
-  ran past the usual 30-minute cap. Mean scores across games are driven by outliers; the
-  median (178%) is the more honest summary.
-
 ## Why it's in the library
 
 **It separates the distribution of an outcome from uncertainty about its mean.** The paper is

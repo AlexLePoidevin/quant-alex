@@ -45,24 +45,6 @@ in the backward pass so the gradient stays close to the true one.
   language model, and U-Net segmentation, with **over an order of magnitude less activation
   memory** (Table 1).
 
-## Read with care
-
-- **It normalises hidden activations, not input features.** The paper is about a layer
-  inside the network. Using its running-statistics idea on inputs is a natural step but is
-  not what is tested here.
-- **Stationarity is assumed in spirit.** The theory treats drift in the statistics as coming
-  from the weights changing slowly under a small learning rate. Drift in the data itself,
-  which is the usual problem with market data, is not studied.
-- **Modest gains on standard benchmarks.** On image classification the improvement over
-  Batch Normalization is within noise (ImageNet top-1 76.3% vs 76.4%), and the ImageNet
-  result is a single run with decay rates carried over from CIFAR.
-- **It does not keep a network adaptable on a long changing stream.** Dohare et al. (2024)
-  used this method on Online Permuted MNIST: it helped on early tasks, but later the network
-  had more dead units, lower effective rank and lower accuracy than plain backpropagation.
-  Good streaming statistics are not a cure for loss of plasticity.
-- **Two more hyperparameters.** α_f and α_b were chosen by a log-grid sweep; the paper does
-  not show how sensitive results are to them across tasks.
-
 ## Why it's in the library
 
 **It is normalisation without look-ahead.** Each sample is scaled using only statistics of

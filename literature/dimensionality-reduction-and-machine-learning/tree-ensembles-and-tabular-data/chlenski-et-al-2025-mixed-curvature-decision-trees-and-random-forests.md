@@ -39,22 +39,6 @@ H² × S² × E².
   forests on raw or tangent-plane coordinates, k-nearest neighbours, MLPs and a
   curvature-aware graph network. On link prediction it is level with the others.
 
-## Read with care
-
-- **The margins are small.** Most wins sit inside the overlapping 95% intervals from
-  10 seeds with one fixed 80:20 split. "First on 29 of 57" is a count, not a test.
-- **It assumes the embedding.** The data must already sit in a product manifold with
-  a chosen signature; the paper picks it by embedding distortion. Choosing and fitting
-  that embedding is the hard, expensive part, and the authors say so.
-- **It loses on the time-series examples.** On the two real cyclic regressions —
-  city temperatures by month and road traffic with year/day/hour/minute as circles —
-  the plain forest on raw coordinates beats the product forest (RMSE 48 vs 78; 0.22
-  vs 0.31). Encoding calendar time as angles did not help a tree.
-- **No privileged axes.** A tree's bias towards axis-aligned splits makes sense when
-  each column means something. Learned embeddings have no meaningful axes, which the
-  authors flag as a weak point of the whole approach.
-- **No finance data**, and the benchmarks are small (hundreds to a few thousand points).
-
 ## Why it's in the library
 
 **It is the step after a tree-like embedding.**

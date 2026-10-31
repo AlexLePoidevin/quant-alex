@@ -18,23 +18,6 @@ C(u,v) = (u^−θ + v^−θ − 1)^−1/θ, joining a normal X to an exponential
 re-specified as log-normal, only its marginal changes. The post closes by listing
 multi-asset pricing, risk management and portfolio optimisation as uses, without detail.
 
-## Read with care
-
-- **Invariance is overstated.** The copula is unchanged only under *strictly increasing*
-  transformations of each variable (Nelsen Thm 2.4.3). Normal → log-normal through exp is
-  one of those. Swapping in an arbitrary new marginal and keeping C is a modelling choice
-  that the theorem does not guarantee.
-- **It contradicts itself on ranks.** Under strictly increasing transformations the ranks,
-  Kendall's τ and Spearman's ρ are all preserved, because they depend on the copula alone.
-  The post also warns that marginal changes can alter rank correlation, which cannot happen
-  in the case it just described.
-- **The theorem is stated without its conditions.** The copula is unique only for
-  continuous marginals. The converse, that any copula combined with any marginals gives a
-  valid joint distribution, is not mentioned.
-- **Clayton's tail asymmetry is not specified.** With θ > 0 it has *lower*-tail dependence
-  and no upper-tail dependence (Nelsen §5.4). That is the direction that matters for joint
-  crashes.
-
 ## Why it's here
 
 It is the shortest intuition for Sklar's theorem in the library. Read it before

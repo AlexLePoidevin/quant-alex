@@ -52,17 +52,6 @@ architecture** (JEPA), from energy-based models.
   Twins. **Hierarchical JEPA** stacks them, with detailed short-horizon predictions at low
   levels and coarser long-horizon ones above.
 
-## Read with care
-
-- **A research programme, not results.** The notes present LeCun's proposed architecture and
-  argue for it; there are no experiments or benchmarks. The claim that regularised methods
-  will beat contrastive ones and probabilistic models in high dimensions is a position, not
-  something shown here.
-- **An introduction, not a survey.** Each method gets a paragraph and the citations are
-  pointers. VICReg, Barlow Twins and the JEPA papers themselves are where the details are.
-- **Written in 2022–23.** Image and video JEPAs (I-JEPA, V-JEPA) have since been published
-  and are not covered.
-
 ## Why it's in the library
 
 **It puts PCA and a modern representation learner on one axis.** Every method in this

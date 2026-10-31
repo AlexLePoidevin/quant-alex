@@ -40,17 +40,6 @@ dimensionality that breaks nearest-neighbour methods.
   workloads were meaningful, and didn't compare against a plain linear scan, which would have
   won at 10–15 dimensions.
 
-## Read with care
-
-- It is an **asymptotic result in m with n fixed**. It says nothing directly about a finite
-  sample in 30 dimensions; the simulations are what show the effect is already large there.
-- The theorem concerns **contrast** (nearest against farthest), not whether the neighbours
-  are useful for prediction. A kNN predictor can still help if the target varies along the
-  few directions that do separate points.
-- Uniform, independent-noise workloads are the worst case. Real feature panels with strong
-  factor structure are closer to the paper's "implicitly low-dimensional" case, which is
-  why the intrinsic dimension needs measuring.
-
 ## Why it's in the library
 
 **It is the warning label for every distance-based method on a wide feature set:** kNN

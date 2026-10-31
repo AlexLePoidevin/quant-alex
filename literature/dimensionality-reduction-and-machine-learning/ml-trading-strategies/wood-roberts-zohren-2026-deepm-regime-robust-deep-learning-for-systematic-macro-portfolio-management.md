@@ -50,26 +50,6 @@ inductive biases and the loss that make this stable.
   one-day lag: 0.84. Zero-cost training: 0.56; full-cost training: 0.70. Best single seed
   0.72 against 0.93 for the top-10 or larger ensembles.
 
-## Read with care
-
-- **Design choices are judged on the test period.** All ablations, the SoftMin temperature
-  comparison and the ensemble sizes are reported on 2010–2025. The baseline configuration is
-  "the best-performing" one, so the 0.93 is partly selected on the data it is reported on.
-  A deflated Sharpe or a final untouched period would be needed to quote it cleanly.
-- **The edge over passive is marginal.** IR 0.44 with t = 1.85 (1.93 for the 100-seed
-  ensemble). The strong t of 3.69 is for the strategy's own return, which includes the risk
-  premia the passive book also earns.
-- **Hyperparameters are reported inconsistently.** §6.1.4 gives τ = 1/5, λ = 0.1; §7.1
-  gives τ = 0.5, λ = 1/5. The temperature discussion implies τ = 0.2.
-- **The macro graph is hand-built by people who know the history.** It is fixed ex ante,
-  but which links to include is itself a modelling choice made with hindsight.
-- **Costs are linear and capacity is not modelled.** The cost table is reasonable for
-  liquid futures, but there is no impact term, so results say nothing about size.
-- **Ex-post volatility rescaling** to 10% puts strategies on one scale but uses the
-  realised volatility of the test period.
-- **Continuous futures from a commercial vendor;** the roll and back-adjustment method is
-  not described.
-
 ## Why it's in the library
 
 **It is the strongest argument in this folder for aligning the loss with the portfolio.**

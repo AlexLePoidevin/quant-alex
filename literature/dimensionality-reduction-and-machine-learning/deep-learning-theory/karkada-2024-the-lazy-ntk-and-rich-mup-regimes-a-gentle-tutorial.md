@@ -47,18 +47,6 @@ That choice sets how much the network learns features.
 - **Evidence (§2.3.8).** A Myrtle-5 CNN on CIFAR-10 with minibatch SGD and momentum: training
   is well behaved for 0 ≤ r ≤ ½ and diverges or stalls outside it, more so as width grows.
 
-## Read with care
-
-- **Non-rigorous by design.** The rigorous versions are Yang & Hu (2021), *Feature Learning in
-  Infinite-Width Neural Networks*. The derivation uses a 3-layer linear network trained on one
-  example.
-- **Says where training is stable, not which r generalises best.** The tutorial argues rich
-  training is closer to practice, but whether more feature learning helps a given task is
-  left open, and it is the question that matters on noisy data.
-- **Width-scaling arguments.** The guidance is about how to scale hyperparameters as width
-  grows. For a fixed, small network the practical differences between parameterisations are
-  smaller, and ordinary tuning may hide them.
-
 ## Why it's in the library
 
 **It is the map for the rest of this folder.** The NTK papers

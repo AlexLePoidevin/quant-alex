@@ -37,20 +37,6 @@ probabilities on fixed return values, it fixes N equal probabilities and learns 
   start state and converges in W1 to Monte Carlo ground truth (Fig. 3). On 57 Atari games,
   QR-DQN-1 reaches mean 915% / median 211% of human versus C51's 701% / 178% (Table 1).
 
-## Read with care
-
-- **Still risk-neutral.** Actions are greedy on the mean of the quantiles. The paper names
-  risk-sensitive policies as the main future direction.
-- **κ is a heuristic.** The quantile Huber loss is no longer an exact quantile loss: inside
-  [−κ, κ] it estimates something between a quantile and an expectile. The value of κ was
-  chosen by experiment; see the 2024 Huber paper in this folder.
-- **Uniform, fixed quantile fractions.** Equal spacing in probability puts few points in the
-  tails. Better tail resolution needs larger N or learned fractions (IQN, FQF).
-- **Overestimation bias is not addressed.** The authors expect QR-DQN to inherit DQN's
-  max-operator bias.
-- **Benchmark evidence.** Results are best-agent scores on deterministic Atari games, with
-  hyperparameters tuned on five training games and a single seed for the test protocol.
-
 ## Why it's in the library
 
 **It is quantile regression, the econometric tool, inside a learning loop.** The pinball loss

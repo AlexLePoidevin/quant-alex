@@ -41,17 +41,6 @@ embed the tree if a hyperbolic picture is needed.
     lowest distortion on two single-cell RNA datasets, where neighbour joining and the
     embedding methods ran past 4 hours.
 
-## Read with care
-
-- **TreeRep is randomised.** Reported numbers average 20 runs; the best runs are in the
-  appendix. Single runs vary.
-- **Neighbour joining is still the quality benchmark.** On the graph datasets it beats
-  TreeRep on both measures. The case for TreeRep is speed at scale, not accuracy.
-- **A tree is only as good as δ is small.** On distances that aren't hierarchical, any
-  tree distorts them; the method doesn't tell you when not to use it.
-- **No financial data.** The tests are synthetic hyperbolic points, biology and social or
-  citation graphs.
-
 ## Why it's in the library
 
 **It gives a test for whether asset correlations really form a hierarchy.**

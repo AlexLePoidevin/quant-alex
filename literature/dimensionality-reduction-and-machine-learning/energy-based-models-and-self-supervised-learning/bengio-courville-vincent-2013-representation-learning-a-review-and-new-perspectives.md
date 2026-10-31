@@ -36,19 +36,6 @@ find and separate (**disentangle**) those factors.
 - **Building in invariance (§11).** Augmentation, convolution and pooling, slow features
   from temporal coherence, and early algorithms for disentangling factors.
 
-## Read with care
-
-- **A 2012 snapshot.** It predates VAEs (2013–14), GANs, batch norm, residual networks,
-  attention and contrastive/self-supervised learning. Greedy layer-wise pre-training with
-  RBMs and auto-encoders, a large part of the review, has since been dropped in practice.
-- **Disentangling is a hope here, not a result.** Later work (Locatello et al., 2019)
-  showed that fully unsupervised disentangling is impossible without inductive biases or
-  some supervision. The priors in §3.1 are those biases, but which ones hold for a given
-  data set is not shown.
-- **A review by protagonists.** The authors built many of the methods covered, and the
-  emphasis follows their own research.
-- **No finance data**; the examples are vision, speech and language.
-
 ## Why it's in the library
 
 **It is the vocabulary of the modern ML toolkit.** Autoencoders, energy-based models,

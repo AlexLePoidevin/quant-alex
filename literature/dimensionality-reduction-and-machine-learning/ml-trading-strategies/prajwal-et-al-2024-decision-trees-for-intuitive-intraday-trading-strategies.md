@@ -32,25 +32,6 @@ one-minute return is positive.
   against −7.0%; win rate 48%. The strategy beat buy-and-hold on Sharpe for 60% of stocks
   and on total return for 46%, both down from the training period.
 
-## Read with care
-
-- **No trading costs at one-minute frequency.** The model can change position every minute.
-  Even a fraction of a basis point per trade would dominate a 48% win-rate strategy at this
-  turnover. The results are best read as gross signal, not as a strategy.
-- **Look-ahead in data cleaning.** Missing minutes are filled by **linear interpolation**,
-  which uses the next observed price. On one-minute bars this can leak the future into both
-  features and labels.
-- **Model selection on the test set.** The depth sweep in Figs. 1–3 is plotted on the
-  testing dataset, and depth 4 was chosen from it. The proposed next step, pruning stocks
-  that underperformed, is also selection on outcomes.
-- **One year out of sample, one market, one split.** No walk-forward retraining, no seeds,
-  no significance tests.
-- **Sharpe from tiny volatility.** Annualising one-minute returns with 94,500 periods a year
-  and subtracting a 7.2% risk-free rate gives large Sharpe ratios from small, autocorrelated
-  P&L. Lower total return than buy-and-hold with a higher Sharpe mainly reflects time out of
-  the market.
-- **Benchmark.** Buy-and-hold per stock, not a cost-matched or timing-neutral comparison.
-
 ## Why it's in the library
 
 **As a contrast case for per-asset against pooled models.** One tree per stock on two years

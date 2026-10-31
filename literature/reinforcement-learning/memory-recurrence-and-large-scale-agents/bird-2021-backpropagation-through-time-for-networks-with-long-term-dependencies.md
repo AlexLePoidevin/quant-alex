@@ -38,20 +38,6 @@ gradient information through time instead of unrolling backwards.
   dynamics are chaotic. Damping it fixes the problem but makes the method approximate again.
 - **Derivation (§3).** Expands the full chain rule and rewrites it as the recursion above.
 
-## Read with care
-
-- **This is real-time recurrent learning.** The recursion is, in substance, RTRL (Williams
-  & Zipser, 1989), which the note does not cite. RTRL's known cost applies: Δ has size
-  (state width × number of parameters), and updating it each step costs roughly
-  (state width)² × parameters. That is why practice uses truncated BPTT, or approximations
-  of RTRL, for networks of any size.
-- **"Exact" needs a qualifier.** If parameters change every step, Δ mixes Jacobians from
-  older parameter values. The result is then also an approximation, as in standard RTRL.
-- **No experiments.** The author says the benefits cannot yet be shown on current models.
-  Nothing here measures speed, memory or learning quality.
-- **§2.1.1 is not a theorem.** The intrinsic-dimension argument for dropping cross terms is
-  informal and should not be relied on.
-
 ## Why it's in the library
 
 **It names the assumption hidden in every recurrent model you fit.** Truncated BPTT over a

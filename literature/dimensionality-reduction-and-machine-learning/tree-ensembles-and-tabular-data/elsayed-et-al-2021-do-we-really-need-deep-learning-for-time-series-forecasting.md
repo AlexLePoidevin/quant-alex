@@ -39,25 +39,6 @@ from 2016–2020 conference papers.
 - **Ablation (Table 8):** appending covariates from every step of the window instead of only
   the last one makes almost no difference.
 
-## Read with care
-
-- **There is no random-walk baseline.** That matters most for the two financial datasets.
-  Exchange-Rate and NASDAQ-100 are price **levels**, where "tomorrow equals today" is
-  very hard to beat on RMSE and gives a correlation near 1. The GBRT's 0.999 correlation on
-  Exchange-Rate is what persistence would give. Nothing here shows a forecast of **returns**.
-- **NASDAQ-100 is internally inconsistent.** The GBRT's RMSE (0.078) and MAE (0.063) are
-  about a quarter of DARNN's, yet its MAPE (0.0257) is six times worse (0.0043). Those
-  can't all be on the same scale, so the comparison is unreliable.
-- **Mixed protocols.** Many baselines are numbers copied from the original papers
-  (marked * in the tables), others were re-implemented and re-tuned, and Electricity and
-  Traffic were sub-sampled. Tuning budgets aren't stated, and each table is a single final
-  run with no error bars or significance tests.
-- **The GBRT is tuned per dataset** (ElectricityV2 separately), so "a simple baseline" still
-  has its window size and hyperparameters chosen on each problem.
-- A preprint with no published version found, and the deep models it beats are mostly
-  2016–2019. Later work (N-BEATS, PatchTST, and the linear "DLinear" baseline of Zeng et
-  al. 2023) reopened the question with stronger baselines on both sides.
-
 ## Why it's in the library
 
 **It shows that the framing matters more than the model family.** The same XGBoost goes from

@@ -49,20 +49,6 @@ Atari games.
 - **Distributed effects (App.).** Fewer actors means older data in replay (mean parameter
   lag rises from about 1,500 to 5,500 updates going from 256 to 64 actors) and larger ΔQ.
 
-## Read with care
-
-- **Benchmarks, not mechanisms.** The Atari gains combine an LSTM, sequence prioritisation,
-  value rescaling, a higher discount and other changes. Ablations (Fig. 4, App.) show only
-  the LSTM helps consistently; the rest help some games and hurt others.
-- **Few seeds, huge compute.** Results average three seeds (one for some variants), and
-  agents use billions of frames. App. figures show R2D2 is less sample-efficient than
-  single-actor agents early on.
-- **ΔQ is an indirect proxy.** It measures sensitivity to the start state, not the quality
-  of the learned memory. The causal story for burn-in (destructive updates) is a hypothesis,
-  supported by informal experiments the paper does not show.
-- **Memory-critical results are on DMLab.** Atari is close to fully observed with 4-frame
-  stacks, so the memory-use analysis rests mainly on one DMLab task.
-
 ## Why it's in the library
 
 **Stale state is a general problem for any model trained on its own history.** A replay

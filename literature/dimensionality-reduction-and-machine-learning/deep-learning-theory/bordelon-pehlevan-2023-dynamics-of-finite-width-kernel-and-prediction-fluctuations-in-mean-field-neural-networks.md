@@ -45,19 +45,6 @@ training**, in the regime where networks learn features.
   train more slowly. The fitted training rate falls roughly linearly in 1/N, with a
   quadratic term below N ≈ 100.
 
-## Read with care
-
-- **Physics rigour, not proofs.** The authors say so (§10). The expansion keeps only the
-  leading 1/N term and breaks down when the number of samples approaches the width.
-- **Not computable at scale.** The full equations need a Hessian with O(T⁴P⁴) entries over
-  training time and samples, so they are solved only for toy models: one training point,
-  two-layer networks, deep linear networks. The CIFAR results are empirical checks, not
-  solutions of the theory.
-- **Only initialisation noise.** SGD minibatch noise, data-order effects and distribution shift
-  are outside the analysis. In practice they also produce seed-to-seed disagreement.
-- **Toy targets.** Mostly Gaussian random data or single points. Nothing on noisy,
-  low-signal targets, where variance across seeds could be large relative to the signal.
-
 ## Why it's in the library
 
 **It explains seed variance and what ensembling can and cannot fix.** Two models trained on

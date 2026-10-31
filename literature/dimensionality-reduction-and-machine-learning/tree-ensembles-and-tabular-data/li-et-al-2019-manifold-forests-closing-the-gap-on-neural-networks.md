@@ -37,20 +37,6 @@ feature, while a convolution does. MORF puts that position back into the forest.
   - Training and test times are close to a random forest's and well below the CNN's.
   - Its feature-importance maps on MNIST are smoother and less noisy than RF or SPORF.
 
-## Read with care
-
-- **An unrefereed early version.** This is the anonymised conference submission; the
-  arXiv record went through five versions and a new title, and lists no published venue.
-- **Small, friendly tests.** Three toy simulations built so local structure matters, and
-  MNIST. The CNN baseline is a small two-layer network, and the comparison methods use
-  scikit-learn defaults.
-- **The title overstates it.** On the one real data set MORF does not close the gap with
-  the CNN; it beats the other non-deep methods.
-- **The time-series case is weak.** On the noisy-impulse task all methods are close, and
-  the authors suggest continuity matters little there.
-- **The manifold has to be known.** MORF needs to be told which features are neighbours
-  and how big a patch can be. It does not learn the structure.
-
 ## Why it's in the library
 
 **It shows how to give a tree model a time axis.** A ranking model on lagged returns or

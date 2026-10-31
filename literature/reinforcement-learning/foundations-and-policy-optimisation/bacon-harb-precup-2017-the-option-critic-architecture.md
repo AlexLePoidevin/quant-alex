@@ -40,20 +40,6 @@ policy over options, all from the task reward, given only the number of options.
   Pac-Man, Seaquest, Zaxxon) with a shared deep network: beats the original DQN on three of
   four; with two options in Seaquest, one specialises in "up", one in "down".
 
-## Read with care
-
-- **Options shrink without help.** Optimising return alone drives options to terminate
-  every step, since primitive actions suffice for any MDP. The deep experiments add a
-  termination regulariser ξ = 0.01 and an entropy bonus; without such terms, temporal
-  extension is not guaranteed.
-- **The number of options is fixed in advance**, and options are available everywhere.
-  Learning initiation sets is left open.
-- **The Atari comparison is to the 2013 DQN** with a matched episode budget, one parameter
-  setting for all games. It shows the method works end to end, not that options beat strong
-  flat agents.
-- **Interpretability is anecdotal.** The doorway terminations and up/down options are
-  illustrations from small or chosen cases.
-
 ## Why it's in the library
 
 **Strategies have their own timescales.** A book that holds positions for days, re-ranks

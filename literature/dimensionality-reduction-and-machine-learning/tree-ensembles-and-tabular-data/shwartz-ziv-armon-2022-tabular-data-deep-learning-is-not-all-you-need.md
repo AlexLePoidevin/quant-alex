@@ -32,21 +32,6 @@ DNF-Net, and a Kaggle 1D-CNN) against XGBoost, on 11 datasets with one tuning pr
 - **XGBoost is far easier to tune.** It reaches its plateau in fewer HyperOpt iterations,
   and each iteration is more than ten times faster (Fig. 2).
 
-## Read with care
-
-- **Eleven datasets, all i.i.d.-style cross-sections.** None is a financial time series or a
-  low signal-to-noise problem; a 1% difference in cross-entropy on Higgs says little about a
-  return forecast with an R² near zero.
-- **The ensemble's edge is small and uneven.** It loses to single models on several
-  datasets (TabNet on Rossmann and Higgs, NODE on Higgs and Epsilon, DNF-Net on Gas, XGBoost
-  on Eye Movements), and it is selected and weighted using the same validation sets.
-- **The tuning-effort result rests on one dataset** (Shrutime) and one optimiser. The
-  authors note that XGBoost's default hyperparameters may simply have been chosen on many
-  more datasets.
-- **It predates the stronger 2021–2022 deep tabular baselines** (FT-Transformer, tuned MLPs
-  with regularisation cocktails). Those narrowed the gap without overturning the conclusion,
-  which the larger benchmark of Grinsztajn, Oyallon & Varoquaux (NeurIPS 2022) confirmed.
-
 ## Why it's in the library
 
 **It is the citation for "start with gradient-boosted trees on tabular features".** A panel

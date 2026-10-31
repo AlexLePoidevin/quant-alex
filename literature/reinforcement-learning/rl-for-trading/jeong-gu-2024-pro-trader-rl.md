@@ -43,30 +43,6 @@ returns on US stocks.
   year, Sharpe 4.58, maximum drawdown 8.4%**, against 6.7% a year for the Dow Jones index and
   negative returns for plain PPO, DQN and A2C agents trading buy / hold / sell.
 
-## Read with care
-
-- **Survivorship bias is built in.** The universe is today's S&P 1500 from Yahoo Finance,
-  filtered for two years of history, then traded back to 2005. Stocks that were delisted,
-  went bankrupt or fell out of the indices are mostly missing. For a long-only breakout
-  strategy concentrated in 10 names, mostly mid and small caps, this alone can produce large
-  excess returns.
-- **The breadth features inherit the same bias.** "Up Stock" and "Down Stock" counts are
-  computed over the survivor universe.
-- **The comparison is not like for like.** The benchmark is the Dow Jones price index (30
-  large caps, no dividends) against a 10-stock small- and mid-cap book. There is no
-  equal-weight or size-matched benchmark and no factor regression, so beta to small caps and
-  momentum is not separated from skill.
-- **Costs and capacity.** 0.1% per side, no slippage, opening-price fills in small caps,
-  and a $10k book. No turnover is reported.
-- **One test period, sliced afterwards.** The sideways / bear / bull sub-periods of
-  Experiment 2 are chosen inside the same 2017–2023 window. Experiment 3 compares against
-  numbers quoted from other papers on different data and periods.
-- **The baselines are weak.** The generic RL agents lose money, and supervised baselines
-  are paired with the plain Donchian sell rule rather than the paper's own exit logic.
-  The gain could come from the exit rules as much as from RL.
-- **Sharpe 4.6 on a long-only 10-stock daily book over six years is implausible** for a
-  price-only signal. Treat it as a prompt to look for the cause, starting with the universe.
-
 ## Why it's in the library
 
 **A clear example of a common pattern: RL that is really classification.** The buy agent

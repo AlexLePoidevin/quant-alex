@@ -39,17 +39,6 @@ going.
   Online Normalisation helps at first then degrades. CBP is much less sensitive to its
   hyperparameter than L2 is to weight decay. Same computational cost as backprop.
 
-## Read with care
-
-- **The tester is a heuristic.** The authors say so (§6). The utility measure is plausible but
-  not derived; an appendix ablation supports each component.
-- **Small, idealised problems.** Bit-Flipping uses a 5-unit network. The 2024 Nature paper
-  carries the claim to ImageNet, ResNets and longer RL runs.
-- **Plasticity, not forgetting.** The paper deliberately does not measure performance on old
-  data. A method that keeps learning may still forget.
-- **Online, one example at a time.** Most experiments use no mini-batches. How the effects
-  scale to large-batch, many-epoch training is left to later work.
-
 ## Why it's in the library
 
 **It names a failure that warm-started models can have.** A model that is updated

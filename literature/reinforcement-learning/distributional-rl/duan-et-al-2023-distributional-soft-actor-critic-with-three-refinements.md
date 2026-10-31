@@ -40,19 +40,6 @@ per task. This paper adds three fixes (DSAC-T, or DSACv2).
   agent fails at reward scales 0.01 and 0.1, while DSAC-T is flat across scales (Fig. 5).
   §6 deploys a sim-trained policy on a wheeled robot.
 
-## Read with care
-
-- **A Gaussian return distribution.** One mean and one standard deviation per state–action:
-  no skew, no fat tails, no multimodality. It captures spread, not shape — the opposite
-  trade-off to the quantile methods in this folder.
-- **The distribution is mainly a tool against overestimation.** The policy maximises the
-  (min-of-twins) mean plus entropy. Nothing here uses σ for risk-sensitive decisions.
-- **Theory is inherited.** Convergence is the DSPI result from DSACv1 under tabular
-  assumptions; the refinements are algorithmic and come with no new guarantee.
-- **Benchmark claims.** "Matches or outperforms on all tasks" is on authors' own framework
-  (GOPS) with their implementations of the baselines; differences on several tasks are within
-  seed noise. Ablations are shown on one or two tasks each.
-
 ## Why it's in the library
 
 **Scale-free updates are worth copying.** The third refinement ties the outlier clip and the

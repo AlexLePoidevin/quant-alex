@@ -38,20 +38,6 @@ builds image data sets where they can be measured almost exactly.
   falls and classes move further apart towards the latent space. The network separates
   classes at the cost of a more folded intermediate surface.
 
-## Read with care
-
-- **A testbed, not a tool for real data.** The method needs a known grid of
-  transformations and works only up to about 4–5 intrinsic dimensions and simple
-  shapes (boxes times circles). It cannot be pointed at an arbitrary data set.
-- **The bounds are fitted after the fact.** "Closer to Fefferman" compares slopes
-  only. The theoretical constants are chosen to wrap the empirical curves, so nothing
-  here tests the bounds' actual size.
-- **Small experiments.** Three repetitions per sample size, two data sets, one
-  architecture family. Fine grids on fixed-resolution images also create aliasing
-  that distorts curvature.
-- **New and unreplicated.** A first version (v1, June 2026) with no independent
-  follow-up yet; no finance data.
-
 ## Why it's in the library
 
 **It gives the sample-size cost of learning a manifold.** Error that falls like

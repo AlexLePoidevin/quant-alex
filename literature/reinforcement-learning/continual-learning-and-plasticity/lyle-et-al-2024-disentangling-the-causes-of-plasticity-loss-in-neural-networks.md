@@ -46,16 +46,6 @@ together** — a "Swiss cheese" model — gives robust training.
   modest gains for C51 and Rainbow on Atari and SAC on DeepMind Control. L2 and batch norm
   interfered with the RL agents, so layer norm alone was used there.
 
-## Read with care
-
-- **Not an exhaustive list.** The authors do not claim to have found every mechanism.
-- **Mostly synthetic benchmarks.** Random labels and permuted classes are clean but extreme.
-  The natural distribution-shift results are fewer.
-- **L2 costs speed.** The conclusion notes weight decay slows single-task convergence, and
-  better norm control may exist.
-- **Preprint version.** This copy is arXiv v1; check for a published version before citing
-  exact numbers.
-
 ## Why it's in the library
 
 **Return targets are a large-target regression problem.** Many forecasting models regress on

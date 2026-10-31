@@ -45,21 +45,6 @@ of most later continuous-action actor-critic methods.
   dimension**. Mountain car, pendulum and puddle world: a slight edge. A 6-segment octopus arm
   with 20 action and 50 state dimensions is learned directly.
 
-## Read with care
-
-- **Exploration is outsourced.** A deterministic policy does not explore. The method relies on
-  an off-policy behaviour policy (here fixed-width Gaussian noise) and on a critic that
-  extrapolates well to actions near the policy. When the critic is wrong, the actor follows
-  the wrong gradient confidently.
-- **Off-policy gradient is approximate.** Eq. 15 drops a term involving ∇θ Q, as OffPAC did.
-  The justification is that local optima are preserved, not that the gradient is exact.
-- **Small-scale evidence.** Linear tile-coded critics, simple tasks, best-of-sweep step sizes.
-  The deep version (DDPG, Lillicrap et al. 2015) came later and is known to be brittle to
-  hyperparameters; this paper does not address that.
-- **The variance argument.** The stochastic gradient's variance grows like 1/σ² as the policy
-  becomes deterministic (§6). That is the core practical case for DPG, but it is argued, not
-  measured here beyond the bandit.
-
 ## Why it's in the library
 
 **It is the template for "differentiate the critic, not the reward".** A trading policy that

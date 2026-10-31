@@ -42,20 +42,6 @@ trained on the **maximum entropy** objective: maximise reward plus the policy's 
   scale is the one hyperparameter that needs tuning** because it acts as the inverse
   temperature. The target smoothing τ has a wide workable range.
 
-## Read with care
-
-- **Temperature is tuned by hand here.** In this version α is fixed (folded into the reward
-  scale), and the paper shows performance is sensitive to it and that the best value varies
-  by task. Automatic temperature tuning came in the follow-up (Haarnoja et al. 2018b).
-- **"Stable across seeds" is measured on five seeds**, with min–max bands on simulated
-  locomotion tasks that have dense, informative rewards. That says little about domains
-  where the reward is mostly noise.
-- **Entropy is not risk control.** The policy is random in action space, which helps
-  exploration; it does not penalise variance of returns. Return risk needs a separate
-  mechanism, such as a distributional critic.
-- **Off-policy data has limits.** The replay buffer assumes old transitions are still
-  informative about current dynamics. Under drift, old data can mislead the critic.
-
 ## Why it's in the library
 
 **It is the default continuous-action RL baseline.** Any RL position-sizing or allocation

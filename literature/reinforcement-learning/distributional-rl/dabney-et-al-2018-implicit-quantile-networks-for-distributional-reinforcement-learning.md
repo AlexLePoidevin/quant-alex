@@ -39,19 +39,6 @@ feeding it a distorted τ gives a **risk-sensitive** agent.
   QR-DQN's 864% / 193%, close to Rainbow, which combines many other improvements, and
   ahead of it on human starts and on the hardest games.
 
-## Read with care
-
-- **No new theory.** Contraction results for fixed quantiles do not automatically extend to a
-  learned quantile function; convergence of risk-sensitive control is open. §6 lists both.
-- **The network need not output a monotone function.** Nothing forces Z_τ to increase in τ,
-  so quantile crossing can occur. The paper does not address it.
-- **The risk-sensitive results are small and unexplained.** Six games, a few distortion
-  settings, and evaluation by the risk-neutral score. They show the policy class is usable,
-  not that any distortion is generally better.
-- **Distortion is applied to the policy only.** The learned distribution is the risk-neutral
-  one; β changes how actions are chosen, which mixes "what the distribution is" with "which
-  action is best under a risk measure" in the bootstrapped target.
-
 ## Why it's in the library
 
 **It puts a risk measure into the policy with one line of code.** Choosing actions by CVaR,

@@ -40,21 +40,6 @@ the main architectures from one principle, **the symmetries of the domain the da
 - §6 surveys applications (chemistry, drug design, protein biology, recommender systems,
   traffic, physics, computer vision); §7 is a short history.
 
-## Read with care
-
-- **A framework, not an empirical result.** There are no benchmarks. The claim that
-  symmetry explains why architectures work is argued by derivation and example, and it is
-  strongest for grids and graphs, where the symmetry is exact.
-- **It assumes the symmetry is known and exact.** Financial data rarely give you one. The
-  ordering of stocks in a cross-section is arbitrary (permutation symmetry is real), but
-  time is not translation-invariant under non-stationarity, and feature columns have no
-  natural symmetry group at all.
-- **No finance in it.** Every application is from science, vision or recommender systems.
-- **2021 snapshot.** Written before the large-Transformer era; the Transformer section is
-  short, and later work on approximate or learned symmetries is not covered.
-- **Long and mathematically uneven.** §2–3 and the blueprint are accessible. Gauges and
-  bundles (§4.5) need differential geometry and are optional for most readers.
-
 ## Why it's in the library
 
 **It gives the vocabulary for "what should the model be invariant to?"** That is the right

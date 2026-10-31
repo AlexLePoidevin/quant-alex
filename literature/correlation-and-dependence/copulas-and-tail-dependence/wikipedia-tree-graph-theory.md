@@ -28,13 +28,6 @@ The definitions page for trees, used here as a glossary:
   theorem counts spanning trees in a general graph. Unlabelled trees have no closed formula,
   only Otter's asymptotic t(n) ~ C·αⁿ·n^{−5/2} with α ≈ 2.956.
 
-## Read with care
-
-- **Nothing on finance or statistics**, and nothing on algorithms. The minimum and maximum
-  spanning tree constructions (Kruskal, Prim) are on separate pages.
-- Most of the page is combinatorics (Prüfer sequences, rooted-tree recurrences, the list of
-  tree types) that has no use here.
-
 ## Why it's in the library
 
 **A vine copula is a nested sequence of trees, and the vocabulary comes from here.** On d

@@ -39,18 +39,6 @@ nearly silent and stay that way**. The paper measures this, traces it mainly to 
   learning rate helps but does not solve it; **doubling or quadrupling width barely helps**;
   recycling random or *most*-active units instead hurts.
 
-## Read with care
-
-- **Correlation in places.** The link between dormant units and the high-replay-ratio
-  collapse is a correlation; the authors say it is "difficult to assert conclusively".
-- **ReDo does not remove dormancy entirely**, and τ needs tuning (§7, limitations).
-- **Atari subsets and short runs.** DQN is evaluated on 17 games for 10M frames rather than
-  the usual 200M, to afford many replay ratios. Results are reported as interquartile mean
-  with bootstrap intervals, which is good practice.
-- **One mechanism among several.** Units can lose usefulness without going silent — for
-  example by becoming linear. See
-  [[lyle-et-al-2024-disentangling-the-causes-of-plasticity-loss-in-neural-networks]].
-
 ## Why it's in the library
 
 **Any model fitted to targets that move is exposed.** In RL the targets move because they are

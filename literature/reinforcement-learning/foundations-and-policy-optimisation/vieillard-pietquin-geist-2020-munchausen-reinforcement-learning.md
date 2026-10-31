@@ -40,19 +40,6 @@ himself out of a swamp by his own hair.
   Adam-DQN; **the Munchausen term is what makes the difference**, over Soft-DQN at either
   temperature and over advantage learning.
 
-## Read with care
-
-- **Three seeds, aggregate scores.** Human-normalised means are dominated by a few games
-  with large gains; the authors note the mean–median gap. Per-game improvement counts are the
-  more robust summary.
-- **Hyperparameters were tuned on a few games** and then fixed. The action-gap figure is a
-  single game and is labelled illustrative.
-- **Theory is for the abstract scheme.** The bounds hold for M-VI with discrete actions and
-  an exact softmax greedy step; the deep agent adds network fitting error, ε-greedy
-  behaviour and log-policy clipping.
-- **Discrete actions.** The trick needs a computable log-policy; continuous-action versions
-  exist elsewhere but are not studied here.
-
 ## Why it's in the library
 
 **Errors that average out instead of compounding.** The core theoretical result — successive

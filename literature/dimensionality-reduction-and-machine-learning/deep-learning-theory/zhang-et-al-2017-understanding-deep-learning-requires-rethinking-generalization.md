@@ -41,19 +41,6 @@ link between input and label has been destroyed, and see what they fit.
   real labels and fail on random ones. Optimisation is easy whether or not the result
   generalises, so ease of optimisation is not the cause either.
 
-## Read with care
-
-- **Image classification with clean, learnable labels.** The puzzle is why networks that
-  *can* memorise choose not to when real structure exists. Financial targets are mostly
-  noise, closer to the paper's partially-corrupted case, where memorising is what happens.
-- **A negative result, not a theory.** It shows what does not explain generalisation. Later
-  work filled some of the gap: implicit bias of gradient descent, the NTK and kernel view
-  ([[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]]), benign
-  overfitting and double descent (Belkin et al. 2019; Bartlett et al. 2020).
-- **"Regularisation doesn't matter" is overstated as a slogan.** Table 1 shows regularisers
-  are worth a few points of test accuracy; the claim is only that they are not *necessary*
-  for good generalisation on these benchmarks.
-
 ## Why it's in the library
 
 **Training fit says nothing.** A model that can fit random labels will fit noise in returns

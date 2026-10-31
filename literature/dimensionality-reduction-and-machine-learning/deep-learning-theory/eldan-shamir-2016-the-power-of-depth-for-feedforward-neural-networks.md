@@ -38,20 +38,6 @@ can be worth exponentially many neurons.
   weights and a poly(d) Lipschitz constant. Related work (Telgarsky 2015) gets separations
   only in one dimension with exponentially oscillating functions, or for Boolean circuits.
 
-## Read with care
-
-- **Expressivity, not learnability.** The theorem says a small 3-layer network exists; it
-  says nothing about whether gradient descent finds it from data, or how many samples that
-  would take.
-- **A constructed, adversarial target.** The hard function is a carefully signed sum of thin
-  shells under a specific oscillating input density. The authors conjecture, but do not
-  prove, that a wider class of radial functions behaves the same.
-- **Constant error, not failure.** Two-layer networks are shown to miss by a fixed constant
-  in mean squared error. On noisy targets where the achievable error is already large, a
-  constant gap may or may not matter.
-- **Two versus three layers only.** It does not say how much further depth helps, and the
-  exponential gap needs the input dimension d to be large.
-
 ## Why it's in the library
 
 **It is the formal reason depth can beat width.** When choosing the shape of a small network

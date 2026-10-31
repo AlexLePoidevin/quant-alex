@@ -56,22 +56,6 @@ Conklin (2025), and it needs only one forward pass.
 The authors suggest optimality could serve as a cheap **stopping or model-selection
 criterion**, chosen without looking at the test distribution. They don't test this.
 
-## Read with care
-
-- **The bound is the loose one.** By the data-processing inequality, I(X;Z) = I(Z;Y) is only
-  an upper envelope. The true IB frontier for a given p(X,Y) lies below it. "Approaching the
-  bound" means approaching that line, not the exact optimum (footnote 1, appendix E.8).
-- **Long contexts are approximated by n-grams.** Conditioning stops at 4-grams. Everything
-  the model encodes beyond that is outside the measurement.
-- **The performance correlations are cross-sectional and modest.** They cover 47 models,
-  with parameter count partialled out in some panels. That supports association, not a
-  recipe.
-- **The compression phase is contested in the wider literature.** Saxe et al. (2019) tie it
-  to the choice of nonlinearity, and Goldfeld et al. (2019) show generalisation without it.
-  The paper cites both.
-- **Minor inconsistency:** the preference result is reported as p < 0.001 in the
-  introduction and p = 0.001 in §4.2.
-
 ## Why it's in the library
 
 **It is the supervised counterpart of PCA.** PCA keeps the directions with the most

@@ -44,20 +44,6 @@ fixes it with a one-line change to how weights are sampled.
   variances, pre-training the means, down-weighting the KL, early stopping — all keep
   variances small, which amounts to fitting a nearly deterministic network.
 
-## Read with care
-
-- **The continual-learning result has a known error.** The authors' notes in §4.2 and App. C
-  say the cross-entropy term for a radial *prior* is missing a Jacobian term, and the
-  experiments used the flawed derivation. Treat the "posterior as prior prevents forgetting"
-  result (Fig. 5) as unconfirmed.
-- **Built for large models, not small tabular ones.** Footnote 3 and App. E say radial BNNs,
-  like MFVI, do not match more expensive methods on the small UCI regression benchmarks. The
-  soap-bubble problem is a high-dimension problem.
-- **Still mean-field.** The posterior ignores correlations between weights; the change is to
-  the shape of the noise, not its dependence structure.
-- **One main real task.** The evidence is a single medical-imaging classification problem,
-  with hyperparameters chosen by Bayesian optimisation.
-
 ## Why it's in the library
 
 **It is about trusting a model's uncertainty, not only its point forecast.** A model whose

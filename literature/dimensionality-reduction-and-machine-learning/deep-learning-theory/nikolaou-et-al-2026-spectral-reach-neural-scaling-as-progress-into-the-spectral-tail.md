@@ -51,21 +51,6 @@ lower loss.
   faster (learning-rate schedules, gradient scaling) or by reshaping the spectrum so the
   tail is easier to reach (architecture, μP or other initialisation).
 
-## Read with care
-
-- **A preprint, with small models.** At most 134M parameters, two datasets (plus vision
-  transformers in an appendix), well-tuned settings per size. The authors ask for broader
-  validation.
-- **Correlation with scale, not a proven mechanism.** The paper argues the direction
-  (spectral bias drives the χ_pos fall) but says that a mechanism would need interventions
-  such as clamping χ_pos, which it does not run.
-- **Single-pass training on large data.** Every example is seen once, so learning the tail
-  improves test loss as well. With repeated epochs on a small dataset, the smallest
-  eigenmodes are where label noise sits, and "reaching" them is memorisation
-  ([[zhang-et-al-2017-understanding-deep-learning-requires-rethinking-generalization]]).
-  The paper notes χ_pos can turn negative from stochasticity and overfitting.
-- **First-order only.** The non-linear correction to each step's loss change is not analysed.
-
 ## Why it's in the library
 
 **It measures spectral bias in real networks.** [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]]

@@ -31,20 +31,6 @@ A beginner's introduction to how geometry changes as the dimension grows. It cov
   mapping x → (x, x²). It notes correctly that real kernels compute inner products in the
   lifted space without building it.
 
-## Read with care
-
-- **Two different effects are presented as one.** The first half (volume moves to the
-  corners) is why high dimension *hurts*. The second half (lift the data to separate it) is
-  why it can *help*. The post doesn't connect them. The lift works because the lifted data
-  lies on a 1D curve inside 2D, so it adds structure, not just dimensions. Cover's theorem
-  is the formal version.
-- **An RBF kernel still inherits concentration.** It is built on Euclidean distance, which
-  concentrates in high dimension ([[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]]).
-  Lifting with a kernel does not escape the curse.
-- **There's no data and no reference beyond the analogy.** The numbers are exact formulas,
-  which is fine for intuition but says nothing about real feature sets, where correlation
-  makes the effective dimension much lower.
-
 ## Why it's in the library
 
 **The two calculations are the fastest way to see the problem.** (1 − 2x)ⁿ and the

@@ -32,19 +32,6 @@ not gradually but catastrophically.
   every possible network. The chapter is best known for simple arithmetic-fact and
   list-learning simulations with backpropagation networks.
 
-## Read with care
-
-- **Written without the full text.** This note is based on the publisher summary and on how
-  the chapter is cited. The details of the simulations, and how strong the general claims
-  are, should be checked in the chapter itself.
-- **1989 networks.** Small, shallow, trained by plain backpropagation on toy tasks. Modern
-  networks still forget, but the size and mechanism differ, and later work separates
-  forgetting from a second problem, loss of plasticity.
-- **Forgetting is not the only failure.** The chapter concerns losing old knowledge. A
-  network retrained over and over can also lose the ability to learn new things at all —
-  see [[dohare-et-al-2024-loss-of-plasticity-in-deep-continual-learning]]. The two are
-  different and need different fixes.
-
 ## Why it's in the library
 
 **It is the origin of the stability–plasticity problem in neural networks.** Every later

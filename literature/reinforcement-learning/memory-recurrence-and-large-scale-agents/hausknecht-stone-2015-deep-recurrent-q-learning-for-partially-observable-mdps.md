@@ -45,20 +45,6 @@ carries the history instead?**
   stacking the observations in the input layer"** when learning. Its advantage is
   robustness when observation quality changes between training and evaluation.
 
-## Read with care
-
-- **Small and noisy evidence.** Nine games, a handful of runs, and score standard
-  deviations often as large as the gaps between methods. Significance is tested with
-  t-tests plus Benjamini–Hochberg, which is better than usual for the period.
-- **The partial observability is synthetic.** Flickering is a clean, memoryless corruption.
-  The paper itself notes that all 49 standard DQN games are close to fully observable given
-  four frames, so the natural Atari results say little about memory.
-- **Short memory only.** BPTT runs over 10 steps with a zero start state. The LSTM cannot
-  learn dependencies much longer than that window, so "recurrent vs stacked" here really
-  compares two ways of using the same 10-frame history.
-- **Compute (App. B).** Unrolling is expensive: 30 steps with 10 stacked frames would have
-  needed over 56 days for 10M iterations on their hardware.
-
 ## Why it's in the library
 
 **Markets are partially observed by construction.** Prices, volumes and fundamentals are

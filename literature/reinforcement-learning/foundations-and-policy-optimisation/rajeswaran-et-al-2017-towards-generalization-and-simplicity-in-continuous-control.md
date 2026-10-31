@@ -38,16 +38,6 @@ the benchmarks themselves are too narrow, so policies that score well are brittl
   assumptions the researcher chooses, and they decide robustness. Optimisation: plain
   REINFORCE was too sensitive to step size; preconditioning helps (Fig. 3b).
 
-## Read with care
-
-- **Benchmark-specific.** The claim is about the Gym-v1 locomotion tasks of 2017, with
-  low-dimensional proprioceptive states. It does not say linear policies suffice for
-  pixels, long horizons or partial observability.
-- **Comparisons use published network results**, from the Gym leaderboard and prior
-  papers, not a matched tuning budget. Three seeds per curve.
-- **Robustness is tested by hand-chosen perturbations** (pushes, rotations, video). That is
-  a step toward measuring generalisation, as the authors say, not a full test.
-
 ## Why it's in the library
 
 **Try the linear model first.** The central lesson — a well-optimised simple model matches an

@@ -40,21 +40,6 @@ factors of variation than an "8".
   22-dimensional and a 3-dimensional class it helped a lot. It matters only when the
   dimensions differ widely.
 
-## Read with care
-
-- **Labels stand in for manifolds.** That each class is one connected manifold is an
-  assumption, not a finding. The varying estimates could also come from classes having
-  different curvature or sample sizes, which bias the estimator.
-- **The estimator is noisy.** MLE dimension estimates are biased downwards with few
-  points per class (the authors flag ImageNet), and the paper uses a slightly different
-  version from earlier work.
-- **Small effects.** The loss-reweighting gain is 0.4 percentage points, and the
-  per-dimension latent sizes did not help on real data.
-- **Images only.** The authors say verifying it on other kinds of data remains to be
-  done. No finance data.
-- **This is the first version.** The ICLR 2023 paper is retitled and revised; check it
-  for the final results.
-
 ## Why it's in the library
 
 **Market data plausibly have varying dimension too.** In a sell-off most assets move on

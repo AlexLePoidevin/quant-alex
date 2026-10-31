@@ -42,23 +42,6 @@ claim that is easiest to check directly against classical methods.
 - **Proposed change to benchmarking:** test estimators on noise robustness rather than on
   ever more curved, noise-free synthetic manifolds.
 
-## Read with care
-
-- **N is a hyperparameter tuned until the gap looks clean.** For ISOMAP and MNIST they
-  raised N "until a clear spectral gap emerged". On MNIST the answer moves from 9 to 12 as N
-  changes. A real-data estimate depends on N and on how the gap is read off.
-- **Flat in noise is not the same as correct.** On the breast-cancer data, d = 2 sits below
-  every published estimate. The paper reads that as the other methods counting noise; it
-  could also be the model being too smooth. There is no ground truth there to decide it.
-- **Several inputs change per data set:** w = 0.75 for breast cancer and 0 elsewhere,
-  N between 3 and 37, and mode or median for the global estimate.
-- **No code is released.** The data are public, but the implementation (a custom PyTorch
-  layer) is not, so the comparison has to be rebuilt.
-- **Written by the company that sells the method.** Every author is from or affiliated
-  with Qognitive.
-- **Quantum-*inspired*.** The method runs on a CPU and GPU. Running it on a quantum
-  computer is mentioned only as a future possibility.
-
 ## Why it's in the library
 
 - **It gives a third answer to a question two notes already ask.** [[levina-bickel-2004]]

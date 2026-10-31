@@ -37,17 +37,6 @@ Nine chapters:
 The author's preface flags 5E (commuting operators), the pseudoinverse part of 6C, and
 duality (3F) as optional.
 
-## Read with care
-
-- **It is proof-based and abstract.** It works with operators on vector spaces, not
-  matrices of numbers, and almost never computes. Pair it with code rather than reading it
-  as a numerical-methods text: there is nothing on conditioning, floating point or
-  algorithms.
-- **No statistics.** Covariance matrices, PCA and estimation error are not in it. It
-  supplies the theorems those rely on, not the applications.
-- **Postponing determinants is a teaching choice,** not the standard order. Other texts
-  find eigenvalues through determinants, so expect the two to look different side by side.
-
 ## Why it's in the library
 
 **Chapters 6 and 7 are what the rest of the library uses without proving.** A covariance

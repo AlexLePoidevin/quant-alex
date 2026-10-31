@@ -33,19 +33,6 @@ quantile value network gives the quantile at each.
   human, ahead of IQN (1112% / 218%) and Rainbow (1213% / 227%) (Table 1), and learns faster
   on some games where final scores are similar (Fig. 2).
 
-## Read with care
-
-- **No convergence guarantee.** The authors cannot show that W1 reaches its minimum when the
-  quantile function is itself being learned, or that the QR-DQN contraction result holds for
-  self-adjusting fractions (§5). The fraction gradient uses the model's own estimate as the
-  truth.
-- **Cost.** About 20% slower than IQN, and the gap grows with the number of fractions.
-- **Implementation-specific baselines.** IQN is the Dopamine re-implementation, which scores
-  below the original paper; two games are dropped. The improvement is relative to that.
-- **Better distribution, not proven better decisions.** The agent still acts on the mean. The
-  paper asks, but does not answer, how much a better-fitted distribution matters for the
-  policy.
-
 ## Why it's in the library
 
 **Put the resolution where the distribution changes.** With a fixed budget of quantiles,

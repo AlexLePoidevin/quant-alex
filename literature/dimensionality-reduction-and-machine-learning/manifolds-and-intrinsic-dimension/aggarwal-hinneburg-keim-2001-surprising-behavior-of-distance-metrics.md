@@ -38,21 +38,6 @@ asks whether the **choice of distance** changes how fast that happens, and finds
   - **Noise masking:** L₁₀ falls to random at 40% of entries replaced by noise, L₁ at 60%,
     and L₀.₁ degrades slowest (Fig. 6).
 
-## Read with care
-
-- **k < 1 is not a metric.** The "fractional distance metric" breaks the triangle inequality,
-  so tree indexes, metric-space algorithms, and anything relying on that property lose their
-  guarantees. Ranking neighbours is fine; geometry is not.
-- **The theory assumes IID coordinates** (uniform for the explicit constants). Correlated or
-  factor-driven features are not covered, and Beyer et al.'s result covers a much broader
-  class.
-- **Every k still concentrates.** The relative contrast still falls like 1/√d, so the norm
-  changes the constant, not the rate. A smaller k delays the problem but doesn't remove it.
-- **The real-data evidence is thin:** four small datasets, one neighbourhood size, no error
-  bars. The k-means test uses synthetic clusters that are easy by construction.
-- **Scale matters before the norm does.** None of this helps if features are on different
-  scales; standardise first.
-
 ## Why it's in the library
 
 **It turns Beyer et al.'s warning into a setting you can change.** If a method on a wide

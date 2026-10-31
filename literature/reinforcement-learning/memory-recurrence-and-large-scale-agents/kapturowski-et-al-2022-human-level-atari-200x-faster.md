@@ -47,20 +47,6 @@ instabilities that appear when you try to learn faster, and the fix for each**.
   Normalisation gives the smallest single gain, plausibly because it overlaps with the other
   regularisers.
 
-## Read with care
-
-- **Tuned on the ablation games.** Hyperparameters were tuned on the same eight games used
-  for the ablations. Ablations use three seeds; the main result uses six.
-- **Each game trained separately.** One hyperparameter set, but separate weights per game,
-  as the authors note.
-- **"200×" is the extreme ratio.** It compares the frames needed for the last game. The
-  average per-game improvement is 63× and the median 35×.
-- **Still very large compute.** 1B-frame runs on TPUv4 with distributed actors. "Data
-  efficient" is relative to Agent57, not to the small-data regime of benchmarks like
-  Atari 100k.
-- **Many interacting parts.** Several components overlap in what they stabilise. Their
-  individual value outside this agent is untested.
-
 ## Why it's in the library
 
 **Stability tricks for learning fast on non-stationary targets.** Bootstrapping from a

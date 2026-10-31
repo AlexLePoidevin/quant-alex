@@ -44,20 +44,6 @@ average over states, to the old one.
   fixed step fails on hopper and walker, and CEM/CMA scale badly with parameter count. On
   seven Atari games from pixels, TRPO is competitive with DQN but not uniformly better.
 
-## Read with care
-
-- **The guarantee is for the idealised algorithm.** Monotonic improvement needs exact
-  advantages and the max-KL penalty. The practical algorithm uses sampled advantages, an
-  average-KL constraint and a quadratic approximation, so it "tends to" improve monotonically;
-  it is not guaranteed.
-- **Sample-hungry and on-policy.** Every update needs fresh rollouts from the current
-  policy. That is affordable in simulation, much less so when each sample is a day of
-  market data.
-- **Thin statistics on Atari.** Each Atari game was run once (Table 1); the authors note large
-  run-to-run variation and no error bars.
-- **Superseded in practice.** PPO (Schulman et al. 2017) replaced the constrained solve with
-  a clipped surrogate and is what most libraries use. The trust-region idea is what lasted.
-
 ## Why it's in the library
 
 **It is the clearest statement of "do not let the model move too far per update".** In a
