@@ -83,3 +83,5 @@ at random.
 - [[kernel-pca]] — a kernel built on Euclidean distance inherits the same concentration
 - [[aggarwal-hinneburg-keim-2001-surprising-behavior-of-distance-metrics]] — the follow-up:
   the rate of concentration depends on the norm, and L₁ or k < 1 keeps more contrast than L₂
+- [[altman-krzywinski-2018-the-curses-of-dimensionality]] — two-page primer: sparsity,
+  concentration, collinearity and multiple testing, each with a simulation

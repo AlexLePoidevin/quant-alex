@@ -78,3 +78,5 @@ method.
   Euclidean nearest-neighbour distances, so they inherit the choice of norm
 - [[kernel-pca]] — RBF kernels use squared Euclidean distance, the k = 2 case
 - [[coifman-lafon-2006]] — diffusion maps, also built on a Euclidean kernel
+- [[altman-krzywinski-2018-the-curses-of-dimensionality]] — two-page primer on the four
+  separate curses, of which distance concentration is one
