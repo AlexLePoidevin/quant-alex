@@ -78,3 +78,5 @@ prerequisites.
   actually matters
 - [[coifman-lafon-2006]] — diffusion maps, which work on the manifold instead of in the
   ambient space
+- [[salih-2023-the-surprising-behavior-of-data-in-higher-dimensions]] — blog explainer:
+  volume moves to the corners of the cube, and the kernel trick as the upside
