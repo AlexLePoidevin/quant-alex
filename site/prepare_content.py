@@ -15,6 +15,8 @@ git-ignored, so the staged copy can't live in the repo), with the changes Quartz
 - a folder written as `correlation-and-dependence/` in backticks becomes a link to it;
 - [[note-slug]] links display the linked note's title instead of its file name;
 - literature/README.md becomes start-here.md, and the site root is the map in home/index.html;
+- pages that moved get `aliases` from site/redirects.json (old path -> new path), so Quartz
+  writes a redirect at each old address;
 - graph.json is written for the map on the home page (site/home/index.html).
 """
 from __future__ import annotations
@@ -89,7 +91,8 @@ TAGS = {  # short subject tags: they become hub nodes in the graph
     "mathematical-foundations": "foundations",
     "factor-models-and-asset-pricing": "factor-models",
     "correlation-and-dependence": "dependence",
-    "dimensionality-reduction-and-machine-learning": "machine-learning",
+    "high-dimensional-geometry": "geometry",
+    "machine-learning": "machine-learning",
     "portfolio-construction-and-risk": "portfolio-and-risk",
     "compounding-leverage-and-position-sizing": "sizing-and-leverage",
     "active-management": "active-management",
@@ -97,6 +100,27 @@ TAGS = {  # short subject tags: they become hub nodes in the graph
     "reinforcement-learning": "reinforcement-learning",
     "podcasts-and-videos": "podcasts-and-videos",
 }
+
+
+REDIRECTS = ROOT / "site" / "redirects.json"
+
+
+def old_paths() -> dict[str, list[str]]:
+    """New page path -> the old paths that should redirect to it (from site/redirects.json).
+
+    Paths are relative to literature/ without the extension, with README as 'index'.
+    Add an entry whenever a note or folder moves, so links to the old address keep working.
+    """
+    out: dict[str, list[str]] = {}
+    if REDIRECTS.exists():
+        for old, new in json.loads(REDIRECTS.read_text(encoding="utf-8")).items():
+            out.setdefault(new, []).append(old)
+    return out
+
+
+def alias_line(page: str) -> str | None:
+    olds = ALIASES.get(page)
+    return "aliases: [" + ", ".join(f'"{o}"' for o in olds) + "]" if olds else None
 
 
 def subject_tag(rel: Path) -> str | None:
@@ -402,6 +426,9 @@ def convert(text: str, rel: Path, dates: tuple[str, str] | None) -> str:
     if dates:
         front.append(f"created: {dates[0]}")
         front.append(f"modified: {dates[1]}")
+    alias = alias_line(rel.with_suffix("").as_posix())
+    if alias:
+        front.append(alias)
     tag = subject_tag(rel)
     if tag and rel.name != "index.md":
         front.append(f"tags: [{tag}]")
@@ -417,8 +444,9 @@ def main() -> None:
         sys.exit("OUT_DIR must be outside the repository")
     if DST.exists():
         shutil.rmtree(DST)
-    global TITLES
+    global TITLES, ALIASES
     TITLES = note_titles()
+    ALIASES = old_paths()
     dates = git_dates()
     n_md = n_other = 0
     for src in sorted(SRC.rglob("*")):
@@ -437,15 +465,19 @@ def main() -> None:
             shutil.copy2(src, out)
             n_other += 1
     start = (DST / "index.md").read_text(encoding="utf-8")
-    (DST / "start-here.md").write_text(start.replace('title: "Quant Alex"', 'title: "Start here"', 1),
-                                       encoding="utf-8")
+    start = start.replace('title: "Quant Alex"', 'title: "Start here"', 1)
+    if alias_line("start-here"):
+        start = start.replace("---\n", "---\n" + alias_line("start-here") + "\n", 1)
+    (DST / "start-here.md").write_text(start, encoding="utf-8")
     build_graph(DST)
     (DST / "index.md").unlink()       # the site root is the map; build.sh copies home/index.html in
     for d in sorted(p for p in SRC.rglob("*") if p.is_dir()):   # folders with no README
         idx = DST / d.relative_to(SRC) / "index.md"
         if not idx.exists():
             idx.parent.mkdir(parents=True, exist_ok=True)
-            idx.write_text(f'---\ntitle: "{folder_title(d.name, None)}"\n---\n', encoding="utf-8")
+            alias = alias_line(d.relative_to(SRC).as_posix() + "/index")
+            idx.write_text(f'---\ntitle: "{folder_title(d.name, None)}"\n' + (alias + "\n" if alias else "")
+                           + "---\n", encoding="utf-8")
             n_md += 1
     print(f"staged {n_md} notes and {n_other} other files into {DST}")
 

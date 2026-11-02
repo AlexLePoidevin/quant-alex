@@ -55,7 +55,7 @@ where non-commuting observables model the order effects and interference that Ko
 probability cannot. Busemeyer is a co-author on *Quantum Geometry of Data*.
 
 **Intrinsic dimension is the sharpest point of comparison in the whole repo.**
-`../manifolds-and-intrinsic-dimension/` already holds two classical estimators of the same quantity — **[[levina-bickel-2004]]**
+`../../high-dimensional-geometry/intrinsic-dimension/` already holds two classical estimators of the same quantity — **[[levina-bickel-2004]]**
 (maximum-likelihood) and **[[facco-et-al-2017]]** (two-NN) — and the 2025 QCML paper claims
 a more robust one ([[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]]). Three estimators, one target, on data you have. That is a runnable
 comparison rather than a reading exercise.

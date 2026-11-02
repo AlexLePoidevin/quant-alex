@@ -78,7 +78,7 @@ backtest needs: choose by a property of the fitted model, not by its score on th
 it will be judged on. The authors propose this but leave it untested.
 
 **Capacity sets the floor.** Small models can't compress. That fits with the intrinsic
-dimension estimators in `../manifolds-and-intrinsic-dimension/`: how many dimensions
+dimension estimators in `../../high-dimensional-geometry/intrinsic-dimension/`: how many dimensions
 the data really has limits how small a useful representation can get.
 
 ## Links

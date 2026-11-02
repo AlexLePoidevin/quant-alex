@@ -20,5 +20,5 @@ sceptically.
 | `rl-for-trading` | Two deep RL trading agents, read sceptically: a recurrent Q-network on intraday FX that learns from the reward of every action without exploring, and a PPO system for US stocks with separate buy, sell and stop-loss modules. Kept for their ideas and as worked examples of the cost, survivorship and benchmark problems that inflate RL trading results |
 
 Supervised and end-to-end trading models (DeePM, intraday decision trees) are in
-`../dimensionality-reduction-and-machine-learning/ml-trading-strategies/`.
+`../machine-learning/ml-trading-strategies/`.
 They are the non-RL route to the same decision, and the baseline any RL trader has to beat.

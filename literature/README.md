@@ -13,8 +13,9 @@ notes link across sections freely.
 | [`active-management`](active-management/) | The fundamental law, skill versus scale, active share, the rise of passive, and tactical asset allocation rule-sets (Keller–Keuning family and others) |
 | [`compounding-leverage-and-position-sizing`](compounding-leverage-and-position-sizing/) | Volatility drag, the Kelly criterion, leveraged ETFs, ergodicity |
 | [`correlation-and-dependence`](correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
-| [`dimensionality-reduction-and-machine-learning`](dimensionality-reduction-and-machine-learning/) | PCA, ICA, kernel PCA, diffusion maps, intrinsic dimension, quantum cognition ML, information bottleneck, tree ensembles vs deep learning, neural tangent kernel, generalisation, energy-based models, commonsense reasoning and language models, ML trading strategies |
 | [`factor-models-and-asset-pricing`](factor-models-and-asset-pricing/) | Single-index models to Fama–French, APT, how much of a return is common, the factor zoo, ML factor models |
+| [`high-dimensional-geometry`](high-dimensional-geometry/) | The curse of dimensionality (distance concentration, hubness), intrinsic dimension, manifold learning and embeddings, PCA, ICA and kernel PCA |
+| [`machine-learning`](machine-learning/) | Neural tangent kernel and generalisation, tree ensembles vs deep learning, representation learning (energy-based models, information bottleneck, language models), quantum cognition ML, ML trading strategies |
 | [`mathematical-foundations`](mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
 | [`portfolio-construction-and-risk`](portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
 | [`reflexivity-and-market-history`](reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |

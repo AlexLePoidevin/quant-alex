@@ -134,7 +134,7 @@ full transparency.
 ## Kharen Musaelian — Duality and Qognitive
 
 Co-founder of Qognitive, the firm behind quantum cognition machine learning (QCML).
-Its papers are listed in `../dimensionality-reduction-and-machine-learning/quantum-cognition-ml/`,
+Its papers are listed in `../machine-learning/quantum-cognition-ml/`,
 next to their foundation, [[busemeyer-bruza-2012]]. The link to the Duality Group hedge fund is from
 general knowledge, not confirmed from the page.
 
