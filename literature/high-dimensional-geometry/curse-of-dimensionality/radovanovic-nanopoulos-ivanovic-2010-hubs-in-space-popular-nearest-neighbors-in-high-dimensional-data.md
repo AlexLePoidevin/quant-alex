@@ -97,3 +97,6 @@ methods (diffusion maps, which the paper tests).
 - [[altman-krzywinski-2018-the-curses-of-dimensionality]] — primer on the other curses
 - [[salih-2023-curse-of-dimensionality-an-intuitive-exploration]] — blog intuition for why
   distances bunch together, the starting point for hubness
+- [[feldbauer-flexer-2019-a-comprehensive-empirical-comparison-of-hubness-reduction-in-high-dimensional-spaces]] — the
+  benchmark of fixes: local scaling and mutual proximity work, fractional norms and
+  shared neighbours don't
