@@ -55,14 +55,9 @@ flattening work. That is what this chapter predicts: the cause is local density 
 not distance from one global centre. Feldbauer & Flexer cite it for exactly that point.
 
 **Read the two hubness papers together.** Radovanović et al. show that hubs appear and
-where (near the centre); this chapter shows why (density falling away in some directions).
-The two views agree on normal data, where the centre is exactly where the gradient is
-steepest around.
-
-**Ranked or percentile features are a case in point.** Cross-sectional ranks put every
-feature on a bounded interval, which turns the feature space into a hypercube, the shape
-with the most boundary per point. Neighbour methods on rank-transformed features should be
-checked for hubness.
+where (near the centre); this chapter argues why (density falling away from them). On
+normal data the two views coincide: the centre is the densest point, density falls away
+from it in every direction, and the points there end up closest to everything.
 
 ## Links
 
