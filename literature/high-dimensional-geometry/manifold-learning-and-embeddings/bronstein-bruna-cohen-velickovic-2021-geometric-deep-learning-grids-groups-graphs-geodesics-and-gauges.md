@@ -54,7 +54,7 @@ first question for any architecture on market data:
   forcing rotation invariance on columns that each mean something throws information away.
 
 **It connects the curse of dimensionality to manifold structure.** Low intrinsic dimension
-([[facco-et-al-2017]], [[levina-bickel-2004]]) and known symmetries are the two ways out of
+([[facco-et-al-2017]], [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]]) and known symmetries are the two ways out of
 the exponential sample requirement in §2. Diffusion maps ([[coifman-lafon-2006]]) are the
 spectral, Laplacian-based tools that §4.4 builds on for manifolds and graphs.
 

@@ -87,7 +87,7 @@ the data really has limits how small a useful representation can get.
   companion; read it first
 - [[ica]], [[kernel-pca]], [[hyvarinen-oja-2000]] — unsupervised compression, the baseline
   this paper's supervised criterion moves past
-- [[levina-bickel-2004]], [[facco-et-al-2017]] — intrinsic dimension, the geometric
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — intrinsic dimension, the geometric
   counterpart of an information-theoretic compression measure
 - [[coifman-lafon-2006]] — diffusion maps, another representation of data on a manifold
 - [[gu-kelly-xiu-2021]], [[kelly-pruitt-su-2019]] — supervised compression of

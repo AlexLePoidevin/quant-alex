@@ -19,7 +19,7 @@ factors of variation than an "8".
 
 - **Checking the hypothesis.** Using class labels as stand-ins for the separate pieces,
   the authors estimate the intrinsic dimension of each class with the
-  [[levina-bickel-2004]] maximum-likelihood estimator. On MNIST, Fashion-MNIST,
+  [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] maximum-likelihood estimator. On MNIST, Fashion-MNIST,
   CIFAR-10, CIFAR-100 and ImageNet the estimates vary widely across classes, and the
   pattern holds across choices of the neighbour count k. SVHN is the exception, with
   little variation.
@@ -46,7 +46,7 @@ factors of variation than an "8".
 one factor, so the cross-section is close to one-dimensional. In calm markets many
 smaller factors matter. Sectors may also differ in how many factors drive them. A
 single dimension estimate for "the market" may average over pieces of quite different
-complexity, so [[levina-bickel-2004]] and [[facco-et-al-2017]] are better applied by
+complexity, so [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] and [[facco-et-al-2017]] are better applied by
 regime or by group.
 
 **It argues for fitting separate models per group.** Splitting the data into clusters and
@@ -65,7 +65,7 @@ will struggle.
 
 ## Links
 
-- [[levina-bickel-2004]] — the dimension estimator used for every result here
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] — the dimension estimator used for every result here
 - [[facco-et-al-2017]] — two-NN, another estimator, also usable locally per region
 - [[koulakis-seibold-2026-the-data-manifold-under-the-microscope]] — measuring manifold
   geometry exactly, on controlled images instead of labelled ones

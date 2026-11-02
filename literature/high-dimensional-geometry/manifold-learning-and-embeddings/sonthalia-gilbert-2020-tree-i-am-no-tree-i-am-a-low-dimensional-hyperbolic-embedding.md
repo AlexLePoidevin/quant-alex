@@ -56,7 +56,7 @@ dimensions. That is an alternative to PCA-style factor models when the structure
 sectors within sectors, not a few broad factors.
 
 **It sits beside the intrinsic-dimension estimators in this folder.** Both ask what
-shape the data really has before choosing a model: [[levina-bickel-2004]] and
+shape the data really has before choosing a model: [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] and
 [[facco-et-al-2017]] measure how many dimensions, this measures how tree-like.
 
 ## Links
@@ -66,7 +66,7 @@ shape the data really has before choosing a model: [[levina-bickel-2004]] and
 - [[wikipedia-tree-graph-theory]] — the graph-theory background on trees
 - [[czado-2019-analyzing-dependent-data-with-vine-copulas]] — vine copulas, another way of
   imposing a tree structure on dependence
-- [[levina-bickel-2004]], [[facco-et-al-2017]] — the other "what shape is the data"
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — the other "what shape is the data"
   measurements in this folder
 - [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
   — the wider case for matching a model's geometry to the data's

@@ -55,7 +55,7 @@ principled way to keep them apart, and its per-cluster dimension says how many f
 drive each piece.
 
 **A neighbourhood-size check.** Any method built on a k-nearest-neighbour graph
-([[coifman-lafon-2006]], the local estimators in [[levina-bickel-2004]] and
+([[coifman-lafon-2006]], the local estimators in [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] and
 [[facco-et-al-2017]]) depends on k. Comparing against SMCE's self-chosen neighbourhoods
 shows whether a chosen k is mixing pieces that should stay separate.
 
@@ -64,7 +64,7 @@ shows whether a chosen k is mixing pieces that should stay separate.
 - [[brown-et-al-2022-the-union-of-manifolds-hypothesis-and-its-implications-for-deep-generative-modelling]]
   — the evidence that data are several manifolds of different dimension, which SMCE
   clusters and measures
-- [[levina-bickel-2004]] — a nearest-neighbour dimension estimator; SMCE gives a
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] — a nearest-neighbour dimension estimator; SMCE gives a
   per-cluster estimate without fixing k
 - [[facco-et-al-2017]] — two-NN, the minimal-neighbourhood dimension estimator
 - [[coifman-lafon-2006]] — diffusion maps, the spectral embedding on a fixed kernel graph

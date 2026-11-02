@@ -50,7 +50,7 @@ nearer than a random day.
 
 **It explains why this folder's estimators matter.** Theorem 1 fails, and nearest neighbours
 mean something, exactly when the data live on a low-dimensional manifold.
-[[levina-bickel-2004]] and [[facco-et-al-2017]] estimate that dimension from
+[[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] and [[facco-et-al-2017]] estimate that dimension from
 nearest-neighbour distances, so a low estimate is also evidence that neighbour-based
 methods on the data are viable. The practical recipe is to measure the intrinsic
 dimension, reduce to it (PCA, [[coifman-lafon-2006]] diffusion maps), and only then use
@@ -63,7 +63,7 @@ at random.
 
 ## Links
 
-- [[levina-bickel-2004]] — intrinsic dimension from nearest-neighbour distances, the
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] — intrinsic dimension from nearest-neighbour distances, the
   remedy the paper points to in §4.2
 - [[facco-et-al-2017]] — TWO-NN, which uses only the two nearest distances and so is
   less exposed to distance concentration

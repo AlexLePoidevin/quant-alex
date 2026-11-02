@@ -44,7 +44,7 @@ builds image data sets where they can be measured almost exactly.
 n^(−1/d) means the data needed grows exponentially with intrinsic dimension. A few
 years of daily returns is a few thousand rows, so any nonlinear factor structure we
 hope to learn has to be very low-dimensional. That is why the dimension estimates in
-[[levina-bickel-2004]] and [[facco-et-al-2017]] matter before fitting anything.
+[[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] and [[facco-et-al-2017]] matter before fitting anything.
 
 **It is a check on general-purpose estimators.** The authors find standard curvature
 estimators unreliable even on easy manifolds. Treat any single estimate of dimension,
@@ -59,7 +59,7 @@ found the underlying structure.
 
 ## Links
 
-- [[levina-bickel-2004]], [[facco-et-al-2017]] — intrinsic-dimension estimators, the
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — intrinsic-dimension estimators, the
   d that sets the sample-size cost here
 - [[coifman-lafon-2006]] — diffusion maps, another way of recovering a manifold from samples
 - [[sonthalia-gilbert-2020-tree-i-am-no-tree-i-am-a-low-dimensional-hyperbolic-embedding]]

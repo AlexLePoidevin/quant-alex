@@ -59,7 +59,7 @@ method.
 
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — the distance-concentration
   theorem this paper refines (their reference [6])
-- [[levina-bickel-2004]], [[facco-et-al-2017]] — intrinsic-dimension estimators built on
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — intrinsic-dimension estimators built on
   Euclidean nearest-neighbour distances, so they inherit the choice of norm
 - [[kernel-pca]] — RBF kernels use squared Euclidean distance, the k = 2 case
 - [[coifman-lafon-2006]] — diffusion maps, also built on a Euclidean kernel

@@ -91,7 +91,7 @@ methods (diffusion maps, which the paper tests).
   related but distinct curse this paper sets itself against
 - [[aggarwal-hinneburg-keim-2001-surprising-behavior-of-distance-metrics]] — fractional
   norms; the paper shows hubness persists under L₀.₅ too
-- [[levina-bickel-2004]] — the intrinsic-dimension estimator used to explain hubness in
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] — the intrinsic-dimension estimator used to explain hubness in
   real data
 - [[coifman-lafon-2006]] — diffusion maps, which reduce hubness but don't remove it
 - [[altman-krzywinski-2018-the-curses-of-dimensionality]] — primer on the other curses

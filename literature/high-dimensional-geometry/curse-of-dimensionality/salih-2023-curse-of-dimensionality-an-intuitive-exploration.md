@@ -71,7 +71,7 @@ checks on an actual feature matrix before trusting a k-NN or clustering step on 
   law-of-large-numbers argument sketches
 - [[aggarwal-hinneburg-keim-2001-surprising-behavior-of-distance-metrics]] — Manhattan (L₁)
   keeps more contrast than Euclidean as dimension grows
-- [[levina-bickel-2004]], [[facco-et-al-2017]] — estimate the intrinsic dimension, the
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — estimate the intrinsic dimension, the
   number that actually governs these effects
 - [[coifman-lafon-2006]] — diffusion maps, a manifold-learning method in the same family as
   the Isomap the post recommends

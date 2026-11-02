@@ -44,7 +44,7 @@ claim that is easiest to check directly against classical methods.
 
 ## Why it's in the library
 
-- **It gives a third answer to a question two notes already ask.** [[levina-bickel-2004]]
+- **It gives a third answer to a question two notes already ask.** [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]]
   (maximum likelihood) and [[facco-et-al-2017]] (TwoNN) are both local nearest-neighbour
   estimators, which are exactly what this paper claims noise breaks. Running all three on the
   same noisy return or feature panel is a concrete experiment. A real market panel is the
@@ -58,7 +58,7 @@ claim that is easiest to check directly against classical methods.
 
 ## Links
 
-- [[levina-bickel-2004]], [[facco-et-al-2017]] — the classical estimators it benchmarks
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — the classical estimators it benchmarks
   against (MLE and TwoNN)
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — why nearest-neighbour methods
   struggle in high dimension, which is the failure this paper exploits

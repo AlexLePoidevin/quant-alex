@@ -62,7 +62,7 @@ prerequisites.
   distance-concentration figure
 - [[aggarwal-hinneburg-keim-2001-surprising-behavior-of-distance-metrics]] — the choice of
   norm changes how fast distances concentrate
-- [[levina-bickel-2004]], [[facco-et-al-2017]] — estimate the intrinsic dimension, the p that
+- [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — estimate the intrinsic dimension, the p that
   actually matters
 - [[coifman-lafon-2006]] — diffusion maps, which work on the manifold instead of in the
   ambient space
