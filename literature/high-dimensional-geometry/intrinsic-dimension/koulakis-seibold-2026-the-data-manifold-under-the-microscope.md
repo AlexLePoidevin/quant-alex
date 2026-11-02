@@ -59,6 +59,8 @@ found the underlying structure.
 
 ## Links
 
+- [[fefferman-mitter-narayanan-2016-testing-the-manifold-hypothesis]] — the formal
+  manifold-fitting problem and the reach-based approach whose rates are tested here
 - [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — intrinsic-dimension estimators, the
   d that sets the sample-size cost here
 - [[coifman-lafon-2006]] — diffusion maps, another way of recovering a manifold from samples

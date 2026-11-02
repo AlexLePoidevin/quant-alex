@@ -65,6 +65,8 @@ will struggle.
 
 ## Links
 
+- [[fefferman-mitter-narayanan-2016-testing-the-manifold-hypothesis]] — the single-manifold
+  hypothesis stated and tested formally
 - [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] — the dimension estimator used for every result here
 - [[facco-et-al-2017]] — two-NN, another estimator, also usable locally per region
 - [[koulakis-seibold-2026-the-data-manifold-under-the-microscope]] — measuring manifold
