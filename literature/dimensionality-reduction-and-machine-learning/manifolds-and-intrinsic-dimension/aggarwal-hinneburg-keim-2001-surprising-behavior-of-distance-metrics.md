@@ -65,3 +65,5 @@ method.
 - [[coifman-lafon-2006]] — diffusion maps, also built on a Euclidean kernel
 - [[altman-krzywinski-2018-the-curses-of-dimensionality]] — two-page primer on the four
   separate curses, of which distance concentration is one
+- [[radovanovic-nanopoulos-ivanovic-2010-hubs-in-space-popular-nearest-neighbors-in-high-dimensional-data]] — hubness;
+  a few points dominate neighbour lists, and fractional norms don't stop it

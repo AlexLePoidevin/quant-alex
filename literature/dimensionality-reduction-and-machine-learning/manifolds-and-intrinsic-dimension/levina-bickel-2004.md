@@ -30,3 +30,5 @@ that agree is evidence.
   intrinsic dimension varies across the data
 - [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — SMCE; lets each point pick
   its own neighbours and reads off a dimension per cluster, with no fixed k
+- [[radovanovic-nanopoulos-ivanovic-2010-hubs-in-space-popular-nearest-neighbors-in-high-dimensional-data]] — uses this
+  estimator to show hubness tracks intrinsic, not raw, dimension

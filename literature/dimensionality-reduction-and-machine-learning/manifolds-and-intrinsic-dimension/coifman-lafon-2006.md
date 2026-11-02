@@ -25,3 +25,5 @@ in quant writing. Being the person who says so is worth a paragraph.
 - [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — SMCE; spectral
   embedding on a sparse graph where each point chooses its own neighbours, instead of a
   fixed kernel
+- [[radovanovic-nanopoulos-ivanovic-2010-hubs-in-space-popular-nearest-neighbors-in-high-dimensional-data]] — hubness;
+  diffusion maps reduce it but don't remove it

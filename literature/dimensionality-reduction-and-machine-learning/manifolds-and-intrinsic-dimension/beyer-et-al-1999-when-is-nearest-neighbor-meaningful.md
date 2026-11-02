@@ -76,3 +76,5 @@ at random.
   concentration, collinearity and multiple testing, each with a simulation
 - [[salih-2023-curse-of-dimensionality-an-intuitive-exploration]] — blog explainer that
   simulates this result and gives the law-of-large-numbers intuition for it
+- [[radovanovic-nanopoulos-ivanovic-2010-hubs-in-space-popular-nearest-neighbors-in-high-dimensional-data]] — the other
+  nearest-neighbour curse: a few central points become everyone's neighbours (hubness)

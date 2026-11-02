@@ -70,3 +70,5 @@ prerequisites.
   volume moves to the corners of the cube, and the kernel trick as the upside
 - [[salih-2023-curse-of-dimensionality-an-intuitive-exploration]] — blog explainer of
   sparsity and distance concentration, with the law-of-large-numbers reason
+- [[radovanovic-nanopoulos-ivanovic-2010-hubs-in-space-popular-nearest-neighbors-in-high-dimensional-data]] — hubness,
+  a fifth curse for anything built on nearest neighbours
