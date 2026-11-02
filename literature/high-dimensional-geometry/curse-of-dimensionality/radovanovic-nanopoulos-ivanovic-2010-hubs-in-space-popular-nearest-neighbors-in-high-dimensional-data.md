@@ -100,3 +100,5 @@ methods (diffusion maps, which the paper tests).
 - [[feldbauer-flexer-2019-a-comprehensive-empirical-comparison-of-hubness-reduction-in-high-dimensional-spaces]] — the
   benchmark of fixes: local scaling and mutual proximity work, fractional norms and
   shared neighbours don't
+- [[low-borgelt-stober-nurnberger-2013-the-hubness-phenomenon-fact-or-artifact]] — argues
+  hubs come from density gradients (boundaries), not from dimension itself

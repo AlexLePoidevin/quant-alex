@@ -85,3 +85,5 @@ That discounts the "average" days that would otherwise be everyone's closest ana
   related curse
 - [[coifman-lafon-2006]] — diffusion maps, another way of replacing raw distances with
   ones that respect the data's local structure
+- [[low-borgelt-stober-nurnberger-2013-the-hubness-phenomenon-fact-or-artifact]] — the
+  density-gradient explanation of hubness that fits which fixes work

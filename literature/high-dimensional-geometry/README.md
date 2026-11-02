@@ -11,7 +11,7 @@ PCA is the baseline. Its eigenvectors are the principal axes from
 
 | Folder | What's in it |
 |---|---|
-| `curse-of-dimensionality` | Why nearest-neighbour methods break as dimension grows: distance concentration (Beyer et al.), how the choice of norm changes the rate (Aggarwal et al.), hubs that dominate neighbour lists (Radovanović et al.) and a benchmark of the fixes for them (Feldbauer & Flexer), a two-page primer on the separate curses, and two blog explainers of where the volume goes and why distances bunch together |
+| `curse-of-dimensionality` | Why nearest-neighbour methods break as dimension grows: distance concentration (Beyer et al.), how the choice of norm changes the rate (Aggarwal et al.), hubs that dominate neighbour lists (Radovanović et al.), the argument that they come from density gradients rather than dimension (Low et al.), a benchmark of the fixes for them (Feldbauer & Flexer), a two-page primer on the separate curses, and two blog explainers of where the volume goes and why distances bunch together |
 | `intrinsic-dimension` | How many dimensions the data really has: the MLE and two-NN estimators, evidence that the number varies across parts of the data (the union of manifolds hypothesis), and controlled benchmarks for measuring curvature and reach and testing manifold-fitting rates |
 | `manifold-learning-and-embeddings` | Working on the manifold instead of in the ambient space: diffusion maps, clustering separate manifolds and embedding each one (SMCE), how tree-like the data is (δ-hyperbolicity, tree and hyperbolic embeddings), and geometric deep learning |
 | `component-analysis` | Linear reduction beyond PCA: *uncorrelated* → *independent* (ICA), and *linear* → *curved* (kernel PCA) |
