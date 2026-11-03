@@ -74,6 +74,8 @@ features that add nothing to the dependence.
 
 ## Links
 
+- [[bengio-delalleau-simard-2010-decision-trees-do-not-generalize-to-new-variations]] — the
+  cost of the same region-by-region mechanism: no generalisation to unseen combinations
 - [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]]
   — the benchmark finding (networks are not robust to uninformative features) that this
   paper isolates and builds on

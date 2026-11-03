@@ -74,6 +74,8 @@ the function.
 
 ## Links
 
+- [[bengio-delalleau-simard-2010-decision-trees-do-not-generalize-to-new-variations]] — the
+  theoretical limit: a tree needs examples in every region it must predict
 - [[freytsis-perelstein-san-2024-anomaly-detection-in-the-presence-of-irrelevant-features]]
   — the uninformative-features finding isolated: 0, 4 and 16 pure-noise columns added to
   the same physics data, with trees holding up and networks collapsing
