@@ -58,6 +58,12 @@ claim that is easiest to check directly against classical methods.
 
 ## Links
 
+- [[di-caro-et-al-2025-quantum-cognition-machine-learning-for-forecasting-chromosomal-instability]]
+  — the supervised version of the same model, with the POVM density forecast
+- [[candelori-et-al-2026-shallow-circuit-supervised-learning-on-a-quantum-processor]] — the
+  same ground-state model run on a 50-qubit IBM quantum processor
+- [[abanov-et-al-2025-quantum-geometry-of-data]] — the full geometric framework behind the
+  quantum-metric dimension estimate, with Chern numbers and matrix-Laplacian eigenmaps
 - [[samson-et-al-2024-quantum-cognition-machine-learning-financial-forecasting]] — the
   same model applied to forecasting US stock returns
 - [[candelori-santhanam-2026-the-shape-of-your-data]] — the same QCML model applied

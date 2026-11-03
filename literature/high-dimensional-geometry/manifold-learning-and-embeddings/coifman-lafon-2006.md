@@ -22,6 +22,8 @@ in quant writing. Being the person who says so is worth a paragraph.
 
 ## Links
 
+- [[abanov-et-al-2025-quantum-geometry-of-data]] — a matrix-geometry counterpart of
+  Laplacian eigenmaps and diffusion maps, learned with QCML
 - [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — SMCE; spectral
   embedding on a sparse graph where each point chooses its own neighbours, instead of a
   fixed kernel

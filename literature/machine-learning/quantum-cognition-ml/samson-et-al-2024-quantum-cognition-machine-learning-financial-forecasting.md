@@ -72,6 +72,10 @@ window and gross returns, so it needs replication before it counts as a result.
 
 ## Links
 
+- [[rosaler-et-al-2025-supervised-similarity-for-high-yield-bonds]] — the same supervised model used to define a distance between bonds
+- [[musaelian-et-al-2024-quantum-cognition-machine-learning-ai-needs-quantum]] — the position paper whose argument this one opens with
+- [[samson-et-al-2025-supervised-similarity-for-firm-linkages]] — the same universe and
+  portfolio test, with QCML used to learn which firms are linked instead of to forecast
 - [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] — the same
   ground-state model extended to intrinsic dimension, the follow-up named in the conclusion
 - [[candelori-santhanam-2026-the-shape-of-your-data]] — the same model used for imputation;

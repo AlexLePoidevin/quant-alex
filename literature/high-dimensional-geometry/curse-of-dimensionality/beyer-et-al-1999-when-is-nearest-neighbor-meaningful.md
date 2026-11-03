@@ -63,6 +63,7 @@ at random.
 
 ## Links
 
+- [[rosaler-et-al-2025-supervised-similarity-for-high-yield-bonds]] — a learned metric (random-forest proximity) where nearly every pair of bonds sits at the maximum distance
 - [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]] — intrinsic dimension from nearest-neighbour distances, the
   remedy the paper points to in §4.2
 - [[facco-et-al-2017]] — TWO-NN, which uses only the two nearest distances and so is
