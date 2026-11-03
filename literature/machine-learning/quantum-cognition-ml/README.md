@@ -28,7 +28,7 @@ listed under his name in `../../podcasts-and-videos/`.
 |---|---|---|---|
 | 2025 | *Robust estimation of the intrinsic dimension of data sets with QCML* — *Scientific Reports* 15, 6933; note [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] | Candelori, Abanov, Berger, Hogan, Kirakosyan, Musaelian, Samson, Smith, Villani, Wells, Xu | [PDF](candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml.pdf) |
 | 2026 | *Shallow-circuit Supervised Learning on a Quantum Processor* | Candelori, Majumder, Mezzacapo, Robledo Moreno, Musaelian, Nagarajan, Pinnamaneni, Sharma, Villani | [PDF](https://www.qognitiveai.com/papers/quantum.pdf) |
-| 2026 | *Data Cleaning White Paper* | Candelori, Santhanam | [PDF](https://www.qognitiveai.com/papers/Data_Cleaning_Whitepaper.pdf) |
+| 2026 | *The Shape of Your Data* (Data Cleaning White Paper) — imputation and anomaly detection as energy minimisation; note [[candelori-santhanam-2026-the-shape-of-your-data]] | Candelori, Santhanam | [PDF](https://www.qognitiveai.com/papers/Data_Cleaning_Whitepaper.pdf) |
 
 ## Finance applications
 

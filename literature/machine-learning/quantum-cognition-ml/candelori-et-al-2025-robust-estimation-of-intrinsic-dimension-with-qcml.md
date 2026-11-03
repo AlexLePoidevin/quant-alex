@@ -58,6 +58,8 @@ claim that is easiest to check directly against classical methods.
 
 ## Links
 
+- [[candelori-santhanam-2026-the-shape-of-your-data]] — the same QCML model applied
+  commercially, to imputation and anomaly detection
 - [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — the classical estimators it benchmarks
   against (MLE and TwoNN)
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — why nearest-neighbour methods
