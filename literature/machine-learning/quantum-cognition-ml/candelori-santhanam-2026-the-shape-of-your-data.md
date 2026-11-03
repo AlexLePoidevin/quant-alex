@@ -67,6 +67,8 @@ real data before they count as results.
 
 ## Links
 
+- [[samson-et-al-2024-quantum-cognition-machine-learning-financial-forecasting]] — the
+  same model applied to forecasting US stock returns
 - [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] — the
   peer-reviewed QCML method this builds on, applied to intrinsic dimension
 - [[dawid-lecun-2023-introduction-to-latent-variable-energy-based-models]] — energy-based

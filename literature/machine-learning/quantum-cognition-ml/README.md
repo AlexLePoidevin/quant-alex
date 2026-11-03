@@ -34,7 +34,7 @@ listed under his name in `../../podcasts-and-videos/`.
 
 | Year | Title | Authors | Link |
 |---|---|---|---|
-| 2024 | *Quantum Cognition Machine Learning: Financial Forecasting* | Samson, Berger, Candelori, Kirakosyan, Musaelian, Villani | [PDF](https://www.qognitiveai.com/papers/Qognitive_Financial_Forecasting.pdf) |
+| 2024 | *Quantum Cognition Machine Learning: Financial Forecasting* — QCML against a neural network on US stock returns; note [[samson-et-al-2024-quantum-cognition-machine-learning-financial-forecasting]] | Samson, Berger, Candelori, Kirakosyan, Musaelian, Villani | [PDF](https://www.qognitiveai.com/papers/Qognitive_Financial_Forecasting.pdf) |
 | 2025 | *Supervised Similarity for High-Yield Corporate Bonds with QCML* | Rosaler, Candelori, Kirakosyan, Musaelian, Samson, Wells, Mehta, Pasquali | [PDF](https://www.qognitiveai.com/papers/RiskBondSimilarity.pdf) |
 | 2025 | *Supervised Similarity for Firm Linkages* | Samson, Banner, Candelori, Cottrell, Di Matteo, Duchnowski, Kirakosyan, Marques, Musaelian, Pasquali, Stever, Villani | [PDF](https://www.qognitiveai.com/papers/firm_linkages.pdf) |
 

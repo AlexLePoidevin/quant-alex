@@ -58,6 +58,8 @@ claim that is easiest to check directly against classical methods.
 
 ## Links
 
+- [[samson-et-al-2024-quantum-cognition-machine-learning-financial-forecasting]] — the
+  same model applied to forecasting US stock returns
 - [[candelori-santhanam-2026-the-shape-of-your-data]] — the same QCML model applied
   commercially, to imputation and anomaly detection
 - [[levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension]], [[facco-et-al-2017]] — the classical estimators it benchmarks
