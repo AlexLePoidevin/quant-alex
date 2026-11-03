@@ -69,6 +69,9 @@ has not seen.
 
 ## Links
 
+- [[candelori-santhanam-2025-breaking-the-curse-of-dimensionality-qcml-vs-tree-based-models]]
+  — a benchmark on data built like this paper's worst case, where trees collapse and a linear
+  model does best
 - [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]]
   — the empirical side: where trees win anyway on real tabular data
 - [[li-et-al-2019-manifold-forests-closing-the-gap-on-neural-networks]] — the case where plain

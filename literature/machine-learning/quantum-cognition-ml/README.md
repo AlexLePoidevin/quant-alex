@@ -5,7 +5,7 @@ learning a Hamiltonian over them, so that structure is recovered from the geomet
 state space rather than from a covariance matrix. Quantum-*inspired* and classical to run —
 density matrices and POVMs on ordinary hardware — except where a paper says otherwise.
 
-All ten papers below are published by Qognitive at
+All ten papers below (plus one blog post) are published by Qognitive at
 [qognitiveai.com/research](https://www.qognitiveai.com/research/). Several have appeared in
 peer-reviewed venues; the PDFs carry the venue where there is one.
 
@@ -28,6 +28,7 @@ listed under his name in `../../podcasts-and-videos/`.
 |---|---|---|---|
 | 2025 | *Robust estimation of the intrinsic dimension of data sets with QCML* — *Scientific Reports* 15, 6933; note [[candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml]] | Candelori, Abanov, Berger, Hogan, Kirakosyan, Musaelian, Samson, Smith, Villani, Wells, Xu | [PDF](candelori-et-al-2025-robust-estimation-of-intrinsic-dimension-with-qcml.pdf) |
 | 2026 | *Shallow-circuit Supervised Learning on a Quantum Processor* | Candelori, Majumder, Mezzacapo, Robledo Moreno, Musaelian, Nagarajan, Pinnamaneni, Sharma, Villani | [PDF](https://www.qognitiveai.com/papers/quantum.pdf) |
+| 2025 | *Breaking the curse of dimensionality: QCML vs. tree-based models* (blog post) — QCML against tree ensembles on synthetic high-dimensional data; note [[candelori-santhanam-2025-breaking-the-curse-of-dimensionality-qcml-vs-tree-based-models]] | Candelori, Santhanam | [Post](https://www.qognitiveai.com/blog/tree-benchmarks/) |
 | 2026 | *The Shape of Your Data* (Data Cleaning White Paper) — imputation and anomaly detection as energy minimisation; note [[candelori-santhanam-2026-the-shape-of-your-data]] | Candelori, Santhanam | [PDF](https://www.qognitiveai.com/papers/Data_Cleaning_Whitepaper.pdf) |
 
 ## Finance applications
