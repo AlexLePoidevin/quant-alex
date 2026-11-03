@@ -74,6 +74,9 @@ the function.
 
 ## Links
 
+- [[freytsis-perelstein-san-2024-anomaly-detection-in-the-presence-of-irrelevant-features]]
+  — the uninformative-features finding isolated: 0, 4 and 16 pure-noise columns added to
+  the same physics data, with trees holding up and networks collapsing
 - [[lee-et-al-2019-wide-neural-networks-of-any-depth-evolve-as-linear-models]] — why
   gradient-trained networks fit smooth functions first (NTK eigenvalues)
 - [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
