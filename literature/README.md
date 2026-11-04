@@ -15,11 +15,11 @@ notes link across sections freely.
 | [`correlation-and-dependence`](correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
 | [`factor-models-and-asset-pricing`](factor-models-and-asset-pricing/) | Single-index models to Fama–French, APT, how much of a return is common, the factor zoo, ML factor models |
 | [`high-dimensional-geometry`](high-dimensional-geometry/) | The curse of dimensionality (distance concentration, hubness), intrinsic dimension, manifold learning and embeddings, PCA, ICA and kernel PCA |
-| [`machine-learning`](machine-learning/) | Neural tangent kernel and generalisation, tree ensembles vs deep learning, representation learning (energy-based models, information bottleneck, language models), quantum cognition ML, ML trading strategies |
+| [`machine-learning`](machine-learning/) | Neural tangent kernel and generalisation, tree ensembles vs deep learning, representation learning (energy-based models, information bottleneck, language models), quantum cognition ML |
 | [`mathematical-foundations`](mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
 | [`portfolio-construction-and-risk`](portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
 | [`reflexivity-and-market-history`](reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |
-| [`reinforcement-learning`](reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity, RL trading agents |
+| [`reinforcement-learning`](reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity |
 | [`podcasts-and-videos`](podcasts-and-videos/) | Lectures, interviews and documentaries, organised by person |
 
 [`refs.bib`](refs.bib) holds a BibTeX entry for every source. Each note names its key.

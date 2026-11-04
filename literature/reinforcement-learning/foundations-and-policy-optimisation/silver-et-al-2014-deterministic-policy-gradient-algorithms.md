@@ -74,4 +74,3 @@ dimension, the deterministic one does not — is the relevant one for that setti
   continuous-action actor-critic that learns a return distribution, not just its mean
 - [[rajeswaran-et-al-2017-towards-generalization-and-simplicity-in-continuous-control]] —
   how far linear policies and a natural gradient get on the same kind of tasks
-- [[jeong-gu-2024-pro-trader-rl]] — an actor-critic applied to trading decisions
