@@ -69,6 +69,8 @@ has not seen.
 
 ## Links
 
+- [[klusowski-2019-analyzing-cart]] — the positive counterpart: CART narrows its leaves
+  along the features that matter, at a rate set by their importance
 - [[candelori-santhanam-2025-breaking-the-curse-of-dimensionality-qcml-vs-tree-based-models]]
   — a benchmark on data built like this paper's worst case, where trees collapse and a linear
   model does best

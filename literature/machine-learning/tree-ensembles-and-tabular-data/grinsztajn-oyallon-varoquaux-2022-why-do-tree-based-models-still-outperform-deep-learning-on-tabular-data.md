@@ -74,6 +74,8 @@ the function.
 
 ## Links
 
+- [[klusowski-2019-analyzing-cart]] — theory for why CART adapts to the few features that
+  matter and leaves the rest coarse
 - [[bengio-delalleau-simard-2010-decision-trees-do-not-generalize-to-new-variations]] — the
   theoretical limit: a tree needs examples in every region it must predict
 - [[freytsis-perelstein-san-2024-anomaly-detection-in-the-presence-of-irrelevant-features]]
