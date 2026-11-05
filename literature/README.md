@@ -11,7 +11,7 @@ notes link across sections freely.
 | Section | What's in it |
 |---|---|
 | [`active-management`](active-management/) | The fundamental law, skill versus scale, active share, the rise of passive, and tactical asset allocation rule-sets (Keller–Keuning family and others) |
-| [`bear-markets`](bear-markets/) | Dating and forecasting bull and bear markets, bear rallies and reversals, risk-on/risk-off, bubbles, and crises from 1907 to COVID |
+| [`bear-markets`](bear-markets/) | Dating and forecasting bull and bear markets, bear rallies and reversals, risk-on/risk-off, bubbles, crises from 1907 to COVID, and Soros on reflexivity |
 | [`compounding-leverage-and-position-sizing`](compounding-leverage-and-position-sizing/) | Volatility drag, the Kelly criterion, leveraged ETFs, ergodicity |
 | [`correlation-and-dependence`](correlation-and-dependence/) | Random matrix theory, covariance shrinkage, copulas and tail dependence, why assets move together |
 | [`factor-models-and-asset-pricing`](factor-models-and-asset-pricing/) | Single-index models to Fama–French, APT, how much of a return is common, the factor zoo, ML factor models |
@@ -21,7 +21,6 @@ notes link across sections freely.
 | [`mathematical-foundations`](mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
 | [`momentum-and-trend-following`](momentum-and-trend-following/) | Time-series and cross-sectional momentum, trend filters, momentum crashes, machine learning for trends |
 | [`portfolio-construction-and-risk`](portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
-| [`reflexivity-and-market-history`](reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |
 | [`reinforcement-learning`](reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity |
 | [`tail-risk`](tail-risk/) | Tail hedging, defensive strategies (trend, rebalancing, volatility targeting), hidden short-volatility trades and dealer gamma, flash crashes and market microstructure |
 | [`volatility-and-derivatives`](volatility-and-derivatives/) | The VIX and its futures, variance and volatility swaps, the variance risk premium, Lévy and stochastic-volatility option models, the FX smile and vanna-volga, exotic options and static hedging |

@@ -184,11 +184,14 @@ const TYPES = { Paper: "#4e79a7", Book: "#9c6ade", Lecture: "#2fa9b8", Article: 
 // geometry (world px)
 const CW = 236, CH = 56, CG = 8, TP = 12, TH = 78, COLW = CW + 2 * TP, TG = 20, FP = 28, FH = 120, FG = 90, SPLIT = 9
 // subjects that link to each other most sit together; order within a cluster puts the
-// strongest pairs next to each other (from the cross-section [[links]], November 2026)
+// strongest pairs next to each other (from the cross-section [[links]], regrouped 6 November 2026)
 const CLUSTERS = [
-  { title: "Machine learning and data", ids: ["high-dimensional-geometry", "machine-learning", "reinforcement-learning", "factor-models-and-asset-pricing"] },
-  { title: "Risk, dependence and the maths", ids: ["correlation-and-dependence", "portfolio-construction-and-risk", "tail-risk", "volatility-and-derivatives", "mathematical-foundations"] },
-  { title: "Markets, macro and practice", ids: ["bear-markets", "macro-and-asset-allocation", "momentum-and-trend-following", "active-management", "compounding-leverage-and-position-sizing", "reflexivity-and-market-history"] },
+  { title: "Machine learning and data", ids: ["high-dimensional-geometry", "machine-learning", "reinforcement-learning"] },
+  { title: "Maths, dependence and portfolios", ids: ["mathematical-foundations", "correlation-and-dependence", "portfolio-construction-and-risk"] },
+  { title: "Volatility and tail risk", ids: ["volatility-and-derivatives", "tail-risk"] },
+  { title: "Crashes and market regimes", ids: ["bear-markets"] },
+  { title: "Macro", ids: ["macro-and-asset-allocation"] },
+  { title: "Strategies and factors", ids: ["momentum-and-trend-following", "factor-models-and-asset-pricing", "active-management", "compounding-leverage-and-position-sizing"] },
   { title: "Podcasts and videos", ids: ["podcasts-and-videos"] },
 ]
 const CL = 230, CLG = 360, MINF = 600         // cluster label height, gap between clusters
@@ -295,7 +298,7 @@ function layout(sections) {
       if (x > 0 && x + s.w > maxW) { x = 0; y += h + FG; h = 0 }
       s.lx = x; s.ly = y; x += s.w + FG; h = Math.max(h, s.h); w = Math.max(w, x - FG)
     }
-    c.w = w; c.h = CL + y + h
+    c.w = Math.max(w, c.title.length * 68); c.h = CL + y + h   // wide enough for the zoomed-out label
   }
   // clusters side by side, wrapping to keep the board roughly screen-shaped (about 16:9)
   const rowW = Math.max(...live.map((c) => c.w), Math.sqrt(live.reduce((a, c) => a + (c.w + CLG) * (c.h + CLG), 0) * 1.8))
@@ -322,7 +325,7 @@ function render(sections) {
   for (const c of clusters.filter((c) => c.items.length)) {
     const l = document.createElement("div")
     l.className = "cluster"
-    Object.assign(l.style, { left: c.x + "px", top: c.y + "px", width: Math.max(c.w, 1600) + "px" })
+    Object.assign(l.style, { left: c.x + "px", top: c.y + "px", width: c.w + "px" })
     l.textContent = c.title
     frag.appendChild(l)
   }

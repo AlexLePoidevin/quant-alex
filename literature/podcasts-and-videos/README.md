@@ -25,7 +25,7 @@ there is something to record that a row in this table cannot hold.
 | documentary | *The Great Speculator — The Mysterious Life of George Soros* | https://www.youtube.com/watch?v=0_gQhrFq1oU |
 
 His refereed statement of reflexivity is [[soros-2013]] in
-`../reflexivity-and-market-history/`.
+`../bear-markets/crises-and-crashes/`.
 
 Three things worth knowing before watching. **Take *Financial Markets* before *General
 Theory*** if the goal is something testable: the general claim, that participants' views

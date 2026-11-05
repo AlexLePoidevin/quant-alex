@@ -8,7 +8,7 @@ Falling markets: how to define and date bull and bear markets, whether the regim
 | `bear-market-rallies-and-reversals` | Bear rallies inside bear markets, dead-cat bounces, what happens after a crash, return reversals and the overnight drift |
 | `risk-on-risk-off` | How fear shocks (the VIX) move stocks, bonds and currencies together, correlation regimes, contagion across markets |
 | `bubbles` | Bubble theory and tests, real-time detection, shorting bubbles, and historical manias |
-| `crises-and-crashes` | 1907, August 2007, the 2018–20 quant crisis, COVID, the 2008 rescues, model risk, manipulation and squeezes |
+| `crises-and-crashes` | 1907, August 2007, the 2018–20 quant crisis, COVID, the 2008 rescues, model risk, manipulation and squeezes, and Soros on reflexivity |
 
 Many of the regime papers report backtests chosen in-sample; each note says how far the evidence goes. Volatility as a hedge is in `../tail-risk/` and `../volatility-and-derivatives/`, and trend following as crisis protection in `../tail-risk/defensive-strategies/` and `../momentum-and-trend-following/`.
 
@@ -80,4 +80,5 @@ Many of the regime papers report backtests chosen in-sample; each note says how 
 - [[kakushadze-2020-quant-bust-2020]]: Why dollar-neutral mean-reversion statistical arbitrage lost heavily in the COVID-19 selloff: long-only liquidations broke the industry correlations it bets on, making it effectively short deep out-of-the-money puts.
 - [[khandani-lo-2011-what-happened-to-the-quants-in-august-2007]]: The August 2007 quant meltdown reconstructed from simulated factor portfolios and 5-minute data: a slow unwind of crowded value and momentum bets through July, two sharp unwinds on 1 and 6 August, market makers withdrawing from 8 August, and a near-full reversal on 10 August.
 - [[lipton-lopez-de-prado-2020-three-quant-lessons-from-covid-19]]: A short essay from the COVID selloff: nowcast rather than forecast, build theories rather than backtest-mined rules, and replace all-weather strategies with regime-specific ones blended by nowcast regime probabilities.
+- [[soros-2013]]: Soros on fallibility and reflexivity. Market views change the fundamentals they are views of, so a market's statistics are not fixed parameters. A methodological essay, not an empirical result; his lectures and interviews are in `../podcasts-and-videos/`.
 - [[veraart-zhang-2021-a-macroprudential-view-on-portfolio-rebalancing-and-compression]]: Network theory of OTC-derivative post-trade risk reduction: dealer 'rebalancing' and compression cut variation-margin flows and procyclicality, but rebalancing can create new defaults because contagion depends on network shape, not gross notional.

@@ -49,5 +49,7 @@
  "high-dimensional-geometry/intrinsic-dimension/levina-bickel-2004": "high-dimensional-geometry/intrinsic-dimension/levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension",
  "tail-risk/szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options": "tail-risk/tail-hedging/szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options",
  "tail-risk/ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging": "tail-risk/tail-hedging/ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging",
- "tail-risk/cole-2017-volatility-and-the-alchemy-of-risk": "tail-risk/volatility-and-market-structure/cole-2017-volatility-and-the-alchemy-of-risk"
+ "tail-risk/cole-2017-volatility-and-the-alchemy-of-risk": "tail-risk/volatility-and-market-structure/cole-2017-volatility-and-the-alchemy-of-risk",
+ "reflexivity-and-market-history/soros-2013": "bear-markets/crises-and-crashes/soros-2013",
+ "reflexivity-and-market-history/index": "bear-markets/index"
 }
