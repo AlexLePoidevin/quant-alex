@@ -93,3 +93,4 @@ sophisticated investment-bank models. The details are in the companion paper.
 - [[laloux-et-al-1999]], [[bouchaud-potters-2009]] — the equity-correlation view of the
   same one-factor structure
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — the same calm-period-parameter failure for volatility: risk parity and volatility targeting as hidden short-volatility trades
+- [[poitras-2012-what-happened-may-6-2010-anatomy-of-the-flash-crash]] — portfolio insurance in 1987 and a futures hedge in 2010: hedging flows that caused crashes

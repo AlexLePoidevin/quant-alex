@@ -99,6 +99,7 @@ TAGS = {  # short subject tags: they become hub nodes in the graph
     "reflexivity-and-market-history": "market-history",
     "reinforcement-learning": "reinforcement-learning",
     "tail-risk": "tail-risk",
+    "volatility-and-derivatives": "volatility-and-derivatives",
     "podcasts-and-videos": "podcasts-and-videos",
 }
 

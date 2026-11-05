@@ -69,3 +69,4 @@ adds return.
 - [[donnelly-embrechts-2010-devil-is-in-the-tails]] — why the copula, not the correlation,
   sets the joint tail
 - [[michaud-1989]], [[chopra-ziemba-1993]] — why the mean-variance benchmarks lose
+- [[demos-et-al-2015-some-statistical-properties-of-the-mini-flash-crashes]] — GARCH fits around mini flash crashes look good but miss the power-law tails, the reason to put EVT on top

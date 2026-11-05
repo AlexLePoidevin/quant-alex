@@ -28,3 +28,4 @@ not an independent argument.
 - [[sonthalia-gilbert-2020-tree-i-am-no-tree-i-am-a-low-dimensional-hyperbolic-embedding]] —
   a test of how tree-like the distances are (δ-hyperbolicity) and a faster tree fit from
   distances alone
+- [[demos-et-al-2015-some-statistical-properties-of-the-mini-flash-crashes]] — econophysics tools (power laws, Lyapunov exponents, log-periodic fits) applied to mini flash crashes

@@ -44,3 +44,4 @@ much — which is exactly the question an individual replication cannot answer.
 
 - [[keller-keuning-2016-paa]], [[keller-butler-2014-eaa]], [[gpm]], [[kda]], [[optimum3]] —
   the individual strategies this would put in context
+- [[zakamulin-giner-2022-optimal-trend-following-in-a-markov-switching-model]] — why a 9–10 month moving-average window is optimal in a two-state bull/bear model of the S&P 500

@@ -100,3 +100,7 @@ average over many.
   coin game
 - [[szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options]] — the evidence on what long-VIX hedges did for a 60/40 portfolio, 2006–2017: big help in 2008, a steady drag otherwise
 - [[ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging]] — why rule-based tail hedges bleed, and the case for trading them on price
+- [[barbon-buraschi-2021-gamma-fragility]] — a measured test of the hedging-flow story: when option dealers are short gamma, volatility, intraday momentum and flash-crash depth all rise
+- [[cole-2018-what-is-water-in-markets]] — the follow-up letter: February 2018 read as a liquidity crisis, and passive flows as a liquidity-momentum trade
+- [[easley-et-al-2011-microstructure-of-the-flash-crash]] — the microstructure version of the loop: market makers losing to one-sided flow withdraw, and 6 May 2010 falls 5% in fifteen minutes
+- [[poitras-2012-what-happened-may-6-2010-anatomy-of-the-flash-crash]] — the 1987 crash and the 2010 flash crash as futures selling passed into stocks by arbitrage

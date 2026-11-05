@@ -87,3 +87,5 @@ as a careful description of what happened rather than a forecast.
 - [[markowitz-1952]] — the efficient frontier that §7 extends with VIX exposure
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — why a crash can be bigger than the history suggests: volatility-sized strategies as one hidden short-volatility trade
 - [[ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging]] — why rule-based tail hedges bleed, and the case for trading them on price
+- [[ambrus-capital-2022-is-the-vix-becoming-increasingly-leptokurtic]] — how the VIX is computed and why it can stay low in an orderly decline, with a manager's case that its tails are getting fatter
+- [[gayda-et-al-2022-option-liquidity-and-gamma-imbalances]] — the dealers' side of the hedge trade: SPX option spreads widen when market makers are short gamma, and dealers get flat in stressed markets

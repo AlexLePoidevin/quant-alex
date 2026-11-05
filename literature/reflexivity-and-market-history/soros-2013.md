@@ -53,3 +53,5 @@ any other.
 - [[choi-2022-the-curious-case-of-commonsense-intelligence]] — commonsense inference as defeasible: best guesses that more context
   should overturn
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — reflexivity applied to volatility: leverage sized by volatility suppresses volatility until a shock reverses it
+- [[ambrus-capital-2022-volatility-and-the-changing-market-structure]] — a tail-risk manager borrowing reflexivity to describe feedback loops from dealer hedging, passive flows and leveraged ETFs
+- [[shi-et-al-2020-modeling-flash-crash-behavior-with-multivariate-hawkes-processes]] — reflexivity measured at millisecond scale: self- and cross-excitation between the Dow stocks in the 2010 Flash Crash

@@ -46,5 +46,8 @@
  "dimensionality-reduction-and-machine-learning/tree-ensembles-and-tabular-data/index": "machine-learning/tree-ensembles-and-tabular-data/index",
  "dimensionality-reduction-and-machine-learning/tree-ensembles-and-tabular-data/li-et-al-2019-manifold-forests-closing-the-gap-on-neural-networks": "machine-learning/tree-ensembles-and-tabular-data/li-et-al-2019-manifold-forests-closing-the-gap-on-neural-networks",
  "dimensionality-reduction-and-machine-learning/tree-ensembles-and-tabular-data/shwartz-ziv-armon-2022-tabular-data-deep-learning-is-not-all-you-need": "machine-learning/tree-ensembles-and-tabular-data/shwartz-ziv-armon-2022-tabular-data-deep-learning-is-not-all-you-need",
- "high-dimensional-geometry/intrinsic-dimension/levina-bickel-2004": "high-dimensional-geometry/intrinsic-dimension/levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension"
+ "high-dimensional-geometry/intrinsic-dimension/levina-bickel-2004": "high-dimensional-geometry/intrinsic-dimension/levina-bickel-2004-maximum-likelihood-estimation-of-intrinsic-dimension",
+ "tail-risk/szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options": "tail-risk/tail-hedging/szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options",
+ "tail-risk/ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging": "tail-risk/tail-hedging/ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging",
+ "tail-risk/cole-2017-volatility-and-the-alchemy-of-risk": "tail-risk/volatility-and-market-structure/cole-2017-volatility-and-the-alchemy-of-risk"
 }

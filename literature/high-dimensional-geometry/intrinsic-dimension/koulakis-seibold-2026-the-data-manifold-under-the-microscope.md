@@ -73,3 +73,4 @@ found the underlying structure.
   and autoencoders as manifold learners, the claims this benchmark tests
 - [[brown-et-al-2022-the-union-of-manifolds-hypothesis-and-its-implications-for-deep-generative-modelling]] — data as several manifolds
   of different dimension, and why single generative models struggle with that
+- [[kim-et-al-2021-investigation-of-flash-crash-via-topological-data-analysis]] — topological data analysis (persistence landscapes) applied to the shape of joint returns around the 2010 flash crash
