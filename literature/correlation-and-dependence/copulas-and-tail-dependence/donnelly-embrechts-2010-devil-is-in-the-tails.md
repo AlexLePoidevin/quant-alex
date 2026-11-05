@@ -92,3 +92,5 @@ reproduce what it is evaluated on has not been tested.
   default clustering
 - [[artzner-delbaen-eber-heath-1999]], [[rockafellar-uryasev-2000]] — risk measures that
   look at the tail instead of a single correlation
+- [[szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options]] — what small long-VIX positions did for a 60/40 portfolio in 2008, and what they cost in the years without a crisis
+- [[cole-2017-volatility-and-the-alchemy-of-risk]] — a practitioner's case that risk parity is a levered bet on a stable stock–bond correlation

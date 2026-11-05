@@ -52,3 +52,4 @@ any other.
 
 - [[choi-2022-the-curious-case-of-commonsense-intelligence]] — commonsense inference as defeasible: best guesses that more context
   should overturn
+- [[cole-2017-volatility-and-the-alchemy-of-risk]] — reflexivity applied to volatility: leverage sized by volatility suppresses volatility until a shock reverses it

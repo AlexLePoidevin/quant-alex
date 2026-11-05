@@ -92,3 +92,4 @@ sophisticated investment-bank models. The details are in the companion paper.
 - [[finance-tutoring-2024-sklar-theorem]] — the informal theorem Li's application rests on
 - [[laloux-et-al-1999]], [[bouchaud-potters-2009]] — the equity-correlation view of the
   same one-factor structure
+- [[cole-2017-volatility-and-the-alchemy-of-risk]] — the same calm-period-parameter failure for volatility: risk parity and volatility targeting as hidden short-volatility trades
