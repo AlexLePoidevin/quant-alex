@@ -71,3 +71,4 @@ shrinkage, and models (like shallow boosted trees) whose capacity is controlled 
   — what happens to these models on tabular data
 - [[conklin-et-al-2026-learning-is-forgetting]] — compression during training as another
   account of why networks generalise
+- [[geiger-petrini-wyart-2021-landscape-and-training-regimes-in-deep-learning]] — why fitting everything does not hurt: a jamming transition, then initialisation noise that ensembling removes

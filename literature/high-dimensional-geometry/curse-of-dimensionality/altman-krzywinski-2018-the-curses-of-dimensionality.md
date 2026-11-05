@@ -72,3 +72,4 @@ prerequisites.
   sparsity and distance concentration, with the law-of-large-numbers reason
 - [[radovanovic-nanopoulos-ivanovic-2010-hubs-in-space-popular-nearest-neighbors-in-high-dimensional-data]] — hubness,
   a fifth curse for anything built on nearest neighbours
+- [[geiger-petrini-wyart-2021-landscape-and-training-regimes-in-deep-learning]] — how neural nets may beat the curse by learning which input directions to ignore
