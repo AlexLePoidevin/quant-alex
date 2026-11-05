@@ -23,3 +23,4 @@ the figure in the first post.
 
 - [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — the same bulk-plus-outliers shape in a trained
   network's Hessian, with the outliers built from class means
+- [[beber-et-al-2013-switching-risk-off-fx-correlations-and-risk-premia]] — the first principal component's share of variance jumps when FX correlations switch to a risk-off regime

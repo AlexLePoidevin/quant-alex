@@ -94,3 +94,7 @@ reproduce what it is evaluated on has not been tested.
   look at the tail instead of a single correlation
 - [[szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options]] — what small long-VIX positions did for a 60/40 portfolio in 2008, and what they cost in the years without a crisis
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — a practitioner's case that risk parity is a levered bet on a stable stock–bond correlation
+- [[avellaneda-2009-dispersion-trading]] — correlation as a traded quantity: index options against component options, and why short correlation loses on large joint moves
+- [[carr-laurence-2011-multi-asset-stochastic-local-variance-contracts]] — reading the joint distribution of several assets from basket option prices instead of specifying it with a copula
+- [[guyon-2013-a-new-class-of-local-correlation-models]] — the derivatives-pricing answer: correlation that depends on the price level, calibrated to the basket's option smile
+- [[jacquier-slaoui-2010-variance-dispersion-and-correlation-swaps]] — how correlation is traded (dispersion trades and correlation swaps) and what the P&L of a short-correlation book is made of

@@ -69,3 +69,6 @@ readable route into the original paper.
 
 - [[merton-1976]] — jumps, the other reason a sum of squared returns misstates diffusive
   volatility
+- [[carr-et-al-2005-pricing-options-on-realized-variance]] — pricing options on realized variance, the quantity this thesis estimates from noisy data
+- [[carr-et-al-2017-pricing-variance-swaps-on-time-changed-markov-processes]] — what a variance swap on that realised variance is worth, and which option strip replicates it when there are jumps
+- [[itkin-carr-2010-pricing-swaps-and-options-on-quadratic-variation]] — how discrete sampling and jumps change the fair strike of a variance swap

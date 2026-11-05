@@ -86,3 +86,4 @@ positioning. It is also the template behind commercial "gamma exposure" indicato
 - [[merton-1976]] — the jump risk that dealers short options cannot hedge away
 - [[barbon-buraschi-2021-gamma-fragility]] — the same dealer-gamma mechanism measured on single stocks: short gamma deepens crashes
 - [[squeezemetrics-2020-the-implied-order-book]] — the GEX estimate of dealer gamma that this paper rebuilds more carefully
+- [[carr-wu-2020-option-profit-and-loss-attribution-and-pricing]] — what the gamma, vanna and volga exposures are worth: an option priced from its daily P&L attribution

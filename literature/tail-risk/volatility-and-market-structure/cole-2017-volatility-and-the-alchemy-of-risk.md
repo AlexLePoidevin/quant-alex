@@ -104,3 +104,9 @@ average over many.
 - [[cole-2018-what-is-water-in-markets]] — the follow-up letter: February 2018 read as a liquidity crisis, and passive flows as a liquidity-momentum trade
 - [[easley-et-al-2011-microstructure-of-the-flash-crash]] — the microstructure version of the loop: market makers losing to one-sided flow withdraw, and 6 May 2010 falls 5% in fifteen minutes
 - [[poitras-2012-what-happened-may-6-2010-anatomy-of-the-flash-crash]] — the 1987 crash and the 2010 flash crash as futures selling passed into stocks by arbitrage
+- [[bossu-strasser-guichard-2005-just-what-you-need-to-know-about-variance-swaps]] — the instrument-level version of selling volatility: collecting implied minus realized variance, with convex losses when volatility spikes
+- [[carr-wu-2006-a-tale-of-two-indices]] — the short-variance trade measured over 1990–2005: frequent small gains, rare losses of more than twice the notional
+- [[carr-wu-2009-variance-risk-premia]] — the evidence that selling index variance earned a large premium, the return the short-volatility trade collects
+- [[carr-wu-2017-leverage-effect-volatility-feedback-and-self-exciting-market-disruptions]] — the option-implied version: leverage, volatility feedback and self-exciting crashes estimated separately from SPX options
+- [[farooqui-2020-a-note-on-trading-the-term-structure-of-vix-futures]] — the VIX futures curve read as a real-time gauge of dealer risk appetite
+- [[lee-2008-corridor-variance-swap]] — up- and down-variance swaps, which separate the variance realised in sell-offs from that realised in rallies

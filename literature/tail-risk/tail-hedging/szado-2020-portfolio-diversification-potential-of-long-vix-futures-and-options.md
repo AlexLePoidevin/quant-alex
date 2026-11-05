@@ -89,3 +89,14 @@ as a careful description of what happened rather than a forecast.
 - [[ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging]] — why rule-based tail hedges bleed, and the case for trading them on price
 - [[ambrus-capital-2022-is-the-vix-becoming-increasingly-leptokurtic]] — how the VIX is computed and why it can stay low in an orderly decline, with a manager's case that its tails are getting fatter
 - [[gayda-et-al-2022-option-liquidity-and-gamma-imbalances]] — the dealers' side of the hedge trade: SPX option spreads widen when market makers are short gamma, and dealers get flat in stressed markets
+- [[avellaneda-papanicolaou-2018-statistics-of-vix-futures-and-applications-to-trading]] — a model of the VIX futures curve that explains the contango drag on long-VIX positions and what the short side earns
+- [[bossu-strasser-guichard-2005-just-what-you-need-to-know-about-variance-swaps]] — the mechanics behind long volatility: variance swaps, their replication from an option strip, and why the strike carries a convexity premium
+- [[brenner-et-al-2007-the-market-for-volatility-trading-vix-futures]] — why VIX futures sit in contango and move less than spot VIX
+- [[carr-et-al-2003-stochastic-volatility-for-levy-processes]] — option-pricing models with jumps and stochastic volatility, the kind of model that prices the crash protection studied here
+- [[carr-madan-2014-joint-modeling-of-vix-and-spx-options]] — pricing SPX and VIX options consistently in one model, and hedging a realized-volatility call with them
+- [[carr-wu-2006-a-tale-of-two-indices]] — what the VIX measures (a variance-swap rate built from an option strip) and the variance risk premium that makes long-VIX positions costly
+- [[carr-wu-2009-variance-risk-premia]] — the variance risk premium measured from option prices: why holding long volatility is a steady drag
+- [[carr-wu-2016-analyzing-volatility-risk-and-risk-premium-in-option-contracts]] — the volatility risk premium measured option by option, the premium a long-volatility holder pays
+- [[lin-lin-2009-hedging-effectiveness-of-vix-futures]] — VIX futures as a hedge for an option book's forward volatility rather than a portfolio's crash risk
+- [[osterrieder-et-al-2019-the-vix-volatility-index-a-very-thorough-look]] — how the VIX is computed and settled, and why it can be biased low
+- [[roring-2017-volatility-and-variance-swaps]] — how a variance swap is replicated with options, and evidence that S&P 500 implied volatility sat above realised volatility almost throughout 2009–2016

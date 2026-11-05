@@ -80,3 +80,5 @@ working paper, and the results are associations, not causal estimates.
 - [[gayda-et-al-2022-option-liquidity-and-gamma-imbalances]] — the index version: SPX dealer gamma inventory and option liquidity, 2004–2020
 - [[squeezemetrics-2020-the-implied-order-book]] — the practitioner version: dealer gamma (GEX) read as a hidden order book
 - [[tee-ting-2019-cross-section-of-mini-flash-crashes]] — another detector and cross-section of single-stock flash crashes
+- [[carr-wu-2010-stock-options-and-credit-default-swaps]] — a different source of single-stock skew: the market pricing a jump to zero on default
+- [[wystup-2008-vanna-volga-pricing-pros-and-cons]] — the FX version: a bank delta-hedging a large reverse barrier holds spot away from the barrier, then dumps the hedge once it breaks

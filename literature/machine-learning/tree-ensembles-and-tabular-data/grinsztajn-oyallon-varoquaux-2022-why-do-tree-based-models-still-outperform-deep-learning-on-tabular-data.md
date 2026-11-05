@@ -98,3 +98,4 @@ the function.
 - [[fuhrer-tessler-dalal-2025-gradient-boosting-reinforcement-learning]] — gradient-boosted trees as the function approximator in RL
 - [[li-et-al-2019-manifold-forests-closing-the-gap-on-neural-networks]] — the case where trees
   lose: features with a meaningful order, and a forest that splits on contiguous patches
+- [[carr-wu-zhang-2019-using-machine-learning-to-predict-realized-variance]] — a case where trees are ruled out structurally: a volatility-index forecast must be piecewise linear in option prices to be replicable

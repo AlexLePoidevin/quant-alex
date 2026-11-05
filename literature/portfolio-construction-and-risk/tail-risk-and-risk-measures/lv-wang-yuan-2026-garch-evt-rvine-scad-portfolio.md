@@ -70,3 +70,5 @@ adds return.
   sets the joint tail
 - [[michaud-1989]], [[chopra-ziemba-1993]] — why the mean-variance benchmarks lose
 - [[demos-et-al-2015-some-statistical-properties-of-the-mini-flash-crashes]] — GARCH fits around mini flash crashes look good but miss the power-law tails, the reason to put EVT on top
+- [[doman-doman-2020-daily-fx-volatility-and-the-time-of-day]] — GARCH volatility of FX pairs depends on which hour defines the daily close
+- [[marabel-2011-volatility-regimes-for-the-vix-index]] — volatility as two persistent regimes, a regime-switching alternative to a single GARCH process

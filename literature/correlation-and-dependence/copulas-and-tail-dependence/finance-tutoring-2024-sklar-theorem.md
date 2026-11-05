@@ -33,3 +33,4 @@ It is the shortest intuition for Sklar's theorem in the library. Read it before
   Fréchet–Hoeffding bounds
 - [[munnix-schafer-2011-copula-dependencies]] — what the dependence structure actually
   looks like in S&P 500 returns
+- [[chen-et-al-2008-static-super-replicating-strategies-for-exotic-options]] — the comonotonic (upper Fréchet) case turned into a model-free price bound and a static hedge for basket options

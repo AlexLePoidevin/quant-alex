@@ -64,3 +64,4 @@ behaviour.
   underlying stocks
 - [[merton-1976]] — the jump-diffusion setting the dealer's model extends
 - [[gayda-et-al-2022-option-liquidity-and-gamma-imbalances]] — what dealer inventories look like in the data
+- [[allen-2001-managing-options-risk-for-exotic-options]] — the risk manager's side: marking illiquid options at the cost of a hedge, and reserving for what the hedge misses

@@ -21,6 +21,7 @@ notes link across sections freely.
 | [`reflexivity-and-market-history`](reflexivity-and-market-history/) | Soros on reflexivity: why a market's statistics are not fixed parameters |
 | [`reinforcement-learning`](reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity |
 | [`tail-risk`](tail-risk/) | Tail hedging with VIX futures and options, hidden short-volatility trades and dealer gamma, 0DTE options, flash crashes and market microstructure |
+| [`volatility-and-derivatives`](volatility-and-derivatives/) | The VIX and its futures, variance and volatility swaps, the variance risk premium, Lévy and stochastic-volatility option models, the FX smile and vanna-volga, exotic options and static hedging |
 | [`podcasts-and-videos`](podcasts-and-videos/) | Lectures, interviews and documentaries, organised by person |
 
 [`refs.bib`](refs.bib) holds a BibTeX entry for every source. Each note names its key.

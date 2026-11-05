@@ -82,3 +82,4 @@ for holding tail exposure, so read its framing as the manager's view.
 - [[szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options]] —
   the VXTH tail-hedge index, which had no protection on going into February 2018
 - [[ambrus-capital-2022-volatility-and-the-changing-market-structure]] — the structural fragility argument updated for 2022: dealers, 0DTE, passive flows
+- [[osterrieder-et-al-2019-the-vix-volatility-index-a-very-thorough-look]] — the mechanics of the VIX and its settlement, with February 2018 as the motivating case

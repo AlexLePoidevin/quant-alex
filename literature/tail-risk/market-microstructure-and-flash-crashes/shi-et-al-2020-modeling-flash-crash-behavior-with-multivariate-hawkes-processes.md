@@ -86,3 +86,4 @@ risk management in the conclusion are not tested.
 - [[merton-1976]] — the Poisson jump model that Hawkes processes extend by letting events
   trigger further events
 - [[easley-et-al-2011-microstructure-of-the-flash-crash]] — the order-flow-toxicity account of 6 May 2010
+- [[carr-wu-2017-leverage-effect-volatility-feedback-and-self-exciting-market-disruptions]] — self-exciting crash intensity at the daily/option-implied scale

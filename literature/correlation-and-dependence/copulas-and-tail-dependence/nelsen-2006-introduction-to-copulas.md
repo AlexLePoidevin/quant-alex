@@ -81,3 +81,4 @@ returns with a chosen tail behaviour, as an alternative to a multivariate normal
 - [[meucci-2009]] — the diversification measure that inherits the Gaussian copula
 - [[hyvarinen-oja-2000]] — the other route to non-Gaussian dependence, through independence
   rather than through the copula
+- [[austing-2011-repricing-the-cross-smile]] — an FX joint density fitted to a whole extra marginal (the cross smile) instead of a parametric copula

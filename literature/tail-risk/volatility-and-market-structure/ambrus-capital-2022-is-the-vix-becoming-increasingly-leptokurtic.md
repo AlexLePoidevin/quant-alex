@@ -67,3 +67,6 @@ is the claim a long-volatility manager needs, and no pricing evidence is given f
 - [[ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging]]
   — the same firm on why fixed-rule VIX and put hedges bleed
 - [[ambrus-capital-2023-dispelling-false-narratives-about-0dte-options]] — the same firm on short-dated options and intraday volatility
+- [[avellaneda-et-al-2021-trading-signals-in-vix-futures]] — the VIX futures curve as a mean-reverting state: roll yield, contango drag and calendar trades
+- [[demeterfi-et-al-1999-more-than-you-ever-wanted-to-know-about-volatility-swaps]] — the variance-swap replication the VIX formula is built on
+- [[rolloos-arslan-2015-taylor-made-volatility-swaps]] — pricing a swap on volatility rather than variance: the strike sits at the zero-vanna point of the smile

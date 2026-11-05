@@ -69,3 +69,4 @@ relied upon.
   live in the tail this paper shows is fatter than assumed
 - [[hyvarinen-oja-2000]] — the other route to non-Gaussian structure, via independence
   rather than via the copula
+- [[beber-et-al-2013-switching-risk-off-fx-correlations-and-risk-premia]] — FX correlations as two regimes rather than one matrix, with the risk-off regime dated from the data

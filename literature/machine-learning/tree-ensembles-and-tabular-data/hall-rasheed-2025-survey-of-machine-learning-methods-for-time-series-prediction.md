@@ -76,3 +76,4 @@ periods), not on RMSE of the forecast.
   question for tabular data, including the same selection-bias finding
 - [[gu-kelly-xiu-2021]] — deep models on a return panel, where a tuned tree model belongs in
   the comparison
+- [[kucharczyk-et-al-2018-neural-networks-and-arbitrage-in-the-vix]] — a small financial case: an LSTM predicting the VIX from ten options, with a random forest almost as good
