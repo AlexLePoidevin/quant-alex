@@ -57,6 +57,11 @@
   .big .bt { font-family: "Schibsted Grotesk", sans-serif; font-weight: 700; font-size: 84px; line-height: 1.05; color: var(--ink); max-width: 100%; }
   .big .bc { color: var(--muted); font-size: 48px; margin-top: 18px; }
 
+  .cluster { position: absolute; height: 230px; display: flex; align-items: flex-end; padding: 0 0 50px 8px; pointer-events: none;
+    font-family: "Schibsted Grotesk", sans-serif; font-weight: 700; font-size: 120px; line-height: 1; color: var(--muted); opacity: .55;
+    white-space: nowrap; }
+  #world:not(.far) .cluster { font-size: 64px; padding-bottom: 40px; }
+
   .topic { position: absolute; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
   .topic > .th { height: 78px; padding: 10px 14px 0; cursor: pointer; border-bottom: 1px solid var(--line); }
   .th .tt { font-weight: 700; font-size: 16px; line-height: 1.2; display: flex; justify-content: space-between; gap: 8px; }
@@ -177,11 +182,20 @@
 const PALETTE = ["#4e79a7", "#e8a33d", "#e15759", "#59a14f", "#9c6ade", "#2fa9b8", "#f28e2b", "#3a9c86", "#b07aa1", "#e05aa8", "#9d7a3b"]
 const TYPES = { Paper: "#4e79a7", Book: "#9c6ade", Lecture: "#2fa9b8", Article: "#e8a33d", Strategy: "#59a14f", Video: "#e05aa8" }
 // geometry (world px)
-const CW = 236, CH = 56, CG = 8, TP = 12, TH = 78, COLW = CW + 2 * TP, TG = 20, FP = 28, FH = 120, FG = 90, MAXROW = 3300, SPLIT = 9
+const CW = 236, CH = 56, CG = 8, TP = 12, TH = 78, COLW = CW + 2 * TP, TG = 20, FP = 28, FH = 120, FG = 90, SPLIT = 9
+// subjects that link to each other most sit together; order within a cluster puts the
+// strongest pairs next to each other (from the cross-section [[links]], November 2026)
+const CLUSTERS = [
+  { title: "Machine learning and data", ids: ["high-dimensional-geometry", "machine-learning", "reinforcement-learning", "factor-models-and-asset-pricing"] },
+  { title: "Risk, dependence and the maths", ids: ["correlation-and-dependence", "portfolio-construction-and-risk", "mathematical-foundations"] },
+  { title: "Markets and practice", ids: ["active-management", "compounding-leverage-and-position-sizing", "reflexivity-and-market-history"] },
+  { title: "Podcasts and videos", ids: ["podcasts-and-videos"] },
+]
+const CL = 230, CLG = 360, MINF = 600         // cluster label height, gap between clusters
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]))
 const $ = (id) => document.getElementById(id)
 const world = $("world"), viewport = $("viewport"), panel = $("panel")
-let byId, leaves = [], frames = [], zoom, view = d3.zoomIdentity, W = 0, H = 0, selected = null
+let byId, leaves = [], frames = [], clusters = [], zoom, view = d3.zoomIdentity, W = 0, H = 0, selected = null
 
 fetch("graph.json").then((r) => r.json()).then(init)
 
@@ -223,7 +237,7 @@ function init(data) {
   else fit(false)
 }
 
-/* ── deterministic layout: frames in alphabetical order, topics masonry-packed inside ── */
+/* ── deterministic layout: related subjects clustered, topics masonry-packed inside ── */
 function layout(sections) {
   for (const s of sections) {
     const groups = []
@@ -253,14 +267,45 @@ function layout(sections) {
       })
     }
     s.groups = groups
-    s.w = FP * 2 + cols * COLW + (cols - 1) * TG
-    s.h = FH + Math.max(...colH) - TG + FP
+    s.w = Math.max(FP * 2 + cols * COLW + (cols - 1) * TG, MINF)   // MINF: room for the zoomed-out title
+    s.h = Math.max(FH + Math.max(...colH) - TG + FP, MINF * 0.75)
   }
-  // frames: shelf rows in order
-  let x = 0, y = 0, rowH = 0
+  // frames: grouped into clusters of related subjects (CLUSTERS), each cluster packed in
+  // rows, clusters side by side. A subject missing from CLUSTERS joins the cluster it cites most.
+  clusters = CLUSTERS.map((c) => ({ title: c.title, items: [] }))
+  const home = new Map(CLUSTERS.flatMap((c, i) => c.ids.map((id) => [id, i])))
   for (const s of sections) {
-    if (x > 0 && x + s.w > MAXROW) { x = 0; y += rowH + FG; rowH = 0 }
-    s.x = x; s.y = y; x += s.w + FG; rowH = Math.max(rowH, s.h)
+    let i = home.get(s.id)
+    if (i === undefined) {
+      const n = new Array(clusters.length).fill(0)
+      const w = (m) => { if (isLeaf(m)) for (const o of [...m.cites, ...m.citedBy]) if (home.has(o.section)) n[home.get(o.section)]++; m.children.forEach(w) }
+      w(s)
+      i = n.some((v) => v > 0) ? n.indexOf(Math.max(...n)) : clusters.push({ title: "Other", items: [] }) - 1
+    }
+    clusters[i].items.push(s)
+  }
+  for (const c of clusters) c.items.sort((a, b) => (home.get(a.id) === undefined) - (home.get(b.id) === undefined) || order(a) - order(b))
+  function order(s) { const c = CLUSTERS.find((c) => c.ids.includes(s.id)); return c ? c.ids.indexOf(s.id) : 0 }
+  const live = clusters.filter((c) => c.items.length)
+  for (const c of live) {
+    const area = c.items.reduce((a, s) => a + (s.w + FG) * (s.h + FG), 0)
+    const maxW = Math.max(...c.items.map((s) => s.w), Math.sqrt(area * 2))
+    let x = 0, y = 0, h = 0, w = 0
+    for (const s of c.items) {
+      if (x > 0 && x + s.w > maxW) { x = 0; y += h + FG; h = 0 }
+      s.lx = x; s.ly = y; x += s.w + FG; h = Math.max(h, s.h); w = Math.max(w, x - FG)
+    }
+    c.w = w; c.h = CL + y + h
+  }
+  // clusters side by side, wrapping to keep the board roughly screen-shaped (about 16:9)
+  const rowW = Math.max(...live.map((c) => c.w), Math.sqrt(live.reduce((a, c) => a + (c.w + CLG) * (c.h + CLG), 0) * 1.8))
+  let cx = 0, cy = 0, rowH = 0
+  for (const c of live) {
+    if (cx > 0 && cx + c.w > rowW) { cx = 0; cy += rowH + CLG; rowH = 0 }
+    c.x = cx; c.y = cy; cx += c.w + CLG; rowH = Math.max(rowH, c.h)
+    for (const s of c.items) { s.x = c.x + s.lx; s.y = c.y + CL + s.ly }
+  }
+  for (const s of sections) {
     for (const g of s.groups) { g.ax = s.x + g.x; g.ay = s.y + g.y; if (g.node) Object.assign(g.node, { x: g.ax, y: g.ay, w: g.w, h: g.h }) }
     for (const g of s.groups) for (const n of g.items) { n.x = s.x + n.lx; n.y = s.y + n.ly; n.w = CW; n.h = CH }
   }
@@ -274,6 +319,13 @@ function render(sections) {
   world.style.width = W_ + "px"; world.style.height = H_ + "px"
   const svg = $("links"); svg.setAttribute("width", W_); svg.setAttribute("height", H_)
   const frag = document.createDocumentFragment()
+  for (const c of clusters.filter((c) => c.items.length)) {
+    const l = document.createElement("div")
+    l.className = "cluster"
+    Object.assign(l.style, { left: c.x + "px", top: c.y + "px", width: Math.max(c.w, 1600) + "px" })
+    l.textContent = c.title
+    frag.appendChild(l)
+  }
   for (const s of sections) {
     const f = document.createElement("div")
     f.className = "frame"
