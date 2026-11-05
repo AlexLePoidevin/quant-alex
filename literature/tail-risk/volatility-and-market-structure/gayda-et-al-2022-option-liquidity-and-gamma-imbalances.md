@@ -87,3 +87,4 @@ positioning. It is also the template behind commercial "gamma exposure" indicato
 - [[barbon-buraschi-2021-gamma-fragility]] — the same dealer-gamma mechanism measured on single stocks: short gamma deepens crashes
 - [[squeezemetrics-2020-the-implied-order-book]] — the GEX estimate of dealer gamma that this paper rebuilds more carefully
 - [[carr-wu-2020-option-profit-and-loss-attribution-and-pricing]] — what the gamma, vanna and volga exposures are worth: an option priced from its daily P&L attribution
+- [[boyarchenko-larsen-whelan-2023-the-overnight-drift]] — dealers' risk-bearing capacity in S&P futures: selling at the close is reversed overnight, more so when volatility is high

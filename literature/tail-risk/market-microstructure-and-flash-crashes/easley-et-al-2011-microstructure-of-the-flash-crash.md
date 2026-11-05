@@ -74,3 +74,6 @@ early-warning claim as unproven.
 - [[merton-1976]] — prices that jump, the modelling counterpart of a liquidity crash
 - [[poitras-2012-what-happened-may-6-2010-anatomy-of-the-flash-crash]] — the futures-arbitrage account of the same day, compared with 1987
 - [[shi-et-al-2020-modeling-flash-crash-behavior-with-multivariate-hawkes-processes]] — how the crash spread across the Dow stocks, modelled as self-exciting trades
+- [[bouchaud-kockelkoren-potters-2006-random-walks-liquidity-molasses-and-critical-response]] — how liquidity providers keep prices calm against persistent order flow, and what happens when they stop
+- [[boyarchenko-larsen-whelan-2023-the-overnight-drift]] — end-of-day order imbalance in the E-mini and how it is worked off overnight
+- [[kirilenko-et-al-2018-automation-intermediation-and-the-flash-crash]] — the regulator-data account: intermediaries too small to absorb the sell program

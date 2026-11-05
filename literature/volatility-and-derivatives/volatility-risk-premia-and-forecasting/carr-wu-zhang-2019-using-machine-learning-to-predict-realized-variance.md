@@ -75,3 +75,5 @@ replicate.
 - [[grinsztajn-oyallon-varoquaux-2022-why-do-tree-based-models-still-outperform-deep-learning-on-tabular-data]] —
   trees usually win on tabular data. Here they are excluded for a structural reason: their
   output cannot be replicated by a portfolio
+- [[audrino-huang-okhrin-2019-flexible-har-model-for-realized-volatility]] — the time-series side: choosing the lags of the HAR realised-volatility model
+- [[corsi-2009-a-simple-approximate-long-memory-model-of-realized-volatility]] — HAR-RV, the standard simple benchmark for forecasting realised volatility

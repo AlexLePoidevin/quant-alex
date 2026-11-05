@@ -110,3 +110,11 @@ average over many.
 - [[carr-wu-2017-leverage-effect-volatility-feedback-and-self-exciting-market-disruptions]] — the option-implied version: leverage, volatility feedback and self-exciting crashes estimated separately from SPX options
 - [[farooqui-2020-a-note-on-trading-the-term-structure-of-vix-futures]] — the VIX futures curve read as a real-time gauge of dealer risk appetite
 - [[lee-2008-corridor-variance-swap]] — up- and down-variance swaps, which separate the variance realised in sell-offs from that realised in rallies
+- [[aqr-2020-fire-and-ice-inflation-and-deflation]] — evidence that the stock–bond correlation rises when inflation surprises dominate growth surprises
+- [[arnott-et-al-2019-alices-adventures-in-factorland]] — factor portfolios whose negative betas and low correlations vanished together in 2008–09
+- [[brixton-thapar-maloney-2021-when-stock-bond-diversification-fails]] — when stocks and bonds fall together: inflation shocks, the scenario that breaks risk parity
+- [[brooks-2021-what-drives-bond-yields]] — what drove two decades of falling yields: the natural rate and long-run inflation expectations, more than central banks
+- [[brunnermeier-nagel-pedersen-2008-carry-trades-and-currency-crashes]] — the steady-gains, sudden-loss structure documented for the currency carry trade, with funding liquidity as the cause
+- [[harvey-et-al-2018-the-impact-of-volatility-targeting]] — the investor-level evidence for volatility targeting: thinner left tails, better Sharpe ratios for risk assets
+- [[hood-et-al-2019-risk-parity-is-not-short-volatility]] — the direct rebuttal: in simulation, risk parity's trades and returns are almost unrelated to short volatility's once market exposure is removed
+- [[li-et-al-2022-does-fiscal-policy-matter-for-stock-bond-return-correlation]] — why bonds started hedging stocks around 2001, and why a policy-regime change could undo it

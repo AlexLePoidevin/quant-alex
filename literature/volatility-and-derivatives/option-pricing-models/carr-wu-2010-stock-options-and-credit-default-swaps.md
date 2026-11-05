@@ -74,3 +74,5 @@ GM's long CDS maturities and fits Altria's CDS poorly.
   way to zero, with a random arrival rate
 - [[barbon-buraschi-2021-gamma-fragility]] — another source of skew and crash risk in
   option prices, from dealer hedging rather than default
+- [[demirovic-guermat-tucker-2017-the-relationship-between-equity-and-bond-returns]] — how a firm's shares and its own bonds co-move as default risk rises
+- [[merton-1974-on-the-pricing-of-corporate-debt]] — the original structural model linking a firm's equity, volatility and credit risk

@@ -60,3 +60,8 @@ difference is drawdown — **−15.0% against −21.0%** — which carries Calma
 - [[keller-keuning-2016-paa]] — the breadth arithmetic HAA replaces with a binary switch
 - [[gpm]] — the other Keller-Keuning strategy in this folder, breadth-scaled rather than
   canary-gated
+- [[aqr-2017-exploring-rates-sensitivity]] — how assets have historically behaved in Fed hiking cycles and when real yields and inflation rise
+- [[erb-harvey-2013-the-golden-dilemma]] — why the TIPS real yield–gold correlation (−0.82) may be partly spurious
+- [[feldstein-1978-the-effect-of-inflation-on-the-prices-of-land-and-gold]] — why real assets reprice when expected inflation rises: unindexed taxes hit bonds harder than gold or land
+- [[jermann-2022-golds-value-as-an-investment]] — why real yields matter for gold: a pricing model in which investors treat gold as a long real bond when rates are low
+- [[neville-et-al-2021-the-best-strategies-for-inflationary-times]] — what stocks, bonds, TIPS, commodities and trend did in every US inflation surge since 1926

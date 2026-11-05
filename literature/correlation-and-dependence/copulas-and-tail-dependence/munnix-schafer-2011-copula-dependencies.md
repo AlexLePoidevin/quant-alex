@@ -70,3 +70,6 @@ relied upon.
 - [[hyvarinen-oja-2000]] — the other route to non-Gaussian structure, via independence
   rather than via the copula
 - [[beber-et-al-2013-switching-risk-off-fx-correlations-and-risk-premia]] — FX correlations as two regimes rather than one matrix, with the risk-off regime dated from the data
+- [[hartmann-straetmans-de-vries-2004-asset-market-linkages-in-crisis-periods]] — joint crash probabilities across stock and bond markets from extreme-value theory rather than correlations
+- [[heckens-guhr-2021-long-term-precursors-for-financial-crisis-in-market-correlation-structures]] — market states in reduced-rank correlation matrices as crisis precursors, from the same Duisburg–Essen group
+- [[papenbrock-schwendner-2015-risk-on-risk-off-correlation-regimes-and-networks]] — correlation regimes across asset classes, with a post-2007 risk-on/risk-off state

@@ -71,3 +71,7 @@ analysis shows what is possible, not what happened.
 - [[cole-2018-what-is-water-in-markets]] — the February 2018 short-volatility unwind from a
   manager's side
 - [[carr-wu-2006-a-tale-of-two-indices]] — why the VIX moved from VXO to a variance-swap rate
+- [[cboe-2021-vix-index-white-paper]] — the exchange's own description of the calculation replicated here
+- [[chen-tsai-2017-determinants-of-price-discovery-in-the-vix-futures-market]] — where volatility is really priced: VIX futures lead the computed spot index about three to one
+- [[griffin-shams-2018-manipulation-in-the-vix]] — how the separate settlement auction can be pushed by trades in thin out-of-the-money SPX options
+- [[hirsa-et-al-2021-the-vix-index-under-scrutiny-of-machine-learning]] — the follow-up: how few options are needed to reproduce the VIX, and neural networks fitted to it

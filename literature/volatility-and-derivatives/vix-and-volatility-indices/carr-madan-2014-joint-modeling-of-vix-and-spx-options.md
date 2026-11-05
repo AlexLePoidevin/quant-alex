@@ -70,3 +70,4 @@ without leaving them inconsistent.
   instruments modelled here
 - [[merton-1976]] — jumps in the index, the reason a pure diffusion cannot fit both smiles
   and the motivation for Lévy models like variance gamma
+- [[jacquier-et-al-2018-on-vix-futures-in-the-rough-bergomi-model]] — the rough-volatility route to joint VIX–SPX calibration

@@ -94,3 +94,6 @@ sophisticated investment-bank models. The details are in the companion paper.
   same one-factor structure
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — the same calm-period-parameter failure for volatility: risk parity and volatility targeting as hidden short-volatility trades
 - [[poitras-2012-what-happened-may-6-2010-anatomy-of-the-flash-crash]] — portfolio insurance in 1987 and a futures hedge in 2010: hedging flows that caused crashes
+- [[brown-dewey-2021-toil-and-trouble-dont-get-burned-shorting-bubbles]] — the trade against the subprime CDO tranches, and why it was so hard to put on and hold
+- [[brown-et-al-2015-model-risk-and-the-great-financial-crisis]] — how banks and regulators responded to the copula's failure: the rise of model risk management
+- [[geithner-metrick-2018-ten-years-after-the-financial-crisis]] — the 2008 crisis from inside the New York Fed: Bear, Lehman and AIG

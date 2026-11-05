@@ -55,3 +55,8 @@ any other.
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — reflexivity applied to volatility: leverage sized by volatility suppresses volatility until a shock reverses it
 - [[ambrus-capital-2022-volatility-and-the-changing-market-structure]] — a tail-risk manager borrowing reflexivity to describe feedback loops from dealer hedging, passive flows and leveraged ETFs
 - [[shi-et-al-2020-modeling-flash-crash-behavior-with-multivariate-hawkes-processes]] — reflexivity measured at millisecond scale: self- and cross-excitation between the Dow stocks in the 2010 Flash Crash
+- [[bakrania-et-al-2019-fundamental-trends-and-dislocated-markets]] — a systematic macro strategy built on the same idea: underreaction to trends first, overreaction and reversal later
+- [[durdu-martin-zer-2019-us-monetary-policy-in-global-banking-crises]] — 140 years of evidence that US tightening tips dollar-dependent economies into banking crises through capital flows
+- [[jarrow-1992-market-manipulation-bubbles-corners-and-short-squeezes]] — a formal model of a trader whose own buying creates a bubble and a crash
+- [[johannsen-2016-dead-cat-bounce]] — a model of the temporary rally after a bubble bursts, driven by investors trying to recover losses
+- [[plantin-2023-asset-bubbles-and-inflation-as-competing-monetary-phenomena]] — an equilibrium model of easy-money bubbles that burst when inflation picks up

@@ -24,3 +24,6 @@ the figure in the first post.
 - [[garrod-keating-2026-unifying-low-dimensional-spectra-in-deep-learning]] — the same bulk-plus-outliers shape in a trained
   network's Hessian, with the outliers built from class means
 - [[beber-et-al-2013-switching-risk-off-fx-correlations-and-risk-premia]] — the first principal component's share of variance jumps when FX correlations switch to a risk-off regime
+- [[aldridge-guan-2021-what-data-series-matter]] — what goes wrong when components are read off unscaled data: the largest-unit columns dominate the leading vectors
+- [[heckens-guhr-2021-long-term-precursors-for-financial-crisis-in-market-correlation-structures]] — what the correlation matrix shows about crises once the market eigenvector is removed
+- [[lopez-de-prado-2012-managing-risks-in-a-risk-on-risk-off-environment]] — using the covariance matrix's eigenvectors to measure how concentrated a portfolio's risk is

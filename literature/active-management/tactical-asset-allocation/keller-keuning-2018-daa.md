@@ -24,3 +24,5 @@ what you want to hold changes when you de-risk.
 
 - [[keller-keuning-2017-vaa]] — the predecessor
 - [[keller-keuning-2016-paa]] — the original breadth rule
+- [[beaudan-he-2019-logistic-regression-for-momentum-based-trading-strategies]] — a machine-learning version of dual momentum on a single index
+- [[resolve-2019-global-equity-momentum-a-craftsmans-perspective]] — how much dual-momentum results depend on the chosen lookbacks, and averaging across them

@@ -65,3 +65,20 @@ sign, not that trend-following earns a premium after costs.
   in an uptrend, the cross-asset counterpart of a single-index trend filter
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — trend-following named as one of the
   volatility-sensitive strategies that can amplify a sell-off
+- [[antoons-2018-market-timing-opportunities-and-risks]] — the case against all-in, all-out market timing, from best- and worst-day statistics
+- [[baur-et-al-2020-investing-in-gold-market-timing-or-buy-and-hold]] — moving-average and momentum rules on gold, tested against data snooping
+- [[brooks-2017-a-half-century-of-macro-momentum]] — trend following on macroeconomic fundamentals instead of prices, and how the two diversify
+- [[bruder-et-al-2011-trend-filtering-methods-for-momentum-strategies]] — a survey of trend filters, including the Kalman filter as an exponential moving average
+- [[dai-et-al-2016-optimal-trend-following-trading-rules]] — the same hidden bull/bear model solved as an optimal-stopping problem: buy and sell thresholds on the filtered bull probability
+- [[hamill-et-al-2016-trend-following-equity-and-bond-crisis-alpha]] — 56 years of futures trend following and its performance in equity and bond crises
+- [[hoffstein-sibears-2018-diversifying-the-what-how-and-when-of-trend-following]] — the practical spread between moving-average rules and lookbacks over time
+- [[jusselin-et-al-2017-understanding-the-momentum-risk-premium]] — another model deriving the moving-average trend filter, with the strategy's skew, hit ratio and diversification properties
+- [[li-zakamulin-2020-stock-volatility-predictability-in-bull-and-bear-markets]] — the same bull/bear dating applied to volatility forecasting
+- [[maheu-mccurdy-2000-identifying-bull-and-bear-markets-in-stock-returns]] — evidence that bull and bear states get more persistent the longer they last
+- [[maheu-mccurdy-song-2012-components-of-bull-and-bear-markets]] — four states instead of two: bear rallies and bull corrections inside each regime, which is why two-state models switch too often on weekly data
+- [[molyboga-swedroe-qian-2020-short-term-trend-a-jewel-hidden-in-daily-returns]] — faster trend signals as a diversifier for slow trend following, after costs
+- [[moskowitz-ooi-pedersen-2012-time-series-momentum]] — the empirical evidence for trend: time-series momentum in all 58 futures markets tested
+- [[rattray-et-al-2020-strategic-rebalancing]] — trend signals used to time a 60/40 portfolio's rebalancing trades
+- [[schultz-2002-bear-market-investing-strategies]] — the practitioner (Dow Theory) view of bear market rallies and legs that trend rules have to sit through
+- [[sethi-2016-applied-machine-learning-for-systematic-equities-trading]] — a neural-network approach that decides per stock whether to follow or fade a short-term trend, using Kaufman's efficiency ratio
+- [[yang-wagner-2014-optimal-probabilistic-market-timing-using-bull-bear-cycle-statistics]] — another optimal timing rule from a two-state bull/bear model, tested on the S&P 500 since 1928

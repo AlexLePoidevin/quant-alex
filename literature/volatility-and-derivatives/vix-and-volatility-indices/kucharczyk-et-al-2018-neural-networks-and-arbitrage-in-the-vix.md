@@ -63,3 +63,4 @@ time-series benchmarks elsewhere in the library.
   — why a random forest is usually a hard baseline to beat
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — the short-volatility build-up that
   ended in the 5 February 2018 spike this paper studies
+- [[hirsa-et-al-2021-the-vix-index-under-scrutiny-of-machine-learning]] — the extended version: subset replication of the VIX and LSTMs for VIX futures

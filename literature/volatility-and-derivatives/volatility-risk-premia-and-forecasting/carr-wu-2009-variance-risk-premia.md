@@ -83,3 +83,6 @@ result is the robust part.
   this premium have become one crowded short-volatility trade
 - [[merton-1976]] — jump-diffusion, the source of the replication error in Proposition 1
 - [[carr-wu-2017-leverage-effect-volatility-feedback-and-self-exciting-market-disruptions]] — what drives the variance risk premium: leverage, feedback and jumps
+- [[bakshi-madan-panayotov-2015-heterogeneity-in-beliefs-and-volatility-tail-behavior]] — the volatility risk premium split by tail: VIX option returns suggest low-volatility states are priced too
+- [[bekaert-hoerova-lo-duca-2013-risk-uncertainty-and-monetary-policy]] — the variance premium used as a measure of risk aversion, and how monetary policy moves it
+- [[malkiel-et-al-2018-option-writing-using-vix-to-improve-returns]] — the premium is larger when the VIX is high: selling options only then beat both the index and unconditional option writing, 1995–2018

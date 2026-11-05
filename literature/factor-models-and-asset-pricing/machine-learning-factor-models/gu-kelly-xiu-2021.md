@@ -27,3 +27,6 @@ visualisation trick. This is what "beyond the covariance matrix" should mean.
   bottleneck is what stops them learning the identity
 - [[bengio-courville-vincent-2013-representation-learning-a-review-and-new-perspectives]] — the survey of
   autoencoders and learned representations behind this model
+- [[bianchi-buchner-tamoni-2021-bond-risk-premia-with-machine-learning]] — the same machine-learning research design applied to forecasting Treasury bond returns
+- [[huddleston-liu-stentoft-2021-intraday-market-predictability-a-machine-learning-approach]] — the same model set applied to five-minute index returns
+- [[kelly-moskowitz-pruitt-2021-understanding-momentum-and-reversal]] — conditional latent factors (IPCA) applied to momentum and reversal, which they largely explain as time-varying risk exposure

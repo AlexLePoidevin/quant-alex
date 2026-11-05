@@ -29,3 +29,5 @@ not an independent argument.
   a test of how tree-like the distances are (δ-hyperbolicity) and a faster tree fit from
   distances alone
 - [[demos-et-al-2015-some-statistical-properties-of-the-mini-flash-crashes]] — econophysics tools (power laws, Lyapunov exponents, log-periodic fits) applied to mini flash crashes
+- [[nava-et-al-2018-dynamic-correlations-at-different-time-scales-with-emd]] — correlations measured separately at each time scale with empirical mode decomposition
+- [[papenbrock-schwendner-2015-risk-on-risk-off-correlation-regimes-and-networks]] — minimum spanning trees used to split risk-on from risk-off assets in a crisis regime

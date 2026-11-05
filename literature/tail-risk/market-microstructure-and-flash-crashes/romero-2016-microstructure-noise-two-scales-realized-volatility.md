@@ -72,3 +72,4 @@ readable route into the original paper.
 - [[carr-et-al-2005-pricing-options-on-realized-variance]] — pricing options on realized variance, the quantity this thesis estimates from noisy data
 - [[carr-et-al-2017-pricing-variance-swaps-on-time-changed-markov-processes]] — what a variance swap on that realised variance is worth, and which option strip replicates it when there are jumps
 - [[itkin-carr-2010-pricing-swaps-and-options-on-quadratic-variation]] — how discrete sampling and jumps change the fair strike of a variance swap
+- [[corsi-2009-a-simple-approximate-long-memory-model-of-realized-volatility]] — forecasting the realised volatility this estimator measures

@@ -66,3 +66,6 @@ costs, so they are not comparable with strategy Sharpe ratios.
 - [[harvey-liu-zhu-2016]] — the multiple-testing problem in finance research, the same
   issue at the level of whole strategies
 - [[zakamulin-giner-2022-optimal-trend-following-in-a-markov-switching-model]] — another trading rule derived from a model rather than a backtest search
+- [[baur-et-al-2020-investing-in-gold-market-timing-or-buy-and-hold]] — what a data-snooping correction does to 4,000 backtested gold-timing rules
+- [[lipton-lopez-de-prado-2020-three-quant-lessons-from-covid-19]] — the case against backtest-mined rules and all-weather strategies, after the COVID selloff
+- [[van-hemert-et-al-2020-drawdowns]] — how likely a drawdown is, and when drawdown-based stop rules help

@@ -41,3 +41,7 @@ the cross-section. It also degrades continuously — the safe fraction moves in 
 - [[gpm]] — the strategy that adds correlation hedging to this breadth rule
 - [[keller-keuning-2017-vaa]] — breadth momentum with a harsher response function
 - [[keller-keuning-2018-daa]] — breadth measured on a separate "canary" universe
+- [[antoons-2018-market-timing-opportunities-and-risks]] — the sceptic's case: the cost of being out of the market when a bear market ends
+- [[kessler-scherer-2013-momentum-and-macroeconomic-state-variables]] — academic evidence that cross-asset momentum moves to bonds and pays in recessions
+- [[nadler-schmidt-2019-momentum-strategies-for-etf-based-portfolios]] — a test of whether momentum holds within ETF universes, which it mainly does across asset classes
+- [[peterson-2018-when-to-own-stocks-and-when-to-own-gold]] — a much slower risk-on/risk-off rule: stocks or gold by secular valuation cycle

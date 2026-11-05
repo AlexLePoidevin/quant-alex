@@ -98,3 +98,9 @@ reproduce what it is evaluated on has not been tested.
 - [[carr-laurence-2011-multi-asset-stochastic-local-variance-contracts]] — reading the joint distribution of several assets from basket option prices instead of specifying it with a copula
 - [[guyon-2013-a-new-class-of-local-correlation-models]] — the derivatives-pricing answer: correlation that depends on the price level, calibrated to the basket's option smile
 - [[jacquier-slaoui-2010-variance-dispersion-and-correlation-swaps]] — how correlation is traded (dispersion trades and correlation swaps) and what the P&L of a short-correlation book is made of
+- [[baur-trench-2022-not-all-gold-shines-in-crisis-times]] — gold miners lose their link to gold and move with the market in the COVID crash
+- [[brixton-thapar-maloney-2021-when-stock-bond-diversification-fails]] — stock–bond diversification failing when inflation news, not growth news, dominates
+- [[hartmann-straetmans-de-vries-2004-asset-market-linkages-in-crisis-periods]] — how much a normal model understates joint crashes, measured with tail dependence
+- [[kinlaw-turkington-2014-correlation-surprise]] — measuring how far today's co-movement departs from the historical correlation matrix
+- [[van-oordt-zhou-2014-systemic-risk-and-bank-business-models]] — separating an asset's own tail risk from how its bad days coincide with the system's
+- [[zeng-zhao-2022-expectation-driven-term-structure-of-equity-and-bond-yields]] — why the stock–bond correlation changed sign after the late 1990s

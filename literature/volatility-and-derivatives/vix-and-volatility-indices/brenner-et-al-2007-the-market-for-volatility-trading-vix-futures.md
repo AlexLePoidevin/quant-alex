@@ -65,3 +65,4 @@ structure inverts in stress, which this data never shows.
 - [[demeterfi-et-al-1999-more-than-you-ever-wanted-to-know-about-volatility-swaps]] — why
   VIX² is a variance swap rate
 - [[avellaneda-papanicolaou-2018-statistics-of-vix-futures-and-applications-to-trading]] — a two-factor model of the whole VIX futures curve
+- [[karagiannis-2014-lead-lag-relationship-between-the-vix-and-vix-futures]] — whether VIX futures or the spot index move first (futures lead, on daily data)

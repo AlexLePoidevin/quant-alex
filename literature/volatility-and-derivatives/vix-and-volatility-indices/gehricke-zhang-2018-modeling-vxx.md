@@ -60,3 +60,4 @@ average over a sample that starts at the 2009 peak in VIX.
   roll drag measured in a portfolio that holds long VIX futures as a hedge
 - [[avellaneda-zhang-2010]] — why daily-rebalanced exchange-traded products drift away from
   their benchmark over long holding periods
+- [[fassas-2017-tracking-the-vix]] — how loosely VXX and other VIX products follow the spot VIX over a week or a month

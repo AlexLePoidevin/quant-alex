@@ -57,3 +57,4 @@ test, next to the transparent model of the same curve by Avellaneda and Papanico
   long VIX futures cost to hold when the curve is in contango
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — volatility-targeting leverage as the
   mechanism that ties the price of volatility to how much risk the market carries
+- [[fassas-hourvouliades-2019-vix-futures-as-a-market-timing-indicator]] — the VIX futures slope as a contrarian signal for the S&P 500 rather than for VIX futures themselves

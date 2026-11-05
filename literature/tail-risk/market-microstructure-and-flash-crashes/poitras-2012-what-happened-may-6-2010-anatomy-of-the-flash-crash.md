@@ -68,3 +68,4 @@ conclusions.
   model becoming a source of the risk it hedged
 - [[soros-2013]] — reflexivity: trading flows that change the prices they respond to
 - [[easley-et-al-2011-microstructure-of-the-flash-crash]] — the order-flow-toxicity account of the same day
+- [[kirilenko-et-al-2018-automation-intermediation-and-the-flash-crash]] — who traded in the E-mini that day, from CFTC account-level data

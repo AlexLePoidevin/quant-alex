@@ -84,3 +84,6 @@ held up since, but its size and the tails have changed.
 - [[ambrus-capital-2022-is-the-vix-becoming-increasingly-leptokurtic]] — a later look at how the VIX calculation behaves, and whether its tails have fattened
 - [[carr-lee-2007-realized-volatility-and-variance-options-via-swaps]] — pricing options on realised variance and on the VIX from variance and volatility swaps
 - [[demeterfi-et-al-1999-more-than-you-ever-wanted-to-know-about-volatility-swaps]] — the replication formula behind the new VIX
+- [[cboe-2021-vix-index-white-paper]] — the official VIX methodology, including weeklys, filtering and settlement
+- [[chen-liu-li-2018-the-predictive-content-of-cboe-crude-oil-volatility-index]] — the VIX method applied to oil options, and whether it forecasts oil volatility
+- [[doran-2020-volatility-as-an-asset-class-holding-vix-in-a-portfolio]] — which SPX options drive daily VIX changes, and using them to hedge

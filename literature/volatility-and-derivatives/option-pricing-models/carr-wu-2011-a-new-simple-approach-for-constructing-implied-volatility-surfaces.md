@@ -81,3 +81,5 @@ These are the gaps to check before using the method for quoting.
 - [[gayda-et-al-2022-option-liquidity-and-gamma-imbalances]] — what market makers'
   gamma and vega inventories do to SPX option prices in practice
 - [[carr-wu-2016-analyzing-volatility-risk-and-risk-premium-in-option-contracts]] — the published paper behind these slides
+- [[bloch-2016-a-practical-guide-to-quantitative-volatility-trading]] — another parametric, arbitrage-free surface model (MixVol: a mixture of shifted lognormals), with variance-swap and dispersion applications
+- [[horvath-muguruza-tomas-2021-deep-learning-volatility]] — another route to fast surface calibration: a neural network trained to reproduce a slow (rough) volatility model's surface

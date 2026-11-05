@@ -88,3 +88,7 @@ applies to the alpha-focused approach as much as to the fixed rules.
   than buying insurance against it
 - [[szado-2020-portfolio-diversification-potential-of-long-vix-futures-and-options]] — the evidence on what long-VIX hedges did for a 60/40 portfolio, 2006–2017: big help in 2008, a steady drag otherwise
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — why a crash can be bigger than the history suggests: volatility-sized strategies as one hidden short-volatility trade
+- [[chang-holdom-bhansali-2021-tail-risk-hedging-performance-measuring-what-counts]] — another manager on how tail-hedge performance should be measured: cash flows and portfolio effect, not compounded NAV
+- [[harvey-et-al-2019-the-best-of-strategies-for-the-worst-of-times]] — the measured cost of rolling S&P 500 puts (−7.4% a year) against dynamic hedges
+- [[harvey-et-al-2020-strategic-risk-management-out-of-sample-evidence-from-covid-19]] — the non-option alternatives (trend, volatility targeting, rebalancing rules) tested out of sample in 2020
+- [[mcquinn-thapar-villalon-2021-portfolio-protection-its-a-long-term-story]] — the opposing view: puts protect only against fast crashes, and diversifiers do better over long bad periods

@@ -84,3 +84,4 @@ beyond the 10-delta wings, and parameter stability is rejected.
 - [[merton-1976]] — the jump model inside the Bates benchmark
 - [[ang-chen-2002]] — asymmetry that changes with the market state, measured in equity
   correlations rather than option skew
+- [[brunnermeier-nagel-pedersen-2008-carry-trades-and-currency-crashes]] — the crash risk behind currency skew: carry unwinds when funding tightens

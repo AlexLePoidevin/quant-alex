@@ -62,3 +62,4 @@ contains a crash, so the tail estimates are conditional on that selection.
 - [[flora-reno-2020-v-shapes]] — a test that decides whether a crash-and-rebound like
   these is an inefficiency rather than just a fat-tailed draw
 - [[tee-ting-2019-cross-section-of-mini-flash-crashes]] — a large cross-section of mini flash crashes and which stocks suffer them
+- [[li-deng-2007-machine-learning-approach-to-predict-turning-points]] — a forecasting paper that assumes the deterministic chaos this paper's Lyapunov estimates argue against

@@ -100,3 +100,10 @@ as a careful description of what happened rather than a forecast.
 - [[lin-lin-2009-hedging-effectiveness-of-vix-futures]] — VIX futures as a hedge for an option book's forward volatility rather than a portfolio's crash risk
 - [[osterrieder-et-al-2019-the-vix-volatility-index-a-very-thorough-look]] — how the VIX is computed and settled, and why it can be biased low
 - [[roring-2017-volatility-and-variance-swaps]] — how a variance swap is replicated with options, and evidence that S&P 500 implied volatility sat above realised volatility almost throughout 2009–2016
+- [[baur-kuck-2020-the-timing-of-the-flight-to-gold]] — gold as the alternative crash hedge: what it actually did, minute by minute, on the worst S&P 500 days of 2007–2018
+- [[bhansali-2018-right-tail-hedging-managing-risk-when-markets-melt-up]] — the upside counterpart: hedging a melt-up with calls
+- [[doran-2020-volatility-as-an-asset-class-holding-vix-in-a-portfolio]] — why cash VIX would hedge well but tradable VIX products don't, and a synthetic hedge built from SPX options
+- [[harvey-et-al-2019-the-best-of-strategies-for-the-worst-of-times]] — puts, bonds, gold, credit, trend and quality compared as crisis hedges over 1985–2018
+- [[harvey-et-al-2020-strategic-risk-management-out-of-sample-evidence-from-covid-19]] — trend, volatility targeting and strategic rebalancing tested in the 2020 selloff, alongside puts
+- [[ilmanen-et-al-2021-tail-risk-hedging-contrasting-put-and-trend-strategies]] — puts against trend following as tail hedges: the long-run cost of puts, and why trend was up in nine of the ten worst S&P 500 months
+- [[szado-2009-vix-futures-and-options-portfolio-diversification-during-the-2008-crisis]] — the original 2006–2008 case study that this paper extends

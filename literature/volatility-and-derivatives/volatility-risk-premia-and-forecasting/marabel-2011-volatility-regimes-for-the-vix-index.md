@@ -56,3 +56,10 @@ a log specification would avoid this). The out-of-sample test is eleven months.
 - [[merton-1976]] — jumps, the other standard way to model sudden moves into high volatility
 - [[lv-wang-yuan-2026-garch-evt-rvine-scad-portfolio]] — GARCH volatility filtering used
   inside a tail-risk portfolio model
+- [[ang-timmermann-2012-regime-changes-and-financial-markets]] — the standard survey of regime-switching models across equities, rates and currencies
+- [[bilokon-et-al-2021-market-regime-classification-with-signatures]] — regimes found by clustering path signatures rather than fitting a fixed number of states
+- [[botte-bao-2021-a-machine-learning-approach-to-regime-modeling]] — market regimes from a Gaussian mixture fitted to multi-asset factor returns
+- [[caporale-et-al-2018-is-market-fear-persistent]] — long-memory tests showing the VIX is anti-persistent in calm periods and near a unit root in 2007–09
+- [[cloutier-djatej-kiefer-2017-tactical-asset-allocation-that-exploits-variations-in-vix]] — using VIX regimes (above 30, below 20) to tilt a diversified portfolio
+- [[dapena-serur-siri-2018-measuring-and-trading-volatility-regime-switching]] — regimes in the VIX-minus-realised spread used to time short volatility
+- [[maheu-mccurdy-song-2012-components-of-bull-and-bear-markets]] — regime switching in stock returns, where volatility separates a bear rally from a new bull market

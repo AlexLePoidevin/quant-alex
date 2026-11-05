@@ -89,3 +89,4 @@ cross-section of S&P 500 options to measure each one.
   self-exciting (Hawkes) jumps at intraday scale, the microstructure analogue of the
   crash-intensity process here
 - [[carr-wu-2009-variance-risk-premia]] — measuring the variance risk premium
+- [[harvey-et-al-2018-the-impact-of-volatility-targeting]] — why the leverage effect makes volatility targeting raise Sharpe ratios for equities and credit only

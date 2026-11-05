@@ -70,3 +70,4 @@ the method, not evidence that the edge still exists.
 - [[plerou-et-al-2002]] — the market mode that dominates stock correlations, the factor a
   dispersion trade is short
 - [[avellaneda-zhang-2010]] — the same author on another path-dependent volatility effect
+- [[bloch-2016-a-practical-guide-to-quantitative-volatility-trading]] — a long practitioner treatment of dispersion trading, implied correlation and its model risks

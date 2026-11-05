@@ -67,3 +67,6 @@ not widely used.
 - [[cole-2017-volatility-and-the-alchemy-of-risk]] — the market-wide version: a shock large
   enough to flip volatility-sized strategies from buyers to sellers
 - [[shi-et-al-2020-modeling-flash-crash-behavior-with-multivariate-hawkes-processes]] — correlation rising sharply in a real crash, measured
+- [[bouchaud-kockelkoren-potters-2006-random-walks-liquidity-molasses-and-critical-response]] — an empirical physics account of price stabilisation: transient impact tuned to a critical point
+- [[chiarella-he-zwinkels-2014-heterogeneous-expectations-in-asset-pricing]] — an estimated model in which traders switching to trend-following drives prices away from fundamentals
+- [[jarrow-1992-market-manipulation-bubbles-corners-and-short-squeezes]] — how a large trader's one-sided position, cornering the float, sets the price

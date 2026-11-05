@@ -89,13 +89,16 @@ def git_dates() -> dict[str, tuple[str, str]]:
 
 TAGS = {  # short subject tags: they become hub nodes in the graph
     "mathematical-foundations": "foundations",
+    "momentum-and-trend-following": "momentum-and-trend",
     "factor-models-and-asset-pricing": "factor-models",
     "correlation-and-dependence": "dependence",
     "high-dimensional-geometry": "geometry",
     "machine-learning": "machine-learning",
+    "macro-and-asset-allocation": "macro",
     "portfolio-construction-and-risk": "portfolio-and-risk",
     "compounding-leverage-and-position-sizing": "sizing-and-leverage",
     "active-management": "active-management",
+    "bear-markets": "bear-markets",
     "reflexivity-and-market-history": "market-history",
     "reinforcement-learning": "reinforcement-learning",
     "tail-risk": "tail-risk",

@@ -92,3 +92,4 @@ the tree. If an interaction is suspected, adding it as an explicit feature helps
   — a benchmark where every feature matters equally and trees struggle
 - [[li-et-al-2019-manifold-forests-closing-the-gap-on-neural-networks]] — forests that
   change how splits are chosen, for inputs where single-feature splits are a poor fit
+- [[baucells-et-al-2021-trend-analysis-in-the-age-of-machine-learning]] — which partial dependence and ICE plots can be trusted to show a fitted model's shape when features are correlated

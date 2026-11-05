@@ -75,3 +75,8 @@ small (8% to 10%).
 - [[shevchenko-2006-implied-correlation-for-pricing-multi-fx-options]] — the currency-triangle
   identity the paper uses to turn dollar-based correlations into cross-rate volatilities
 - [[doman-doman-2020-daily-fx-volatility-and-the-time-of-day]] — another FX volatility measurement result
+- [[badshah-et-al-2018-asymmetric-linkages-fear-index-and-emerging-market-volatility]] — how VIX shocks spread to emerging-market implied volatility, asymmetrically and mostly in the upper tail
+- [[baur-smales-2018-gold-and-geopolitical-risk]] — gold as a haven against geopolitical threats, a different kind of risk-off from financial stress
+- [[caballero-kamber-2019-global-impact-of-risk-off-shocks-and-policy-puts]] — what a risk-off shock does to stocks, yields and currencies, and how central-bank puts shortened it
+- [[smales-2016-risk-on-risk-off-financial-market-response-to-investor-fear]] — risk-on/risk-off measured with the VIX across stocks, bonds and currencies
+- [[stavrakeva-tang-2019-the-dollar-during-the-great-recession]] — the dollar's flight-to-safety rally in 2008–2012, traced to the Fed's forward guidance
