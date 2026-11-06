@@ -5,10 +5,10 @@
 | **Authors** | Mario Geiger, Leonardo Petrini, Matthieu Wyart (EPFL, Institute of Physics) |
 | **Year** | 2021 (arXiv v1 30 December 2020) |
 | **Type** | Review with new experiments — *Physics Reports* 924, 1–18 (2021), doi:10.1016/j.physrep.2021.04.001. The arXiv version (2012.15110) is titled "Perspective: A Phase Diagram for Deep Learning unifying Jamming, Feature Learning and Lazy Training", 29pp |
-| **PDF** | `geiger-petrini-wyart-2021-landscape-and-training-regimes-in-deep-learning.pdf` (in this folder; the arXiv copy. The published version is open access under CC BY 4.0) |
+| **PDF** | `geiger-petrini-wyart-2021-landscape-and-training-regimes-in-deep-learning.pdf` (in this folder; the published *Physics Reports* version, open access under CC BY 4.0) |
 | **Link** | [Physics Reports (open access)](https://doi.org/10.1016/j.physrep.2021.04.001) · [arXiv:2012.15110](https://arxiv.org/abs/2012.15110) |
 | **BibTeX** | `geiger2021landscape` |
-| **Status** | Reference — read in full from the arXiv version |
+| **Status** | Reference — read in full (arXiv and published versions) |
 
 ## What it is
 
