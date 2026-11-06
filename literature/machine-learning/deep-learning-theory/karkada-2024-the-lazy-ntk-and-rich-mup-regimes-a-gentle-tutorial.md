@@ -82,3 +82,4 @@ and also noise. Treat richness as something to compare on held-out data, not a d
   bulk-plus-outlier spectra it produces
 - [[eldan-shamir-2016-the-power-of-depth-for-feedforward-neural-networks]] — why depth matters at all: one extra layer can beat exponential width
 - [[geiger-petrini-wyart-2021-landscape-and-training-regimes-in-deep-learning]] — the lazy/feature-learning cross-over measured as a phase diagram in width × initialisation scale, with the jamming transition below it
+- [[khalid-et-al-2026-a-survey-of-theory-grounded-interpretability-for-deep-neural-networks]] — survey of theory-grounded interpretability; the lazy/rich gap is its recurring limit

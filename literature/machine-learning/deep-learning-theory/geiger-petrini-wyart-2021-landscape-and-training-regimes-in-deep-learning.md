@@ -124,3 +124,4 @@ there. The diffeomorphism-invariance story is a hypothesis, not a result.
   CIFAR-10
 - [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
   — symmetry and invariance as the architectural answer to the curse
+- [[khalid-et-al-2026-a-survey-of-theory-grounded-interpretability-for-deep-neural-networks]] — a 2026 survey of NTK, sparse-coding, factorisation and manifold explanations of deep nets, with this lazy/rich split as its main caveat
