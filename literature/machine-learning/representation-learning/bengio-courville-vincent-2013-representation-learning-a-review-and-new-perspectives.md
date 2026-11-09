@@ -78,3 +78,4 @@ is the counterpoint for tabular data, where hand-made features and trees still u
   — where learned representations still lose
 - [[bronstein-bruna-cohen-velickovic-2021-geometric-deep-learning-grids-groups-graphs-geodesics-and-gauges]]
   — invariance and structure built into the architecture, §11 generalised
+- [[cohen-chung-lee-sompolinsky-2020-separability-and-geometry-of-object-manifolds-in-deep-neural-networks]] — untangling measured: manifold capacity, radius and dimension across trained network layers

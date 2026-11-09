@@ -83,3 +83,4 @@ from tabular or financial data.
 - [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — sparse coding and
   manifold learning in one method
 - [[lei-et-al-2020-a-geometric-understanding-of-deep-learning]] — the optimal-transport view of GANs this survey cites under manifold learning
+- [[cohen-chung-lee-sompolinsky-2020-separability-and-geometry-of-object-manifolds-in-deep-neural-networks]] — classification capacity from manifold radius, dimension and correlations, the survey's foundational manifold result
