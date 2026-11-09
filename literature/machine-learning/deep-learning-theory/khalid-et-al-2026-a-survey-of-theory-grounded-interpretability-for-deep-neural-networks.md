@@ -82,3 +82,4 @@ from tabular or financial data.
   hypothesis holds, the manifold section's stated weak point
 - [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — sparse coding and
   manifold learning in one method
+- [[lei-et-al-2020-a-geometric-understanding-of-deep-learning]] — the optimal-transport view of GANs this survey cites under manifold learning

@@ -79,3 +79,4 @@ will struggle.
   embedding them
 - [[elhamifar-vidal-2011-sparse-manifold-clustering-and-embedding]] — finds the separate
   manifolds and their dimensions without labels
+- [[lei-et-al-2020-a-geometric-understanding-of-deep-learning]] — the same disconnected-support failure explained through optimal transport: the transport map is discontinuous, ReLU networks are not
