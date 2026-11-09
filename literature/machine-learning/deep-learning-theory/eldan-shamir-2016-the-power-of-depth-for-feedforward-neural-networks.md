@@ -77,3 +77,4 @@ network can actually exploit it.
   from a benchmark of deep tabular models against boosted trees
 - [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] — another face of high-dimensional
   geometry: most of a sphere is far from any fixed set of directions
+- [[naitzat-zhitnikov-lim-2020-topology-of-deep-neural-networks]] — a topological account of depth: ReLU layers fold space, and tangled classes need many folds
