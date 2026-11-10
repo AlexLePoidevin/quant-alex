@@ -5,7 +5,7 @@ learning a Hamiltonian over them, so that structure is recovered from the geomet
 state space rather than from a covariance matrix. Quantum-*inspired* and classical to run —
 density matrices and POVMs on ordinary hardware — except where a paper says otherwise.
 
-All ten papers below (plus one blog post) are published by Qognitive at
+All ten papers below (plus one blog post) were published by Qognitive at
 [qognitiveai.com/research](https://www.qognitiveai.com/research/). Several have appeared in
 peer-reviewed venues; the PDFs carry the venue where there is one.
 
@@ -44,7 +44,7 @@ listed under his name in `../../podcasts-and-videos/`.
 | Year | Title | Authors | Link |
 |---|---|---|---|
 | 2025 | *QCML for Forecasting Chromosomal Instability* — supervised QCML and a POVM density forecast on 227 tumour-cell images, against ten classical models; note [[di-caro-et-al-2025-quantum-cognition-machine-learning-for-forecasting-chromosomal-instability]] | Di Caro, Kirakosyan, Abanov, Candelori, Hartmann, Lam, Musaelian, Samson, Wells, Wenstrup, Xu | [PDF](https://www.qognitiveai.com/papers/epic-paper.pdf) |
-| 2025 | *On the Impossibility of an AI Mathematician Being Both Autonomous and Useful* | Musaelian | [PDF](https://www.qognitiveai.com/papers/Birch_Test_paper.pdf) |
+| 2025 | *On the Impossibility of an AI Mathematician Being Both Autonomous and Useful* — a halting-problem argument that no Turing machine can do mathematics that is both autonomous and useful, in reply to the Birch test; working paper, no longer on the Qognitive site; note [[musaelian-2025-on-the-impossibility-of-an-ai-mathematician-being-both-autonomous-and-useful]] | Musaelian | [Archived PDF](https://web.archive.org/web/20260615202433/https://www.qognitiveai.com/papers/Birch_Test_paper.pdf) |
 
 ---
 

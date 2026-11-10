@@ -86,3 +86,5 @@ original claims those papers back up and which remain assertions.
 - [[dawid-lecun-2023-introduction-to-latent-variable-energy-based-models]],
   [[choi-2022-the-curious-case-of-commonsense-intelligence]] — the two "something is
   missing in current AI" references the paper opens with
+- [[musaelian-2025-on-the-impossibility-of-an-ai-mathematician-being-both-autonomous-and-useful]]
+  — the same author's argument that Turing machines cannot judge their own results
