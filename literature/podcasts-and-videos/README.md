@@ -131,19 +131,28 @@ reading in that order. The Monetary Matters pair works the same way: the first i
 fund, the bonus episode is the ETF running a related strategy under daily liquidity and
 full transparency.
 
-## Kharen Musaelian — Duality and Qognitive
+## Duality and Qognitive — Kharen Musaelian and Dario Villani
 
-Co-founder of Qognitive, the firm behind quantum cognition machine learning (QCML).
+Qognitive is the firm behind quantum cognition machine learning (QCML); Musaelian is a
+co-founder and Villani a co-author on every QCML paper.
 Its papers are listed in `../machine-learning/quantum-cognition-ml/`,
-next to their foundation, [[busemeyer-bruza-2012]]. The link to the Duality Group hedge fund is from
-general knowledge, not confirmed from the page.
+next to their foundation, [[busemeyer-bruza-2012]]. Villani's role as CEO of Duality Group,
+and formerly global head of portfolio strategy and risk at Tudor Investment, is confirmed
+from the Real Vision video description. Musaelian's link to Duality is from general
+knowledge, not confirmed from a page.
 
 | Type | Title | Channel | Link |
 |---|---|---|---|
 | lecture | *Quantum Cognition Machine Learning (QCML): a path to human-like abstraction and inference* — IBM Research Distinguished Speaker Series, Jan 2025, 55 min | Vimeo, uploaded by Andy Aaron | https://vimeo.com/1047630393 |
+| interview | Dario Villani — *Hurdles for Machine Learning in Finance*, Sep 2018, 3 min | Real Vision Presents — *Discoveries* | https://www.youtube.com/watch?v=K5ZMbSHslCo |
 
 The talk is the spoken version of the 2024 programme paper, *Quantum Cognition Machine
 Learning: AI Needs Quantum*. Watch it before reading the finance papers.
+
+The Villani clip predates QCML by about six years. In it he says machine learning has not
+had the success in finance it had in image, speech and video, because financial data are
+statistically buried in noise and keep changing. That is the problem the later papers say
+QCML is built for.
 
 ## Other investors
 
