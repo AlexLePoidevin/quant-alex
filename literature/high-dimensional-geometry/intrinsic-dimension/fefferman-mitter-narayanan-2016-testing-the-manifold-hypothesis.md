@@ -73,3 +73,5 @@ being informative.
   samples
 - [[bengio-courville-vincent-2013-representation-learning-a-review-and-new-perspectives]]
   — the manifold prior as used in deep learning
+- [[perich-narain-gallego-2025-a-neural-manifold-view-of-the-brain]] — the manifold
+  hypothesis in neural recordings, with cases (rings, tori) where the shape is known

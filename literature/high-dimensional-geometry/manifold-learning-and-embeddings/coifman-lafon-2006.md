@@ -29,3 +29,6 @@ in quant writing. Being the person who says so is worth a paragraph.
   fixed kernel
 - [[radovanovic-nanopoulos-ivanovic-2010-hubs-in-space-popular-nearest-neighbors-in-high-dimensional-data]] — hubness;
   diffusion maps reduce it but don't remove it
+- [[perich-narain-gallego-2025-a-neural-manifold-view-of-the-brain]] — diffusion maps and
+  other manifold-learning methods applied to neural recordings, where the true shape is
+  sometimes known

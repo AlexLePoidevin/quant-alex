@@ -95,3 +95,5 @@ architecture.
 - [[conklin-et-al-2026-learning-is-forgetting]] — compression of representations during
   training, measured with the Information Bottleneck
 - [[naitzat-zhitnikov-lim-2020-topology-of-deep-neural-networks]] — the topological counterpart: Betti numbers of each class fall layer by layer until the classes separate
+- [[perich-narain-gallego-2025-a-neural-manifold-view-of-the-brain]] — the neuroscience
+  review of manifolds in recorded neural populations
