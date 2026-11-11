@@ -160,6 +160,7 @@ QCML is built for.
 |---|---|---|
 | documentary | Charlie Munger — *The Man Who Built Berkshire Hathaway* | https://www.youtube.com/watch?v=bx5ThG6HyZk |
 | documentary | Ken Griffin — *House of Ken Griffin: The Story of Citadel* | https://www.youtube.com/watch?v=Ulmq6I8aH40 |
+| interview | Ken Griffin — *Bloomberg Wealth with David Rubenstein*, recorded Feb 2022 in Chicago, 47 min: why Citadel has done well, whom he hires, common investor mistakes (David Rubenstein channel) | https://www.youtube.com/watch?v=3jTyVXhe9Gw |
 | documentary | Howard Marks — *The Vulture of Wall Street* | https://www.youtube.com/watch?v=KUDK8tdDSyg |
 | explainer | D. E. Shaw — *Ghost Patterns: D.E. Shaw's Quant Strategy Explained* | https://www.youtube.com/watch?v=uK7dETASXsc |
 
