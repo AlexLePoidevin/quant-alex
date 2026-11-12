@@ -5,7 +5,8 @@
 | **Authors** | Niels Christensen, Philip Maldia Madsen (Nordea Markets) |
 | **Year** | 2022 (21 January 2022) |
 | **Type** | Bank research note, labelled "marketing communication", 14pp. Mostly charts of EUR/USD around the Fed's 1994–2018 hiking cycles, plus a week-ahead data preview |
-| **PDF** | Local copy only (Nordea marketing communication, no licence) |
+| **PDF** | Not hosted in this repository (Nordea marketing communication, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Week+Ahead%3A+The+US+Dollar+and+Fed%27s+Tightening+Cycles%22+Christensen) for the title and authors |
 | **BibTeX** | `christensen2022dollar` |
 | **Status** | Reference: the four cycle sections and "This time is different" carry the argument; the second half is a routine weekly data preview |
 

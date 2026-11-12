@@ -5,7 +5,8 @@
 | **Authors** | Saejoon Kim, Hyuksoo Kim (Sogang University) |
 | **Year** | 2021 (published online 5 April 2021; issue 2022) |
 | **Type** | Journal article, *Journal of Experimental & Theoretical Artificial Intelligence* 34(4), 599–619. Doi 10.1080/0952813X.2021.1908429. Stocks in the S&P 500 (1997–2018), FTSE 100 (2001–2018) and KOSPI 200 (2000–2019), monthly rebalancing |
-| **PDF** | Local copy only (Taylor & Francis; publisher copyright) |
+| **PDF** | Not hosted in this repository (Taylor & Francis; publisher copyright) |
+| **Find it** | [doi.org/10.1080/0952813X.2021.1908429](https://doi.org/10.1080/0952813X.2021.1908429) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Deep+Asset+Allocation+for+Trend+Following+Investing%22+Kim) |
 | **BibTeX** | `kim2022deepallocation` |
 | **Status** | Reference: Tables 1–3 (weighting schemes) and Tables 4–9 (machine-learning weights) |
 

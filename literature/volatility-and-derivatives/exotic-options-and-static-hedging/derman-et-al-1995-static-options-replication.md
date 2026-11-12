@@ -5,7 +5,8 @@
 | **Authors** | Emanuel Derman; Deniz Ergener; Iraj Kani (Goldman Sachs Quantitative Strategies) |
 | **Year** | 1995 (*Journal of Derivatives* 2(4), 78–95); the local copy is the May 1994 Goldman Sachs research note |
 | **Type** | Bank research note, later a journal paper, 42pp |
-| **PDF** | Local copy only (Goldman Sachs research note, "All rights reserved") |
+| **PDF** | Not hosted in this repository (Goldman Sachs research note, "All rights reserved") |
+| **Find it** | [doi.org/10.3905/jod.1995.407927](https://doi.org/10.3905/jod.1995.407927) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Static+Options+Replication%22+Derman) |
 | **BibTeX** | `derman1995static` |
 | **Status** | Reference: "The Principle of Static Replication", the up-and-out call example and Appendix A carry the method |
 

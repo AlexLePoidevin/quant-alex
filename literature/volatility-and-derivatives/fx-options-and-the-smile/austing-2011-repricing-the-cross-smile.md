@@ -5,7 +5,8 @@
 | **Authors** | Peter Austing (Barclays Capital) |
 | **Year** | 2011 (first draft March 2009; this draft 17 May 2011; published in *Risk*, July 2011) |
 | **Type** | Working paper, 13pp (SSRN 1882343); the published version is a *Risk* "Cutting Edge" article |
-| **PDF** | Local copy only (SSRN working paper with no open licence; the *Risk* version is publisher copyright) |
+| **PDF** | Not hosted in this repository (SSRN working paper with no open licence; the *Risk* version is publisher copyright) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Repricing+the+Cross+Smile%3A+An+Analytic+Joint+Density%22+Austing) for the title and authors |
 | **Link** | <https://ssrn.com/abstract=1882343> |
 | **BibTeX** | `austing2011cross` |
 | **Status** | Reference: §2–3 (best-of options and the density) carry the result; §5 is the worked basket example; §6 gives the no-arbitrage conditions |

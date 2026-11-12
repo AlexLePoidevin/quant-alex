@@ -5,6 +5,7 @@
 | **Authors** | Leonard C. MacLean; Edward O. Thorp; William T. Ziemba (eds.) |
 | **Year** | 2011 |
 | **Type** | Book — World Scientific (collected volume) |
+| **Find it** | [doi.org/10.1142/7598](https://doi.org/10.1142/7598) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Kelly+Capital+Growth+Investment+Criterion%3A+Theory+and+Practice%22+MacLean) |
 | **BibTeX** | `maclean2011kelly` |
 | **Status** | To read |
 

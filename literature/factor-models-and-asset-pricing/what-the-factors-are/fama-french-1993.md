@@ -5,6 +5,7 @@
 | **Authors** | Eugene F. Fama; Kenneth R. French |
 | **Year** | 1993 |
 | **Type** | Paper — *Journal of Financial Economics* 33(1), 3–56 |
+| **Find it** | [doi.org/10.1016/0304-405x(93)90023-5](https://doi.org/10.1016/0304-405x(93)90023-5) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Common+Risk+Factors+in+the+Returns+on+Stocks+and+Bonds%22+Fama) |
 | **BibTeX** | `fama1993common` |
 | **Status** | To read |
 

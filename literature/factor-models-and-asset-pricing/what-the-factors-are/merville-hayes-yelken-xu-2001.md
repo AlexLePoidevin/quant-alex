@@ -5,6 +5,7 @@
 | **Authors** | Larry J. Merville; Suzanne Hayes-Yelken; Yexiao Xu (all Univ. of Texas at Dallas) |
 | **Year** | 2001 |
 | **Type** | Paper — *Journal of Portfolio Management*, Summer 2001, pp. 51–61 |
+| **Find it** | [doi.org/10.3905/jpm.2001.319813](https://doi.org/10.3905/jpm.2001.319813) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Identifying+the+Factor+Structure+of+Equity+Returns%22+Merville) |
 | **BibTeX** | `merville2001identifying` |
 | **Status** | Read |
 

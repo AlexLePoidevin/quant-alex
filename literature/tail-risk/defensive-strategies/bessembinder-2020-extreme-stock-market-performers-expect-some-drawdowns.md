@@ -6,6 +6,7 @@
 | **Year** | 2020 |
 | **Type** | Research note, SSRN 3657604 (July 2020); first of a series funded by Baillie Gifford |
 | **PDF** | `bessembinder-2020-extreme-stock-market-performers-expect-some-drawdowns.pdf` (kept locally; SSRN download with no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3657604](https://doi.org/10.2139/ssrn.3657604) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Extreme+Stock+Market+Performers%2C+Part+I%3A+Expect+Some+Drawdowns%22+Bessembinder) |
 | **BibTeX** | `bessembinder2020drawdowns` |
 | **Status** | Reference: the four-page text and Tables 1–2 (the 100 best firm-decades and their drawdowns) |
 

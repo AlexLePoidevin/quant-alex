@@ -5,7 +5,8 @@
 | **Authors** | Antti Ilmanen, Ashwin Thapar, Harsha Tummala, Dan Villalon (AQR Capital Management) |
 | **Year** | 2021 |
 | **Type** | Journal article, *Journal of Systematic Investing* (EQDerivatives), 2021, 16pp |
-| **PDF** | Local copy only (© 2021 EQDerivatives, Inc.; no reproduction without permission) |
+| **PDF** | Not hosted in this repository (© 2021 EQDerivatives, Inc.; no reproduction without permission) |
+| **Find it** | [doi.org/10.52354/jsi.1.1.vi](https://doi.org/10.52354/jsi.1.1.vi) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Tail+Risk+Hedging%3A+Contrasting+Put+and+Trend+Strategies%22+Ilmanen) |
 | **BibTeX** | `ilmanen2021tailhedging` |
 | **Status** | Reference: Figure 1 (long-run cost), Figure 2 (robustness across put strategies) and Figure 3 (slow and fast tail events) carry the evidence |
 

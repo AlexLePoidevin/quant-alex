@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (NYU Courant), Liuren Wu (Baruch College, CUNY) |
 | **Year** | 2017 (first draft 2007; SSRN 1306495) |
 | **Type** | Paper, *Journal of Financial and Quantitative Analysis* 52(5), 2119–2156. The local copy is the 73-page February 2016 author version. An earlier September 2011 draft is also in the source folder |
-| **PDF** | Local copy only (author version of a journal article, no open licence) |
+| **PDF** | Not hosted in this repository (author version of a journal article, no open licence) |
+| **Find it** | [doi.org/10.1017/s0022109017000564](https://doi.org/10.1017/s0022109017000564) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Leverage+Effect%2C+Volatility+Feedback%2C+and+Self-Exciting+Market+Disruptions%22+Carr) |
 | **BibTeX** | `carr2017leveragefeedback` |
 | **Status** | Reference: §II is the model, §IV.A the index results (parameters, crisis history, variance-risk-premium decomposition), §IV.B the five single stocks |
 

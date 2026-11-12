@@ -5,7 +5,8 @@
 | **Authors** | Hilal Anwar Butt (IBA Karachi) and Nader Shahzad Virk (Plymouth Business School) |
 | **Year** | 2020 (SSRN 3314095 working paper; published online 2020 in *International Journal of Finance & Economics* 27(2), 1899–1911, 2022) |
 | **Type** | Working paper, 41pp. US monthly data, June 1965–December 2012, using Ken French's momentum deciles |
-| **PDF** | Local copy only (SSRN working paper; journal version © Wiley) |
+| **PDF** | Not hosted in this repository (SSRN working paper; journal version © Wiley) |
+| **Find it** | [doi.org/10.1002/ijfe.2249](https://doi.org/10.1002/ijfe.2249) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Momentum+Crashes+and+Variations+to+Market+Liquidity%22+Butt) |
 | **BibTeX** | `butt2020crashes` |
 | **Status** | Reference: the regressions on down-market states interacted with liquidity changes, and §5 (conclusion) carry the result |
 

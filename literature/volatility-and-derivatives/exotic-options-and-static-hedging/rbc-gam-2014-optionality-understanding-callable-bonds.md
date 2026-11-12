@@ -5,7 +5,8 @@
 | **Authors** | RBC Global Asset Management (no individual authors; "RBC GAM Fundamental Series") |
 | **Year** | 2014 (data to July 2014) |
 | **Type** | Asset manager's educational piece, 8pp |
-| **PDF** | Local copy only (manager marketing material, no licence) |
+| **PDF** | Not hosted in this repository (manager marketing material, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Optionality%3A+Understanding+Callable+Bonds%22+Management) for the title and authors |
 | **BibTeX** | `rbcgam2014callable` |
 | **Status** | Reference: short and introductory; the total-return comparison on p.5 is the only data |
 

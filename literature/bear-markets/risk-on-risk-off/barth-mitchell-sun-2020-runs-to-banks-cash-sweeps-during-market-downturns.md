@@ -5,7 +5,8 @@
 | **Authors** | James R. Barth (Auburn University), Mark Mitchell (CNH Partners; Chicago Booth), Yanfei Sun (Ryerson University) |
 | **Year** | 2020 (draft dated 9 September 2020) |
 | **Type** | Working paper, SSRN 3690525, 51pp |
-| **PDF** | Local copy only (SSRN draft, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN draft, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Runs+to+Banks%3A+The+Role+of+Cash+Sweeps+During+Market+Downturns%22+Barth) for the title and authors |
 | **BibTeX** | `barth2020sweeps` |
 | **Status** | Reference: Section 4 (TD Ameritrade monthly and aggregate quarterly regressions) and Section 5 (deposit volatility) carry the results |
 

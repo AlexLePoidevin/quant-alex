@@ -5,7 +5,8 @@
 | **Authors** | Wim Antoons (Head of Asset Management, Bank Nagelmackers) |
 | **Year** | 2018 (issue dated Quarter 1 2018; the analysis uses data to December 2015) |
 | **Type** | Practitioner article, 9pp. (journal pp. 32–40). The copy does not name the journal; the "Quarter 1 • 2018" footers and layout match CAIA's *Alternative Investment Analyst Review* |
-| **PDF** | Local copy only (no licence stated) |
+| **PDF** | Not hosted in this repository (no licence stated) |
+| **Find it** | [doi.org/10.2139/ssrn.2983997](https://doi.org/10.2139/ssrn.2983997) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Market+Timing%3A+Opportunities+and+Risks%22+Antoons) |
 | **BibTeX** | `antoons2018timing` |
 | **Status** | Reference: the best/worst-days analysis (Exhibits 2–4) and the summary of earlier timing studies carry the piece |
 

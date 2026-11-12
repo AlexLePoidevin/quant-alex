@@ -5,6 +5,7 @@
 | **Authors** | Attilio Meucci |
 | **Year** | 2009 |
 | **Type** | Paper — *Risk* 22(5), 74–79 |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Managing+Diversification%22+Meucci) for the title and authors |
 | **BibTeX** | `meucci2009managing` |
 | **Status** | To read |
 

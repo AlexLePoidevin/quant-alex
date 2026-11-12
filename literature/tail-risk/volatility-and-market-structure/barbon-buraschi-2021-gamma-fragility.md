@@ -5,7 +5,8 @@
 | **Authors** | Andrea Barbon (University of St. Gallen), Andrea Buraschi (Imperial College) |
 | **Year** | 2021 (this version March 2021; first version January 2019) |
 | **Type** | Working paper, SSRN 3725454, 48pp |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [ssrn.com](https://ssrn.com/abstract=3725454) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Gamma+Fragility%22+Barbon) |
 | **BibTeX** | `barbon2021gamma` |
 | **Status** | Reference: §II.B (the gamma-imbalance measure), §III (volatility, illiquidity, autocorrelation) and §IV (flash crashes) carry the results |
 

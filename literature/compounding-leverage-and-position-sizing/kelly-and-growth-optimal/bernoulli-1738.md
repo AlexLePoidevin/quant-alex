@@ -5,6 +5,7 @@
 | **Authors** | Daniel Bernoulli |
 | **Year** | 1738 |
 | **Type** | Paper — Latin original 1738; standard English translation *Econometrica* 22(1), 1954 |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Exposition+of+a+New+Theory+on+the+Measurement+of+Risk%22+Bernoulli) for the title and authors |
 | **BibTeX** | `bernoulli1738exposition` |
 | **Status** | To read |
 

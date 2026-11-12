@@ -5,7 +5,8 @@
 | **Authors** | Robert F. Bruner and Sean D. Carr (Darden School, University of Virginia) |
 | **Year** | 2007 (John Wiley & Sons; ISBN 978-0-470-15263-8) |
 | **Type** | Book. The local file is a 14-page extract: front matter, contents, the introduction and the authors' biographies |
-| **PDF** | Local copy only (Wiley, all rights reserved; the file holds only an extract) |
+| **PDF** | Not hosted in this repository (Wiley, all rights reserved; the file holds only an extract) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Panic+of+1907%3A+Lessons+Learned+from+the+Market%27s+Perfect+Storm%22+Bruner) for the title and authors |
 | **BibTeX** | `bruner2007panic` |
 | **Status** | Read the extract only (contents and introduction). The narrative chapters and the "Lessons" chapter are not in the file, so the note describes the book's framework, not its detailed account |
 

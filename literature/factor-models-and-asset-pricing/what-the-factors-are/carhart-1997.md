@@ -5,6 +5,7 @@
 | **Authors** | Mark M. Carhart |
 | **Year** | 1997 |
 | **Type** | Paper — *Journal of Finance* 52(1), 57–82 |
+| **Find it** | [doi.org/10.1111/j.1540-6261.1997.tb03808.x](https://doi.org/10.1111/j.1540-6261.1997.tb03808.x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22On+Persistence+in+Mutual+Fund+Performance%22+Carhart) |
 | **BibTeX** | `carhart1997persistence` |
 | **Status** | To read |
 

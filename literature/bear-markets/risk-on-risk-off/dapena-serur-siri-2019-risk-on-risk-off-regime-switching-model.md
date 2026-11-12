@@ -5,7 +5,8 @@
 | **Authors** | José P. Dapena, Juan A. Serur and Julián R. Siri (Universidad del CEMA, Buenos Aires) |
 | **Year** | 2019 |
 | **Type** | Working paper. UCEMA Documentos de Trabajo 706 (December 2019); SSRN 3509895 (doi 10.2139/ssrn.3509895), 13pp |
-| **PDF** | Local copy only (working paper; no open licence) |
+| **PDF** | Not hosted in this repository (working paper; no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3509895](https://doi.org/10.2139/ssrn.3509895) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Risk+On-Risk+Off%3A+A+Regime+Switching+Model+for+Active+Portfolio+Management%22+Dapena) |
 | **BibTeX** | `dapena2019riskon` |
 | **Status** | Reference: short paper; §2 (signal and trading rule), Table 1 (strategy statistics, April 2004 to October 2018) and Table 2 (factor regressions) carry the results |
 

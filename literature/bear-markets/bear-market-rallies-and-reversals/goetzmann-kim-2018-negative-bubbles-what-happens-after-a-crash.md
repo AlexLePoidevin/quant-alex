@@ -5,7 +5,8 @@
 | **Authors** | William N. Goetzmann (Yale School of Management), Dasol Kim (Office of Financial Research, US Treasury) |
 | **Year** | 2018 (*European Financial Management* 24(2), 171–191); this copy is NBER Working Paper 23830, September 2017, revised January 2018 |
 | **Type** | Empirical paper, 33pp. 101 national stock markets, monthly real price returns, 1692–2015 |
-| **PDF** | Local copy only (NBER working paper, © the authors, all rights reserved) |
+| **PDF** | Not hosted in this repository (NBER working paper, © the authors, all rights reserved) |
+| **Find it** | [doi.org/10.1111/eufm.12164](https://doi.org/10.1111/eufm.12164) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Negative+Bubbles%3A+What+Happens+After+a+Crash%22+Goetzmann) |
 | **BibTeX** | `goetzmann2018negative` |
 | **Status** | Reference: §4 (Tables 2–4, the conditional distributions) carries the result; §5 tests explanations |
 

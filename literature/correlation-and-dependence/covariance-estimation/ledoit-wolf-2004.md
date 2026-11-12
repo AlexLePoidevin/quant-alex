@@ -5,6 +5,7 @@
 | **Authors** | Olivier Ledoit; Michael Wolf |
 | **Year** | 2004 |
 | **Type** | Paper — *Journal of Multivariate Analysis* 88(2), 365–411 |
+| **Find it** | [doi.org/10.1016/s0047-259x(03)00096-4](https://doi.org/10.1016/s0047-259x(03)00096-4) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Well-Conditioned+Estimator+for+Large-Dimensional+Covariance+Matrices%22+Ledoit) |
 | **BibTeX** | `ledoit2004wellconditioned` |
 | **Status** | To read |
 

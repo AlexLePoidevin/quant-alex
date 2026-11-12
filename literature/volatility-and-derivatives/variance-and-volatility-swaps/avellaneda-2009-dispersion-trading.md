@@ -5,7 +5,8 @@
 | **Authors** | Marco Avellaneda (NYU Courant Institute) |
 | **Year** | 2009 (Spring semester, course G63.2936.001) |
 | **Type** | Slides, 41pp. Lecture notes from a graduate course; the backtest slides reuse material from about 2001–2004 |
-| **PDF** | Local copy only (course slides with no licence) |
+| **PDF** | Not hosted in this repository (course slides with no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Dispersion+Trading+%28Lecture+10%29%22+Avellaneda) for the title and authors |
 | **BibTeX** | `avellaneda2009dispersion` |
 | **Status** | Reference: the gamma P&L decomposition is the core; the Monte Carlo signal model and backtests are summarised briefly on the slides |
 

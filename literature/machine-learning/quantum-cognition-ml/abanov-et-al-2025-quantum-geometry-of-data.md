@@ -6,6 +6,7 @@
 | **Year** | 2025 |
 | **Type** | Preprint — arXiv:2507.21135, July 2025, 31pp. The PDF here is a later revision hosted by Qognitive (adds a timing check, a two-spheres stability study and a classical comparison on the breast-cancer data). Not peer-reviewed |
 | **Link** | [arxiv.org/abs/2507.21135](https://arxiv.org/abs/2507.21135); revised PDF at [qognitiveai.com/papers/quantum-geometry.pdf](https://www.qognitiveai.com/papers/quantum-geometry.pdf); code and trained operators at [github.com/camhogan/Quantum_Geometry_of_Data](https://github.com/camhogan/Quantum_Geometry_of_Data) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Quantum+Geometry+of+Data%22+Abanov) for the title and authors |
 | **BibTeX** | `abanov2025geometry` |
 | **Status** | Reference — §3 (the model), §4.1–4.4 (the geometric tools) and §5.4 (the real-data example) carry the paper; §4 can be skimmed on a first pass |
 

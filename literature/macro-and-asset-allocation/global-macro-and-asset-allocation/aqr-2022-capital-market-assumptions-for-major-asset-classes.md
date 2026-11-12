@@ -5,7 +5,8 @@
 | **Authors** | AQR Portfolio Solutions Group (thanks to Alfie Brixton, Pete Hecht, Thomas Maloney, Nick McQuinn; comments from Antti Ilmanen) |
 | **Year** | 2022 (estimates as of 31 December 2021; published January 2022) |
 | **Type** | Manager white paper, *Alternative Thinking* Q1 2022, 17pp |
-| **PDF** | Local copy only (AQR document, "not to be reproduced or redistributed without the written consent of AQR") |
+| **PDF** | Not hosted in this repository (AQR document, "not to be reproduced or redistributed without the written consent of AQR") |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Capital+Market+Assumptions+for+Major+Asset+Classes+%281Q+2022%29%22+Group) for the title and authors |
 | **BibTeX** | `aqr2022cma` |
 | **Status** | Reference: Exhibits 1–5 (estimates and method), the alternative risk premia section, and "Revisiting the 5% Solution" (Exhibits 9–12) |
 

@@ -6,6 +6,7 @@
 | **Year** | 2026 (25 April) |
 | **Type** | Commercial research note — 23 sections; §12 is *Portfolio-Level Kelly for Equity Books* |
 | **Link** | https://www.atlaspeakresearch.com/report/07bf72#12-portfolio-level-kelly-for-equity-books |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Kelly+Criterion+in+Financial+Markets%3A+Optimal+Position+Sizing%2C+Portfolio+Construction%2C+and+Risk+Management%22+Research) for the title and authors |
 | **BibTeX** | `atlaspeak2026kelly` |
 | **Status** | To read — body not retrievable |
 

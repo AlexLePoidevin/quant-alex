@@ -5,7 +5,8 @@
 | **Authors** | Alberto Martin (CREI, Universitat Pompeu Fabra), Jaume Ventura (CREI, Universitat Pompeu Fabra) |
 | **Year** | 2011 (IMF Economic Review 59(1), 6–40); the copy here is ECB Working Paper 1348, June 2011 (ECB Lamfalussy Fellowship Programme); also NBER Working Paper 16399, 2010 |
 | **Type** | Working paper (macroeconomic theory), 48pp |
-| **PDF** | Local copy only (ECB working paper, "All rights reserved": reproduction needs the ECB's or the authors' written permission) |
+| **PDF** | Not hosted in this repository (ECB working paper, "All rights reserved": reproduction needs the ECB's or the authors' written permission) |
+| **Find it** | [doi.org/10.1057/imfer.2011.1](https://doi.org/10.1057/imfer.2011.1) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Theoretical+Notes+on+Bubbles+and+the+Current+Crisis%22+Martin) |
 | **BibTeX** | `martin2011bubbles` |
 | **Status** | Reference: §2 (bubbles as pyramid schemes, especially §2.3), §3.2 (undoing the crisis with fiscal policy) and §5 |
 

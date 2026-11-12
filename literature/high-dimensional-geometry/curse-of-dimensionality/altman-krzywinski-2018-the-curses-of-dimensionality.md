@@ -5,7 +5,8 @@
 | **Authors** | Naomi Altman; Martin Krzywinski |
 | **Year** | 2018 |
 | **Type** | Column — *Nature Methods* 15, 399–400, "Points of Significance", doi:[10.1038/s41592-018-0019-x](https://doi.org/10.1038/s41592-018-0019-x). Two pages |
-| **PDF** | Not redistributable (© Springer Nature); read via the DOI |
+| **PDF** | Not hosted in this repository: not redistributable (© Springer Nature); read via the DOI |
+| **Find it** | [doi.org/10.1038/s41592-018-0019-x](https://doi.org/10.1038/s41592-018-0019-x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Curse%28s%29+of+Dimensionality%22+Altman) |
 | **BibTeX** | `altman2018curses` |
 | **Status** | Reference |
 

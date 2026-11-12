@@ -5,7 +5,8 @@
 | **Authors** | Andres Azqueta-Gavaldon, Dominik Hirschbühl, Luca Onorante, Lorena Saiz (European Central Bank) |
 | **Year** | 2020 (November) |
 | **Type** | Working paper, ECB Working Paper Series No. 2494, 54pp. Daily returns of S&P 500 stocks 1980–2019, quarterly US GDP regimes 1982–2019 |
-| **PDF** | Local copy only (© European Central Bank, all rights reserved) |
+| **PDF** | Not hosted in this repository (© European Central Bank, all rights reserved) |
+| **Find it** | [doi.org/10.2866/23967](https://doi.org/10.2866/23967) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Nowcasting+Business+Cycle+Turning+Points+with+Stock+Networks+and+Machine+Learning%22+Azqueta-Gavaldon) |
 | **BibTeX** | `azqueta2020nowcasting` |
 | **Status** | Reference: §3 (network construction and feature selection), §4.2 (out-of-sample exercise) and Table 2 (scores) carry the result |
 

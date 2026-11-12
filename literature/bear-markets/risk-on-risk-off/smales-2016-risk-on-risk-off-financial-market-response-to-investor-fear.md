@@ -5,7 +5,8 @@
 | **Authors** | Lee A. Smales (Curtin University) |
 | **Year** | 2016 |
 | **Type** | Journal article, *Finance Research Letters* 17, 125–134 (doi 10.1016/j.frl.2016.03.010). The copy is the SSRN version (2717330), 17pp. Daily data, January 2001 to June 2015 |
-| **PDF** | Local copy only (SSRN download of an Elsevier article, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download of an Elsevier article, no open licence) |
+| **Find it** | [doi.org/10.1016/j.frl.2016.03.010](https://doi.org/10.1016/j.frl.2016.03.010) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Risk-On+%2F+Risk-Off%3A+Financial+Market+Response+to+Investor+Fear%22+Smales) |
 | **BibTeX** | `smales2016riskon` |
 | **Status** | Reference: Table 2 (full sample), Table 3 (2008–09) and Table 5 (returns after high and low VIX) carry the results |
 

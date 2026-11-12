@@ -5,7 +5,8 @@
 | **Authors** | Martin Feldstein (Harvard University and NBER) |
 | **Year** | 1978 (NBER Working Paper 296, November 1978); published as "Inflation, Tax Rules, and the Prices of Land and Gold", *Journal of Public Economics* 14(3), 309–317, 1980 |
 | **Type** | Theory working paper, 14pp. No data beyond a footnote on 1968–1977 price changes |
-| **PDF** | Local copy only (NBER working paper, © the author) |
+| **PDF** | Not hosted in this repository (NBER working paper, © the author) |
+| **Find it** | [doi.org/10.3386/w0296](https://doi.org/10.3386/w0296) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Effect+of+Inflation+on+the+Prices+of+Land+and+Gold%22+Feldstein) |
 | **BibTeX** | `feldstein1978landgold` |
 | **Status** | Reference: §1 (land and bonds as perfect substitutes), §2 (portfolio model for gold and land) and the worked numbers at the end of §2 carry the argument |
 

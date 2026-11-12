@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Hélyette Geman, Dilip B. Madan, Marc Yor |
 | **Year** | 2005 (working paper dated 26 January 2005; published in *Finance and Stochastics* 9(4), 2005) |
 | **Type** | Paper, 26pp (working-paper version) |
-| **PDF** | Local copy only (pre-publication draft, no open licence) |
+| **PDF** | Not hosted in this repository (pre-publication draft, no open licence) |
+| **Find it** | [doi.org/10.1007/s00780-005-0155-x](https://doi.org/10.1007/s00780-005-0155-x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Pricing+Options+on+Realized+Variance%22+Carr) |
 | **BibTeX** | `carr2005realizedvariance` |
 | **Status** | Reference: §1 (motivation), §5 (Laplace transform to option prices), §6 (time change vs quadratic variation) and §7 (the S&P 500 numbers) carry the argument; §2–3 are the self-decomposability theory |
 

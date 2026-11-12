@@ -5,7 +5,8 @@
 | **Authors** | Athanasios P. Fassas and Nikolas Hourvouliades (American College of Thessaloniki) |
 | **Year** | 2019 (published version); the copy here is the SSRN working paper (3189502) dated 3 June 2018 |
 | **Type** | Journal article, *Journal of Risk and Financial Management* 12(3), 113 (2019). Data: January 2010 – December 2017 |
-| **PDF** | Local copy only (SSRN working paper). The published version is open access under CC BY at [mdpi.com/1911-8074/12/3/113](https://www.mdpi.com/1911-8074/12/3/113) |
+| **PDF** | Not hosted in this repository (SSRN working paper). The published version is open access under CC BY at [mdpi.com/1911-8074/12/3/113](https://www.mdpi.com/1911-8074/12/3/113) |
+| **Find it** | [doi.org/10.3390/jrfm12030113](https://doi.org/10.3390/jrfm12030113) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22VIX+Futures+as+a+Market+Timing+Indicator%22+Fassas) |
 | **BibTeX** | `fassas2019timing` |
 | **Status** | Reference: Exhibits 3 and 4 carry the results |
 

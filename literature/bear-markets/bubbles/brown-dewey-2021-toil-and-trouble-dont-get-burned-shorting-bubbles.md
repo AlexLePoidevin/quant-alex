@@ -5,7 +5,8 @@
 | **Authors** | Aaron Brown (New York University), Richard Dewey (Royal Bridge Capital) |
 | **Year** | 2021 (version dated 11 February 2021) |
 | **Type** | Working paper, SSRN 3782759, 11pp. A practitioner case study built from interviews, traders' internal research and press accounts |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3782759](https://doi.org/10.2139/ssrn.3782759) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Toil+and+Trouble%2C+Don%27t+Get+Burned+Shorting+Bubbles%22+Brown) |
 | **BibTeX** | `brown2021shorting` |
 | **Status** | Reference: §4 (the scenario model and the latent risks), §5 (the alternative trades) and §7 (why short sellers did not stop the bubble) carry the argument |
 

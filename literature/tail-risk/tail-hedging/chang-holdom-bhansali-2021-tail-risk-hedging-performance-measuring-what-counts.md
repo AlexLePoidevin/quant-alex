@@ -5,7 +5,8 @@
 | **Authors** | Linda Chang, Jeremie Holdom, Vineer Bhansali (LongTail Alpha) |
 | **Year** | 2021 (revised November 2021) |
 | **Type** | Working paper, SSRN 3962552, 25pp, with the firm's disclosures |
-| **PDF** | Local copy only (SSRN download marked confidential, no licence) |
+| **PDF** | Not hosted in this repository (SSRN download marked confidential, no licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3962552](https://doi.org/10.2139/ssrn.3962552) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Tail+Risk+Hedging+Performance%3A+Measuring+What+Counts%22+Chang) |
 | **BibTeX** | `chang2021tailhedging` |
 | **Status** | Reference: the hypothetical cash-flow exhibits (1–7) make the main point; the 2017–21 and 1996–2021 backtests (Exhibits 8–11) illustrate it |
 

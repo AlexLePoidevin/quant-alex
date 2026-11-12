@@ -6,6 +6,7 @@
 | **Year** | 2014 (30 December) |
 | **Type** | Working paper — SSRN 2543979 |
 | **Link** | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2543979 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Century+of+Generalized+Momentum%3A+From+Flexible+Asset+Allocation+%28FAA%29+to+Elastic+Asset+Allocation+%28EAA%29%22+Keller) for the title and authors |
 | **Also** | [TrendXplorer primer](https://indexswingtrader.blogspot.com/2015/01/a-primer-on-elastic-asset-allocation.html) · [ReSolve](https://investresolve.com/published-century-generalized-momentum/) |
 | **BibTeX** | `keller2014eaa` |
 | **Status** | Rules verified, backtested |

@@ -6,6 +6,7 @@
 | **Year** | 2023 (30 December) |
 | **Type** | Blog post — *Towards Data Science*, 11 min |
 | **Link** | https://towardsdatascience.com/curse-of-dimensionality-an-intuitive-exploration-1fbf155e1411/ |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Curse+of+Dimensionality%3A+An+Intuitive+Exploration%22+Salih) for the title and authors |
 | **BibTeX** | `salih2023curse` |
 | **Status** | Explainer — for the substance cite [[altman-krzywinski-2018-the-curses-of-dimensionality]] and [[beyer-et-al-1999-when-is-nearest-neighbor-meaningful]] |
 

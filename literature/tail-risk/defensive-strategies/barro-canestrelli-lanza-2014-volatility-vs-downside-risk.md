@@ -5,7 +5,8 @@
 | **Authors** | Diana Barro, Elio Canestrelli, Fabio Lanza (Ca' Foscari University of Venice) |
 | **Year** | 2014 |
 | **Type** | Working paper, Department of Economics, Ca' Foscari, No. 18/WP/2014 (SSRN 2521007), 28pp. Weekly S&P 500 and sector index data, 2000–2013 |
-| **PDF** | Local copy only (working paper, no open licence) |
+| **PDF** | Not hosted in this repository (working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2521007](https://doi.org/10.2139/ssrn.2521007) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Volatility+vs.+Downside+Risk%3A+Optimally+Protecting+Against+Drawdowns+and+Maintaining+Portfolio+Performance%22+Barro) |
 | **BibTeX** | `barro2014volatility` |
 | **Status** | Reference: §2 (the model), §3.3–3.5 (volatility control, tail control, joint effects) and Table 2 carry the results |
 

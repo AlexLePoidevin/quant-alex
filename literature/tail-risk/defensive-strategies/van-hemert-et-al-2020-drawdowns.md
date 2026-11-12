@@ -5,7 +5,8 @@
 | **Authors** | Otto Van Hemert, Mark Ganz, Campbell R. Harvey, Sandy Rattray, Eva Sanchez Martin, Darrel Yawitch (Man Group; Harvey also at Duke and NBER) |
 | **Year** | 2020 (version dated 4 May 2020) |
 | **Type** | Paper. SSRN 3583864, 19pp; published in *Journal of Portfolio Management* 46(8), 34–50 (2020). Simulation study plus bootstrapped market returns |
-| **PDF** | Local copy only (SSRN download of a Man Group working paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download of a Man Group working paper; no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2020.1.170](https://doi.org/10.3905/jpm.2020.1.170) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Drawdowns%22+Hemert) |
 | **BibTeX** | `vanhemert2020drawdowns` |
 | **Status** | Reference: §2 ("drawdown Greeks"), §3 (manager replacement rules) and §5 (five takeaways) |
 

@@ -5,7 +5,8 @@
 | **Authors** | AQR Macro Team |
 | **Year** | 2021 (October 2021; data to 15 October 2021) |
 | **Type** | Manager market commentary, 8pp |
-| **PDF** | Local copy only (AQR publication, no open licence) |
+| **PDF** | Not hosted in this repository (AQR publication, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Inflation+Outlook%3A+the+Macro%2C+the+Micro%2C+the+Transitory%22+Team) for the title and authors |
 | **BibTeX** | `aqr2021inflationoutlook` |
 | **Status** | Reference: a dated view, useful as a record of the 2021 "transitory" debate |
 

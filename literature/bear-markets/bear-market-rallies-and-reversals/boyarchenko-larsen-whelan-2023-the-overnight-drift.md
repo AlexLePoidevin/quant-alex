@@ -5,7 +5,8 @@
 | **Authors** | Nina Boyarchenko (Federal Reserve Bank of New York), Lars C. Larsen and Paul Whelan (Copenhagen Business School) |
 | **Year** | 2023 (published); first circulated February 2020 |
 | **Type** | Paper. *Review of Financial Studies* 36(9), 3502–3547 (doi 10.1093/rfs/hhad020). The copy is Federal Reserve Bank of New York Staff Report no. 917, revised April 2022, 98pp with appendix |
-| **PDF** | Local copy only. The Federal Reserve Banks are not federal agencies, so their staff reports are not US-government works in the public domain; the report carries no open licence, and the journal version is Oxford University Press |
+| **PDF** | Not hosted in this repository (copyright). The Federal Reserve Banks are not federal agencies, so their staff reports are not US-government works in the public domain; the report carries no open licence, and the journal version is Oxford University Press |
+| **Find it** | [doi.org/10.1093/rfs/hhad020](https://doi.org/10.1093/rfs/hhad020) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Overnight+Drift%22+Boyarchenko) |
 | **BibTeX** | `boyarchenko2023overnight` |
 | **Status** | Reference: the introduction, §II–III (where the drift sits and the order-imbalance sorts), §IV (predictive regressions and the daylight-saving experiment) and §V (trading strategies with and without costs) carry the results |
 

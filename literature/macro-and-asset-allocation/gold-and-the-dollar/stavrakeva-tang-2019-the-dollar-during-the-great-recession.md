@@ -5,7 +5,8 @@
 | **Authors** | Vania Stavrakeva (London Business School), Jenny Tang (Federal Reserve Bank of Boston) |
 | **Year** | 2019 draft (21 November 2019). Earlier version: "The Dollar During the Global Recession: US Monetary Policy and the Exorbitant Duty", Boston Fed Working Paper 18-10 (October 2018). Published as "The Dollar during the Great Recession: The Information Channel of U.S. Monetary Policy…", *Journal of Finance* 81, 971–1010 (2026) |
 | **Type** | Working paper with a theoretical model, 53pp |
-| **PDF** | Local copy only (working paper, no open licence). The 2019 draft is kept; the 2018 Boston Fed version is the same paper |
+| **PDF** | Not hosted in this repository (working paper, no open licence). The 2019 draft is kept; the 2018 Boston Fed version is the same paper |
+| **Find it** | [doi.org/10.1111/jofi.70025](https://doi.org/10.1111/jofi.70025) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Dollar+During+the+Great+Recession%3A+US+Monetary+Policy+Signaling+and+the+Flight+to+Safety%22+Stavrakeva) |
 | **BibTeX** | `stavrakeva2026dollar` |
 | **Status** | Reference: §3.1 (the dollar's response and the hedge/non-hedge split), §3.2 (growth expectations and risk aversion) and §3.3 (wealth transfer); §4 is the model |
 

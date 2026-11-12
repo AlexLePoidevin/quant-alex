@@ -5,6 +5,7 @@
 | **Authors** | Ole Peters |
 | **Year** | 2011 |
 | **Type** | Paper — *Quantitative Finance* 11(11) |
+| **Find it** | [doi.org/10.1080/14697688.2010.513338](https://doi.org/10.1080/14697688.2010.513338) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Optimal+leverage+from+non-ergodicity%22+Peters) |
 | **BibTeX** | `peters2011optimal` |
 | **Status** | To read |
 

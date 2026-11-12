@@ -5,7 +5,8 @@
 | **Authors** | Thierry Roncalli (Amundi Asset Management) |
 | **Year** | 2017 (discussion paper dated December 2017; published in *Journal of Asset Management* 19(5), 351–361, 2018) |
 | **Type** | Non-technical discussion paper, 16pp. Simulations and stylised figures, no new empirical backtest |
-| **PDF** | Local copy only (Amundi discussion paper / SSRN 3083921; journal version © Springer) |
+| **PDF** | Not hosted in this repository (Amundi discussion paper / SSRN 3083921; journal version © Springer) |
+| **Find it** | [doi.org/10.1057/s41260-018-0078-7](https://doi.org/10.1057/s41260-018-0078-7) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Keep+Up+The+Momentum%22+Roncalli) |
 | **BibTeX** | `roncalli2017momentum` |
 | **Status** | Reference: the key takeaways (p. 2) and the sections on payoff, correlation and hidden risks summarise the technical companion paper |
 

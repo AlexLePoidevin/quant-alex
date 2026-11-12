@@ -5,7 +5,8 @@
 | **Authors** | Irene Aldridge, Ying Guan (Cornell University; Aldridge also AbleMarkets) |
 | **Year** | 2021 (version of 3 November 2021) |
 | **Type** | Working paper. SSRN 3925856, 21pp. Later SSRN revisions exist (2022, 2023) |
-| **PDF** | Local copy only (SSRN download, marked "All Rights Reserved") |
+| **PDF** | Not hosted in this repository (SSRN download, marked "All Rights Reserved") |
+| **Find it** | [doi.org/10.2139/ssrn.3925856](https://doi.org/10.2139/ssrn.3925856) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22What+Data+Series+Matter%3F+Explaining+Key+Trends+and+Factors+Generated+by+Artificial+Intelligence%22+Aldridge) |
 | **BibTeX** | `aldridge2021dataseries` |
 | **Status** | Reference: read in full. The simulations, the CCI/SPY decomposition (Tables 1–3) and the two trading rules carry the paper |
 

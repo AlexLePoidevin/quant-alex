@@ -5,7 +5,8 @@
 | **Authors** | Christopher C. Geczy (Wharton) and Mikhail Samonov (Forefront Analytics; Wharton) |
 | **Year** | 2017 (version of 15 January 2017; first posted to SSRN in 2015 as 2607730) |
 | **Type** | Working paper, 77pp. Cross-sectional momentum in six asset classes and across them, monthly, 1800–2014 |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2607730](https://doi.org/10.2139/ssrn.2607730) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Two+Centuries+of+Multi-Asset+Momentum+%28Equities%2C+Bonds%2C+Currencies%2C+Commodities%2C+Sectors+and+Stocks%29%22+Geczy) |
 | **BibTeX** | `geczy2017multiasset` |
 | **Status** | Reference: Table II (spreads by asset class), §III.E (commodity spot mean reversion), §IV (correlations and dynamic betas), §VI.A (trend versus momentum) carry the results |
 

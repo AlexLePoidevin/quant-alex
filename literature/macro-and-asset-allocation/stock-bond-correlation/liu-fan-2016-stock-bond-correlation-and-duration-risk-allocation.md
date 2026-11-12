@@ -5,7 +5,8 @@
 | **Authors** | Liu Xinyi, Fan Hua (China Investment Corporation) |
 | **Year** | 2016 (the copy is the authors' updated version, SSRN 2941948, with data appended to March 2017) |
 | **Type** | Journal article, *Journal of Portfolio Management* 42(2), 56–63. doi:10.3905/jpm.2016.42.2.056. 15pp |
-| **PDF** | Local copy only (authors' SSRN version of a JPM article, no licence) |
+| **PDF** | Not hosted in this repository (authors' SSRN version of a JPM article, no licence) |
+| **Find it** | [doi.org/10.3905/jpm.2016.42.2.056](https://doi.org/10.3905/jpm.2016.42.2.056) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stock%E2%80%93Bond+Correlation+and+Duration+Risk+Allocation%22+Xinyi) |
 | **BibTeX** | `liu2016stockbond` |
 | **Status** | Reference: Exhibit 3 (the decile results), equation (5) (factor-adjusted alpha) and the "Possible explanations" section carry the paper |
 

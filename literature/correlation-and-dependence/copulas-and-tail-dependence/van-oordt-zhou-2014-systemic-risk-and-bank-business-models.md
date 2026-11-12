@@ -5,7 +5,8 @@
 | **Authors** | Maarten R. C. van Oordt (De Nederlandsche Bank), Chen Zhou (De Nederlandsche Bank; Erasmus University Rotterdam) |
 | **Year** | 2014 (DNB Working Paper No. 442, October 2014); published in the *Journal of Applied Econometrics* 34(3), 365–384, 2019 |
 | **Type** | Working paper, 41pp. US bank holding companies, 1991–2011, 11,597 bank-quarters |
-| **PDF** | Local copy only (DNB/SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (DNB/SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.1002/jae.2666](https://doi.org/10.1002/jae.2666) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Systemic+Risk+and+Bank+Business+Models%22+Oordt) |
 | **BibTeX** | `vanoordt2014systemic` |
 | **Status** | Reference: §2 (the tail beta and its decomposition) and §4.1–4.2 (size and non-interest income) carry the results; Figure 3 summarises them |
 

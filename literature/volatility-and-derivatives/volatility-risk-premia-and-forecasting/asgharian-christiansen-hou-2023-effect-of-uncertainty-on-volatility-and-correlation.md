@@ -5,7 +5,8 @@
 | **Authors** | Hossein Asgharian (Lund), Charlotte Christiansen (Aarhus), Ai Jun Hou (Stockholm) |
 | **Year** | 2023 (Journal of Banking & Finance 154, 106929, as "The effect of uncertainty on stock market volatility and correlation") |
 | **Type** | Journal article; copy is the March 2022 SSRN working paper (3146924), 40pp. January 1990 – July 2020 |
-| **PDF** | Local copy only (SSRN working paper of an Elsevier article) |
+| **PDF** | Not hosted in this repository (SSRN working paper of an Elsevier article) |
+| **Find it** | [doi.org/10.1016/j.jbankfin.2023.106929](https://doi.org/10.1016/j.jbankfin.2023.106929) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Effect+of+Uncertainty+on+Volatility+and+Correlation%22+Asgharian) |
 | **BibTeX** | `asgharian2023uncertainty` |
 | **Status** | Reference: the in-sample HAR-RV-X tables, the out-of-sample forecasts and Table 9 (portfolio tests) carry the results |
 

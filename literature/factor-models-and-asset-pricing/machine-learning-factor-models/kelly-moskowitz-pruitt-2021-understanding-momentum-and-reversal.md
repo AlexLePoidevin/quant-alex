@@ -5,7 +5,8 @@
 | **Authors** | Bryan T. Kelly (Yale; AQR), Tobias J. Moskowitz (Yale; AQR), Seth Pruitt (Arizona State) |
 | **Year** | 2021 (*Journal of Financial Economics* 140(3), 726–743; this copy is the February 2021 preprint, SSRN 3610814) |
 | **Type** | Journal article, 32pp. US stocks 1966–2014, 36 characteristics, 12,813 stocks |
-| **PDF** | Local copy only (SSRN preprint of an Elsevier journal article, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN preprint of an Elsevier journal article, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jfineco.2020.06.024](https://doi.org/10.1016/j.jfineco.2020.06.024) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Understanding+Momentum+and+Reversal%22+Kelly) |
 | **BibTeX** | `kelly2021momentum` |
 | **Status** | Reference: §2 (past returns predict betas), §4 (Tables 2–3, in- and out-of-sample) carry the results |
 

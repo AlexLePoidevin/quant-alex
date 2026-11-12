@@ -5,6 +5,7 @@
 | **Authors** | Gregory Connor |
 | **Year** | 1995 |
 | **Type** | Paper — *Financial Analysts Journal* 51(3), 42–46 |
+| **Find it** | [doi.org/10.2469/faj.v51.n3.1904](https://doi.org/10.2469/faj.v51.n3.1904) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Three+Types+of+Factor+Models%3A+A+Comparison+of+Their+Explanatory+Power%22+Connor) |
 | **BibTeX** | `connor1995three` |
 | **Status** | To read |
 

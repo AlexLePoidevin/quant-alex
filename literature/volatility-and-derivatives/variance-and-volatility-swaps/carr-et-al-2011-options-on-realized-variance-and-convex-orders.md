@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Bloomberg LP); Hélyette Geman (Birkbeck, University of London; ESCP Europe); Dilip B. Madan (University of Maryland); Marc Yor (Paris VI and VII) |
 | **Year** | 2011 (*Quantitative Finance* 11(11), 1685–1694; this working-paper copy dated 8 October 2009) |
 | **Type** | Journal paper (working-paper version, 28pp). S&P 500 daily data January 1990 to December 2008, plus a handful of over-the-counter quotes from early 2009 |
-| **PDF** | Local copy only (journal article, no open licence) |
+| **PDF** | Not hosted in this repository (journal article, no open licence) |
+| **Find it** | [doi.org/10.1080/14697680903397675](https://doi.org/10.1080/14697680903397675) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Options+on+Realized+Variance+and+Convex+Orders%22+Carr) |
 | **BibTeX** | `carr2011convex` |
 | **Status** | Reference: §1 (Lévy processes), §2 (S&P 500 and acceptability pricing) and §4 (models that guarantee an increase) |
 

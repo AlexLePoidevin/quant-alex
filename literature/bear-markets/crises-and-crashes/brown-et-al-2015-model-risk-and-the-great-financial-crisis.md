@@ -5,7 +5,8 @@
 | **Authors** | Jeffrey A. Brown, Brad McGourty, Til Schuermann (Oliver Wyman) |
 | **Year** | 2015 (draft of 7 January 2015) |
 | **Type** | Practitioner essay, 12pp (SSRN 2557213). Published in *The New International Financial System* (World Scientific, 2015), from the Chicago Fed's 17th International Banking Conference |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.1142/9789814678339_0015](https://doi.org/10.1142/9789814678339_0015) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Model+Risk+and+the+Great+Financial+Crisis%3A+The+Rise+of+Modern+Model+Risk+Management%22+Brown) |
 | **BibTeX** | `brown2015modelrisk` |
 | **Status** | Reference: §2 (the history and the crisis examples) and §3 (what model risk management now requires) |
 

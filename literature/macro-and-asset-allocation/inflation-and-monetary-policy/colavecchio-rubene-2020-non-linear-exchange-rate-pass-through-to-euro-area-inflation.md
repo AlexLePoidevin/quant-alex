@@ -5,7 +5,8 @@
 | **Authors** | Roberta Colavecchio, Ieva Rubene (European Central Bank) |
 | **Year** | 2020 (January) |
 | **Type** | Central-bank working paper, ECB Working Paper Series No. 2362, 30pp. Quarterly data, 1997Q1–2019Q1, all 19 euro area countries and the euro area aggregate |
-| **PDF** | Local copy only (ECB working paper; reproduction allowed with acknowledgement but no open licence) |
+| **PDF** | Not hosted in this repository (ECB working paper; reproduction allowed with acknowledgement but no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3518448](https://doi.org/10.2139/ssrn.3518448) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Non-Linear+Exchange+Rate+Pass-Through+to+Euro+Area+Inflation%3A+A+Local+Projection+Approach%22+Colavecchio) |
 | **BibTeX** | `colavecchio2020passthrough` |
 | **Status** | Reference: Tables 1–3 and §3 carry the results; the country-level detail is skimmed |
 

@@ -5,7 +5,8 @@
 | **Authors** | Jochen Papenbrock (PPI AG / Firamis), Peter Schwendner (Zurich University of Applied Sciences) |
 | **Year** | 2015 |
 | **Type** | Journal article, *Financial Markets and Portfolio Management* 29(2), 125–147. doi:10.1007/s11408-015-0248-2 |
-| **PDF** | Local copy only (Springer journal version, © Swiss Society for Financial Market Research) |
+| **PDF** | Not hosted in this repository (Springer journal version, © Swiss Society for Financial Market Research) |
+| **Find it** | [doi.org/10.1007/s11408-015-0248-2](https://doi.org/10.1007/s11408-015-0248-2) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Handling+Risk-On%2FRisk-Off+Dynamics+with+Correlation+Regimes+and+Correlation+Networks%22+Papenbrock) |
 | **BibTeX** | `papenbrock2015roro` |
 | **Status** | Reference: §3–4 (the six-step regime procedure), Table 2 (regime statistics) and §8 (the MST break-up of the crisis regime) carry the results |
 

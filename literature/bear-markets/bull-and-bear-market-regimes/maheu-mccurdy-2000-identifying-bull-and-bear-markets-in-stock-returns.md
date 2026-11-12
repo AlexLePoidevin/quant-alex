@@ -5,7 +5,8 @@
 | **Authors** | John M. Maheu (University of Alberta), Thomas H. McCurdy (University of Toronto) |
 | **Year** | 2000 |
 | **Type** | Journal article, *Journal of Business & Economic Statistics* 18(1), 100–112. doi:10.1080/07350015.2000.10524851 |
-| **PDF** | Local copy only (scanned journal version, "reproduced with permission of the copyright owner") |
+| **PDF** | Not hosted in this repository (scanned journal version, "reproduced with permission of the copyright owner") |
+| **Find it** | [doi.org/10.1080/07350015.2000.10524851](https://doi.org/10.1080/07350015.2000.10524851) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Identifying+Bull+and+Bear+Markets+in+Stock+Returns%22+Maheu) |
 | **BibTeX** | `maheu2000bullbear` |
 | **Status** | Reference: Table 5 (estimates), Figures 2–3 (filtered bull probabilities) and §5 (discussion of duration dependence) carry the results |
 

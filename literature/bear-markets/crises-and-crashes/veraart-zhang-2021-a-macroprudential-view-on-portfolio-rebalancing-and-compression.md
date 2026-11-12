@@ -5,7 +5,8 @@
 | **Authors** | Luitgard Anna Maria Veraart, Yuliang Zhang (London School of Economics, Department of Mathematics) |
 | **Year** | 2021 (version of 4 June 2021) |
 | **Type** | Working paper. SSRN 3860262, 68pp (29pp of text plus proofs and worked examples). Theory: network models of variation-margin payments, no empirical data |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3860262](https://doi.org/10.2139/ssrn.3860262) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Macroprudential+View+on+Portfolio+Rebalancing+and+Compression%22+Veraart) |
 | **BibTeX** | `veraart2021rebalancing` |
 | **Status** | Reference: §1 (setting and literature), §4 (main results, Theorems 4.1 and 4.11), §5 (policy implications) and §6 (conclusion); proofs skimmed |
 

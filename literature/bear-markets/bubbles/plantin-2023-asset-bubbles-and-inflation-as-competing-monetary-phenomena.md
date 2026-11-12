@@ -5,7 +5,8 @@
 | **Authors** | Guillaume Plantin (Sciences Po) |
 | **Year** | 2023 (Journal of Economic Theory 212, 105711); the copy here is the October 2021 working paper, 28pp |
 | **Type** | Theory paper (macro-finance model, no data) |
-| **PDF** | Local copy only (working paper with no open licence; the journal version is Elsevier) |
+| **PDF** | Not hosted in this repository (working paper with no open licence; the journal version is Elsevier) |
+| **Find it** | [doi.org/10.1016/j.jet.2023.105711](https://doi.org/10.1016/j.jet.2023.105711) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Asset+Bubbles+and+Inflation+as+Competing+Monetary+Phenomena%22+Plantin) |
 | **BibTeX** | `plantin2023bubbles` |
 | **Status** | Reference: the introduction states the three results; §III–IV (fixed-price and general models, Propositions 3–7) prove them |
 

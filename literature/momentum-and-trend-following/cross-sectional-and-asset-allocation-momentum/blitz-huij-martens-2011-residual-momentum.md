@@ -5,7 +5,8 @@
 | **Authors** | David Blitz, Joop Huij, Martin Martens (Robeco; Erasmus University Rotterdam) |
 | **Year** | 2011 (Journal of Empirical Finance 18(3), 506–521) |
 | **Type** | Journal article; copy is the SSRN author version (2319861), 60pp. CRSP US stocks, January 1926 – December 2009 |
-| **PDF** | Local copy only (SSRN author copy of an Elsevier article) |
+| **PDF** | Not hosted in this repository (SSRN author copy of an Elsevier article) |
+| **Find it** | [doi.org/10.1016/j.jempfin.2011.01.003](https://doi.org/10.1016/j.jempfin.2011.01.003) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Residual+Momentum%22+Blitz) |
 | **BibTeX** | `blitz2011residual` |
 | **Status** | Reference: §4.1 (factor exposures and Table 2), §4.2–4.3 (decades and the business cycle) and §5 (robustness) carry the results |
 

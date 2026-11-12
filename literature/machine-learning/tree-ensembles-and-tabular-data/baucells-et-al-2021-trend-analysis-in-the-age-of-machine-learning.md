@@ -5,7 +5,8 @@
 | **Authors** | Manel Baucells (Darden), Emanuele Borgonovo (Bocconi), Elmar Plischke (Clausthal), John Barr and Herschel Rabitz (Princeton) |
 | **Year** | 2021 (working paper, version of 21 May 2021, SSRN 3867894) |
 | **Type** | Working paper, 24pp. Theory with worked examples and a COVID-19 SEIR simulator case study |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3867894](https://doi.org/10.2139/ssrn.3867894) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Trend+Analysis+in+the+Age+of+Machine+Learning%22+Baucells) |
 | **BibTeX** | `baucells2021trend` |
 | **Status** | Reference: §3 (the consistency results and Table 1) and §5 (the two indices) carry the content |
 

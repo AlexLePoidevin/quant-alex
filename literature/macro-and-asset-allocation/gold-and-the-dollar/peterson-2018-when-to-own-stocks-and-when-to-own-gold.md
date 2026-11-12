@@ -5,7 +5,8 @@
 | **Authors** | Timothy F. Peterson (Cane Island Alternative Advisors) |
 | **Year** | 2018 (*The Journal of Wealth Management* 21(3), 26–36; doi:10.3905/jwm.2018.21.3.026). The copy is the SSRN 3535152 version dated 13 January 2018 |
 | **Type** | Practitioner journal article, 18pp; annual data 1871–2016 |
-| **PDF** | Local copy only (SSRN copy of a Pageant Media journal article) |
+| **PDF** | Not hosted in this repository (SSRN copy of a Pageant Media journal article) |
+| **Find it** | [doi.org/10.3905/jwm.2018.21.3.026](https://doi.org/10.3905/jwm.2018.21.3.026) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22When+to+Own+Stocks+and+When+to+Own+Gold%22+Peterson) |
 | **BibTeX** | `peterson2018gold` |
 | **Status** | Reference: "A better secular market indicator", the SMI regressions (Exhibits 3–6) and the decision rule (Exhibits 10–12) carry the argument |
 

@@ -5,7 +5,8 @@
 | **Authors** | Burton G. Malkiel (Princeton), Alex Rinaudo and Atanu Saha (Data Science Partners) |
 | **Year** | 2018 (*Journal of Derivatives* 26(2), 38–49) |
 | **Type** | Empirical paper, 12pp. VIX and S&P 500, 1990–June 2018; Cboe BXM and PUT indexes, with the strategy tested from 1995 |
-| **PDF** | Local copy only (journal download, © Institutional Investor LLC) |
+| **PDF** | Not hosted in this repository (journal download, © Institutional Investor LLC) |
+| **Find it** | [doi.org/10.3905/jod.2018.26.2.038](https://doi.org/10.3905/jod.2018.26.2.038) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Option+Writing%3A+Using+VIX+to+Improve+Returns%22+Malkiel) |
 | **BibTeX** | `malkiel2018optionwriting` |
 | **Status** | Reference: Exhibits 2 (VIX overstatement by quartile), 5–7 (conditional strategy) and 10 (random-period check) carry the results |
 

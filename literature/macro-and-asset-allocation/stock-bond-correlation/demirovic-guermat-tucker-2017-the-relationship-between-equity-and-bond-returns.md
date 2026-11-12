@@ -5,7 +5,8 @@
 | **Authors** | Amer Demirovic (Sarajevo School of Science and Technology), Cherif Guermat, Jon Tucker (University of the West of England) |
 | **Year** | 2017 |
 | **Type** | Journal article, *Journal of Financial Markets* 35, 47–64 (accepted manuscript). 351 US non-financial firms, 33,870 firm-months, August 1996 to February 2011 |
-| **PDF** | Local copy only (Elsevier accepted manuscript, no open licence) |
+| **PDF** | Not hosted in this repository (Elsevier accepted manuscript, no open licence) |
+| **Find it** | [doi.org/10.1016/j.finmar.2017.08.001](https://doi.org/10.1016/j.finmar.2017.08.001) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Relationship+Between+Equity+and+Bond+Returns%3A+An+Empirical+Investigation%22+Demirovic) |
 | **BibTeX** | `demirovic2017equitybond` |
 | **Status** | Reference: §2 (hypotheses from Merton's model), §4.2–4.5 and Table 5 carry the results |
 

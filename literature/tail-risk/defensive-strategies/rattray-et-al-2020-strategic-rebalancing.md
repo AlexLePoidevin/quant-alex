@@ -5,7 +5,8 @@
 | **Authors** | Sandy Rattray, Nicolas Granger, Campbell R. Harvey, Otto Van Hemert (Man Group; Harvey also at Duke) |
 | **Year** | 2020 (working version dated 19 December 2019) |
 | **Type** | Paper. SSRN 3330134, 25pp; published in *Journal of Portfolio Management* 46(6), 10–31 (2020). Data 1960–2017 (1927 onwards for illustrations) |
-| **PDF** | Local copy only (SSRN download of a Man Group working paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download of a Man Group working paper; no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2020.1.150](https://doi.org/10.3905/jpm.2020.1.150) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Strategic+Rebalancing%22+Rattray) |
 | **BibTeX** | `rattray2020strategic` |
 | **Status** | Reference: §1 (why rebalancing is concave), §2 (trend allocation) and §3 (rebalancing rules) carry the results |
 

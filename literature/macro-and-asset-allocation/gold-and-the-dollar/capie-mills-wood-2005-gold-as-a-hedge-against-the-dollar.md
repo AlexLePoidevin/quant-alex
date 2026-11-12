@@ -5,7 +5,8 @@
 | **Authors** | Forrest Capie (Cass Business School), Terence C. Mills (Loughborough University), Geoffrey Wood (Cass Business School) |
 | **Year** | 2005 (*Journal of International Financial Markets, Institutions and Money* 15(4), 343–352) |
 | **Type** | Journal article, 10pp. Weekly data, 8 January 1971 to 20 February 2004 (1,728 weeks) |
-| **PDF** | Local copy only (Elsevier journal article) |
+| **PDF** | Not hosted in this repository (Elsevier journal article) |
+| **Find it** | [doi.org/10.1016/j.intfin.2004.07.002](https://doi.org/10.1016/j.intfin.2004.07.002) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Gold+as+a+Hedge+Against+the+Dollar%22+Capie) |
 | **BibTeX** | `capie2005gold` |
 | **Status** | Reference: §3 (the GARCH models and Table 2, sub-periods) |
 

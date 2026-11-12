@@ -5,7 +5,8 @@
 | **Authors** | Dimitri Reiswich, Uwe Wystup (Frankfurt School of Finance & Management) |
 | **Year** | 2010 |
 | **Type** | Journal article — *The Journal of Derivatives* 18(2): 58–68, doi:10.3905/jod.2010.18.2.058. Copy from ResearchGate, 12pp |
-| **PDF** | Local copy only (journal version, no open licence) |
+| **PDF** | Not hosted in this repository (journal version, no open licence) |
+| **Find it** | [doi.org/10.3905/jod.2010.18.2.058](https://doi.org/10.3905/jod.2010.18.2.058) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Guide+to+FX+Options+Quoting+Conventions%22+Reiswich) |
 | **BibTeX** | `reiswich2010guide` |
 | **Status** | Reference: the premium conventions, the four deltas, the at-the-money definitions and the delta-to-strike algorithms are the content |
 

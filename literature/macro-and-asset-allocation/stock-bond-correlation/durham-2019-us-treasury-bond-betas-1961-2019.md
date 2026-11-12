@@ -5,7 +5,8 @@
 | **Authors** | J. Benson Durham |
 | **Year** | 2019 (dated 3 October 2019) |
 | **Type** | Working paper, SSRN 3463854, 39pp. Published as "US Treasury Bond Betas: 1961–2019", *Journal of Fixed Income* 29(4), 2020, 20–47 |
-| **PDF** | Local copy only (SSRN working paper with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper with no open licence) |
+| **Find it** | [doi.org/10.3905/jfi.2020.1.083](https://doi.org/10.3905/jfi.2020.1.083) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22U.S.+Treasury+Bond+Betas%3A+1961%E2%80%932019%22+Durham) |
 | **BibTeX** | `durham2019betas` |
 | **Status** | Reference: the A-DCC section (Table 2, Charts 1–4), the spectral section (Tables 3–4, Charts 5–10) and the quantile-regression section (Tables 5–6, Charts 11–18) carry the results |
 

@@ -6,6 +6,7 @@
 | **Year** | 2021 |
 | **Type** | Working paper, SSRN 3832340 (April 2021) |
 | **PDF** | `mcgee-2021-can-market-regimes-really-be-timed-with-historical-volatility.pdf` (kept locally; SSRN download with no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3832340](https://doi.org/10.2139/ssrn.3832340) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Can+Market+Regimes+Really+be+Timed+with+Historical+Volatility%3F%22+McGee) |
 | **BibTeX** | `mcgee2021regimes` |
 | **Status** | Reference: Section 2 (replication and robustness of Moreira–Muir), Table 5 (out-of-sample comparison) and Figure 4 (rebalancing-day sensitivity) carry the results |
 

@@ -5,7 +5,8 @@
 | **Authors** | Peter C. B. Phillips (Yale), Shuping Shi (Macquarie University) |
 | **Year** | 2018 (Cowles Foundation Discussion Paper 2152, 22 November 2018; SSRN 3299498). Written as a book chapter |
 | **Type** | Methods chapter with R code, 25pp |
-| **PDF** | Local copy only (Cowles Foundation / SSRN working paper with no open licence) |
+| **PDF** | Not hosted in this repository (Cowles Foundation / SSRN working paper with no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3299498](https://doi.org/10.2139/ssrn.3299498) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Real+Time+Monitoring+of+Asset+Markets%3A+Bubbles+and+Crises%22+Phillips) |
 | **BibTeX** | `phillips2018monitoring` |
 | **Status** | Reference: §2 (the PSY recursive test), §5 (the new bootstrap) and §6 (the S&P 500 and euro-area applications) |
 

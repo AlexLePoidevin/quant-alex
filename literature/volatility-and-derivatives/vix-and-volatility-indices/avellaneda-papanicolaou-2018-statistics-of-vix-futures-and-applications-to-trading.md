@@ -5,7 +5,8 @@
 | **Authors** | Marco Avellaneda (Courant Institute, NYU), Andrew Papanicolaou (NYU Tandon) |
 | **Year** | 2018 (version of 24 February 2018; SSRN 3028910) |
 | **Type** | Paper, 39pp. VIX and VIX futures data 2004–2017; model fitted on 2011–2016 and 2007–2016 |
-| **PDF** | Local copy only (SSRN download with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Statistics+of+VIX+Futures+and+Applications+to+Trading+Volatility+Exchange-Traded+Products%22+Avellaneda) for the title and authors |
 | **BibTeX** | `avellaneda2018vixfutures` |
 | **Status** | Reference: §2 (stationarity and the equilibrium PCA of the curve), §3 (rolling-futures returns and Proposition 3.1) and §5–6 (the two-factor model and simulated ETNs) carry the results |
 

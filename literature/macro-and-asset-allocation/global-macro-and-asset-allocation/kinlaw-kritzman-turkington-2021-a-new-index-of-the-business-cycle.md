@@ -5,7 +5,8 @@
 | **Authors** | William Kinlaw, Mark Kritzman, David Turkington (State Street Associates; Windham Capital; MIT Sloan) |
 | **Year** | 2021 |
 | **Type** | Journal article, *Journal of Investment Management* 19(3), 4–19. Monthly US data, index from 1956 to June 2020 using real-time (vintage) data |
-| **PDF** | Local copy only (© JOIM) |
+| **PDF** | Not hosted in this repository (© JOIM) |
+| **Find it** | [doi.org/10.2139/ssrn.3521300](https://doi.org/10.2139/ssrn.3521300) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+New+Index+of+the+Business+Cycle%22+Kinlaw) |
 | **BibTeX** | `kinlaw2021business` |
 | **Status** | Reference: §3 (index construction), §4 (time-varying variable importance) and §5 (event study, recession frequencies, ROC comparisons) |
 

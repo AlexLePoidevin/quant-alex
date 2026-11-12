@@ -5,7 +5,8 @@
 | **Authors** | James S. Doran (University of New South Wales) |
 | **Year** | 2020 (*Journal of Futures Markets* 40(6), 841–859; SSRN 3514141 working version dated 2 January 2020) |
 | **Type** | Journal article, 19pp. S&P 500 and VIX 1990–2017; SPX options (OptionMetrics) 1996–2017 |
-| **PDF** | Local copy only (the Wiley published version; the SSRN working version is in the same source folder and has the same results) |
+| **PDF** | Not hosted in this repository (the Wiley published version; the SSRN working version is in the same source folder and has the same results) |
+| **Find it** | [doi.org/10.1002/fut.22094](https://doi.org/10.1002/fut.22094) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Volatility+as+an+Asset+Class%3A+Holding+VIX+in+a+Portfolio%22+Doran) |
 | **BibTeX** | `doran2020vix` |
 | **Status** | Reference: §3 (cash VIX as a hedge), §4.1 (which SPX options drive VIX changes) and §4.2–4.3 (the synthetic VIX hedge and its limits) carry the results |
 

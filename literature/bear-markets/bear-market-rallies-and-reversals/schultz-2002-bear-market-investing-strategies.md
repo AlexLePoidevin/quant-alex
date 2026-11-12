@@ -6,6 +6,7 @@
 | **Year** | 2002 |
 | **Type** | Book. John Wiley & Sons (Wiley Trading series), ISBN 0-470-84702-6; 20 chapters in seven parts, about 180pp |
 | **PDF** | None kept. The supplied copy is an unauthorised scan of a Wiley book (it carries a file-sharing watermark), so it is not stored with the library |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Bear+Market+Investing+Strategies%22+Schultz) for the title and authors |
 | **BibTeX** | `schultz2002bear` |
 | **Status** | Partly read: the contents, the introduction (Ch. 1) and Ch. 6–7 (secondary reactions and bear market legs). The rest of the book was not read |
 

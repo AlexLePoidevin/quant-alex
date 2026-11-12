@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (NYU Courant Institute), Peter Laurence (Università di Roma 1) |
 | **Year** | 2011 (*Mathematical Finance* 21(1)); the local copy is the 2 March 2009 working version |
 | **Type** | Paper, 43pp |
-| **PDF** | Local copy only (journal paper, no open licence) |
+| **PDF** | Not hosted in this repository (journal paper, no open licence) |
+| **Find it** | [doi.org/10.1111/j.1467-9965.2010.00422.x](https://doi.org/10.1111/j.1467-9965.2010.00422.x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Multi-asset+Stochastic+Local+Variance+Contracts%22+Carr) |
 | **BibTeX** | `carr2011multiasset` |
 | **Status** | Reference: §1 (motivation and summary of results), §2 (basket calls to joint density) and §4.2 (why the multi-asset case is harder) carry the ideas; the appendices are the proofs |
 

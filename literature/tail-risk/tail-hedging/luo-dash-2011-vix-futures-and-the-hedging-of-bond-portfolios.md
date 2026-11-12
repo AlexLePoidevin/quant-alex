@@ -5,7 +5,8 @@
 | **Authors** | Frank Luo and Srikant Dash (S&P Indices, Index Research & Design) |
 | **Year** | 2011 (December 2011) |
 | **Type** | Index provider research paper, 20pp. Data: December 2005 – August 2011 (municipal bonds from August 2007) |
-| **PDF** | Local copy only (S&P copyright; redistribution prohibited) |
+| **PDF** | Not hosted in this repository (S&P copyright; redistribution prohibited) |
+| **Find it** | [doi.org/10.2139/ssrn.1980875](https://doi.org/10.2139/ssrn.1980875) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22VIX+Futures+and+the+Hedging+of+Bond+Portfolios%22+Luo) |
 | **BibTeX** | `luo2011vixbonds` |
 | **Status** | Reference: Exhibit 1 (co-movement), Exhibits 12–14 (worst days) and Exhibits 17, 19 and 21 (allocations) carry the results |
 

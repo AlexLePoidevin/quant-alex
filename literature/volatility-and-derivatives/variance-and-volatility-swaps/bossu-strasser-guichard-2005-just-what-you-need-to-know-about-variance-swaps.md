@@ -5,7 +5,8 @@
 | **Authors** | Sébastien Bossu; Eva Strasser; Régis Guichard (JPMorgan, London: Equity Derivatives Investor Marketing and Quantitative Research & Development) |
 | **Year** | 2005 (first published February 2005; this version May 2005) |
 | **Type** | Bank research note, 30pp. A condensed version appeared as Bossu, "Introduction to Variance Swaps", *Wilmott Magazine*, March 2006 (written at Dresdner Kleinwort Wasserstein) |
-| **PDF** | Local copy only (JPMorgan copyright, "All rights reserved") |
+| **PDF** | Not hosted in this repository (JPMorgan copyright, "All rights reserved") |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Just+What+You+Need+to+Know+About+Variance+Swaps%22+Bossu) for the title and authors |
 | **BibTeX** | `bossu2005variance` |
 | **Status** | Reference: §1 (contract, rules of thumb, uses, mark-to-market) and §2 (why a delta-hedged option is a gamma-weighted variance swap, and the 1/K² replication) carry the content; §3 adds the dividend and jump corrections |
 

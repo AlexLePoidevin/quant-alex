@@ -6,6 +6,7 @@
 | **Year** | 2023 (20 November) |
 | **Type** | Working paper — SSRN 4633601 |
 | **Link** | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4633601 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Balance+Between+Growth+and+Dividend%3A+Dividend+%26+Growth+Allocation+%28DGA%29%22+Choi) for the title and authors |
 | **Also** | [Allocate Smartly](https://allocatesmartly.com/chois-dividend-growth-allocation/) |
 | **BibTeX** | `choi2023dga` |
 | **Status** | Rules verified, backtested |

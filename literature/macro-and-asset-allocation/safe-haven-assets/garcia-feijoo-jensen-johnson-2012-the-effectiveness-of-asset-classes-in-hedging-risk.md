@@ -5,7 +5,8 @@
 | **Authors** | Luis Garcia-Feijoo (Florida Atlantic University), Gerald R. Jensen (Northern Illinois University), Robert R. Johnson |
 | **Year** | 2012 (*Journal of Portfolio Management* 38(3), 40–55, Spring 2012) |
 | **Type** | Journal article, 16pp. Monthly total returns, January 1970 – December 2010 |
-| **PDF** | Local copy only (JPM download, Institutional Investor copyright) |
+| **PDF** | Not hosted in this repository (JPM download, Institutional Investor copyright) |
+| **Find it** | [doi.org/10.3905/jpm.2012.38.3.040](https://doi.org/10.3905/jpm.2012.38.3.040) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Effectiveness+of+Asset+Classes+in+Hedging+Risk%22+Garcia-Feijoo) |
 | **BibTeX** | `garciafeijoo2012hedging` |
 | **Status** | Reference: Exhibits 4–5 (extreme equity months), 6–7 (extreme bond months) and 9 (inflationary environments) carry the results |
 

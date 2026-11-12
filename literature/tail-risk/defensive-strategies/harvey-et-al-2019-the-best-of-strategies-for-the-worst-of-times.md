@@ -5,7 +5,8 @@
 | **Authors** | Campbell R. Harvey, Edward Hoyle, Sandy Rattray, Matthew Sargaison, Dan Taylor, Otto Van Hemert (Man Group; Harvey also at Duke) |
 | **Year** | 2019 (version dated 17 May 2019) |
 | **Type** | Paper. SSRN 3383173, 26pp; published in *Journal of Portfolio Management* 45(5), 7–28 (2019). Data 1985–2018 |
-| **PDF** | Local copy only (SSRN download of a Man Group working paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download of a Man Group working paper; no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2019.45.5.007](https://doi.org/10.3905/jpm.2019.45.5.007) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Best+of+Strategies+for+the+Worst+of+Times%3A+Can+Portfolios+be+Crisis+Proofed%3F%22+Harvey) |
 | **BibTeX** | `harvey2019worst` |
 | **Status** | Reference: Tables 1–2 (each hedge in the eight drawdowns and three recessions), §3–4 (trend and quality) and Table 10 (portfolio simulation) carry the results |
 

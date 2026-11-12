@@ -5,7 +5,8 @@
 | **Authors** | Anna Cieslak (Duke Fuqua), Annette Vissing-Jorgensen (UC Berkeley Haas) |
 | **Year** | 2021 (*Review of Financial Studies* 34(9), 4045–4089; online October 2020) |
 | **Type** | Journal article, 45pp. FOMC meetings 1982–2016, Greenbook forecasts, textual analysis of minutes and transcripts |
-| **PDF** | Local copy only (published RFS version, Oxford University Press, all rights reserved) |
+| **PDF** | Not hosted in this repository (published RFS version, Oxford University Press, all rights reserved) |
+| **Find it** | [doi.org/10.1093/rfs/hhaa116](https://doi.org/10.1093/rfs/hhaa116) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Economics+of+the+Fed+Put%22+Cieslak) |
 | **BibTeX** | `cieslak2021fedput` |
 | **Status** | Reference: §2 (stock returns predict Fed growth downgrades and cuts), §3–4 (textual analysis: does the Fed watch the market, and why) and §6 (moral hazard) carry the paper |
 

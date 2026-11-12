@@ -5,7 +5,8 @@
 | **Authors** | Qiang Ji (Chinese Academy of Sciences), Dayong Zhang (Southwestern University of Finance and Economics), Yuqian Zhao (University of Essex) |
 | **Year** | 2020 |
 | **Type** | Working paper, SSRN 3602780, 27pp. Published as *International Review of Financial Analysis* 71 (2020), 101526 |
-| **PDF** | Local copy only (SSRN preprint; the journal version is Elsevier, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN preprint; the journal version is Elsevier, no open licence) |
+| **Find it** | [doi.org/10.1016/j.irfa.2020.101526](https://doi.org/10.1016/j.irfa.2020.101526) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Searching+for+Safe-Haven+Assets+During+the+COVID-19+Pandemic%22+Ji) |
 | **BibTeX** | `ji2020safehaven` |
 | **Status** | Reference: §3 (the two tests), Tables 2–3 (tail changes for single assets and two-asset portfolios) and Table 4 / Figure 5 (cross-quantilograms) carry the results |
 

@@ -6,6 +6,7 @@
 | **Year** | Not established |
 | **Type** | Practitioner blog post — InsiderFinance Wire (Medium publication) |
 | **Link** | https://wire.insiderfinance.io/understanding-volatility-drag-a-stochastic-approach-to-leveraged-investing-0561a623c00b |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Understanding+Volatility+Drag%3A+A+Stochastic+Approach+to+Leveraged+Investing%22+below) for the title and authors |
 | **BibTeX** | `insiderfinance_voldrag` |
 | **Status** | **To read — not retrieved** |
 

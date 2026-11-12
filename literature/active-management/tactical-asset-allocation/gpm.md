@@ -5,6 +5,7 @@
 | **Authors** | Jan Willem Keuning; Wouter J. Keller |
 | **Published** | Documented by [Allocate Smartly](https://allocatesmartly.com/keuning-kellers-generalized-protective-momentum/); metric derived at [TrendXplorer](https://indexswingtrader.blogspot.com/2016/06/deciphering-correlation-hedged-momentum.html) |
 | **Type** | Practitioner strategy, rules public |
+| **Find it** | [allocatesmartly.com](https://allocatesmartly.com/keuning-kellers-generalized-protective-momentum/) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Generalized+Protective+Momentum+%28GPM%29%22+Keuning) |
 | **BibTeX** | `allocatesmartly_gpm`, `trendxplorer2016corrhedged` |
 | **Status** | Reconstructed and backtested |
 

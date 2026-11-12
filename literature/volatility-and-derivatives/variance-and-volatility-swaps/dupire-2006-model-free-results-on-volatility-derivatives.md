@@ -5,7 +5,8 @@
 | **Authors** | Bruno Dupire (Bloomberg NY) |
 | **Year** | 2006 (talk at SAMSI, Research Triangle Park, 27 February 2006) |
 | **Type** | Slides, 41pp |
-| **PDF** | Local copy only (conference slides, no licence) |
+| **PDF** | Not hosted in this repository (conference slides, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Model+Free+Results+on+Volatility+Derivatives%22+Dupire) for the title and authors |
 | **BibTeX** | `dupire2006modelfree` |
 | **Status** | Reference: part I (VIX futures pricing) and part III (lower bound on variance calls) carry the results; the slides have little text, so read them with [[demeterfi-et-al-1999-more-than-you-ever-wanted-to-know-about-volatility-swaps]] for the background |
 

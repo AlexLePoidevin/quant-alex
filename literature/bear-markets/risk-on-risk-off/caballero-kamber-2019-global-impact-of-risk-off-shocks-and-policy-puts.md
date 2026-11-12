@@ -5,7 +5,8 @@
 | **Authors** | Ricardo J. Caballero (MIT; NBER), Gunes Kamber (BIS; Reserve Bank of New Zealand) |
 | **Year** | 2019 (March 2019; first draft February 2018) |
 | **Type** | BIS Working Paper No. 772, also SSRN 3349510 and NBER w26031, 57pp. Structural VARs on weekly data, about 1999–2017 |
-| **PDF** | Local copy only (BIS working paper, no open licence) |
+| **PDF** | Not hosted in this repository (BIS working paper, no open licence) |
+| **Find it** | [doi.org/10.3386/w26031](https://doi.org/10.3386/w26031) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22On+the+Global+Impact+of+Risk-off+Shocks+and+Policy-put+Frameworks%22+Caballero) |
 | **BibTeX** | `caballero2019riskoff` |
 | **Status** | Reference: the ten numbered claims in §1, §3 (US and other developed markets) and §4 (emerging markets) carry the evidence |
 

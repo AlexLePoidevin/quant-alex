@@ -7,6 +7,7 @@
 | **Type** | Practitioner note — advisor-facing, not peer reviewed |
 | **BibTeX** | `returnstacked2025rebalance` |
 | **Link** | https://www.returnstacked.com/the-rebalance-drag-myth-in-leveraged-etfs-what-advisors-need-to-know/ |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+%22Rebalance+Drag%22+Myth+in+Leveraged+ETFs%3A+What+Advisors+Need+to+Know%22+Solutions) for the title and authors |
 | **Status** | Read |
 
 ## Key takeaway

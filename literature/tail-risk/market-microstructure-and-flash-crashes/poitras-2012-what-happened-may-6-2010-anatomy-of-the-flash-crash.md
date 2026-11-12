@@ -5,7 +5,8 @@
 | **Authors** | Geoffrey Poitras (Simon Fraser University) |
 | **Year** | 2012 (chapter 11 of Poitras (ed.), *Handbook of Research on Stock Market Globalization*, Edward Elgar) |
 | **Type** | Book chapter; this copy is the author's manuscript, 36pp |
-| **PDF** | Local copy only (book chapter, publisher copyright) |
+| **PDF** | Not hosted in this repository (book chapter, publisher copyright) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22What+Happened+May+6%2C+2010%3F+Anatomy+of+the+Flash+Crash%22+Poitras) for the title and authors |
 | **BibTeX** | `poitras2012flash` |
 | **Status** | Reference: §1 (the events), §3 (HFT on the day) and §4 (the short-selling argument) |
 

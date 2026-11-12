@@ -6,6 +6,7 @@
 | **Year** | Living page; read at revision 1380044807 (accessed 2026-10-14) |
 | **Type** | Encyclopedia article |
 | **Link** | https://en.wikipedia.org/wiki/Copula_(statistics) — pinned: https://en.wikipedia.org/w/index.php?title=Copula_(statistics)&oldid=1380044807 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Copula+%28statistics%29+%E2%80%94+Wikipedia%22+contributors) for the title and authors |
 | **BibTeX** | `wiki_copula_statistics` |
 | **Status** | Reference card — cite [[nelsen-2006-introduction-to-copulas]] for anything load-bearing |
 

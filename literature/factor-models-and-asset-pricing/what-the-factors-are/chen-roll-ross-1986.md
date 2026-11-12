@@ -5,6 +5,7 @@
 | **Authors** | Nai-Fu Chen; Richard Roll; Stephen A. Ross |
 | **Year** | 1986 |
 | **Type** | Paper — *Journal of Business* 59(3), 383–403 |
+| **Find it** | [doi.org/10.1086/296344](https://doi.org/10.1086/296344) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Economic+Forces+and+the+Stock+Market%22+Chen) |
 | **BibTeX** | `chen1986economic` |
 | **Status** | To read |
 

@@ -5,7 +5,8 @@
 | **Authors** | Unsigned. Attributed to Steve Allen (NYU Courant risk-management course): the text and the named Excel workbooks match the "Managing Exotic Options Risk" chapter of his *Financial Risk Management* (Wiley) |
 | **Year** | 2001 (Word file dated January 2001) |
 | **Type** | Course notes, 21pp |
-| **PDF** | Local copy only (course handout with no licence) |
+| **PDF** | Not hosted in this repository (course handout with no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Managing+Options+Risk+for+Exotic+Options%22+Allen) for the title and authors |
 | **BibTeX** | `allen2001exotic` |
 | **Status** | Reference: the binary-option reserve example, the barrier comparison table and the Carr static hedge carry the content |
 

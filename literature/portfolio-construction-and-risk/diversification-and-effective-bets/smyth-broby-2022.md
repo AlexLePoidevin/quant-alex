@@ -7,6 +7,7 @@
 | **Type** | Paper — *Quantitative Finance* 23(3), 521–537. Open access, CC BY-NC-ND |
 | **DOI** | [10.1080/14697688.2022.2149420](https://doi.org/10.1080/14697688.2022.2149420) |
 | **PDF** | https://pure.ulster.ac.uk/ws/portalfiles/portal/110078520/An_eigenvalue_distribution.pdf |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22An+eigenvalue+distribution+derived+%27Stability+Measure%27+for+evaluating+Minimum+Variance+portfolios%22+Smyth) for the title and authors |
 | **BibTeX** | `smyth2022eigenvalue` |
 | **Status** | Read |
 

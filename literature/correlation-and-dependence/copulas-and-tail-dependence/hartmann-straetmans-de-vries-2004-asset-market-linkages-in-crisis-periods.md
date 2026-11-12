@@ -5,7 +5,8 @@
 | **Authors** | Philipp Hartmann (ECB), Stefan Straetmans (Maastricht), Casper G. de Vries (Erasmus Rotterdam) |
 | **Year** | 2004 |
 | **Type** | Journal article, *Review of Economics and Statistics* 86(1), 313–326. Weekly G-5 stock and government bond index returns, 1987–1999. An earlier version circulated as an ECB working paper (2001) |
-| **PDF** | Local copy only (published version, © President and Fellows of Harvard College and MIT) |
+| **PDF** | Not hosted in this repository (published version, © President and Fellows of Harvard College and MIT) |
+| **Find it** | [doi.org/10.1162/003465304323023831](https://doi.org/10.1162/003465304323023831) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Asset+Market+Linkages+in+Crisis+Periods%22+Hartmann) |
 | **BibTeX** | `hartmann2004linkages` |
 | **Status** | Reference: §II (the linkage measure), Tables 1–3 and §VI carry the argument; the copy is an image scan |
 

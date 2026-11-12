@@ -5,7 +5,8 @@
 | **Authors** | Daniele Bianchi (Queen Mary University of London); Matthias Büchner (Warwick Business School); Andrea Tamoni (Rutgers) |
 | **Year** | 2021 (published as "Bond Risk Premiums with Machine Learning", *Review of Financial Studies* 34(2), 1046–1089, doi 10.1093/rfs/hhaa062); this copy is the working-paper draft of 6 April 2020 |
 | **Type** | Paper, 86pp including appendices. US Treasury data August 1971 to December 2018; out-of-sample forecasts from January 1990 |
-| **PDF** | Local copy only (working paper of a journal article, no open licence) |
+| **PDF** | Not hosted in this repository (working paper of a journal article, no open licence) |
+| **Find it** | [doi.org/10.1093/rfs/hhaa062](https://doi.org/10.1093/rfs/hhaa062) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Bond+Risk+Premia+with+Machine+Learning%22+Bianchi) |
 | **BibTeX** | `bianchi2021bond` |
 | **Status** | Reference: Tables 1–2 (out-of-sample R²), Table 5 (certainty-equivalent gains) and §7 (what the forecasts correlate with) carry the results |
 

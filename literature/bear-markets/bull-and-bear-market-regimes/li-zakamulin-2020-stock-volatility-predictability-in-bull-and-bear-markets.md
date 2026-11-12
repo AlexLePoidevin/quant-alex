@@ -5,7 +5,8 @@
 | **Authors** | Xingyi Li and Valeriy Zakamulin (University of Agder) |
 | **Year** | 2020 (working paper dated April 2019) |
 | **Type** | Journal article, *Quantitative Finance* 20(7), 1149–1167 (doi 10.1080/14697688.2020.1725101). The copy is the SSRN working paper (3370828), 35pp. Five-minute prices on 31 Dow stocks, 1998–2016 |
-| **PDF** | Local copy only (SSRN version of a Taylor & Francis article, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN version of a Taylor & Francis article, no open licence) |
+| **Find it** | [doi.org/10.1080/14697688.2020.1725101](https://doi.org/10.1080/14697688.2020.1725101) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stock+Volatility+Predictability+in+Bull+and+Bear+Markets%22+Li) |
 | **BibTeX** | `li2020volbullbear` |
 | **Status** | Reference: §2.2 (dating bull and bear markets), §3 and the conclusions carry the results |
 

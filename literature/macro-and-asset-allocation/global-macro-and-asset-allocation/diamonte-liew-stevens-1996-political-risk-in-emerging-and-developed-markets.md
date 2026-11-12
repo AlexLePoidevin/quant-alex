@@ -5,7 +5,8 @@
 | **Authors** | Robin L. Diamonte (GTE Investment Management), John M. Liew and Ross L. Stevens (Goldman Sachs Asset Management) |
 | **Year** | 1996 |
 | **Type** | Journal article, *Financial Analysts Journal* 52(3), May/June 1996, 71–76 |
-| **PDF** | Local copy only (CFA Institute copyright, reproduced by AQR with permission; all rights reserved) |
+| **PDF** | Not hosted in this repository (CFA Institute copyright, reproduced by AQR with permission; all rights reserved) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Political+Risk+in+Emerging+and+Developed+Markets%22+Diamonte) for the title and authors |
 | **BibTeX** | `diamonte1996political` |
 | **Status** | Reference: Table 2 (upgrade minus downgrade portfolios) and Table 3 (emerging minus developed) carry the result; 6pp |
 

@@ -5,7 +5,8 @@
 | **Authors** | Campbell R. Harvey, Edward Hoyle, Russell Korgaonkar, Sandy Rattray, Matthew Sargaison, Otto Van Hemert (Man Group; Harvey also at Duke) |
 | **Year** | 2018 (version dated 25 June 2018) |
 | **Type** | Paper. SSRN 3175538, 28pp; published in *Journal of Portfolio Management* 45(1), 14–33 (2018). Daily data from 1926 for US equities and bonds, 1988–2017 for 50+ futures |
-| **PDF** | Local copy only (SSRN download of a Man Group working paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download of a Man Group working paper; no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2018.45.1.014](https://doi.org/10.3905/jpm.2018.45.1.014) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Impact+of+Volatility+Targeting%22+Harvey) |
 | **BibTeX** | `harvey2018voltarget` |
 | **Status** | Reference: §2 (US equities since 1926), §4 (60+ assets), §5 (balanced and risk parity) and §6 (the leverage-effect explanation) |
 

@@ -5,6 +5,7 @@
 | **Authors** | Jean-Philippe Bouchaud; Marc Potters |
 | **Year** | 2009 |
 | **Type** | Review — arXiv:0910.1205 |
+| **Find it** | [arXiv:0910.1205](https://arxiv.org/abs/0910.1205) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Financial+Applications+of+Random+Matrix+Theory%3A+A+Short+Review%22+Bouchaud) |
 | **BibTeX** | `bouchaud2009financial` |
 | **Status** | To read |
 

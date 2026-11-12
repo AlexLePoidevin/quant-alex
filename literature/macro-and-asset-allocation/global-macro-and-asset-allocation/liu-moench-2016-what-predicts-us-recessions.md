@@ -5,7 +5,8 @@
 | **Authors** | Weiling Liu (Harvard Business School), Emanuel Moench (Deutsche Bundesbank) |
 | **Year** | 2016 |
 | **Type** | Journal article, *International Journal of Forecasting* 32(4), 1138–1150. Monthly US data, January 1959 – December 2011 |
-| **PDF** | Local copy only (Elsevier) |
+| **PDF** | Not hosted in this repository (Elsevier) |
+| **Find it** | [doi.org/10.1016/j.ijforecast.2016.02.007](https://doi.org/10.1016/j.ijforecast.2016.02.007) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22What+Predicts+US+Recessions%3F%22+Liu) |
 | **BibTeX** | `liu2016recessions` |
 | **Status** | Reference: §2.2 (the ROC method) and §4 (in- and out-of-sample results) carry the paper |
 

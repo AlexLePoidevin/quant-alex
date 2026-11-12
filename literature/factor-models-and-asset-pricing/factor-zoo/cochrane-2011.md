@@ -5,6 +5,7 @@
 | **Authors** | John H. Cochrane |
 | **Year** | 2011 |
 | **Type** | Paper — *Journal of Finance* 66(4), 1047–1108 |
+| **Find it** | [doi.org/10.1111/j.1540-6261.2011.01671.x](https://doi.org/10.1111/j.1540-6261.2011.01671.x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Presidential+Address%3A+Discount+Rates%22+Cochrane) |
 | **BibTeX** | `cochrane2011discount` |
 | **Status** | To read |
 

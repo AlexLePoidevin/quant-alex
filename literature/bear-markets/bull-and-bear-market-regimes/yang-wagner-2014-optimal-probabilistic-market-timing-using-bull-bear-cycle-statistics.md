@@ -5,7 +5,8 @@
 | **Authors** | Z. George Yang and Jerry C. Wagner (Flexible Plan Investments) |
 | **Year** | 2014 |
 | **Type** | Working paper, SSRN 2453507 (doi 10.2139/ssrn.2453507), 46pp |
-| **PDF** | Local copy only (SSRN download; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download; no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2453507](https://doi.org/10.2139/ssrn.2453507) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Optimal+Probabilistic+Market+Timing+Using+Bull+Bear+Cycle+Statistics%22+Yang) |
 | **BibTeX** | `yang2014probabilistic` |
 | **Status** | Reference: the cycle-dating procedure (Exhibit 1–2), the threshold formulas (Eq. 3–4), Tables 3–8 (in-sample tests), Tables 11–12 (long/flat/short) and Table 14 (out-of-sample, 1940–2014) carry the results |
 

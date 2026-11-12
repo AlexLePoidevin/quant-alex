@@ -5,6 +5,7 @@
 | **Authors** | Shihao Gu; Bryan Kelly; Dacheng Xiu |
 | **Year** | 2021 |
 | **Type** | Paper — *Journal of Econometrics* 222(1), 429–450 |
+| **Find it** | [doi.org/10.2139/ssrn.3335536](https://doi.org/10.2139/ssrn.3335536) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Autoencoder+Asset+Pricing+Models%22+Gu) |
 | **BibTeX** | `gu2021autoencoder` |
 | **Status** | To read |
 

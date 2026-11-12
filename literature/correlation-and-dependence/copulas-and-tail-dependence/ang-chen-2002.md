@@ -5,6 +5,7 @@
 | **Authors** | Andrew Ang; Joseph Chen |
 | **Year** | 2002 |
 | **Type** | Paper — *Journal of Financial Economics* 63(3), 443–494 |
+| **Find it** | [doi.org/10.2139/ssrn.219495](https://doi.org/10.2139/ssrn.219495) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Asymmetric+Correlations+of+Equity+Portfolios%22+Ang) |
 | **BibTeX** | `ang2002asymmetric` |
 | **Status** | To read |
 

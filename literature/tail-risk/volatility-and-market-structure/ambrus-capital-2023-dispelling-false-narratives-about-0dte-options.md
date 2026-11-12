@@ -5,7 +5,8 @@
 | **Authors** | The Ambrus Group (Ambrus Capital); no individual author named |
 | **Year** | 2023 (undated; OPRA data run from January 2022 to March 2023, backtests to about May 2023) |
 | **Type** | Manager white paper, 10pp |
-| **PDF** | Local copy only (manager material marked confidential, no licence) |
+| **PDF** | Not hosted in this repository (manager material marked confidential, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Dispelling+False+Narratives+About+0DTE+Options%22+Group) for the title and authors |
 | **BibTeX** | `ambrus2023zerodte` |
 | **Status** | Reference: the flow analysis and the October 13, 2022 example carry the argument; the classification method is not disclosed |
 

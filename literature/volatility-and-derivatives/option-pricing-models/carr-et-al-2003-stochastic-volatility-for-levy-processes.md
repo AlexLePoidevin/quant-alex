@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Hélyette Geman, Dilip B. Madan, Marc Yor |
 | **Year** | 2003 (working paper dated 16 April 2001; published in *Mathematical Finance* 13(3), 2003) |
 | **Type** | Paper, 35pp (working-paper version) |
-| **PDF** | Local copy only (pre-publication draft, no open licence) |
+| **PDF** | Not hosted in this repository (pre-publication draft, no open licence) |
+| **Find it** | [doi.org/10.1111/1467-9965.00020](https://doi.org/10.1111/1467-9965.00020) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stochastic+Volatility+for+L%C3%A9vy+Processes%22+Carr) |
 | **BibTeX** | `carr2003svlevy` |
 | **Status** | Reference: §1 (motivation), §3–4 (the time change and characteristic functions), §7 (estimation results) and §8 (comparison with jump-diffusions); §5 on martingale marginals is theory |
 

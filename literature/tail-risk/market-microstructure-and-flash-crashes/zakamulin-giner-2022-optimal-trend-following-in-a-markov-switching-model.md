@@ -5,7 +5,8 @@
 | **Authors** | Valeriy Zakamulin (University of Agder); Javier Giner (University of La Laguna) |
 | **Year** | 2022 (version dated 25 April 2022) |
 | **Type** | Working paper, SSRN 4092437, 12pp |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Optimal+Trend-Following+in+a+Markov+Switching+Model%22+Zakamulin) for the title and authors |
 | **BibTeX** | `zakamulin2022trend` |
 | **Status** | Reference: §4 (the derivation), §5 (the S&P 500 estimate) and §6 (comparative statics) are the whole paper |
 

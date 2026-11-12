@@ -5,7 +5,8 @@
 | **Authors** | Abhilash Babu, Brendan Hoffman, Ari Levine, Yao Hua Ooi, Sarah Schroeder, Erik Stamelos (AQR Capital Management) |
 | **Year** | 2020 (working paper 2019) |
 | **Type** | Paper. SSRN 3487134, 27pp; published in *Journal of Portfolio Management* 46(4), 52–68 (2020). Hypothetical trend strategy on 67 futures markets, 1880–2018 |
-| **PDF** | Local copy only (SSRN download of an AQR paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download of an AQR paper; no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2020.1.133](https://doi.org/10.3905/jpm.2020.1.133) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22You+Can%27t+Always+Trend+When+You+Want%22+Babu) |
 | **BibTeX** | `babu2020trend` |
 | **Status** | Reference: read in full. The decomposition (Equations 1–2), Exhibits 3–8 and Appendix C carry the argument |
 

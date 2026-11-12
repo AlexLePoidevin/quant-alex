@@ -6,6 +6,7 @@
 | **Year** | 2025 |
 | **Type** | Blog post — Qognitive, 22 July 2025. Not peer-reviewed |
 | **Link** | [qognitiveai.com/blog/tree-benchmarks](https://www.qognitiveai.com/blog/tree-benchmarks/) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Breaking+the+Curse+of+Dimensionality%3A+QCML+vs.+Tree-Based+Models%22+Candelori) for the title and authors |
 | **BibTeX** | `candelori2025trees` |
 | **Status** | Reference — short; read alongside the linear-baseline check below |
 

@@ -5,7 +5,8 @@
 | **Authors** | Dominic Burkhardt, Henrik Hasseltoft (University of Zurich and Swiss Finance Institute) |
 | **Year** | 2012 (September draft; first draft January 2009) |
 | **Type** | Working paper, Swiss Finance Institute Research Paper No. 12-38 (SSRN 1879855), 64pp. US quarterly data, 1965–2011 (some series from the 1930s) |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.1879855](https://doi.org/10.2139/ssrn.1879855) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Understanding+Asset+Correlations%22+Burkhardt) |
 | **BibTeX** | `burkhardt2012correlations` |
 | **Status** | Reference: §2–3 (empirics and regime-switching estimates), §6 (VAR) and the conclusion; the long-run-risk model in §4–5 skimmed |
 

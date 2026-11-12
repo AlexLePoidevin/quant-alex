@@ -5,6 +5,7 @@
 | **Authors** | Laura Molero González; Roy Cerqueti; Raffaele Mattera; Juan E. Trinidad Segovia |
 | **Year** | 2025 |
 | **Type** | Paper — *Chaos* 35, 093111 · [doi:10.1063/5.0289031](https://doi.org/10.1063/5.0289031) · CC BY |
+| **Find it** | [doi.org/10.1063/5.0289031](https://doi.org/10.1063/5.0289031) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Random+Matrix-Based+Informative+Content+of+Correlation+Matrices+in+Stock+Markets%22+Gonz%C3%A1lez) |
 | **BibTeX** | `molero2025informative` |
 | **Status** | Read |
 

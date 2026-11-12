@@ -5,7 +5,8 @@
 | **Authors** | Frido Rolloos (Aegon Asset Management), Melih Arslan (Deutsche Bank Securities) |
 | **Year** | 2015 (dated December 2015; SSRN 2702714) |
 | **Type** | Short note, 9pp |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Taylor-made+Volatility+Swaps%22+Rolloos) for the title and authors |
 | **BibTeX** | `rolloos2015taylor` |
 | **Status** | Reference: §5 (the derivation) and §6 (Table 1) are the whole result |
 

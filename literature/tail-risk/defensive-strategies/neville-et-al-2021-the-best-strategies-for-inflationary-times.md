@@ -5,7 +5,8 @@
 | **Authors** | Henry Neville, Teun Draaisma, Ben Funnell, Campbell R. Harvey, Otto Van Hemert (Man Group; Harvey also Duke) |
 | **Year** | 2021 (SSRN version of 25 May 2021); published in *The Journal of Portfolio Management* 47(8), 8–37 |
 | **Type** | Research paper, SSRN 3813202, 32pp. US data from 1926, plus the UK and Japan |
-| **PDF** | Local copy only (SSRN download; the published version is JPM copyright) |
+| **PDF** | Not hosted in this repository (SSRN download; the published version is JPM copyright) |
+| **Find it** | [doi.org/10.3905/jpm.2021.1.274](https://doi.org/10.3905/jpm.2021.1.274) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Best+Strategies+for+Inflationary+Times%22+Neville) |
 | **BibTeX** | `neville2021inflation` |
 | **Status** | Reference: Exhibit 2 (US summary), the regime definition, Exhibits 4–9 (equities, bonds, TIPS, commodities) and Exhibits 13–14 (equity factors and trend) |
 

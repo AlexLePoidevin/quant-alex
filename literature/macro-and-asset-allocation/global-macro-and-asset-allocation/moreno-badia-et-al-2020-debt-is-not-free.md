@@ -5,7 +5,8 @@
 | **Authors** | Marialuz Moreno Badia, Paulo Medas, Pranav Gupta, Yuan Xiang (IMF Fiscal Affairs Department) |
 | **Year** | 2020 (January) |
 | **Type** | IMF Working Paper WP/20/1, 68pp. Fiscal crises in 188 countries, 1980–2016 |
-| **PDF** | Local copy only (© International Monetary Fund, no open licence) |
+| **PDF** | Not hosted in this repository (© International Monetary Fund, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Debt+Is+Not+Free%22+Badia) for the title and authors |
 | **BibTeX** | `morenobadia2020debt` |
 | **Status** | Reference: §III (crisis definition and data), §IV–V (feature selection, variable importance, partial dependence) and Appendix 5 (out-of-sample design) carry the results |
 

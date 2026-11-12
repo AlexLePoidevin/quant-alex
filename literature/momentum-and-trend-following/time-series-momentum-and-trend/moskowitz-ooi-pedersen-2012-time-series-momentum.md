@@ -5,7 +5,8 @@
 | **Authors** | Tobias J. Moskowitz (Chicago Booth), Yao Hua Ooi (AQR), Lasse Heje Pedersen (NYU, CBS, AQR) |
 | **Year** | 2012 (Journal of Financial Economics 104(2), 228–250); this copy is the September 2011 working-paper version, Chicago Booth / IGM Working Paper No. 79 |
 | **Type** | Journal article (working-paper version), 62pp. 58 futures and forwards (24 commodities, 12 currency pairs, 9 equity indices, 13 government bonds), data from 1965, strategy results from 1985 to 2009 |
-| **PDF** | Local copy only (SSRN working paper of an Elsevier article, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper of an Elsevier article, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jfineco.2011.11.003](https://doi.org/10.1016/j.jfineco.2011.11.003) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Time+Series+Momentum%22+Moskowitz) |
 | **BibTeX** | `moskowitz2012tsmom` |
 | **Status** | Reference: §3 (predictability regressions and the 12-month strategy), §4 (alpha, extreme markets, correlations) and §5–6 (decomposition, speculator and hedger positions) carry the results |
 

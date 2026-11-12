@@ -5,7 +5,8 @@
 | **Authors** | Claude B. Erb; Campbell R. Harvey (Duke University and NBER) |
 | **Year** | 2013 (NBER Working Paper 18706, January 2013); published in *Financial Analysts Journal* 69(4), 10–42, 2013 |
 | **Type** | Empirical paper, 49pp. US data mostly January 1975 to March 2012, with longer series back to 1791 |
-| **PDF** | Local copy only (NBER working paper, © the authors) |
+| **PDF** | Not hosted in this repository (NBER working paper, © the authors) |
+| **Find it** | [doi.org/10.2469/faj.v69.n4.1](https://doi.org/10.2469/faj.v69.n4.1) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Golden+Dilemma%22+Erb) |
 | **BibTeX** | `erb2013dilemma` |
 | **Status** | Reference: §1 (inflation hedge, Exhibits 1–6), §3 (real yields, Exhibit 13), §4 (safe haven and hyperinflation) and §6 (supply, demand and official holdings) carry the argument |
 

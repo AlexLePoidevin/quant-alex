@@ -5,7 +5,8 @@
 | **Authors** | Min Dai (NUS), Zhou Yang (South China Normal University), Qing Zhang (University of Georgia), Qiji Jim Zhu (Western Michigan University) |
 | **Year** | 2016 (the copy is the SSRN 1630903 preprint; published in *Mathematics of Operations Research* 41(2), 626–642, 2016) |
 | **Type** | Paper, 20pp. Stochastic control theory, with a simulation and an S&P 500 test over 1972–2011 |
-| **PDF** | Local copy only (SSRN preprint of an INFORMS journal article) |
+| **PDF** | Not hosted in this repository (SSRN preprint of an INFORMS journal article) |
+| **Find it** | [doi.org/10.1287/moor.2015.0743](https://doi.org/10.1287/moor.2015.0743) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Optimal+Trend+Following+Trading+Rules%22+Dai) |
 | **BibTeX** | `dai2016trend` |
 | **Status** | Reference: §2 (set-up), Theorem 1 (the two-threshold rule) and §4 (simulations and market test) carry the result |
 

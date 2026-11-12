@@ -5,7 +5,8 @@
 | **Authors** | Niels J. Gormsen; Ralph S. J. Koijen (University of Chicago Booth) |
 | **Year** | 2020 (this version 3 August 2020; published *Review of Asset Pricing Studies* 10(4), 574–597) |
 | **Type** | Paper, 34pp. S&P 500, Euro Stoxx 50 and Nikkei 225 stock and dividend futures prices, 1 January to 20 July 2020, with a comparison to the 2008 crisis |
-| **PDF** | Local copy only (working-paper version of a journal article, no open licence) |
+| **PDF** | Not hosted in this repository (working-paper version of a journal article, no open licence) |
+| **Find it** | [doi.org/10.1093/rapstu/raaa013](https://doi.org/10.1093/rapstu/raaa013) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Coronavirus%3A+Impact+on+Stock+Prices+and+Growth+Expectations%22+Gormsen) |
 | **BibTeX** | `gormsen2020coronavirus` |
 | **Status** | Reference: §2–3 (dividend futures and the lower bound), §4 (GDP mapping) and §5 (splitting the stock-market fall into near and distant dividends) |
 

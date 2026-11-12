@@ -5,7 +5,8 @@
 | **Authors** | Nader Rahelan |
 | **Year** | 2019 (November working paper, SSRN 3479536) |
 | **Type** | Working paper, 16pp. AQR's daily equity factor data (market, BAB, SMB, HML, UMD, HML-devil) for 23 developed countries and regional portfolios, 1999–2019 |
-| **PDF** | Local copy only (SSRN working paper, no licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Taking+the+Stag+out+of+Stagflation%22+Rahelan) for the title and authors |
 | **BibTeX** | `rahelan2019stagflation` |
 | **Status** | Reference: Exhibits 1–3 (the factor trend strategy), Exhibit 11 (the regression that selects stagflation) and Exhibit 12 (the stagflation-conditioned strategy) carry the claims |
 

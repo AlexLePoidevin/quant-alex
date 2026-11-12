@@ -5,7 +5,8 @@
 | **Authors** | Marat Molyboga (Efficient Capital Management), Larry Swedroe (Buckingham), Junkai Qian (Illinois Institute of Technology; Efficient Capital) |
 | **Year** | 2020 |
 | **Type** | Journal article, *The Journal of Portfolio Management* 47(1), 154–167 (doi 10.3905/jpm.2020.1.186). The copy is the authors' review draft from ResearchGate, 15pp. Daily returns on 78 futures markets, 1984/85–2017 |
-| **PDF** | Local copy only (author draft of a JPM article, no open licence) |
+| **PDF** | Not hosted in this repository (author draft of a JPM article, no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2020.1.186](https://doi.org/10.3905/jpm.2020.1.186) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Short-Term+Trend%3A+A+Jewel+Hidden+in+Daily+Returns%22+Molyboga) |
 | **BibTeX** | `molyboga2020shortterm` |
 | **Status** | Reference: the introduction states every headline number; the portfolio and transaction-cost section is the one that matters |
 

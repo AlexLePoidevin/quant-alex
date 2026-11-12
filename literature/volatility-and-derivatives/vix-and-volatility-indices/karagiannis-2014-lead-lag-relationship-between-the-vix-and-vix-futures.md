@@ -5,7 +5,8 @@
 | **Authors** | Sotirios Karagiannis (University of Peloponnese) |
 | **Year** | 2014 (*Journal of Science, Innovation and New Technology* 1(11), November 2014, pp. 42–52; earlier SSRN 2498081). The source file is labelled 2019 |
 | **Type** | Journal article, 11pp. Daily data, 26 March 2004 – 16 April 2012 (2,029 days) |
-| **PDF** | Local copy only (journal copy, no open licence) |
+| **PDF** | Not hosted in this repository (journal copy, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22An+Investigation+of+the+Lead-Lag+Relationship+between+the+VIX+Index+and+the+VIX+Futures+on+the+S%26P+500%22+Karagiannis) for the title and authors |
 | **BibTeX** | `karagiannis2014vix` |
 | **Status** | Reference: §4 (Johansen test, VECM, Granger causality) carries the result |
 

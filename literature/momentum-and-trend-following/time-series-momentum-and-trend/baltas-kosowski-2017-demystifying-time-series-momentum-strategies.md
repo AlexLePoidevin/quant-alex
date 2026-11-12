@@ -5,7 +5,8 @@
 | **Authors** | Nick Baltas (UBS; Imperial College); Robert Kosowski (Imperial College; Oxford-Man Institute) |
 | **Year** | 2017 (book chapter); the copy is the working paper dated 1 October 2015, earlier circulated as "Improving Time-Series Momentum Strategies" (SSRN 2140091) |
 | **Type** | Book chapter, ch. 3 in *Market Momentum: Theory and Practice*, ed. S. Satchell and A. Grant (Wiley), pp. 30–67. Doi 10.1002/9781119599364.ch3. 75 futures contracts, December 1974 to February 2013 |
-| **PDF** | Local copy only (SSRN working paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper; no open licence) |
+| **Find it** | [doi.org/10.1002/9781119599364.ch3](https://doi.org/10.1002/9781119599364.ch3) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Demystifying+Time-Series+Momentum+Strategies%3A+Volatility+Estimators%2C+Trading+Rules+and+Pairwise+Correlations%22+Baltas) |
 | **BibTeX** | `baltas2017demystifying` |
 | **Status** | Reference: Tables II–III (volatility estimator and trading rule), §5 (correlation adjustment) and Table V (after costs) |
 

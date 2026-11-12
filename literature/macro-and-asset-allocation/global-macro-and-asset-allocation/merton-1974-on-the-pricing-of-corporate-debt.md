@@ -5,7 +5,8 @@
 | **Authors** | Robert C. Merton (MIT) |
 | **Year** | 1974 |
 | **Type** | Journal article, *Journal of Finance* 29(2), 449–470 (AFA Papers and Proceedings), 22pp. Theory |
-| **PDF** | Local copy only (JSTOR copy of the Wiley/AFA article) |
+| **PDF** | Not hosted in this repository (JSTOR copy of the Wiley/AFA article) |
+| **Find it** | [doi.org/10.1111/j.1540-6261.1974.tb03058.x](https://doi.org/10.1111/j.1540-6261.1974.tb03058.x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22On+the+Pricing+of+Corporate+Debt%3A+The+Risk+Structure+of+Interest+Rates%22+Merton) |
 | **BibTeX** | `merton1974pricing` |
 | **Status** | Reference: §II (the pricing equation), §III (the discount bond and equity-as-a-call), §V (debt risk relative to firm risk) |
 

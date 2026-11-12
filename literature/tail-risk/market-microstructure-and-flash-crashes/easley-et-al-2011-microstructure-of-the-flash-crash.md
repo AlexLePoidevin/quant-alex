@@ -5,7 +5,8 @@
 | **Authors** | David Easley, Marcos López de Prado, Maureen O'Hara |
 | **Year** | 2011 |
 | **Type** | Journal article, *The Journal of Portfolio Management* 37(2), Winter 2011, pp. 118–128 |
-| **PDF** | Local copy only (publisher download, © Pageant Media) |
+| **PDF** | Not hosted in this repository (publisher download, © Pageant Media) |
+| **Find it** | [doi.org/10.3905/jpm.2011.37.2.118](https://doi.org/10.3905/jpm.2011.37.2.118) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Microstructure+of+the+%22Flash+Crash%22%3A+Flow+Toxicity%2C+Liquidity+Crashes%2C+and+the+Probability+of+Informed+Trading%22+Easley) |
 | **BibTeX** | `easley2011flash` |
 | **Status** | Reference: the whole article is short; Exhibits 5–8 carry the evidence |
 

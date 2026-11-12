@@ -5,7 +5,8 @@
 | **Authors** | Abhilash Babu, Ari Levine, Yao Hua Ooi, Erik Stamelos (AQR) and Lasse Heje Pedersen (AQR, Copenhagen Business School, NYU) |
 | **Year** | 2020 (Journal of Investment Management); this copy is the working paper marked "forthcoming Journal of Investment Management" (SSRN 3386035) |
 | **Type** | Journal article (working-paper version), 26pp. 12-month time-series momentum on 156 assets and factors, January 1985 to December 2017 |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3386035](https://doi.org/10.2139/ssrn.3386035) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Trends+Everywhere%22+Babu) |
 | **BibTeX** | `babu2020trends` |
 | **Status** | Reference: Table 2 (performance by group), Figure 1 (predictability regressions), Table 3 (alpha over passive volatility-scaled portfolios) carry the results |
 

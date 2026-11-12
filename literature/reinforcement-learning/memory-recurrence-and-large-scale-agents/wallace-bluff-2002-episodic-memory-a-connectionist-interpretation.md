@@ -6,6 +6,7 @@
 | **Year** | 2002 |
 | **Type** | Conference paper — in J.R. Dorronsoro (ed.), *Artificial Neural Networks — ICANN 2002*, Lecture Notes in Computer Science 2415, pp. 265–270, Springer. 6pp |
 | **Link** | https://doi.org/10.1007/3-540-46084-5_44 (Springer; no PDF filed here for copyright reasons) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Episodic+Memory%3A+A+Connectionist+Interpretation%22+Wallace) for the title and authors |
 | **BibTeX** | `wallace2002episodic` |
 | **Status** | Reference — a short position paper; read §2 and §5 |
 

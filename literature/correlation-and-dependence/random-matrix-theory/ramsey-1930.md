@@ -5,6 +5,7 @@
 | **Authors** | Frank P. Ramsey |
 | **Year** | 1930 |
 | **Type** | Paper — *Proceedings of the London Mathematical Society* s2-30, 264–286 |
+| **Find it** | [doi.org/10.1112/plms/s2-30.1.264](https://doi.org/10.1112/plms/s2-30.1.264) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22On+a+Problem+of+Formal+Logic%22+Ramsey) |
 | **BibTeX** | `ramsey1930problem` |
 | **Status** | To read |
 

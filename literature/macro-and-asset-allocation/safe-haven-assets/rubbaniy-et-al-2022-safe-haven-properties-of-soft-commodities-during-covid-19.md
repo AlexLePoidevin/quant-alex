@@ -5,7 +5,8 @@
 | **Authors** | Ghulame Rubbaniy, Konstantinos Syriopoulos, Aristeidis Samitas (Zayed University), Ali Awais Khalid (University of Lahore) |
 | **Year** | 2022. The copy is the SSRN preprint (3740588, file dated May 2021, marked as not peer reviewed); published in *Journal of Commodity Markets* 27 (2022), 100223 |
 | **Type** | Working paper, 35pp. Daily data, 27 January to 3 September 2020 |
-| **PDF** | Local copy only (SSRN preprint, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN preprint, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jcomm.2021.100223](https://doi.org/10.1016/j.jcomm.2021.100223) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Safe-Haven+Properties+of+Soft+Commodities+During+Times+of+Covid-19%22+Rubbaniy) |
 | **BibTeX** | `rubbaniy2022soft` |
 | **Status** | Reference: §2.2 (the fear index) and §3 with Figures 2–13 (the wavelet coherence plots) carry the results |
 

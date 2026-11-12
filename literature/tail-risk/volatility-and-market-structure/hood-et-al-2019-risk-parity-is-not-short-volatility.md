@@ -5,7 +5,8 @@
 | **Authors** | Benjamin Hood, John Huss, Roni Israelov, Matthew Klein (AQR Capital Management) |
 | **Year** | 2019 (August 2019 working paper) |
 | **Type** | Working paper, SSRN 3432438, 55pp |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Risk+Parity+Is+Not+Short+Volatility+%28Not+That+There%27s+Anything+Wrong+with+Short+Volatility%29%22+Hood) for the title and authors |
 | **BibTeX** | `hood2019riskparity` |
 | **Status** | Reference: Section 4 (trades, Exhibits 7–8) and Section 5 (returns, Exhibit 13) carry the result; the appendix repeats it for fixed income |
 

@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Bloomberg; Courant Institute, NYU), Liuren Wu (Baruch College) |
 | **Year** | 2007 (*Journal of Financial Economics* 86(1)) |
 | **Type** | Paper, 48pp (accepted-manuscript version) |
-| **PDF** | Local copy only (journal article, no open licence) |
+| **PDF** | Not hosted in this repository (journal article, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jfineco.2006.03.010](https://doi.org/10.1016/j.jfineco.2006.03.010) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stochastic+Skew+in+Currency+Options%22+Carr) |
 | **BibTeX** | `carr2007stochasticskew` |
 | **Status** | Reference: §2 (stylised facts of the FX smile), §3 (the model), §5 (in- and out-of-sample results) and §6 (asymmetric and central-tendency extensions) |
 

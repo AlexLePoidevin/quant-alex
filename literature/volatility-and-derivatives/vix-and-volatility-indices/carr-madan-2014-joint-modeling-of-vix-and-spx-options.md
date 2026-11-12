@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (NYU Courant), Dilip B. Madan (University of Maryland) |
 | **Year** | 2014 (working paper dated 4 January 2013; SSRN 2234761) |
 | **Type** | Paper, *IIE Transactions* 46(11), 1125–1131. The local copy is the 17-page SSRN working paper |
-| **PDF** | Local copy only (SSRN working paper of a journal article, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper of a journal article, no open licence) |
+| **Find it** | [doi.org/10.1080/0740817x.2013.857063](https://doi.org/10.1080/0740817x.2013.857063) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Joint+Modeling+of+VIX+and+SPX+Options+at+a+Single+and+Common+Maturity+with+Risk+Management+Applications%22+Carr) |
 | **BibTeX** | `carr2014jointvix` |
 | **Status** | Reference: §2 sets out the model, §3 the calibration to 20 October 2008, §4 the hedge of a realized-volatility call |
 

@@ -5,7 +5,8 @@
 | **Authors** | David Blitz (Robeco Quantitative Investments) |
 | **Year** | 2021 |
 | **Type** | Journal article, *Journal of Portfolio Management* 48(2), 26–43; the local copy is the September 2021 SSRN working paper (3930006) |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2021.1.304](https://doi.org/10.3905/jpm.2021.1.304) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Quant+Cycle%22+Blitz) |
 | **BibTeX** | `blitz2021quantcycle` |
 | **Status** | Reference: read in full; the "Defining the Quant Cycle" section and Exhibits 10–13 carry the argument |
 

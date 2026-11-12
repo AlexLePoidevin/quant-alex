@@ -5,6 +5,7 @@
 | **Authors** | Daron Acemoglu; Vasco M. Carvalho; Asuman Ozdaglar; Alireza Tahbaz-Salehi |
 | **Year** | 2012 |
 | **Type** | Paper — *Econometrica* 80(5), 1977–2016 |
+| **Find it** | [doi.org/10.2139/ssrn.1947096](https://doi.org/10.2139/ssrn.1947096) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Network+Origins+of+Aggregate+Fluctuations%22+Acemoglu) |
 | **BibTeX** | `acemoglu2012network` |
 | **Status** | To read |
 

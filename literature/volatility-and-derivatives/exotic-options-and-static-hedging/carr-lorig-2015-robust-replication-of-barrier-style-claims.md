@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (NYU Courant), Matthew Lorig (University of Washington) |
 | **Year** | 2015 (this version dated 3 August 2015) |
 | **Type** | Working paper, 36pp; arXiv [1508.00632](https://arxiv.org/abs/1508.00632) (later versions to 2022) |
-| **PDF** | Local copy only (this copy is the SSRN download, SSRN 2639454); the arXiv version is free at the link above |
+| **PDF** | Not hosted in this repository (this copy is the SSRN download, SSRN 2639454); the arXiv version is free at the link above |
+| **Find it** | [arXiv:1508.00632](https://arxiv.org/abs/1508.00632) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Robust+Replication+of+Barrier-Style+Claims+on+Price+and+Volatility%22+Carr) |
 | **BibTeX** | `carr2015barrier` |
 | **Status** | Reference: §1 (the literature on semi-robust barrier hedges), §3 (European claims on price and realised variance) and §6 (examples) give the ideas; §4–5 are the formulas |
 

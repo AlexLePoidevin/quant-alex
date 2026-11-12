@@ -5,7 +5,8 @@
 | **Authors** | Lee A. Smales (University of Western Australia) |
 | **Year** | 2022 (*Global Finance Journal* 51, 100679); the copy is the SSRN working paper dated 29 March 2021 |
 | **Type** | Empirical paper, 33pp. Daily implied-volatility indices for the G7 (2001–2020) and BRICS (2011–2019) |
-| **PDF** | Local copy only (SSRN working paper; the journal version is Elsevier) |
+| **PDF** | Not hosted in this repository (SSRN working paper; the journal version is Elsevier) |
+| **Find it** | [doi.org/10.1016/j.gfj.2021.100679](https://doi.org/10.1016/j.gfj.2021.100679) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Spreading+the+Fear%3A+The+Central+Role+of+CBOE+VIX+in+Global+Stock+Market+Uncertainty%22+Smales) |
 | **BibTeX** | `smales2022fear` |
 | **Status** | Reference: Table 2 (correlations by regime), Tables 3–4 (VAR and variance decomposition), Table 7 (Granger causality), Table 8 (principal components) |
 

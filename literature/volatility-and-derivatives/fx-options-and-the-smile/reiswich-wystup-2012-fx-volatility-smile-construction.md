@@ -5,7 +5,8 @@
 | **Authors** | Dimitri Reiswich, Uwe Wystup (Frankfurt School of Finance & Management; MathFinance AG) |
 | **Year** | 2012 (*Wilmott* magazine, July 2012, pp. 58–69). Earlier version: CPQF Working Paper No. 20, Frankfurt School, 2009, revised March 2010 |
 | **Type** | Journal article, 12pp (working paper 34pp) |
-| **PDF** | Local copy only (the *Wilmott* article). The working-paper version from EconStor was also supplied: it may be copied only for personal and scholarly use, so it is not kept either |
+| **PDF** | Not hosted in this repository (the *Wilmott* article). The working-paper version from EconStor was also supplied: it may be copied only for personal and scholarly use, so it is not kept either |
+| **Find it** | [doi.org/10.1002/wilm.10132](https://doi.org/10.1002/wilm.10132) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22FX+Volatility+Smile+Construction%22+Reiswich) |
 | **BibTeX** | `reiswich2012smile` |
 | **Status** | Reference. Both versions read; the working paper has the proofs and the empirical robustness test |
 

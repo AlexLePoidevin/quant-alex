@@ -5,7 +5,8 @@
 | **Authors** | Sam Howison (University of Oxford). The file carries no author name; it is the `barriers.pdf` hosted on Howison's Oxford page, and the draft refers to a co-author "Jeff" (probably Jeff Dewynne) |
 | **Year** | 2006 (PDF built September 2006; the note says it is "several years old" by then) |
 | **Type** | Lecture notes / draft book chapter, 44pp |
-| **PDF** | Local copy only (freely hosted by the author, but with no licence to redistribute) |
+| **PDF** | Not hosted in this repository (freely hosted by the author, but with no licence to redistribute) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Barrier+Options%22+Howison) for the title and authors |
 | **Link** | <https://people.maths.ox.ac.uk/howison/barriers.pdf> |
 | **BibTeX** | `howison2006barrier` |
 | **Status** | Reference: §0.2–0.4 (the down-and-out call and the reflection principle) carry the method; §0.17 is static hedging. The author warns the note is preliminary, has no references and "Do not trust its accuracy!" |

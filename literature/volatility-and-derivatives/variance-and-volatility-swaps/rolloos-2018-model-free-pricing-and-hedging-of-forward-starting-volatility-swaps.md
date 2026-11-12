@@ -5,7 +5,8 @@
 | **Authors** | Frido Rolloos |
 | **Year** | 2018 (dated 27 April 2018; SSRN 3177299) |
 | **Type** | Short note, 8pp |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Model-Free+Pricing+and+Hedging+of+Forward+Starting+Volatility+Swaps%22+Rolloos) for the title and authors |
 | **BibTeX** | `rolloos2018forward` |
 | **Status** | Reference: §4.1 (pricing) and §4.2 (hedging) are the result |
 

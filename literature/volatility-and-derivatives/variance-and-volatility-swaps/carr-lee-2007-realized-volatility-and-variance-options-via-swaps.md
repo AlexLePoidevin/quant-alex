@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Bloomberg; NYU Courant), Roger Lee (University of Chicago) |
 | **Year** | 2007 (this version dated 26 October 2007) |
 | **Type** | Journal article, *Risk* 20(5), May 2007, 76–83; 22pp author version with appendices ("OVSwithAppendices") |
-| **PDF** | Local copy only (author version of a *Risk* article) |
+| **PDF** | Not hosted in this repository (author version of a *Risk* article) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Realized+Volatility+and+Variance%3A+Options+via+Swaps%22+Carr) for the title and authors |
 | **BibTeX** | `carr2007options` |
 | **Status** | Reference: §2 (synthetic variance and volatility swaps), §3 (the option formulas and the hedging test) and §4 (VIX options); Appendix B is a worked example on discrete strikes |
 

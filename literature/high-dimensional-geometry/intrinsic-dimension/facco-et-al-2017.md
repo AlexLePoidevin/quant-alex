@@ -5,6 +5,7 @@
 | **Authors** | Elena Facco; Maria d'Errico; Alex Rodriguez; Alessandro Laio |
 | **Year** | 2017 |
 | **Type** | Paper — *Scientific Reports* 7, 12140 |
+| **Find it** | [doi.org/10.1038/s41598-017-11873-y](https://doi.org/10.1038/s41598-017-11873-y) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Estimating+the+Intrinsic+Dimension+of+Datasets+by+a+Minimal+Neighborhood+Information%22+Facco) |
 | **BibTeX** | `facco2017intrinsic` |
 | **Status** | To read |
 

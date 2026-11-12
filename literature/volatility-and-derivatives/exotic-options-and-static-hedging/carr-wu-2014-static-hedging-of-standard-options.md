@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Bloomberg L.P. and NYU Courant), Liuren Wu (Baruch College, CUNY) |
 | **Year** | 2014 (first draft July 2002; local copy dated 21 May 2004) |
 | **Type** | Paper, *Journal of Financial Econometrics* 12(1), 3–46. The local copy is the 61-page 2004 working paper |
-| **PDF** | Local copy only (working paper of a journal article, no open licence) |
+| **PDF** | Not hosted in this repository (working paper of a journal article, no open licence) |
+| **Find it** | [doi.org/10.1093/jjfinec/nbs014](https://doi.org/10.1093/jjfinec/nbs014) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Static+Hedging+of+Standard+Options%22+Carr) |
 | **BibTeX** | `carr2014statichedge` |
 | **Status** | Reference: §1 Theorem 1 (the spanning relation), §2 the simulations (Black–Scholes vs Merton), §3 the S&P 500 test |
 

@@ -5,6 +5,7 @@
 | **Authors** | Barr Rosenberg |
 | **Year** | 1974 |
 | **Type** | Paper — *Journal of Financial and Quantitative Analysis* 9(2), 263–274 |
+| **Find it** | [doi.org/10.2307/2330104](https://doi.org/10.2307/2330104) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Extra-Market+Components+of+Covariance+in+Security+Returns%22+Rosenberg) |
 | **BibTeX** | `rosenberg1974extramarket` |
 | **Status** | To read |
 

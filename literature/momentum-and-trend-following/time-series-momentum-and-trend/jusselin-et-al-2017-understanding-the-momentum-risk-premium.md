@@ -5,7 +5,8 @@
 | **Authors** | Paul Jusselin, Edmond Lezmi, Hassan Malongo, Côme Masselin, Thierry Roncalli (Amundi Asset Management), Tung-Lam Dao |
 | **Year** | 2017 (September 2017) |
 | **Type** | Paper. SSRN 3042173, 102pp (57pp of text plus long appendices). Continuous-time theory with an empirical section on 20 futures markets |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3042173](https://doi.org/10.2139/ssrn.3042173) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Understanding+the+Momentum+Risk+Premium%3A+An+In-Depth+Journey+Through+Trend-Following+Strategies%22+Jusselin) |
 | **BibTeX** | `jusselin2017momentum` |
 | **Status** | Reference: §2 (the Bruder–Gaussel model and its multivariate extension), §3.4 (replicating the SG CTA Index), §4 (hedging and skewness events) and §5 (conclusion) |
 

@@ -6,6 +6,7 @@
 | **Year** | 2026 (October issue) |
 | **Type** | Peer-reviewed — *International Review of Economics & Finance*, vol. 111, art. 105748 |
 | **DOI** | [10.1016/j.iref.2026.105748](https://doi.org/10.1016/j.iref.2026.105748) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Long-Term+Efficiency+of+Tactical+Asset+Allocation%3A+Evidence+from+86+Systematic+Strategies+%281995%E2%80%932025%29%22+Prior-Sanz) for the title and authors |
 | **BibTeX** | `priorsanz2026taa` |
 | **Status** | ⚠️ Not yet read — filed on sight |
 

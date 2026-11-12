@@ -5,6 +5,7 @@
 | **Authors** | Harry Markowitz |
 | **Year** | 1952 |
 | **Type** | Paper — *Journal of Finance* 7(1), 77–91 |
+| **Find it** | [doi.org/10.2307/2975974](https://doi.org/10.2307/2975974) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Portfolio+Selection%22+Markowitz) |
 | **BibTeX** | `markowitz1952portfolio` |
 | **Status** | To read |
 

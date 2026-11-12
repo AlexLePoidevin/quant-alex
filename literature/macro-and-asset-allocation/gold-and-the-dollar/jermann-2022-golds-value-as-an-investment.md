@@ -5,7 +5,8 @@
 | **Authors** | Urban J. Jermann (Wharton School; NBER) |
 | **Year** | 2022 (draft of 26 April 2022, SSRN 3934052; later NBER Working Paper 31386, 2023) |
 | **Type** | Working paper, 35pp. Theory plus calibration to US real yields, 1975–2020 |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Gold%27s+Value+as+an+Investment%22+Jermann) for the title and authors |
 | **BibTeX** | `jermann2022gold` |
 | **Status** | Reference: §2 (gold and real rates, Table 1), §4 (two-state example), §6 (calibration, Table 3) |
 

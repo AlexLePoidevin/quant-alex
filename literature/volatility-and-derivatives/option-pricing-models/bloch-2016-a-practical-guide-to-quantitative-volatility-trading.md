@@ -5,7 +5,8 @@
 | **Authors** | Daniel Bloch (Quant Finance Ltd) |
 | **Year** | 2016 (version 1.2.0, 15 January 2016) |
 | **Type** | Book-length working paper, 327pp, SSRN 2715517 |
-| **PDF** | Local copy only ("Copyright © 2016 Quant Finance Ltd"; may be copied only with the company's consent) |
+| **PDF** | Not hosted in this repository ("Copyright © 2016 Quant Finance Ltd"; may be copied only with the company's consent) |
+| **Find it** | [doi.org/10.2139/ssrn.2715517](https://doi.org/10.2139/ssrn.2715517) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Practical+Guide+to+Quantitative+Volatility+Trading%22+Bloch) |
 | **BibTeX** | `bloch2016voltrading` |
 | **Status** | Reference, written from the abstract, the introduction, the table of contents and a skim of chapters 5–7 |
 

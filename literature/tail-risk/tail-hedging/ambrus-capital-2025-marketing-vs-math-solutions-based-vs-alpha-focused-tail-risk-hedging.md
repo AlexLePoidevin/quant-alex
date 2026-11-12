@@ -6,6 +6,7 @@
 | **Year** | 2025 (undated; its charts run to 2025) |
 | **Type** | Manager white paper — a volatility manager arguing for its own style of tail hedging, not peer reviewed, 11pp |
 | **PDF** | `ambrus-capital-2025-marketing-vs-math-solutions-based-vs-alpha-focused-tail-risk-hedging.pdf` (local copy only, not redistributed) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Marketing+vs.+Math%3A+Solutions-Based+Tail+Risk+Hedging+vs.+Alpha-Focused+Tail+Risk+Hedging%22+Capital) for the title and authors |
 | **BibTeX** | `ambrus2025marketing` |
 | **Status** | Read |
 

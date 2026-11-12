@@ -5,7 +5,8 @@
 | **Authors** | Piotr Zegadło (Kozminski University) |
 | **Year** | 2022 (online December 2021; the source file was labelled 2019) |
 | **Type** | Journal article, *Research in International Business and Finance* 60, 101603. doi:10.1016/j.ribaf.2021.101603 |
-| **PDF** | Local copy only (Elsevier journal version, all rights reserved) |
+| **PDF** | Not hosted in this repository (Elsevier journal version, all rights reserved) |
+| **Find it** | [doi.org/10.1016/j.ribaf.2021.101603](https://doi.org/10.1016/j.ribaf.2021.101603) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Identifying+Bull+and+Bear+Market+Regimes+with+a+Robust+Rule-Based+Method%22+Zegad%C5%82o) |
 | **BibTeX** | `zegadlo2022bullbear` |
 | **Status** | Reference: §2 (the algorithm), Tables 4–5 (agreement with older rules) and §4 (out-of-sample trading test) carry the results |
 

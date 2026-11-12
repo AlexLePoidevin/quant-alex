@@ -5,7 +5,8 @@
 | **Authors** | Nick Granger, Doug Greenig, Campbell R. Harvey, Sandy Rattray, David Zou (Man-AHL; Greenig independent; Harvey also at Duke) |
 | **Year** | 2014 (version dated 3 October 2014; first posted 27 August 2014) |
 | **Type** | Working paper, SSRN 2488552, 34pp, with a technical appendix. Data 1990–2014 plus simulations |
-| **PDF** | Local copy only (SSRN download; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download; no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2488552](https://doi.org/10.2139/ssrn.2488552) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Rebalancing+Risk%22+Granger) |
 | **BibTeX** | `granger2014rebalancing` |
 | **Status** | Reference: Figures 1–3 (the payoff of rebalancing), Figure 6 and Table 1 (the momentum overlay); the appendix gives the analytic argument |
 

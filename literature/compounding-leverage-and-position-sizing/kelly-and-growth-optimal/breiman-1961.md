@@ -5,6 +5,7 @@
 | **Authors** | Leo Breiman |
 | **Year** | 1961 |
 | **Type** | Paper — *Proc. 4th Berkeley Symposium on Mathematical Statistics and Probability* |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Optimal+Gambling+Systems+for+Favorable+Games%22+Breiman) for the title and authors |
 | **BibTeX** | `breiman1961optimal` |
 | **Status** | To read |
 

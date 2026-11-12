@@ -5,7 +5,8 @@
 | **Authors** | José P. Dapena, Juan A. Serur, Julián R. Siri (Universidad del CEMA) |
 | **Year** | 2018 (November 2018) |
 | **Type** | Working paper, UCEMA Documentos de Trabajo 659, SSRN 3257073, 27pp |
-| **PDF** | Local copy only (working paper, no open licence) |
+| **PDF** | Not hosted in this repository (working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3257073](https://doi.org/10.2139/ssrn.3257073) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Measuring+and+Trading+Volatility+on+the+US+Stock+Market%3A+A+Regime+Switching+Approach%22+Dapena) |
 | **BibTeX** | `dapena2018volatility` |
 | **Status** | Read in full |
 

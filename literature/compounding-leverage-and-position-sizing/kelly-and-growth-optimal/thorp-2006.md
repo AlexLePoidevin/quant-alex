@@ -5,6 +5,7 @@
 | **Authors** | Edward O. Thorp |
 | **Year** | 2006 |
 | **Type** | Chapter — in *Handbook of Asset and Liability Management*, Vol. 1 (North-Holland); widely circulated as a standalone paper |
+| **Find it** | [doi.org/10.1016/b978-044453248-0.50015-0](https://doi.org/10.1016/b978-044453248-0.50015-0) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Kelly+Criterion+in+Blackjack%2C+Sports+Betting%2C+and+the+Stock+Market%22+Thorp) |
 | **BibTeX** | `thorp2006kelly` |
 | **Status** | To read |
 

@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur (University of Western Australia), Hubert Dichtl, Wolfgang Drobetz, Viktoria-Sophie Wendt (University of Hamburg) |
 | **Year** | 2020. Published in *International Review of Financial Analysis* 71, 101281. The copy is the November 2018 SSRN draft (SSRN 3202658) |
 | **Type** | Journal article (working-paper version), 33pp |
-| **PDF** | Local copy only (SSRN working paper; the journal version is Elsevier copyright) |
+| **PDF** | Not hosted in this repository (SSRN working paper; the journal version is Elsevier copyright) |
+| **Find it** | [doi.org/10.1016/j.irfa.2018.11.008](https://doi.org/10.1016/j.irfa.2018.11.008) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Investing+in+Gold+%E2%80%93+Market+Timing+or+Buy-and-Hold%3F%22+Baur) |
 | **BibTeX** | `baur2020goldtiming` |
 | **Status** | Reference: §3.1 (the signals), Table 4 (the SPA tests) and §4.3 (sub-periods) carry the result |
 

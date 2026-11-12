@@ -5,7 +5,8 @@
 | **Authors** | Dillon Huddleston, Fred Liu and Lars Stentoft (University of Western Ontario) |
 | **Year** | 2021 (working paper dated 16 February 2021; published in *Journal of Financial Econometrics* 21(2), 485–527, 2023) |
 | **Type** | Working paper, 56pp. TAQ five-minute data, February 1993–October 2016 |
-| **PDF** | Local copy only (SSRN 3726765 working paper; journal version © Oxford University Press) |
+| **PDF** | Not hosted in this repository (SSRN 3726765 working paper; journal version © Oxford University Press) |
+| **Find it** | [doi.org/10.1093/jjfinec/nbab007](https://doi.org/10.1093/jjfinec/nbab007) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Intraday+Market+Predictability%3A+A+Machine+Learning+Approach%22+Huddleston) |
 | **BibTeX** | `huddleston2021intraday` |
 | **Status** | Reference: §3 (out-of-sample R², strategy returns with and without costs) and §4 (time of day, volatility, crises, AR benchmarks) carry the results |
 

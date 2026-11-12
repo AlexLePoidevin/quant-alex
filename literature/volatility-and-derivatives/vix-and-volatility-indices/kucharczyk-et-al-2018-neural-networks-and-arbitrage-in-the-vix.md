@@ -5,7 +5,8 @@
 | **Authors** | Daniel Kucharczyk, Joerg Osterrieder, Silas Rudolf, Daniel Wittwer (ZHAW Winterthur) |
 | **Year** | 2018 (SSRN 3305686) |
 | **Type** | Paper, 22pp. Intraday SPX option quotes and VIX, January–February 2018 |
-| **PDF** | Local copy only (SSRN download with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Neural+Networks+and+Arbitrage+in+the+VIX%3A+A+Deep+Learning+Approach+for+the+VIX%22+Kucharczyk) for the title and authors |
 | **BibTeX** | `kucharczyk2018vixnn` |
 | **Status** | Reference: §2.1 (how the VIX is computed and settled), §5 (how many options a replication needs) and §6 (the LSTM results) |
 

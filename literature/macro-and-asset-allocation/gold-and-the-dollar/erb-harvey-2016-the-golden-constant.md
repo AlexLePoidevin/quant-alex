@@ -5,7 +5,8 @@
 | **Authors** | Claude B. Erb; Campbell R. Harvey (Duke University and NBER) |
 | **Year** | 2016 (SSRN 2639284, first posted August 2015, this version 11 November 2016); published in *The Journal of Investing* 26(1), 94–100, 2017 |
 | **Type** | Short empirical update, 10pp. US data from January 1975 (start of gold futures trading) to June 2016 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.3905/joi.2017.26.1.094](https://doi.org/10.3905/joi.2017.26.1.094) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Golden+Constant%22+Erb) |
 | **BibTeX** | `erb2016constant` |
 | **Status** | Reference: Exhibits 1–5 (fair value, real price, valuation and the ten-year return scenarios) carry the argument; Exhibits 6–7 the point about inflation forecasts |
 

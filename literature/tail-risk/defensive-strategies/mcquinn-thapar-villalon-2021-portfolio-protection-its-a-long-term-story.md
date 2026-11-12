@@ -5,7 +5,8 @@
 | **Authors** | Nicholas McQuinn, Ashwin Thapar, Dan Villalon (AQR Capital Management) |
 | **Year** | 2021 |
 | **Type** | Journal article, *The Journal of Portfolio Management* 47(3), February 2021 (Portfolio Construction special issue), 18pp |
-| **PDF** | Local copy only (JPM reprint; "illegal to make unauthorized copies") |
+| **PDF** | Not hosted in this repository (JPM reprint; "illegal to make unauthorized copies") |
+| **Find it** | [doi.org/10.3905/jpm.2020.1.203](https://doi.org/10.3905/jpm.2020.1.203) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Portfolio+Protection%3F+It%27s+a+Long+%28Term%29+Story%E2%80%A6%22+McQuinn) |
 | **BibTeX** | `mcquinn2021protection` |
 | **Status** | Reference: Exhibit 2 (why long bad outcomes matter), Exhibit 3 (puts) and Exhibits 7–8 (all strategies compared) carry the argument |
 

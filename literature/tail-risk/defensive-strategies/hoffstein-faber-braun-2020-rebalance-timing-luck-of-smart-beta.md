@@ -5,7 +5,8 @@
 | **Authors** | Corey Hoffstein, Nathan Faber, Steven Braun (Newfound Research) |
 | **Year** | 2020 (February; SSRN 3673910) |
 | **Type** | Practitioner working paper, 22pp. S&P 500 universe, Sharadar data, July 2000 – September 2019, gross of all costs |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3673910](https://doi.org/10.2139/ssrn.3673910) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Rebalance+Timing+Luck%3A+The+%28Dumb%29+Luck+of+Smart+Beta%22+Hoffstein) |
 | **BibTeX** | `hoffstein2020timingluck` |
 | **Status** | Reference: Exhibit 1 (timing luck by style, size and frequency), Exhibit 3 (momentum sub-indexes) and the S&P index replications carry the results |
 

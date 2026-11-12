@@ -5,6 +5,7 @@
 | **Authors** | Robert C. Merton |
 | **Year** | 1969 |
 | **Type** | Paper — *Review of Economics and Statistics* 51(3) |
+| **Find it** | [doi.org/10.2307/1926560](https://doi.org/10.2307/1926560) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Lifetime+Portfolio+Selection+under+Uncertainty%3A+The+Continuous-Time+Case%22+Merton) |
 | **BibTeX** | `merton1969lifetime` |
 | **Status** | To read |
 

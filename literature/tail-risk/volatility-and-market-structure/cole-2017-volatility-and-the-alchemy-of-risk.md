@@ -6,6 +6,7 @@
 | **Year** | 2017 |
 | **Type** | Investor letter / research essay — excerpt from Artemis Capital's 2017 Letter to Investors, October 2017, 19pp |
 | **PDF** | `cole-2017-volatility-and-the-alchemy-of-risk.pdf` (kept locally; "All rights reserved", reproduction needs Artemis's permission) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Volatility+and+the+Alchemy+of+Risk%3A+Reflexivity+in+the+Shadows+of+Black+Monday+1987%22+Cole) for the title and authors |
 | **BibTeX** | `cole2017alchemy` |
 | **Status** | Reference — the opening pages (the definition and size estimates), the coin game and the 1987 section carry the argument; the footnotes give the sources for the asset estimates |
 

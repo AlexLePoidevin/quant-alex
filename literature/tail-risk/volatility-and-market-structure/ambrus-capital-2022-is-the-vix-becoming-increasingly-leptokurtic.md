@@ -5,7 +5,8 @@
 | **Authors** | The Ambrus Group (Ambrus Capital); no individual author named |
 | **Year** | 2022 (undated; written during 2022, after the S&P 500 had fallen more than 20% that year) |
 | **Type** | Manager white paper, 6pp |
-| **PDF** | Local copy only (manager material marked confidential, no licence) |
+| **PDF** | Not hosted in this repository (manager material marked confidential, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Is+the+VIX+Becoming+Increasingly+Leptokurtic+Due+to+the+Changing+Derivatives+Market%3F%22+Group) for the title and authors |
 | **BibTeX** | `ambrus2022leptokurtic` |
 | **Status** | Reference: short; the spot-vol beta section is the only part with data |
 

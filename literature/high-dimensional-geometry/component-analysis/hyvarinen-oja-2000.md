@@ -5,6 +5,7 @@
 | **Authors** | Aapo Hyvärinen; Erkki Oja |
 | **Year** | 2000 |
 | **Type** | Paper — *Neural Networks* 13(4–5), 411–430 |
+| **Find it** | [doi.org/10.1016/s0893-6080(00)00026-5](https://doi.org/10.1016/s0893-6080(00)00026-5) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Independent+Component+Analysis%3A+Algorithms+and+Applications%22+Hyv%C3%A4rinen) |
 | **BibTeX** | `hyvarinen2000ica` |
 | **Status** | To read |
 

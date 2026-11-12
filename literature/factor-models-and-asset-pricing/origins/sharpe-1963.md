@@ -5,6 +5,7 @@
 | **Authors** | William F. Sharpe |
 | **Year** | 1963 |
 | **Type** | Paper — *Management Science* 9(2), 277–293 |
+| **Find it** | [doi.org/10.1287/mnsc.9.2.277](https://doi.org/10.1287/mnsc.9.2.277) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Simplified+Model+for+Portfolio+Analysis%22+Sharpe) |
 | **BibTeX** | `sharpe1963simplified` |
 | **Status** | To read |
 

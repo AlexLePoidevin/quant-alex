@@ -6,6 +6,7 @@
 | **Year** | 2023 (15 December) |
 | **Type** | Blog post — *Towards Data Science*, 8 min |
 | **Link** | https://towardsdatascience.com/the-surprising-behavior-of-data-in-higher-dimensions-1c49bca9bbee/ |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Surprising+Behavior+of+Data+in+Higher+Dimensions%22+Salih) for the title and authors |
 | **BibTeX** | `salih2023surprising` |
 | **Status** | Explainer — for the substance cite [[altman-krzywinski-2018-the-curses-of-dimensionality]] |
 

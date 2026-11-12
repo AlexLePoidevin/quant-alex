@@ -5,7 +5,8 @@
 | **Authors** | François-Éric Racicot (University of Ottawa), Raymond Théoret (UQAM) |
 | **Year** | 2018 |
 | **Type** | Journal article, *International Review of Economics and Finance* 58, 637–675. Copy is the accepted manuscript (87pp). Monthly hedge fund index returns, January 1997 – June 2016 |
-| **PDF** | Local copy only (Elsevier accepted manuscript) |
+| **PDF** | Not hosted in this repository (Elsevier accepted manuscript) |
+| **Find it** | [doi.org/10.1016/j.iref.2018.07.006](https://doi.org/10.1016/j.iref.2018.07.006) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Multi-moment+Risk%2C+Hedging+Strategies%2C+and+the+Business+Cycle%22+Racicot) |
 | **BibTeX** | `racicot2018multimoment` |
 | **Status** | Reference: §2 (method), §5 (impulse responses by regime), §6 (systemic risk) and §7 (conclusion) |
 

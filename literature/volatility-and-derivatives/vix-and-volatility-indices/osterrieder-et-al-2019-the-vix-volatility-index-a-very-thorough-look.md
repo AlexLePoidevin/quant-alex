@@ -5,7 +5,8 @@
 | **Authors** | Jörg Osterrieder, Kevin Röschli, Lars Vetter (Zurich University of Applied Sciences) |
 | **Year** | 2019 (7 January 2019) |
 | **Type** | Working paper, SSRN 3311727, 47pp. Data: CBOE SPX option quotes, end of day 2015 to March 2018 and one-minute January–March 2018 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3311727](https://doi.org/10.2139/ssrn.3311727) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+VIX+Volatility+Index%3A+A+Very+Thorough+Look+at+It%22+Osterrieder) |
 | **BibTeX** | `osterrieder2019vix` |
 | **Status** | Reference: §3.3 (the formula), §6.3 (size of CBOE's approximations), §7 (which options drive the index) and §8 (settlement) are the results |
 

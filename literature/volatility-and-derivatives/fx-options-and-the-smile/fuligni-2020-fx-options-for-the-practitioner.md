@@ -5,7 +5,8 @@
 | **Authors** | Chris Fuligni (Credit Suisse International, FX sales and structuring) |
 | **Year** | 2020 (dated 23 January 2020) |
 | **Type** | Slides, 101pp. A bank presentation built around the author's career in FX options |
-| **PDF** | Local copy only (Credit Suisse material with bank disclosures, no licence) |
+| **PDF** | Not hosted in this repository (Credit Suisse material with bank disclosures, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22FX+Options+for+the+Practitioner%22+Fuligni) for the title and authors |
 | **BibTeX** | `fuligni2020fx` |
 | **Status** | Reference. Read in full. Rules of thumb and anecdotes rather than tested results |
 

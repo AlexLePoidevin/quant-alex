@@ -5,7 +5,8 @@
 | **Authors** | Jacinto Marabel (BBVA; University of Alcalá) |
 | **Year** | 2011 (*Revista de Economía Aplicada*) |
 | **Type** | Journal article, 36pp in this copy. Monthly VIX, January 1990 – September 2010 |
-| **PDF** | Local copy only (author's upload to ResearchGate; no open licence) |
+| **PDF** | Not hosted in this repository (author's upload to ResearchGate; no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Volatility+Regimes+for+the+VIX+Index%22+Marabel) for the title and authors |
 | **BibTeX** | `marabel2011vixregimes` |
 | **Status** | Reference: §3 (the model specifications) and §4 (estimates, out-of-sample errors, regime probabilities and durations). The coefficient tables did not survive text extraction, so only figures quoted in the text are used here |
 

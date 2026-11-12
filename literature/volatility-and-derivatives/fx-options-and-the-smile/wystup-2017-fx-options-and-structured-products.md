@@ -5,7 +5,8 @@
 | **Authors** | Uwe Wystup (MathFinance AG; Frankfurt School of Finance & Management) |
 | **Year** | 2017 (second edition; the first edition was 2006) |
 | **Type** | Book, Wiley Finance. About 530pp in four chapters: FX derivatives, structured products, hedge accounting, FX markets |
-| **PDF** | Local copy only: MathFinance's 92-page extract of the second edition (contents, preface and sample sections). A 343-page image-only scan of the first edition was also supplied; it is not kept |
+| **PDF** | Not hosted in this repository (copyright). MathFinance's 92-page extract of the second edition (contents, preface and sample sections). A 343-page image-only scan of the first edition was also supplied; it is not kept |
+| **Find it** | [doi.org/10.1002/9781119192183](https://doi.org/10.1002/9781119192183) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22FX+Options+and+Structured+Products%22+Wystup) |
 | **BibTeX** | `wystup2017fx` |
 | **Status** | Reference. Written from the extract: the contents, preface, Ch. 1.1–1.4 (conventions, quotation, premium-adjusted delta), parts of 1.5–1.7 (smile, call spreads, digitals) and the target-forward case studies in Ch. 2.2. The rest of the book was not read |
 

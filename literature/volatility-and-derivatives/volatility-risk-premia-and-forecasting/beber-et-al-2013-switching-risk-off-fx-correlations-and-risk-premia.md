@@ -5,7 +5,8 @@
 | **Authors** | Alessandro Beber (Cass Business School); Michael W. Brandt (Duke); Jason Cen (Cass) |
 | **Year** | 2013 (November 2013 draft for the Third FX Workshop; posted to SSRN as 2508651) |
 | **Type** | Working paper, marked "preliminary and incomplete", 53pp |
-| **PDF** | Local copy only (pre-publication draft marked "please do not circulate") |
+| **PDF** | Not hosted in this repository (pre-publication draft marked "please do not circulate") |
+| **Find it** | [doi.org/10.2139/ssrn.2508651](https://doi.org/10.2139/ssrn.2508651) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Switching+Risk+Off%3A+FX+Correlations+and+Risk+Premia%22+Beber) |
 | **BibTeX** | `beber2013switching` |
 | **Status** | Reference: §3 (the correlation regimes), §4.2–4.5 (returns by regime transition) and §4.7 (returns after a transition) carry the results |
 

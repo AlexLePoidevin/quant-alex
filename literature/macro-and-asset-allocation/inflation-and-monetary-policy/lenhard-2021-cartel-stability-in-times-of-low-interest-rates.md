@@ -5,7 +5,8 @@
 | **Authors** | Severin Lenhard (Universität Bern) |
 | **Year** | 2021 (version of November 2021) |
 | **Type** | Working paper (SSRN 4016978), 54pp including appendices. An industrial-organisation theory model plus an empirical test on 114 cartels convicted by the European Commission between 1999 and 2016 |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Cartel+Stability+in+Times+of+Low+Interest+Rates%22+Lenhard) for the title and authors |
 | **BibTeX** | `lenhard2021cartel` |
 | **Status** | Reference: the introduction gives the argument; the "Empirical Exercise" section (logit and Weibull survival models, Tables 2–3) gives the test |
 

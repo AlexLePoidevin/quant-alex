@@ -5,6 +5,7 @@
 | **Authors** | Laurent Laloux; Pierre Cizeau; Jean-Philippe Bouchaud; Marc Potters |
 | **Year** | 1999 |
 | **Type** | Paper — *Physical Review Letters* 83(7), 1467–1470 |
+| **Find it** | [doi.org/10.1103/physrevlett.83.1467](https://doi.org/10.1103/physrevlett.83.1467) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Noise+Dressing+of+Financial+Correlation+Matrices%22+Laloux) |
 | **BibTeX** | `laloux1999noise` |
 | **Status** | To read |
 

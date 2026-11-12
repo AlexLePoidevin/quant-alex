@@ -5,7 +5,8 @@
 | **Authors** | Paras Bakrania, Chris Doheny, Jonathan Fader, Caroline Heinrichs (AQR Capital Management) |
 | **Year** | 2019 (AQR white paper, April 2019; data January 1993 – December 2018) |
 | **Type** | Manager white paper, 28pp |
-| **PDF** | Local copy only (AQR publication, no open licence) |
+| **PDF** | Not hosted in this repository (AQR publication, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Fundamental+Trends+and+Dislocated+Markets%3A+An+Integrated+Approach+to+Global+Macro+Investing%22+Bakrania) for the title and authors |
 | **BibTeX** | `bakrania2019macro` |
 | **Status** | Reference: the integrated backtest (Exhibit 7), the factor regressions against the Credit Suisse macro index (Exhibit 9) and the appendix backtest rules |
 

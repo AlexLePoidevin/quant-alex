@@ -5,7 +5,8 @@
 | **Authors** | Pablo Calderini, Brent Skilton (Graham Capital Management) |
 | **Year** | 2021 (August 2021) |
 | **Type** | Manager research note, 6pp |
-| **PDF** | Local copy only (Graham Capital; "may not be reproduced … without Graham's express written consent") |
+| **PDF** | Not hosted in this repository (Graham Capital; "may not be reproduced … without Graham's express written consent") |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Macro-Economic+Drivers+of+the+Bond-Stock+Correlation%22+Calderini) for the title and authors |
 | **BibTeX** | `calderini2021stockbond` |
 | **Status** | Read in full |
 

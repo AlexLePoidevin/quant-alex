@@ -5,7 +5,8 @@
 | **Authors** | Chyng Wen Tee, Christopher Ting (Singapore Management University) |
 | **Year** | 2019 (undated manuscript; the PDF was built in June 2019) |
 | **Type** | Working paper. US TAQ data, S&P 500 constituents, 2010–2013 |
-| **PDF** | Local copy only (no licence stated) |
+| **PDF** | Not hosted in this repository (no licence stated) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Cross-Section+of+Mini+Flash+Crashes+and+Their+Detection+by+a+State-Space+Approach%22+Tee) for the title and authors |
 | **BibTeX** | `tee2019mini` |
 | **Status** | Reference: §3 (the detector) and §4.3–4.4 (crash counts and cross-section) carry the results |
 

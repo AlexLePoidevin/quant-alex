@@ -6,6 +6,7 @@
 | **Year** | 2019 |
 | **Type** | Working paper: Finance and Economics Discussion Series 2019-039, Board of Governors of the Federal Reserve System, 34pp. doi:10.17016/FEDS.2019.039 |
 | **PDF** | `durdu-martin-zer-2019-us-monetary-policy-in-global-banking-crises.pdf` (work of Federal Reserve Board staff, a US government work) |
+| **Find it** | [doi.org/10.17016/FEDS.2019.039](https://doi.org/10.17016/FEDS.2019.039) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Role+of+U.S.+Monetary+Policy+in+Global+Banking+Crises%22+Durdu) |
 | **BibTeX** | `durdu2019monetary` |
 | **Status** | Reference: §4.1 (baseline logits, Table 2), §4.2 (capital flows) and §4.4 (subsamples) carry the results |
 

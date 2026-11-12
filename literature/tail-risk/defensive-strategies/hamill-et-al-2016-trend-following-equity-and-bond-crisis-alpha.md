@@ -5,7 +5,8 @@
 | **Authors** | Carl Hamill, Sandy Rattray, Otto Van Hemert (Man AHL) |
 | **Year** | 2016 (version dated 30 August 2016) |
 | **Type** | Working paper, SSRN 2831926, 19pp. Monthly data on bonds, commodities, currencies and equity indices, 1960–2015 |
-| **PDF** | Local copy only (SSRN download; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download; no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2831926](https://doi.org/10.2139/ssrn.2831926) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Trend+Following%3A+Equity+and+Bond+Crisis+Alpha%22+Hamill) |
 | **BibTeX** | `hamill2016trend` |
 | **Status** | Reference: Table 2 (Sharpe ratios), §4 (skewness) and §5 (performance by equity and bond quintile) |
 

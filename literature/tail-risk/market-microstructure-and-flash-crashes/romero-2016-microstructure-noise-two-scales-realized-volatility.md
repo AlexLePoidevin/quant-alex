@@ -5,7 +5,8 @@
 | **Authors** | Aristides A. Romero Moreno (Utah State University) |
 | **Year** | 2016 (May 2016) |
 | **Type** | Master's thesis (Plan B report, Economics), Utah State University, 36pp. Posted on DigitalCommons@USU, Graduate Reports 826 |
-| **PDF** | Local copy only ("All Rights Reserved"; no open licence) |
+| **PDF** | Not hosted in this repository ("All Rights Reserved"; no open licence) |
+| **Find it** | [digitalcommons.usu.edu](https://digitalcommons.usu.edu/gradreports/826) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Microstructure+Noise%3A+The+Use+of+Two+Scales+Realized+Volatility+for+Noisy+High-Frequency+Data+and+its+Implications+for+Market+Efficiency+and+Financial+Forecasting%22+Moreno) |
 | **BibTeX** | `romero2016microstructure` |
 | **Status** | Reference: §II–III (the five estimators) and §V (the Monte Carlo) carry the content; §VI is a small, inconclusive empirical test |
 

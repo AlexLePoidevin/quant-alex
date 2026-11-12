@@ -7,6 +7,7 @@
 | **Type** | Essay — *Journal of Economic Methodology*, special issue on reflexivity |
 | **BibTeX** | `soros2013fallibility` |
 | **Link** | https://www.georgesoros.com/2014/01/13/fallibility-reflexivity-and-the-human-uncertainty-principle-2/ |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Fallibility%2C+Reflexivity%2C+and+the+Human+Uncertainty+Principle%22+Soros) for the title and authors |
 | **Status** | To read |
 
 ## Key takeaway

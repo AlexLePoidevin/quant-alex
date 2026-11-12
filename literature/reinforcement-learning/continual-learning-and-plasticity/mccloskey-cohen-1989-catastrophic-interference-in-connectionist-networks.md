@@ -6,6 +6,7 @@
 | **Year** | 1989 |
 | **Type** | Book chapter — *Psychology of Learning and Motivation*, vol. 24, pp. 109–165 (Academic Press). 57pp |
 | **Link** | https://doi.org/10.1016/S0079-7421(08)60536-8 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Catastrophic+Interference+in+Connectionist+Networks%3A+The+Sequential+Learning+Problem%22+McCloskey) for the title and authors |
 | **BibTeX** | `mccloskey1989catastrophic` |
 | **Status** | To read — written from the publisher summary and its reputation; check against the chapter before citing |
 

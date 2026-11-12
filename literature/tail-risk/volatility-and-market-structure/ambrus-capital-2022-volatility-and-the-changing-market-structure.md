@@ -5,7 +5,8 @@
 | **Authors** | The Ambrus Group (Ambrus Capital); no individual author named |
 | **Year** | 2022 (undated; data run to January 2022 and the references were accessed in May 2022) |
 | **Type** | Manager white paper, 16pp |
-| **PDF** | Local copy only (manager marketing material with no licence) |
+| **PDF** | Not hosted in this repository (manager marketing material with no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Volatility+and+the+Changing+Market+Structure+Driving+U.S.+Equities%22+Group) for the title and authors |
 | **BibTeX** | `ambrus2022structure` |
 | **Status** | Reference: §III (the ten causes) carries the argument; §IV–V are the case for holding volatility |
 

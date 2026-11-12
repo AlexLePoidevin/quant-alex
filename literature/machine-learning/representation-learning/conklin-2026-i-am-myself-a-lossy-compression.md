@@ -6,6 +6,7 @@
 | **Year** | 2026 (15 May) |
 | **Type** | Research blog post — Princeton AI Lab blog |
 | **Link** | https://blog.ai.princeton.edu/2026/05/15/i-am-myself-a-lossy-compression/ |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22I+Am%2C+Myself%2C+a+Lossy+Compression%22+Conklin) for the title and authors |
 | **BibTeX** | `conklin2026lossyblog` |
 | **Status** | Explainer — cite [[conklin-et-al-2026-learning-is-forgetting]] instead |
 

@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Apollo Hogan, Harvey Stein (Quantitative Finance R&D, Bloomberg LP) |
 | **Year** | 2007 (dated 11 January 2007, revision 1.28) |
 | **Type** | Practitioner article written for Bloomberg users, 12pp. Introduces the variance gamma model as implemented in the terminal's SKEW function |
-| **PDF** | Local copy only (Bloomberg document with no open licence) |
+| **PDF** | Not hosted in this repository (Bloomberg document with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Time+for+a+Change%3A+The+Variance+Gamma+Model+and+Option+Pricing%22+Carr) for the title and authors |
 | **BibTeX** | `carr2007vgbloomberg` |
 | **Status** | Reference: the whole piece is short; §I builds the model, §II shows the fit, the sidebar argues for a model over interpolation |
 

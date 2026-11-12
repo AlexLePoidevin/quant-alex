@@ -5,6 +5,7 @@
 | **Authors** | Vijay K. Chopra; William T. Ziemba |
 | **Year** | 1993 |
 | **Type** | Paper — *Journal of Portfolio Management* 19(2) |
+| **Find it** | [doi.org/10.3905/jpm.1993.409440](https://doi.org/10.3905/jpm.1993.409440) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Effect+of+Errors+in+Means%2C+Variances%2C+and+Covariances+on+Optimal+Portfolio+Choice%22+Chopra) |
 | **BibTeX** | `chopra1993effect` |
 | **Status** | To read |
 

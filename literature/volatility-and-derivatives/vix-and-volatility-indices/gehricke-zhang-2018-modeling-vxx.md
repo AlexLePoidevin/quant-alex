@@ -5,7 +5,8 @@
 | **Authors** | Sebastian A. Gehricke, Jin E. Zhang (University of Otago) |
 | **Year** | 2018 (published in the *Journal of Futures Markets*). The local copy is the working paper of 13 September 2014 |
 | **Type** | Paper, 38pp. VXX and VIX data January 2009 – June 2014; SPVXSTR index replicated from December 2005 |
-| **PDF** | Local copy only (working paper with no open licence; the journal version is published by Wiley) |
+| **PDF** | Not hosted in this repository (working paper with no open licence; the journal version is published by Wiley) |
+| **Find it** | [doi.org/10.1002/fut.21913](https://doi.org/10.1002/fut.21913) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Modeling+VXX%22+Gehricke) |
 | **BibTeX** | `gehricke2018vxx` |
 | **Status** | Reference: §3 (the VXX model and the roll yield), §4 (estimating the market price of variance risk) and §5 (rebalancing frequency) |
 

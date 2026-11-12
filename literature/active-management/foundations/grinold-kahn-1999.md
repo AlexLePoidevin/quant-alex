@@ -9,6 +9,7 @@
 | **Status** | Cited |
 | **Used in** | Substack Part 1 |
 | **Link** | [PDF](https://cms.dm.uba.ar/academico/materias/2docuat2016/analisis_cuantitativo_en_finanzas/Richard%20Grinold%2C%20Ronald%20Kahn-Active%20Portfolio%20Management_%20A%20Quantitative%20Approach%20for%20Producing%20Superior%20Returns%20and%20Controlling%20Risk-McGraw-Hill%20%281999%29.pdf) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Active+Portfolio+Management%3A+A+Quantitative+Approach+for+Producing+Superior+Returns+and+Controlling+Risk%22+Grinold) for the title and authors |
 
 ## Key takeaway
 

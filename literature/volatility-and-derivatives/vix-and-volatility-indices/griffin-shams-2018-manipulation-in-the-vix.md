@@ -5,7 +5,8 @@
 | **Authors** | John M. Griffin and Amin Shams (University of Texas at Austin) |
 | **Year** | 2018 (*Review of Financial Studies* 31(4), 1377–1417); the copy is the working paper dated 23 May 2017 |
 | **Type** | Empirical paper, 58pp. SPX option trades and quotes around monthly VIX settlement, January 2008 – April 2015, plus VSTOXX settlement data |
-| **PDF** | Local copy only (SSRN working paper; the journal version is Oxford University Press) |
+| **PDF** | Not hosted in this repository (SSRN working paper; the journal version is Oxford University Press) |
+| **Find it** | [doi.org/10.1093/rfs/hhx085](https://doi.org/10.1093/rfs/hhx085) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Manipulation+in+the+VIX%3F%22+Griffin) |
 | **BibTeX** | `griffin2018manipulation` |
 | **Status** | Reference: §3 (volume patterns), §4 (VSTOXX comparison and hedging tests) and §5 (price deviations and dollar distortions) carry the results |
 

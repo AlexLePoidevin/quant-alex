@@ -6,6 +6,7 @@
 | **Year** | 2018 |
 | **Type** | Working paper — SSRN 3212862 |
 | **Link** | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3212862 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Breadth+Momentum+and+the+Canary+Universe%3A+Defensive+Asset+Allocation+%28DAA%29%22+Keller) for the title and authors |
 | **BibTeX** | `keller2018daa` |
 | **Status** | To read |
 

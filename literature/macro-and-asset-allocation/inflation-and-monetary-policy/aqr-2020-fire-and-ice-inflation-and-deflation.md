@@ -5,7 +5,8 @@
 | **Authors** | AQR Portfolio Solutions Group (work credited to Alfie Brixton, Jordan Brooks, Thomas Maloney and Ashwin Thapar) |
 | **Year** | 2020 (*Alternative Thinking*, Q4 2020) |
 | **Type** | Manager research note, 18pp. US data January 1972 – June 2020 |
-| **PDF** | Local copy only (AQR publication, no open licence) |
+| **PDF** | Not hosted in this repository (AQR publication, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Fire+and+Ice%3A+Confronting+the+Twin+Perils+of+Inflation+and+Deflation%22+Group) for the title and authors |
 | **BibTeX** | `aqr2020fireice` |
 | **Status** | Reference: the inflation sensitivity metric (Exhibit 5), the upside/downside surprise betas (Exhibit 6) and the growth/inflation regime table (Exhibit 9) carry the results |
 

@@ -6,6 +6,7 @@
 | **Year** | Living page; read at revision 1378024853 (accessed 2026-10-18) |
 | **Type** | Encyclopedia article |
 | **Link** | https://en.wikipedia.org/wiki/Tree_(graph_theory) — pinned: https://en.wikipedia.org/w/index.php?title=Tree_(graph_theory)&oldid=1378024853 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Tree+%28graph+theory%29+%E2%80%94+Wikipedia%22+contributors) for the title and authors |
 | **BibTeX** | `wiki_tree_graph_theory` |
 | **Status** | Reference card — background for vine copulas; cite [[czado-2019-analyzing-dependent-data-with-vine-copulas]] for how trees are used |
 

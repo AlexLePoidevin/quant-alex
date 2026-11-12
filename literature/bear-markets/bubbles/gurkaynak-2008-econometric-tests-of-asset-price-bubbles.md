@@ -5,7 +5,8 @@
 | **Authors** | Refet S. Gürkaynak (Federal Reserve Board at the time) |
 | **Year** | 2008 (Journal of Economic Surveys 22(1), 166–186); the copy here is FEDS Working Paper 2005-04, January 2005, 34pp |
 | **Type** | Survey paper |
-| **PDF** | Local copy only (Federal Reserve Board staff working paper with no stated licence; the journal version is Wiley) |
+| **PDF** | Not hosted in this repository (Federal Reserve Board staff working paper with no stated licence; the journal version is Wiley) |
+| **Find it** | [doi.org/10.1111/j.1467-6419.2007.00530.x](https://doi.org/10.1111/j.1467-6419.2007.00530.x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Econometric+Tests+of+Asset+Price+Bubbles%3A+Taking+Stock%22+G%C3%BCrkaynak) |
 | **BibTeX** | `gurkaynak2008bubbles` |
 | **Status** | Reference: §3 (the tests) and §4 (conclusion) |
 

@@ -5,7 +5,8 @@
 | **Authors** | Uwe Wystup, Frédéric Bossens, Andreas Weber (MathFinance AG) |
 | **Year** | 2020 (July 2020) |
 | **Type** | Slides, 68pp (37 frames), from a CQF lecture |
-| **PDF** | Local copy only (MathFinance slides with no licence) |
+| **PDF** | Not hosted in this repository (MathFinance slides with no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22FX+Derivatives%3A+Stochastic-Local-Volatility+Model%22+Wystup) for the title and authors |
 | **BibTeX** | `wystup2020slv` |
 | **Status** | Reference: the vanna-volga review, the SLV calibration steps and the key take-aways are the content; the charts carry the comparisons and are not reproduced in text |
 

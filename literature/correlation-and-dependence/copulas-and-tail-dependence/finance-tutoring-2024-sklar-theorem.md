@@ -6,6 +6,7 @@
 | **Year** | 2024 (9 February) |
 | **Type** | Practitioner blog post — Finance Tutoring, "Mathematical Principles and Quantitative Finance" |
 | **Link** | https://www.finance-tutoring.fr/understanding-sklar%27s-theorem-in-layman%E2%80%99s-terms%E2%80%A6/ |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Sklar%27s+Theorem+in+Simple+Terms%22+page) for the title and authors |
 | **BibTeX** | `financetutoring2024sklar` |
 | **Status** | Explainer — cite [[nelsen-2006-introduction-to-copulas]] §2.3 / §2.10 instead |
 

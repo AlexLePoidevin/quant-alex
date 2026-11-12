@@ -5,6 +5,7 @@
 | **Authors** | Leonard C. MacLean; William T. Ziemba; George Blazenko |
 | **Year** | 1992 |
 | **Type** | Paper — *Management Science* 38(11) |
+| **Find it** | [doi.org/10.1287/mnsc.38.11.1562](https://doi.org/10.1287/mnsc.38.11.1562) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Growth+versus+Security+in+Dynamic+Investment+Analysis%22+MacLean) |
 | **BibTeX** | `maclean1992growth` |
 | **Status** | To read |
 

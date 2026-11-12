@@ -5,7 +5,8 @@
 | **Authors** | Alfie Brixton, Ashwin Thapar, Thomas Maloney (AQR Capital Management) |
 | **Year** | 2021 (October) |
 | **Type** | Manager white paper, 17pp. US data, quarterly, 1972 to mid-2021 |
-| **PDF** | Local copy only (AQR white paper, no open licence) |
+| **PDF** | Not hosted in this repository (AQR white paper, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22When+Stock-Bond+Diversification+Fails%3A+Managing+Inflation+Risk+in+Investor+Portfolios%22+Brixton) for the title and authors |
 | **BibTeX** | `brixton2021stockbond` |
 | **Status** | Reference: §II (stocks and bonds), §III (real assets), §IV–V (trend, macro momentum, the "real return" basket) |
 

@@ -5,6 +5,7 @@
 | **Author** | Zubin Patel (project advisor: Tina Lal) |
 | **Year** | 2026 |
 | **Type** | Unpublished manuscript — student research project |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Economic+Interpretation+of+Eigenvalues+and+Eigenvectors+in+S%26P+500+Correlation+Matrix+via+Marchenko-Pastur+Law%22+Patel) for the title and authors |
 | **BibTeX** | `patel2026sp500` |
 | **Status** | Read |
 | **Code** | [github.com/zubinpatel07-lang/sp500-eigenvalue-analysis-via-marchenko-pastur-law](https://github.com/zubinpatel07-lang/sp500-eigenvalue-analysis-via-marchenko-pastur-law) |

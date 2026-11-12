@@ -5,6 +5,7 @@
 | **Authors** | Kewei Hou; Chen Xue; Lu Zhang |
 | **Year** | 2020 |
 | **Type** | Paper — *Review of Financial Studies* 33(5), 2019–2133 |
+| **Find it** | [doi.org/10.1093/rfs/hhy131](https://doi.org/10.1093/rfs/hhy131) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Replicating+Anomalies%22+Hou) |
 | **BibTeX** | `hou2020replicating` |
 | **Status** | To read |
 

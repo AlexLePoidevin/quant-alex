@@ -5,7 +5,8 @@
 | **Authors** | Corey Hoffstein, Justin Sibears (Newfound Research) |
 | **Year** | 2018 (commentary dated 2 April 2018) |
 | **Type** | Practitioner commentary, 16pp. Backtests on Kenneth French US equity and sector data from 1927 and MSCI country indices from 1969; gross of all costs |
-| **PDF** | Local copy only (Newfound Research, all rights reserved) |
+| **PDF** | Not hosted in this repository (Newfound Research, all rights reserved) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Diversifying+the+What%2C+How%2C+and+When+of+Trend+Following%22+Hoffstein) for the title and authors |
 | **BibTeX** | `hoffstein2018diversifying` |
 | **Status** | Reference: the three sections (what, how, when) and their charts are the whole piece |
 

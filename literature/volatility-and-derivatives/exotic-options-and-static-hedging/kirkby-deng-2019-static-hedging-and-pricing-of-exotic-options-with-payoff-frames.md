@@ -5,7 +5,8 @@
 | **Authors** | J. Lars Kirkby; Shijie Deng (Georgia Institute of Technology) |
 | **Year** | 2019 (*Mathematical Finance* 29(2), 612–658; doi:10.1111/mafi.12184; SSRN 2501812, 2014) |
 | **Type** | Journal paper; the local copy is the authors' 2017 accepted version from ResearchGate, 45pp |
-| **PDF** | Local copy only (Wiley journal; author-uploaded copy with no open licence) |
+| **PDF** | Not hosted in this repository (Wiley journal; author-uploaded copy with no open licence) |
+| **Find it** | [doi.org/10.1111/mafi.12184](https://doi.org/10.1111/mafi.12184) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Static+Hedging+and+Pricing+of+Exotic+Options+With+Payoff+Frames%22+Kirkby) |
 | **BibTeX** | `kirkby2019payoff` |
 | **Status** | Reference: §4 (the butterfly basis), §5.2 (the ABS method) and §6 (the hedging experiments) carry the results |
 

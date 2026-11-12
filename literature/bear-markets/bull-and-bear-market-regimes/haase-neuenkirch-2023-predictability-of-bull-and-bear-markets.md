@@ -5,7 +5,8 @@
 | **Authors** | Felix Haase and Matthias Neuenkirch (University of Trier) |
 | **Year** | 2023 |
 | **Type** | Paper. *International Journal of Forecasting* 39(2), 587–605 (doi 10.1016/j.ijforecast.2022.01.004); the copy is CESifo Working Paper 8828 (January 2021, SSRN 3767700), 63pp |
-| **PDF** | Local copy only (working-paper download; the journal version is Elsevier copyright and no open licence is stated) |
+| **PDF** | Not hosted in this repository (working-paper download; the journal version is Elsevier copyright and no open licence is stated) |
+| **Find it** | [doi.org/10.1016/j.ijforecast.2022.01.004](https://doi.org/10.1016/j.ijforecast.2022.01.004) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Predictability+of+Bull+and+Bear+Markets%3A+A+New+Look+at+Forecasting+Stock+Market+Regimes+%28and+Returns%29+in+the+US%22+Haase) |
 | **BibTeX** | `haase2023predictability` |
 | **Status** | Reference: §3 (method), §4.2 (the Lunde–Timmermann dating, Table 2), Table 3 (regime forecast accuracy), Table 4 (economic value) and Tables 5–6 (return forecasts) carry the results |
 

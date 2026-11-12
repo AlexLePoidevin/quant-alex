@@ -6,6 +6,7 @@
 | **Year** | 2017 (14 July) |
 | **Type** | Working paper — SSRN 3002624 |
 | **Link** | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3002624 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Breadth+Momentum+and+Vigilant+Asset+Allocation+%28VAA%29%3A+Winning+More+by+Losing+Less%22+Keller) for the title and authors |
 | **BibTeX** | `keller2017vaa` |
 | **Status** | To read |
 

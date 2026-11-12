@@ -5,7 +5,8 @@
 | **Authors** | Andrew Ang and Geert Bekaert (Stanford) |
 | **Year** | 2002 |
 | **Type** | Paper. *Journal of Business & Economic Statistics* 20(2), 163–182 (doi 10.1198/073500102317351930); the copy is the March 1998 working paper (NBER w6508), 70pp |
-| **PDF** | Local copy only (working-paper version of a Taylor & Francis journal article; no open licence) |
+| **PDF** | Not hosted in this repository (working-paper version of a Taylor & Francis journal article; no open licence) |
+| **Find it** | [doi.org/10.1198/073500102317351930](https://doi.org/10.1198/073500102317351930) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Regime+Switches+in+Interest+Rates%22+Ang) |
 | **BibTeX** | `ang2002regime` |
 | **Status** | Reference: §2 and Table 2 (rates across business cycles), §5.4–5.5 (moments and out-of-sample forecasts, Tables 10–12), §5.6 and Table 15 (regimes against recessions) carry the results |
 

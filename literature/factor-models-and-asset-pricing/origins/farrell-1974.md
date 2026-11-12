@@ -5,6 +5,7 @@
 | **Authors** | James L. Farrell Jr. |
 | **Year** | 1974 |
 | **Type** | Paper — *Journal of Business* 47(2), 186–207 |
+| **Find it** | [doi.org/10.1086/295630](https://doi.org/10.1086/295630) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Analyzing+Covariation+of+Returns+to+Determine+Homogeneous+Stock+Groupings%22+Jr.) |
 | **BibTeX** | `farrell1974analyzing` |
 | **Status** | To read |
 

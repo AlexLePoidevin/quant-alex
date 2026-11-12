@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur (University of Western Australia), Thomas Dimpfl (University of Hohenheim) |
 | **Year** | 2022 (version dated 27 January 2022). A later version, with a third author (Pena), was published in *Finance Research Letters* 85 (2025), 107922 |
 | **Type** | Working paper, SSRN 3641589, 37pp. Daily data, January 1985 to May 2020 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3641589](https://doi.org/10.2139/ssrn.3641589) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Safe+Haven+Index%22+Baur) |
 | **BibTeX** | `baur2022safehaven` |
 | **Status** | Reference: §2 (the index), Tables 2–4 (crisis returns, risk-adjusted returns, betas to the index) and §4 (volatility) carry the results |
 

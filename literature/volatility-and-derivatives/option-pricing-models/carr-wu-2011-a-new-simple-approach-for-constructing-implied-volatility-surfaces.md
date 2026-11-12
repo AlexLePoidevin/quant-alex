@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Liuren Wu (NYU and Baruch College) |
 | **Year** | 2011 (talk at Columbia University, 28 February 2011) |
 | **Type** | Slides, 23pp. The theory was later published as Carr and Wu, "Analyzing volatility risk and risk premium in option contracts: A new theory", *Journal of Financial Economics* (2016) |
-| **PDF** | Local copy only (seminar slides with no licence) |
+| **PDF** | Not hosted in this repository (seminar slides with no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22A+New+Simple+Approach+for+Constructing+Implied+Volatility+Surfaces%22+Carr) for the title and authors |
 | **BibTeX** | `carr2011surfaces` |
 | **Status** | Reference: slides 6–11 (the PDE, the quadratic equation, the two dynamics) and 18–20 (fit against Heston) |
 

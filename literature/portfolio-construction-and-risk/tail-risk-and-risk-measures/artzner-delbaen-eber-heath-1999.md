@@ -5,6 +5,7 @@
 | **Authors** | Philippe Artzner; Freddy Delbaen; Jean-Marc Eber; David Heath |
 | **Year** | 1999 |
 | **Type** | Paper — *Mathematical Finance* 9(3) |
+| **Find it** | [doi.org/10.1111/1467-9965.00068](https://doi.org/10.1111/1467-9965.00068) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Coherent+Measures+of+Risk%22+Artzner) |
 | **BibTeX** | `artzner1999coherent` |
 | **Status** | To read |
 

@@ -5,7 +5,8 @@
 | **Authors** | Agnieszka Janek (Wrocław University of Technology; supervisor Rafał Weron) |
 | **Year** | 2011 (MPRA Paper No. 36127, posted January 2012) |
 | **Type** | Master's thesis, 65pp. Posted on MPRA (Munich Personal RePEc Archive) |
-| **PDF** | Local copy only (MPRA hosts it openly, but no redistribution licence is stated) |
+| **PDF** | Not hosted in this repository (MPRA hosts it openly, but no redistribution licence is stated) |
+| **Find it** | [mpra.ub.uni-muenchen.de](https://mpra.ub.uni-muenchen.de/36127/) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Vanna-Volga+Method+for+Derivatives+Pricing%22+Janek) |
 | **BibTeX** | `janek2011vannavolga` |
 | **Status** | Reference. Ch. 2–3 (derivation and variants) and Ch. 5 (calibration tests) carry the content |
 

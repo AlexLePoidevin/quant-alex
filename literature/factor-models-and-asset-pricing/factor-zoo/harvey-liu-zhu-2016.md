@@ -5,6 +5,7 @@
 | **Authors** | Campbell R. Harvey; Yan Liu; Heqing Zhu |
 | **Year** | 2016 |
 | **Type** | Paper — *Review of Financial Studies* 29(1), 5–68 |
+| **Find it** | [doi.org/10.3386/w20592](https://doi.org/10.3386/w20592) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22%E2%80%A6and+the+Cross-Section+of+Expected+Returns%22+Harvey) |
 | **BibTeX** | `harvey2016cross` |
 | **Status** | To read |
 

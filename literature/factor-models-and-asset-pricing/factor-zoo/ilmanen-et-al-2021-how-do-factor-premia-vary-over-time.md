@@ -5,7 +5,8 @@
 | **Authors** | Antti Ilmanen, Ronen Israel, Rachel Lee (AQR), Tobias J. Moskowitz (Yale, NBER, AQR), Ashwin Thapar (AQR) |
 | **Year** | 2021 (*Journal of Investment Management* 19(4), 15–57; earlier SSRN title "Factor Premia and Factor Timing: A Century of Evidence", 2019) |
 | **Type** | Journal article, 43pp. Data July 1926 – November 2020 |
-| **PDF** | Local copy only (the published JOIM version, © JOIM 2021) |
+| **PDF** | Not hosted in this repository (the published JOIM version, © JOIM 2021) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22How+Do+Factor+Premia+Vary+Over+Time%3F+A+Century+of+Evidence%22+Ilmanen) for the title and authors |
 | **BibTeX** | `ilmanen2021factorpremia` |
 | **Status** | Reference: Table 1 (century of premia), Table 2 (pre/original/post-sample test) and Table 4 (factor timing economics) carry the results |
 

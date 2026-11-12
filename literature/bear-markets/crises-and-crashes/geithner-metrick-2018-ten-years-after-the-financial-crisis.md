@@ -5,7 +5,8 @@
 | **Authors** | Timothy F. Geithner (Warburg Pincus; Yale SOM) and Andrew Metrick (Yale SOM; NBER) |
 | **Year** | 2018 (September) |
 | **Type** | Working paper, Yale Program on Financial Stability (YPFS) No. 2018/01, SSRN 3246017. Question-and-answer format, 13pp, written for Yale's course on the global financial crisis |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3246017](https://doi.org/10.2139/ssrn.3246017) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Ten+Years+after+the+Financial+Crisis%3A+A+Conversation+with+Timothy+Geithner%22+Geithner) |
 | **BibTeX** | `geithner2018tenyears` |
 | **Status** | Reference: read in full; short |
 

@@ -5,7 +5,8 @@
 | **Authors** | Minyou Fan, Fearghal Kearney, Youwei Li, Jiadong Liu (Queen's University Belfast; University of Hull) |
 | **Year** | 2022 (the copy is the November 2021 version, SSRN 3977553; published in *Journal of Economic Dynamics and Control* 144, 104524, 2022) |
 | **Type** | Paper, 54pp. All London Stock Exchange stocks 1965–2018, plus 70 futures and indices (27 commodities, 24 equity indices, 19 bond and rate contracts) from 1970–1993 onwards |
-| **PDF** | Local copy only (SSRN working paper; journal version © Elsevier) |
+| **PDF** | Not hosted in this repository (SSRN working paper; journal version © Elsevier) |
+| **Find it** | [doi.org/10.1016/j.jedc.2022.104524](https://doi.org/10.1016/j.jedc.2022.104524) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Momentum+and+the+Cross-Section+of+Stock+Volatility%22+Fan) |
 | **BibTeX** | `fan2022momentumvol` |
 | **Status** | Reference: §3 (where momentum risk comes from), §4.2 (the volatility exponent N) and §5 (crash periods) carry the argument |
 

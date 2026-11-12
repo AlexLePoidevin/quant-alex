@@ -5,6 +5,7 @@
 | **Authors** | Ronald R. Coifman; Stéphane Lafon |
 | **Year** | 2006 |
 | **Type** | Paper — *Applied and Computational Harmonic Analysis* 21(1), 5–30 |
+| **Find it** | [doi.org/10.1016/j.acha.2006.04.006](https://doi.org/10.1016/j.acha.2006.04.006) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Diffusion+Maps%22+Coifman) |
 | **BibTeX** | `coifman2006diffusion` |
 | **Status** | To read |
 

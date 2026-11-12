@@ -5,7 +5,8 @@
 | **Authors** | Magnus Erik Hvass Pedersen |
 | **Year** | 2021 (first published 17 May 2021) |
 | **Type** | Working paper. SSRN 3847692, 91pp (mostly charts). Daily, weekly, monthly and annual returns for about 920 US stocks, 2007–2021, plus 1- and 5-minute data for 70 stocks over 9 days in April 2021. Code released as a Python notebook |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3847692](https://doi.org/10.2139/ssrn.3847692) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Does+Volatility+Harvesting+Really+Work%3F%22+Pedersen) |
 | **BibTeX** | `pedersen2021harvesting` |
 | **Status** | Reference: §1–3 (definitions and toy examples), §4 (daily returns), §5 (weekly), §8–10 (intraday and correlations) and §11 (conclusion) |
 

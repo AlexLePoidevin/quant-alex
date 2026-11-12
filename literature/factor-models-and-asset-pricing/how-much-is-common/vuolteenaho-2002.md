@@ -5,6 +5,7 @@
 | **Authors** | Tuomo Vuolteenaho |
 | **Year** | 2002 |
 | **Type** | Paper — *Journal of Finance* 57(1), 233–264 |
+| **Find it** | [doi.org/10.3386/w8240](https://doi.org/10.3386/w8240) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22What+Drives+Firm-Level+Stock+Returns%3F%22+Vuolteenaho) |
 | **BibTeX** | `vuolteenaho2002what` |
 | **Status** | To read |
 

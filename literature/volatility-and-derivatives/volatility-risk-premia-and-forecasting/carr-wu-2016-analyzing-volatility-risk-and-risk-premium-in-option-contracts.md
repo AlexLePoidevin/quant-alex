@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Courant Institute, NYU), Liuren Wu (Baruch College) |
 | **Year** | 2016 (Journal of Financial Economics 120(1); this copy is the SSRN version, abstract 1701685) |
 | **Type** | Journal article (SSRN version), 56pp |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jfineco.2016.01.004](https://doi.org/10.1016/j.jfineco.2016.01.004) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Analyzing+Volatility+Risk+and+Risk+Premium+in+Option+Contracts%3A+A+New+Theory%22+Carr) |
 | **BibTeX** | `carr2016analyzing` |
 | **Status** | Reference: §2 (the quadratic no-arbitrage surface), §3 (option realized and expected volatility) and §6.5 (return prediction, Table 4) carry the results |
 

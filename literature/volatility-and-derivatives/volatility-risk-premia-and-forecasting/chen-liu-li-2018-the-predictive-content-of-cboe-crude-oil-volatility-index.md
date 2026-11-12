@@ -5,7 +5,8 @@
 | **Authors** | Hongtao Chen (Southeast University), Li Liu (Nanjing Audit University), Xiaolei Li (UNSW) |
 | **Year** | 2018 |
 | **Type** | Journal article, *Physica A* 492, 837–850 (doi 10.1016/j.physa.2017.11.014). The copy is the accepted manuscript, 40pp. Daily data, May 2007 to November 2016 |
-| **PDF** | Local copy only (accepted manuscript under Elsevier's user licence, which is not an open redistribution licence) |
+| **PDF** | Not hosted in this repository (accepted manuscript under Elsevier's user licence, which is not an open redistribution licence) |
+| **Find it** | [doi.org/10.1016/j.physa.2017.11.014](https://doi.org/10.1016/j.physa.2017.11.014) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Predictive+Content+of+CBOE+Crude+Oil+Volatility+Index%22+Chen) |
 | **BibTeX** | `chen2018ovx` |
 | **Status** | Reference: §4 (in-sample, out-of-sample, longer horizons, success ratios, robustness) carries the results |
 

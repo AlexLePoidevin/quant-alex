@@ -5,7 +5,8 @@
 | **Authors** | Małgorzata Doman (Poznań University of Economics and Business), Ryszard Doman (Adam Mickiewicz University, Poznań) |
 | **Year** | 2020 (SSRN posting, July 2020) |
 | **Type** | Working paper, 19pp (SSRN 3651344) |
-| **PDF** | Local copy only (SSRN working paper with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper with no open licence) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22How+Does+the+Daily+Volatility+of+Foreign+Exchange+Rates+Depend+on+the+Time+of+Day+at+Which+the+Daily+Returns+Are+Calculated%3F%22+Doman) for the title and authors |
 | **Link** | <https://ssrn.com/abstract=3651344> |
 | **BibTeX** | `doman2020timeofday` |
 | **Status** | Reference: §3 (data and the intraday pattern) and §4 (results per pair) carry it; the conclusions are one page |

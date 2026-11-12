@@ -5,7 +5,8 @@
 | **Authors** | Nicola Fusari (Johns Hopkins), Robert Jarrow (Cornell, Kamakura), Sujan Lamichhane (IMF) |
 | **Year** | 2025 (Journal of Business & Economic Statistics 43(4), 807–821); the copy here is the working paper, first version August 2020, updated May 2022 (SSRN 3670999) |
 | **Type** | Working paper (option pricing, empirical), 57pp |
-| **PDF** | Local copy only (SSRN working paper; the journal version is Taylor & Francis) |
+| **PDF** | Not hosted in this repository (SSRN working paper; the journal version is Taylor & Francis) |
+| **Find it** | [doi.org/10.1080/07350015.2024.2429470](https://doi.org/10.1080/07350015.2024.2429470) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Testing+for+Asset+Price+Bubbles+Using+Options+Data%22+Fusari) |
 | **BibTeX** | `fusari2025options` |
 | **Status** | Reference: §2 (why puts and calls price bubbles differently), §3.3–3.4 (the estimator and test), Table 3, and §6 (dot-com and GameStop) |
 

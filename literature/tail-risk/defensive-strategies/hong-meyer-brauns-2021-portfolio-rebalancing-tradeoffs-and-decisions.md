@@ -5,7 +5,8 @@
 | **Authors** | Xing Hong, Philipp Meyer-Brauns (Dimensional Fund Advisors) |
 | **Year** | 2021 (June) |
 | **Type** | Manager research paper, 21pp (SSRN 3858951). Hypothetical index backtests: US 60/40 1979–2019, global 60/40 1988–2019 |
-| **PDF** | Local copy only (Dimensional paper; "unauthorized copying ... strictly prohibited") |
+| **PDF** | Not hosted in this repository (Dimensional paper; "unauthorized copying ... strictly prohibited") |
+| **Find it** | [doi.org/10.2139/ssrn.3858951](https://doi.org/10.2139/ssrn.3858951) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Portfolio+Rebalancing%3A+Tradeoffs+and+Decisions%22+Hong) |
 | **BibTeX** | `hong2021rebalancing` |
 | **Status** | Reference: Exhibits 2–3 (US 60/40), 7–8 (tiered bands) and 10–11 (tracking error, drawdowns) carry the results |
 

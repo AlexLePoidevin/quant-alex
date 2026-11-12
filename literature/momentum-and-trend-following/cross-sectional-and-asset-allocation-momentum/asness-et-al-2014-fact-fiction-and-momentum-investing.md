@@ -5,7 +5,8 @@
 | **Authors** | Clifford S. Asness, Andrea Frazzini, Ronen Israel (AQR); Tobias J. Moskowitz (Chicago Booth) |
 | **Year** | 2014 (draft dated 9 May 2014) |
 | **Type** | Journal article, *Journal of Portfolio Management* 40(5), 75–92 (40th anniversary issue). Doi 10.3905/jpm.2014.40.5.075. 26pp |
-| **PDF** | Local copy only (author draft; no open licence) |
+| **PDF** | Not hosted in this repository (author draft; no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2014.40.5.075](https://doi.org/10.3905/jpm.2014.40.5.075) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Fact%2C+Fiction+and+Momentum+Investing%22+Asness) |
 | **BibTeX** | `asness2014factfiction` |
 | **Status** | Reference: Tables 1–5 (Kenneth French data, 1927–2013) carry the evidence; the rest is argument from cited papers |
 

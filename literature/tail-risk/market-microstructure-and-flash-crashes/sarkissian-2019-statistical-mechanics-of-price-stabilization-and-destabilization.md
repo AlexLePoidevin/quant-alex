@@ -5,7 +5,8 @@
 | **Authors** | Jack Sarkissian (Algostox Trading) |
 | **Year** | 2019 (SSRN 3514329; its examples use S&P 500 data from July–August 2019) |
 | **Type** | Working paper, 17pp, single author, not peer reviewed |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Statistical+Mechanics+of+Price+Stabilization+and+Destabilization+in+Financial+Markets%22+Sarkissian) for the title and authors |
 | **BibTeX** | `sarkissian2019statistical` |
 | **Status** | Reference: §1 (imbalance and crashes), §3 (the tanh solution), §4–5 (price dynamics and impact) |
 

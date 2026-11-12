@@ -5,7 +5,8 @@
 | **Authors** | Johan Röring (supervisor Åke Brännström) |
 | **Year** | 2017 (dated 8 June 2017) |
 | **Type** | Master's thesis, Department of Mathematics and Mathematical Statistics, Umeå University, 49pp |
-| **PDF** | Local copy only (thesis with no open licence stated) |
+| **PDF** | Not hosted in this repository (thesis with no open licence stated) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Volatility+and+Variance+Swaps%3A+A+Comparison+of+Quantitative+Models+to+Calculate+the+Fair+Volatility+and+Variance+Strike%22+R%C3%B6ring) for the title and authors |
 | **BibTeX** | `roring2017volatility` |
 | **Status** | Reference: §2 (contracts), §3.1–3.2 (variance replication and the volatility strike), §3.4 (vanna-vomma model) and §6–7 (results) carry the content |
 

@@ -1,8 +1,15 @@
 # Literature
 
-Reading notes on quantitative finance, grouped by **subject**. Each note covers one source.
-It records what the source says, why it matters, and how it links to the others. Where the
-source is freely redistributable, or is a lecture note, the PDF sits next to the note.
+Reading notes on quantitative finance, grouped by **subject**. Each note covers one
+published source (a paper, book, article or talk) and records what it says, why it
+matters, and how it links to the others.
+
+**Finding the sources.** The notes are summaries, not copies. Where the licence allows it
+(arXiv, open access), the PDF sits next to the note. Most papers are copyrighted, so their
+PDFs are not hosted here. Each of those notes has a **Find it** row near the top, with the
+DOI, arXiv or publisher link where there is one and a Google Scholar search for the title.
+The title, authors and year at the top of every note are also enough to find the source
+with an ordinary web search or through a library.
 
 The sections are not in a set order: start wherever the question you have is. Each
 section has a README that lists its subfolders and the question each one answers, and the
@@ -30,6 +37,7 @@ notes link across sections freely.
 
 ## Reading a note
 
+- **Find it** gives a link to the source, or a search for it, when the PDF is not in the repo.
 - **Status** says how far to trust a note. *Reference* or *Read* means it was written from
   the source. *To read* means it was written from the source's reputation and has not been
   checked against the text yet, so verify page numbers and volumes before citing.

@@ -5,7 +5,8 @@
 | **Authors** | Junying Shen, Noah Weisberger (PGIM Institutional Advisory & Solutions) |
 | **Year** | 2021 (May) |
 | **Type** | Asset-manager research paper, 24pp. S&P 500 and 10-year Treasury monthly total returns, 1950–2020 |
-| **PDF** | Local copy only (PGIM research, no open licence) |
+| **PDF** | Not hosted in this repository (PGIM research, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3855610](https://doi.org/10.2139/ssrn.3855610) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22US+Stock%E2%80%93Bond+Correlation%3A+What+Are+the+Macroeconomic+Drivers%3F%22+Shen) |
 | **BibTeX** | `shen2021stockbond` |
 | **Status** | Reference: the four messages at the front, Figure 5 (conditions by regime) and the policy section carry the argument |
 

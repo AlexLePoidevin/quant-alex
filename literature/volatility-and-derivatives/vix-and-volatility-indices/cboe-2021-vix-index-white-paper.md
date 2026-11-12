@@ -5,7 +5,8 @@
 | **Authors** | Cboe Exchange, Inc. |
 | **Year** | 2021 (copyright date of this edition; the methodology dates from 2003, with SPX Weeklys added in 2014) |
 | **Type** | Exchange methodology document, 20pp, with a worked example and the full option data in two appendices |
-| **PDF** | Local copy only (Cboe proprietary, all rights reserved; the current version is on cboe.com) |
+| **PDF** | Not hosted in this repository (Cboe proprietary, all rights reserved; the current version is on cboe.com) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Cboe+Volatility+Index+%28VIX%29+White+Paper%22+Exchange) for the title and authors |
 | **BibTeX** | `cboe2021vix` |
 | **Status** | Reference: the step-by-step calculation (pp. 4–9), the filtering algorithm and the settlement (SOQ) section (pp. 10–11) |
 

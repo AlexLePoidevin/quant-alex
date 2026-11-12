@@ -5,7 +5,8 @@
 | **Authors** | Antonio Castagna, Fabio Mercurio |
 | **Year** | 2007 (*Risk*, January 2007, pp. 106–111) |
 | **Type** | Journal article (practitioner), 6pp. A longer preprint, "The Vanna-Volga method for implied volatilities: tractability and robustness", has the same content |
-| **PDF** | Local copy only (Risk.net reprint, publisher copyright) |
+| **PDF** | Not hosted in this repository (Risk.net reprint, publisher copyright) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Vanna-Volga+Method+for+Implied+Volatilities%22+Castagna) for the title and authors |
 | **BibTeX** | `castagna2007vanna` |
 | **Status** | Reference: §2–4 (the replication argument, the weights, the price formula) and the two approximations for the implied volatility carry the paper |
 

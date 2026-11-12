@@ -5,7 +5,8 @@
 | **Authors** | Benjamin Bruder, Tung-Lam Dao, Jean-Charles Richard, Thierry Roncalli (Lyxor Asset Management R&D, Paris) |
 | **Year** | 2011 (December 2011; Lyxor white paper, posted to SSRN as 2289097 in 2013) |
 | **Type** | Survey / white paper, 49pp, with S&P 500 illustrations and a statistical appendix (Kalman filter, L1 filtering, wavelets, SVM, singular spectrum analysis) |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2289097](https://doi.org/10.2139/ssrn.2289097) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Trend+Filtering+Methods+for+Momentum+Strategies%22+Bruder) |
 | **BibTeX** | `bruder2011trend` |
 | **Status** | Reference: §2 (the catalogue of filters) and §3 (calibration, estimator variance, detection versus filtering, filtering versus forecasting) are the useful parts |
 

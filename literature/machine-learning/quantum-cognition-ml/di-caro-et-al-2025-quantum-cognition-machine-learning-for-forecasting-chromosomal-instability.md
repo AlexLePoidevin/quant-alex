@@ -6,6 +6,7 @@
 | **Year** | 2025 |
 | **Type** | Preprint — Qognitive / Epic Sciences, May 2025, 16pp. Not peer-reviewed |
 | **Link** | [qognitiveai.com/papers/epic-paper.pdf](https://www.qognitiveai.com/papers/epic-paper.pdf) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Quantum+Cognition+Machine+Learning+for+Forecasting+Chromosomal+Instability%22+Caro) for the title and authors |
 | **BibTeX** | `dicaro2025chromosomal` |
 | **Status** | Reference — §2.3–2.4 (the supervised QCML model and the POVM extension) and Tables 1–2 carry the content; the rest is the biology |
 

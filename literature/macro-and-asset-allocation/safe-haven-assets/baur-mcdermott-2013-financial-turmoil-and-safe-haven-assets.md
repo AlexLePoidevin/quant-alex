@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur (University of Technology Sydney), Thomas K. J. McDermott (Grantham Research Institute, LSE) |
 | **Year** | 2013 (version dated May 2013; first posted 2012). The authors' later paper "Why is gold a safe haven?", *Journal of Behavioral and Experimental Finance* 10 (2016), 63–71, returns to the same question |
 | **Type** | Working paper, SSRN 2004796, 34pp. Daily data, 1980–2010 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2004796](https://doi.org/10.2139/ssrn.2004796) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Financial+Turmoil+and+Safe+Haven+Assets%22+Baur) |
 | **BibTeX** | `baur2013turmoil` |
 | **Status** | Reference: Tables I–III (crisis episodes and returns on the worst stock days), Tables V–VI (the VAR models) and §III (the behavioural interpretation) carry the argument |
 

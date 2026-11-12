@@ -5,7 +5,8 @@
 | **Authors** | Amir E. Khandani, Andrew W. Lo (MIT; Lo also AlphaSimplex Group) |
 | **Year** | 2011 (journal); this copy is the 23 October 2008 revision |
 | **Type** | Journal article, *Journal of Financial Markets* 14(1), 1–46, 2011. Earlier as NBER Working Paper 14465 and SSRN 1288988. US stocks (S&P 1500), daily and 5-minute TAQ data, 2007 |
-| **PDF** | Local copy only (SSRN working-paper version, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working-paper version, no open licence) |
+| **Find it** | [doi.org/10.1016/j.finmar.2010.07.005](https://doi.org/10.1016/j.finmar.2010.07.005) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22What+Happened+to+the+Quants+in+August+2007%3F+Evidence+from+Factors+and+Transactions+Data%22+Khandani) |
 | **BibTeX** | `khandani2011quants` |
 | **Status** | Reference: §3–4 (factor simulations), §5 (intraday market-making strategy) and §6 (conclusions, with the authors' caveats) |
 

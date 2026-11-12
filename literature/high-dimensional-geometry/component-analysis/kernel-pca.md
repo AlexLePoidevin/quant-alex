@@ -3,6 +3,7 @@
 | | |
 |---|---|
 | **Source** | [Unraveling the Mysteries of Kernel PCA: A Leap Beyond Conventional PCA](https://medium.com/@juanc.olamendy/unraveling-the-mysteries-of-kernel-pca-a-leap-beyond-conventional-pca-bb0f0ef8cf13) — Juan C. Olamendy, Dec 2023 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Kernel+PCA%22) for the title and authors |
 | **Primary reference** | Schölkopf, Smola & Müller (1998), *Nonlinear Component Analysis as a Kernel Eigenvalue Problem*, Neural Computation 10(5) |
 | **Status** | To read |
 

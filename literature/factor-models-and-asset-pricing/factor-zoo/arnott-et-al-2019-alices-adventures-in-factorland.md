@@ -5,7 +5,8 @@
 | **Authors** | Rob Arnott, Campbell R. Harvey, Vitali Kalesnik, Juhani Linnainmaa |
 | **Year** | 2019 (*Journal of Portfolio Management* 45(4), 18–36; this copy is SSRN 3331680) |
 | **Type** | Research article, 35pp including an online appendix on each factor's rationale. US stocks, July 1963–June 2018 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2019.45.4.018](https://doi.org/10.3905/jpm.2019.45.4.018) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Alice%27s+Adventures+in+Factorland%3A+Three+Blunders+That+Plague+Factor+Investing%22+Arnott) |
 | **BibTeX** | `arnott2019factorland` |
 | **Status** | Reference: Exhibits 1, 5 and 6 (returns before and after publication and since 2003), Exhibit 8 (non-normality), Exhibits 11–13 (drawdown and bad-luck bootstraps) |
 

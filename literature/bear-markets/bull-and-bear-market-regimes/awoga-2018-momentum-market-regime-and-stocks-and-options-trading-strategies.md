@@ -5,7 +5,8 @@
 | **Authors** | Oluwaseyi Awoga (MSc Financial Engineering capstone, WorldQuant University; supervisor Ritabrata Bhattacharyya) |
 | **Year** | 2018 (dated December 2018; SSRN 3306329) |
 | **Type** | Student capstone project, 19pp. S&P 500, January 2007 – November 2018 |
-| **PDF** | Local copy only (SSRN upload, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN upload, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Momentum%2C+Market+Regime+and+Stocks+%26+Options+Trading+Strategies%22+Awoga) for the title and authors |
 | **BibTeX** | `awoga2018momentum` |
 | **Status** | Reference: the four portfolio sections and Tables 1–4; useful mainly as a worked example of what not to conclude |
 

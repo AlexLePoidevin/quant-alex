@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (NYU Courant), presenting joint work with H. Géman, D. Madan, L. Wu and M. Yor |
 | **Year** | 2003 (file dated March 2003; talk at an NYU Stern conference) |
 | **Type** | Slides, 45pp, with a bibliography of 76 papers on transform methods in option pricing |
-| **PDF** | Local copy only (lecture slides, no licence) |
+| **PDF** | Not hosted in this repository (lecture slides, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Option+Pricing+using+Integral+Transforms%22+Carr) for the title and authors |
 | **BibTeX** | `carr2003transforms` |
 | **Status** | Reference: the Carr–Madan FFT pages, the table of Lévy measures and characteristic exponents, and the time-change pages carry the content |
 

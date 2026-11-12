@@ -5,7 +5,8 @@
 | **Authors** | Edward Szado (Providence College; INGARM) |
 | **Year** | 2020 (dated 15 June 2020) |
 | **Type** | Research paper funded by Cboe Global Markets, 54pp. Data run from February 2006 to December 2017, with the VXTH index followed to mid-2018 |
-| **PDF** | Local copy only (Cboe-funded paper with no open licence) |
+| **PDF** | Not hosted in this repository (Cboe-funded paper with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Portfolio+Diversification+Potential+of+Long+VIX+Futures+and+Options+Strategies%22+Szado) for the title and authors |
 | **BibTeX** | `szado2020vix` |
 | **Status** | Reference: §3 (2008 vs 2016), §4.1 (full period) and §5 (VIX calls vs SPX puts) carry the results |
 

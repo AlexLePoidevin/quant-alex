@@ -6,7 +6,8 @@
 | **Year** | 2025 |
 | **Type** | Review article — *Nature Neuroscience* 28(8):1582–1597 |
 | **Link** | [doi.org/10.1038/s41593-025-02031-z](https://doi.org/10.1038/s41593-025-02031-z) |
-| **PDF** | Kept locally, not committed (publisher copy, not open access) |
+| **PDF** | Not hosted in this repository (publisher copy, not open access) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Neural+Manifold+View+of+the+Brain%22+Perich) for the title and authors |
 | **BibTeX** | `perich2025neural` |
 | **Status** | Reference — read in full |
 

@@ -5,7 +5,8 @@
 | **Authors** | Megan Czasonis (State Street Associates), Mark Kritzman (Windham Capital, MIT), David Turkington (State Street Associates) |
 | **Year** | 2021 (February) |
 | **Type** | Journal article, *The Journal of Portfolio Management* 47(3), 67–76. US data, January 1926 to November 2019 |
-| **PDF** | Local copy only (publisher reprint; "unauthorized copies" prohibited) |
+| **PDF** | Not hosted in this repository (publisher reprint; "unauthorized copies" prohibited) |
+| **Find it** | [doi.org/10.3905/jpm.2020.1.195](https://doi.org/10.3905/jpm.2020.1.195) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Stock-Bond+Correlation%22+Czasonis) |
 | **BibTeX** | `czasonis2021stockbond` |
 | **Status** | Reference: Exhibits 1, 3 and 4 carry the results; the method (partial sample regression) is from the same authors' 2020 JPM paper |
 

@@ -5,7 +5,8 @@
 | **Authors** | Sergey Chernenko (Purdue), Adi Sunderam (Harvard Business School) |
 | **Year** | 2020 (May 2020) |
 | **Type** | NBER Working Paper 27092, 45pp. Morningstar mutual-fund holdings, July 2009 – June 2016 for the main sample (July 2002 – June 2016 using monthly flows) |
-| **PDF** | Local copy only (NBER working paper, all rights reserved) |
+| **PDF** | Not hosted in this repository (NBER working paper, all rights reserved) |
+| **Find it** | [doi.org/10.3386/w27092](https://doi.org/10.3386/w27092) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Measuring+the+Perceived+Liquidity+of+the+Corporate+Bond+Market%22+Chernenko) |
 | **BibTeX** | `chernenko2020liquidity` |
 | **Status** | Reference: §2 (model and simulations), §4.3 (cross-section), §4.5 (across asset classes) and §4.7 (before, during and after the crisis) carry the results |
 

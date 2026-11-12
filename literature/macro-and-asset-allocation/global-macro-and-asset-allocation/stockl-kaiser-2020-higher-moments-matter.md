@@ -5,7 +5,8 @@
 | **Authors** | Sebastian Stöckl, Lars Kaiser (University of Liechtenstein) |
 | **Year** | 2020 (*Review of Financial Economics* 39(4), 455–481); working paper November 2016, SSRN 2747627 |
 | **Type** | Working-paper version, 31pp. Monthly data on the 100 Fama–French size/book-to-market portfolios, August 1963 – December 2015 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.1002/rfe.1121](https://doi.org/10.1002/rfe.1121) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Higher+Moments+Matter%21+Cross-Sectional+%28Higher%29+Moments+and+the+Predictability+of+Stock+Returns%22+St%C3%B6ckl) |
 | **BibTeX** | `stockl2020higher` |
 | **Status** | Reference: Table 4 (out-of-sample R²), Figure 3 (cumulative performance over time) and Table 5 (market timing) carry the results |
 

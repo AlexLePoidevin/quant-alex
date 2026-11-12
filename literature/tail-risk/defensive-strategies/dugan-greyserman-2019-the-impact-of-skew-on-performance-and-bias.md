@@ -5,7 +5,8 @@
 | **Authors** | Zachary Dugan and Alexander Greyserman (ISAM; Johns Hopkins, Columbia) |
 | **Year** | 2019 (January 2019 working paper; published in *Journal of Behavioral and Experimental Finance* 22, 232–238) |
 | **Type** | Simulation study by a trend-following manager's research team, 18pp (SSRN 3315740) |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jbef.2019.03.008](https://doi.org/10.1016/j.jbef.2019.03.008) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Impact+of+Skew+on+Performance+and+Bias%22+Dugan) |
 | **BibTeX** | `dugan2019skew` |
 | **Status** | Reference: read in full; Exhibits 8, 10, 11 and 14 carry the results |
 

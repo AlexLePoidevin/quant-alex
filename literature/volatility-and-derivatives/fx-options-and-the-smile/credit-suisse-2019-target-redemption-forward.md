@@ -5,7 +5,8 @@
 | **Authors** | Credit Suisse, International Trading Solutions (FX Sales, Corporate & Institutional Clients) |
 | **Year** | 2019 (dated April 2019) |
 | **Type** | Bank product sheet / marketing material, 2pp |
-| **PDF** | Local copy only (Credit Suisse marketing material, "All rights reserved", no reproduction without permission) |
+| **PDF** | Not hosted in this repository (Credit Suisse marketing material, "All rights reserved", no reproduction without permission) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Target+Redemption+Forward+%28TARF%29%22+Suisse) for the title and authors |
 | **BibTeX** | `creditsuisse2019tarf` |
 | **Status** | Reference: the whole sheet is two pages; page 2 holds the worked examples for a seller |
 

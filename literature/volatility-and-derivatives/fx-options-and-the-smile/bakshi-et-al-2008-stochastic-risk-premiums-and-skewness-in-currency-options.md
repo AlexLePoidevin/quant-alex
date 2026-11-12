@@ -5,7 +5,8 @@
 | **Authors** | Gurdip Bakshi, Peter Carr, Liuren Wu |
 | **Year** | 2008 (*Journal of Financial Economics* 87(1), 132–156). The copy here is the SSRN working paper, version of 20 December 2006 |
 | **Type** | Paper. Data: weekly OTC quotes on dollar–yen, dollar–pound and pound–yen options, November 2001 to January 2004 |
-| **PDF** | Local copy only (SSRN working paper of a journal article; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper of a journal article; no open licence) |
+| **Find it** | [doi.org/10.1016/j.jfineco.2006.12.001](https://doi.org/10.1016/j.jfineco.2006.12.001) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stochastic+Risk+Premiums%2C+Stochastic+Skewness+in+Currency+Options%2C+and+Stochastic+Discount+Factors+in+International+Economies%22+Bakshi) |
 | **BibTeX** | `bakshi2008stochastic` |
 | **Status** | Reference: §3 (the model), §4.1 (how FX options are quoted) and §5 (the six findings) carry the paper |
 

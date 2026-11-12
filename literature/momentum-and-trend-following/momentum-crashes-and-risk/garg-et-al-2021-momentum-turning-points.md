@@ -5,7 +5,8 @@
 | **Authors** | Ashish Garg, Christian L. Goulding, Campbell R. Harvey, Michele G. Mazzoleni |
 | **Year** | 2021 (slides dated January 2021) |
 | **Type** | Slides, 33pp, for the paper SSRN 3489539 (2019). The paper was published as Goulding, Harvey and Mazzoleni, "Momentum turning points", *Journal of Financial Economics* 149(3), 378–406 (2023), without Garg. Monthly US value-weighted market excess returns 1969–2018, plus 11 equity markets 1980–2018 |
-| **PDF** | Local copy only (presentation deck, no open licence) |
+| **PDF** | Not hosted in this repository (presentation deck, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Momentum+Turning+Points%22+Garg) for the title and authors |
 | **BibTeX** | `garg2021turning` |
 | **Status** | Reference: slides 4–9 (the four market phases and the speed blends), 12–16 (dynamic speed) and A19/A30 (phase transition probabilities) carry the argument |
 

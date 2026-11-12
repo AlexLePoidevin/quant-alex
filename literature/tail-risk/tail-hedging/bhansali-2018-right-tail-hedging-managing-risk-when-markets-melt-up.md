@@ -5,7 +5,8 @@
 | **Authors** | Vineer Bhansali (LongTail Alpha) |
 | **Year** | 2018 |
 | **Type** | Journal article, *The Journal of Portfolio Management* 44(7), Summer 2018, 55–62, 8pp. doi:10.3905/jpm.2018.44.7.055 |
-| **PDF** | Local copy only (Institutional Investor journal download, all rights reserved) |
+| **PDF** | Not hosted in this repository (Institutional Investor journal download, all rights reserved) |
+| **Find it** | [doi.org/10.3905/jpm.2018.44.7.055](https://doi.org/10.3905/jpm.2018.44.7.055) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Right+Tail+Hedging%3A+Managing+Risk+When+Markets+Melt+Up%22+Bhansali) |
 | **BibTeX** | `bhansali2018right` |
 | **Status** | Reference: the jump-diffusion pricing example and the one-jump skew formula carry the argument; the rest is market commentary from early 2018 |
 

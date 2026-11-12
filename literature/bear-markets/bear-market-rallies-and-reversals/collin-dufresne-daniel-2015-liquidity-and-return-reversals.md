@@ -5,7 +5,8 @@
 | **Authors** | Pierre Collin-Dufresne (EPFL), Kent Daniel (Columbia Business School) |
 | **Year** | 2015 (draft dated 28 May 2015; first draft October 2013) |
 | **Type** | Working paper, 42pp. Not found as a published article |
-| **PDF** | Local copy only (working paper, no licence) |
+| **PDF** | Not hosted in this repository (working paper, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Liquidity+and+Return+Reversals%22+Collin-Dufresne) for the title and authors |
 | **BibTeX** | `collindufresne2015reversals` |
 | **Status** | Reference: §2 (Fama–MacBeth reversal pattern), §3.2 (model estimates, Table 2) and §5 (VIX versus cross-sectional volatility) carry the results |
 

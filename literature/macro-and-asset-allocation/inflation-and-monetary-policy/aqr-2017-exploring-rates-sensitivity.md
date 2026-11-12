@@ -5,7 +5,8 @@
 | **Authors** | AQR Capital Management (*Alternative Thinking*, no named authors) |
 | **Year** | 2017 (Second Quarter issue) |
 | **Type** | Manager research note, 16pp. US data 1972–2016 |
-| **PDF** | Local copy only (AQR publication, "not to be reproduced or redistributed") |
+| **PDF** | Not hosted in this repository (AQR publication, "not to be reproduced or redistributed") |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Exploring+Rates+Sensitivity%22+Management) for the title and authors |
 | **BibTeX** | `aqr2017rates` |
 | **Status** | Reference: the hiking-cycle Sharpe ratios (Exhibit 3), the real-yield/inflation map (Exhibit 4) and the +1.8% rising-rates scenario (Exhibit 7) carry the results |
 

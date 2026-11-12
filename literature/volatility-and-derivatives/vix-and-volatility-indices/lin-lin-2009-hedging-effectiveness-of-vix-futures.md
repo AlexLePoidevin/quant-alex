@@ -5,7 +5,8 @@
 | **Authors** | Yueh-Neng Lin, Anchor Y. Lin (National Chung Hsing University) |
 | **Year** | c. 2009 (undated working paper; presented at 2008 conferences, volume data to February 2009) |
 | **Type** | Working paper, 35pp |
-| **PDF** | Local copy only (working paper, no open licence) |
+| **PDF** | Not hosted in this repository (working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.1460799](https://doi.org/10.2139/ssrn.1460799) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Hedging+Effectiveness+of+VIX+Futures%22+Lin) |
 | **BibTeX** | `lin2009hedging` |
 | **Status** | Reference: §2 (the two hedging schemes), §5 (Tables 3–4) and §6 carry the results |
 

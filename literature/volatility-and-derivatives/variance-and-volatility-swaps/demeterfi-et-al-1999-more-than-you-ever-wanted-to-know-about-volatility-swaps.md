@@ -5,7 +5,8 @@
 | **Authors** | Kresimir Demeterfi, Emanuel Derman, Michael Kamal, Joseph Zou (Goldman Sachs Quantitative Strategies) |
 | **Year** | 1999 (March) |
 | **Type** | Bank research note, Goldman Sachs Quantitative Strategies Research Notes, 56pp. A shorter version appeared as "A Guide to Volatility and Variance Swaps", *Journal of Derivatives* 6(4), 1999 |
-| **PDF** | Local copy only (Goldman Sachs research, "All rights reserved") |
+| **PDF** | Not hosted in this repository (Goldman Sachs research, "All rights reserved") |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22More+Than+You+Ever+Wanted+To+Know+About+Volatility+Swaps%22+Demeterfi) for the title and authors |
 | **BibTeX** | `demeterfi1999volswaps` |
 | **Status** | Reference: §I–II (replication by a log contract), §IV (skew formulas), §V (strike range and jumps) and §VI (volatility vs variance) are the core |
 

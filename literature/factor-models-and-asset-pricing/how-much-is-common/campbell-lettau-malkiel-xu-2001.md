@@ -5,6 +5,7 @@
 | **Authors** | John Y. Campbell; Martin Lettau; Burton G. Malkiel; Yexiao Xu |
 | **Year** | 2001 |
 | **Type** | Paper — *Journal of Finance* 56(1), 1–43 |
+| **Find it** | [doi.org/10.3386/w7590](https://doi.org/10.3386/w7590) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Have+Individual+Stocks+Become+More+Volatile%3F+An+Empirical+Exploration+of+Idiosyncratic+Risk%22+Campbell) |
 | **BibTeX** | `campbell2001have` |
 | **Status** | To read |
 

@@ -5,6 +5,7 @@
 | **Authors** | Gary Chamberlain; Michael Rothschild |
 | **Year** | 1983 |
 | **Type** | Paper — *Econometrica* 51(5), 1281–1304 |
+| **Find it** | [doi.org/10.3386/w0996](https://doi.org/10.3386/w0996) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Arbitrage%2C+Factor+Structure%2C+and+Mean-Variance+Analysis+on+Large+Asset+Markets%22+Chamberlain) |
 | **BibTeX** | `chamberlain1983arbitrage` |
 | **Status** | To read |
 

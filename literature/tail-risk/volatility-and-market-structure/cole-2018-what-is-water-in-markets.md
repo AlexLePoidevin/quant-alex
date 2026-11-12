@@ -5,7 +5,8 @@
 | **Authors** | Christopher Cole (Artemis Capital Management) |
 | **Year** | 2018 (Letter to Investors, July 2018) |
 | **Type** | Investor letter / research essay, 11pp |
-| **PDF** | Local copy only (marked "Confidential to Artemis investors" and not for public distribution) |
+| **PDF** | Not hosted in this repository (marked "Confidential to Artemis investors" and not for public distribution) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22What+is+Water+in+Markets%3F+Volatility+and+the+Fragility+of+the+Medium%22+Cole) for the title and authors |
 | **BibTeX** | `cole2018water` |
 | **Status** | Reference: the passive-investing simulation (p. 3) and the February 2018 liquidity section (pp. 4–5) carry the content; the rest is macro forecasting |
 

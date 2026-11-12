@@ -8,6 +8,7 @@
 | **BibTeX** | `berk2004mutual` |
 | **Status** | To read |
 | **Link** | [SSRN 383061](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=383061) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Mutual+Fund+Flows+and+Performance+in+Rational+Markets%22+Berk) for the title and authors |
 
 ## Key takeaway
 

@@ -5,7 +5,8 @@
 | **Authors** | Daniel Nadler and Anatoly B. Schmidt (Kensho Technologies; NYU) |
 | **Year** | 2019 (dated April 2019; SSRN 3269475) |
 | **Type** | Working paper, 20pp. Daily data 2007–2017 and 2011–2017 |
-| **PDF** | Local copy only (SSRN download, "© 2019 Kensho Technologies, all rights reserved") |
+| **PDF** | Not hosted in this repository (SSRN download, "© 2019 Kensho Technologies, all rights reserved") |
+| **Find it** | [doi.org/10.2139/ssrn.3269475](https://doi.org/10.2139/ssrn.3269475) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Momentum+Strategies+for+the+ETF-Based+Portfolios%22+Nadler) |
 | **BibTeX** | `nadler2019etfmomentum` |
 | **Status** | Reference: Exhibits 1–4 (ETF portfolios) and the sector-proxy exhibits carry the results |
 

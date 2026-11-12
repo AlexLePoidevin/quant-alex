@@ -5,7 +5,8 @@
 | **Authors** | Capital Fund Management (CFM), no individual authors named |
 | **Year** | 2018 (February) |
 | **Type** | Manager technical note, 8pp. Simulated random walks, S&P 500 E-mini and wheat futures (about 35 years each), and the SG CTA index |
-| **PDF** | Local copy only (CFM marketing note with disclaimers, no licence) |
+| **PDF** | Not hosted in this repository (CFM marketing note with disclaimers, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Convexity+of+Trend+Following%3A+Protecting+your+assets+but+perhaps+not+as+much+as+you+would+like%21%22+Management) for the title and authors |
 | **BibTeX** | `cfm2018convexity` |
 | **Status** | Reference: the derivation and Equation 1 (pp. 2–3) and the SG CTA index check (Figure 6) carry the argument |
 

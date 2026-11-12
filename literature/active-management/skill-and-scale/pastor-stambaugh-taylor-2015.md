@@ -8,6 +8,7 @@
 | **BibTeX** | `pastor2015scale` |
 | **Status** | To read |
 | **Link** | [SSRN 2465991](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2465991) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Scale+and+Skill+in+Active+Management%22+P%C3%A1stor) for the title and authors |
 
 ## Key takeaway
 

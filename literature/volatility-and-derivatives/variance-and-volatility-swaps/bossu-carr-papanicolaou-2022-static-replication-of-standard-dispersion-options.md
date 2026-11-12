@@ -5,7 +5,8 @@
 | **Authors** | Sébastien Bossu (NYU Courant); Peter Carr (NYU Tandon); Andrew Papanicolaou (North Carolina State University) |
 | **Year** | 2022 (*Quantitative Finance* 22(5), 799–811; this preprint dated 1 March 2021) |
 | **Type** | Journal paper (preprint version, 21pp). Theory with one numerical example |
-| **PDF** | Local copy only (journal article, no open licence). The download was misnamed "Options on Realized Variance and Convex Orders" |
+| **PDF** | Not hosted in this repository (journal article, no open licence). The download was misnamed "Options on Realized Variance and Convex Orders" |
+| **Find it** | [doi.org/10.1080/14697688.2022.2040743](https://doi.org/10.1080/14697688.2022.2040743) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Static+Replication+of+European+Standard+Dispersion+Options%22+Bossu) |
 | **BibTeX** | `bossu2022dispersion` |
 | **Status** | Reference: §1.2 (main result), Proposition 1 (the dispersion call), §6 (worked example) and §8 (pricing consequences) |
 

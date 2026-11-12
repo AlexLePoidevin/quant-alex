@@ -5,7 +5,8 @@
 | **Authors** | Andrew Clare, James Seaton, Stephen Thomas (Cass Business School); Peter N. Smith (University of York) |
 | **Year** | 2017 (the copy is the May 2017 version, SSRN 2764933; published in *Financial Analysts Journal* 73(4), 91–103, 2017) |
 | **Type** | Paper, 34pp. Real S&P 500 returns 1872–2014 from Shiller's data; Monte Carlo and two historical 20-year retirement windows |
-| **PDF** | Local copy only (SSRN preprint of an FAJ article, © CFA Institute) |
+| **PDF** | Not hosted in this repository (SSRN preprint of an FAJ article, © CFA Institute) |
+| **Find it** | [doi.org/10.2469/faj.v73.n4.5](https://doi.org/10.2469/faj.v73.n4.5) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Reducing+Sequence+Risk+Using+Trend+Following+and+the+CAPE+Ratio%22+Clare) |
 | **BibTeX** | `clare2017sequence` |
 | **Status** | Reference: the PWR algebra (equations 3–6), Table 2 (PWR distributions with and without trend), the transaction-cost section and Tables 3–6 (1995 and 1973 retirements) carry the result |
 

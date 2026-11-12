@@ -5,6 +5,7 @@
 | **Authors** | Jerome R. Busemeyer; Peter D. Bruza |
 | **Year** | 2012 |
 | **Type** | Book — Cambridge University Press |
+| **Find it** | [doi.org/10.1017/cbo9780511997716](https://doi.org/10.1017/cbo9780511997716) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Quantum+Models+of+Cognition+and+Decision%22+Busemeyer) |
 | **BibTeX** | `busemeyer2012quantum` |
 | **Status** | To read |
 

@@ -5,7 +5,8 @@
 | **Authors** | John R. Graham and Campbell R. Harvey (Duke University, Fuqua; NBER) |
 | **Year** | 2018 (version of 28 March 2018) |
 | **Type** | Working paper, SSRN 3151162, 22pp. One of the authors' annual updates of the Duke/CFO Magazine survey |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3151162](https://doi.org/10.2139/ssrn.3151162) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Equity+Risk+Premium+in+2018%22+Graham) |
 | **BibTeX** | `graham2018erp` |
 | **Status** | Reference: read in full; §2.4 (the 2018 numbers), §2.5 (WACC and hurdle rates) and §2.7 (what the premium moves with) carry the content |
 

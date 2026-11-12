@@ -5,7 +5,8 @@
 | **Authors** | Jean Barthélemy (Banque de France), Eric Mengus (HEC Paris), Guillaume Plantin (Sciences Po) |
 | **Year** | 2021 (working paper, version of 24 September 2021); published in the *Journal of Economic Theory* 220, 105885, 2024 |
 | **Type** | Theory working paper, 60pp. Dynamic game between a fiscal authority, a central bank and bond investors |
-| **PDF** | Local copy only (working paper, no open licence) |
+| **PDF** | Not hosted in this repository (working paper, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jet.2024.105885](https://doi.org/10.1016/j.jet.2024.105885) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Central+Bank%2C+the+Treasury%2C+or+the+Market%3A+Which+One+Determines+the+Price+Level%3F%22+Barth%C3%A9lemy) |
 | **BibTeX** | `barthelemy2021pricelevel` |
 | **Status** | Reference: the introduction and concluding remarks state the results; the model sections are for readers who want the proofs |
 

@@ -5,7 +5,8 @@
 | **Authors** | Yu-Lun Chen (Chung Yuan Christian University), Wei-Che Tsai (National Sun Yat-sen University) |
 | **Year** | 2017 (*Journal of Empirical Finance* 43, 59–73) |
 | **Type** | Journal article, 15pp. Five-minute VIX and VIX futures data, 3 May 2004 – 30 August 2011 |
-| **PDF** | Local copy only (Elsevier journal version) |
+| **PDF** | Not hosted in this repository (Elsevier journal version) |
+| **Find it** | [doi.org/10.1016/j.jempfin.2017.05.002](https://doi.org/10.1016/j.jempfin.2017.05.002) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Determinants+of+Price+Discovery+in+the+VIX+Futures+Market%22+Chen) |
 | **BibTeX** | `chen2017vixdiscovery` |
 | **Status** | Reference: Tables 5–6 (information shares) and the futures-basis and announcement regressions carry the results |
 

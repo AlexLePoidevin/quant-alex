@@ -5,7 +5,8 @@
 | **Authors** | Bloomberg L.P., Quantitative Analytics (no individual authors) |
 | **Year** | 2018 (dated 1 February 2018) |
 | **Type** | Vendor model documentation, 10pp. Describes how Bloomberg's OVML option pricer values variance swaps, mainly FX ones |
-| **PDF** | Local copy only (Bloomberg internal documentation, no licence) |
+| **PDF** | Not hosted in this repository (Bloomberg internal documentation, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Variance+Swaps+%28Bloomberg+OVML+pricing+documentation%29%22+L.P.) for the title and authors |
 | **BibTeX** | `bloomberg2018variance` |
 | **Status** | Reference: §2 (replication with a control variate) and §3 (Greeks) are the useful parts; §5 is about the OVML screen |
 

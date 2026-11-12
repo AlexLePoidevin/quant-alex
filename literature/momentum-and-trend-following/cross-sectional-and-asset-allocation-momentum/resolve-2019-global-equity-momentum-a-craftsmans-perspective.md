@@ -5,7 +5,8 @@
 | **Authors** | ReSolve Asset Management (no individual authors named) |
 | **Year** | 2019 (PDF dated April 2019; data to September 2018) |
 | **Type** | Practitioner white paper, 39pp. Monthly backtests 1950–September 2018, all marked hypothetical and gross of costs |
-| **PDF** | Local copy only (manager white paper, no licence) |
+| **PDF** | Not hosted in this repository (manager white paper, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Global+Equity+Momentum%3A+A+Craftsman%27s+Perspective%22+Management) for the title and authors |
 | **BibTeX** | `resolve2019gem` |
 | **Status** | Reference: the bootstrap test (pp. 12–15), the in- vs out-of-sample check (pp. 16–18) and Table 1 carry the argument |
 

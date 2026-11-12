@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Liuren Wu |
 | **Year** | 2020 (*Journal of Finance* 75(4), 2271–2316). The copy here is the accepted ("forthcoming") version from SSRN 3148796 |
 | **Type** | Paper, 63pp. Empirical part on S&P 500 index options from OptionMetrics, January 1996 to April 2016 |
-| **PDF** | Local copy only (SSRN copy of a *Journal of Finance* article; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN copy of a *Journal of Finance* article; no open licence) |
+| **Find it** | [doi.org/10.1111/jofi.12894](https://doi.org/10.1111/jofi.12894) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Option+Profit+and+Loss+Attribution+and+Pricing%3A+A+New+Framework%22+Carr) |
 | **BibTeX** | `carr2020option` |
 | **Status** | Reference: §II (Theorems 1–2 and equation 9) is the whole idea; §IV.G (out-of-sample trading) and §V (limits) are the parts to reread |
 

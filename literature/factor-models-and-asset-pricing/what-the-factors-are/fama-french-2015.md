@@ -5,6 +5,7 @@
 | **Authors** | Eugene F. Fama; Kenneth R. French |
 | **Year** | 2015 |
 | **Type** | Paper — *Journal of Financial Economics* 116(1), 1–22 |
+| **Find it** | [doi.org/10.2139/ssrn.2287202](https://doi.org/10.2139/ssrn.2287202) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Five-Factor+Asset+Pricing+Model%22+Fama) |
 | **BibTeX** | `fama2015five` |
 | **Status** | To read |
 

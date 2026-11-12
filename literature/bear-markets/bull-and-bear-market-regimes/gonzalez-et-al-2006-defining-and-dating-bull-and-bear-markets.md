@@ -6,6 +6,7 @@
 | **Year** | 2006 |
 | **Type** | Journal article, *Multinational Finance Journal* 10(1/2), 81–116 (2006). doi:10.17578/10-1/2-3. The copy is the journal version posted to SSRN (2625037) in 2015 |
 | **PDF** | `gonzalez-et-al-2006-defining-and-dating-bull-and-bear-markets.pdf` (kept locally; © Multinational Finance Society, all rights reserved) |
+| **Find it** | [doi.org/10.17578/10-1/2-3](https://doi.org/10.17578/10-1/2-3) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Defining+and+Dating+Bull+and+Bear+Markets%3A+Two+Centuries+of+Evidence%22+Gonzalez) |
 | **BibTeX** | `gonzalez2006bullbear` |
 | **Status** | Reference: Tables 1A–1B and 2 (turning-point dates), Table 3 (durations against a random walk) and Table 5 (out-of-sample trading rules) carry the results |
 

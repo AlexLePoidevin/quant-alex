@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur (University of Western Australia) |
 | **Year** | 2021 (dated 21 October 2021) |
 | **Type** | Working paper, SSRN 3947113, 34pp |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Is+Gold+a+Safe+Haven+in+all+Currencies%3F%22+Baur) for the title and authors |
 | **BibTeX** | `baur2021currencies` |
 | **Status** | Reference: §2 (the currency identity), §4.1–4.3 with Tables 5, 10–12 and §5 carry the results |
 

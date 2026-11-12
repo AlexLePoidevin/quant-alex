@@ -6,6 +6,7 @@
 | **Year** | 2026 (revision of 11 August 2026) |
 | **Type** | Encyclopedia article — English Wikipedia, CC BY-SA 4.0 |
 | **Link** | https://en.wikipedia.org/wiki/Neural_tangent_kernel (permanent revision: https://en.wikipedia.org/w/index.php?oldid=1368847382) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Neural+Tangent+Kernel+%28Wikipedia%29%22+contributors) for the title and authors |
 | **BibTeX** | `wiki2026ntk` |
 | **Status** | Explainer and reading map — cite the primary papers, not this page |
 

@@ -5,6 +5,7 @@
 | **Authors** | Jason N. Doctor; Peter P. Wakker; Tong V. Wang |
 | **Year** | 2020 |
 | **Type** | Paper — *Nature Physics* 16(12) — Matters Arising, reply to Peters (2019) |
+| **Find it** | [doi.org/10.1038/s41567-020-01106-x](https://doi.org/10.1038/s41567-020-01106-x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Economists%27+views+on+the+ergodicity+problem%22+Doctor) |
 | **BibTeX** | `doctor2020economists` |
 | **Status** | To read |
 

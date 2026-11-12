@@ -3,6 +3,7 @@
 | | |
 |---|---|
 | **Source** | [Introduction to ICA: Independent Component Analysis](https://medium.com/data-science/introduction-to-ica-independent-component-analysis-b2c3c4720cd9) — Jonas Dieckmann, Towards Data Science |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Independent+Component+Analysis%22) for the title and authors |
 | **Primary reference** | [[hyvarinen-oja-2000]] — Hyvärinen & Oja, *ICA: Algorithms and Applications*, Neural Networks 13(4–5) |
 | **Status** | To read |
 

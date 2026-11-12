@@ -5,7 +5,8 @@
 | **Authors** | Geert Bekaert (Columbia, NBER), Eric Engstrom (Federal Reserve Board) |
 | **Year** | 2010 (the copy is the April 2009 SSRN draft) |
 | **Type** | Journal article, *Journal of Monetary Economics* 57(3), 278–294, doi:10.1016/j.jmoneco.2010.02.004. Working paper version 40pp |
-| **PDF** | Local copy only (SSRN draft, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN draft, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jmoneco.2010.02.004](https://doi.org/10.1016/j.jmoneco.2010.02.004) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Inflation+and+the+Stock+Market%3A+Understanding+the+%22Fed+Model%22%22+Bekaert) |
 | **BibTeX** | `bekaert2010fedmodel` |
 | **Status** | Reference: §1, §3.2 and Table 2 (US decomposition), §4 (20-country test) and §6 carry the results |
 

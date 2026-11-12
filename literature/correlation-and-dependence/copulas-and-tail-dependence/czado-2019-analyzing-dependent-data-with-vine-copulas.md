@@ -7,6 +7,7 @@
 | **Type** | Textbook — Springer Lecture Notes in Statistics 222. ISBN 978-3-030-13784-7, doi:10.1007/978-3-030-13785-4 |
 | **Prerequisite** | Bivariate copulas and Sklar's theorem ([[nelsen-2006-introduction-to-copulas]] ch. 2, 5); basic maximum likelihood; R |
 | **Link** | https://doi.org/10.1007/978-3-030-13785-4 (no PDF in this repo) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Analyzing+Dependent+Data+with+Vine+Copulas%3A+A+Practical+Guide+With+R%22+Czado) for the title and authors |
 | **BibTeX** | `czado2019vine` |
 | **Status** | Reference |
 

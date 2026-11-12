@@ -5,7 +5,8 @@
 | **Authors** | Hilde C. Bjørnland (BI Norwegian Business School; Norges Bank), Roberto Casarin (Ca' Foscari Venice), Marco Lorusso (Newcastle University), Francesco Ravazzolo (Free University of Bozen-Bolzano; BI) |
 | **Year** | 2021 (dated 11 January 2021) |
 | **Type** | Working paper, CAMA Working Paper 10/2021 (ANU), also SSRN 3769785, 88pp. including appendices |
-| **PDF** | Local copy only (working paper, no licence stated) |
+| **PDF** | Not hosted in this repository (working paper, no licence stated) |
+| **Find it** | [doi.org/10.2139/ssrn.3769785](https://doi.org/10.2139/ssrn.3769785) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Oil+and+Fiscal+Policy+Regimes%22+Bj%C3%B8rnland) |
 | **BibTeX** | `bjornland2021oil` |
 | **Status** | Reference: §1 (identification idea), §4 (regime volatilities and the regime probabilities in Figures 7–8) and §5 carry the findings; the long appendices hold the data construction and country results |
 

@@ -5,7 +5,8 @@
 | **Authors** | Xinliang Chen, Griselda Deelstra, Jan Dhaene, Michèle Vanmaele (K.U. Leuven, Université Libre de Bruxelles, Ghent University) |
 | **Year** | 2008 (this version 25 March 2008; published in *Insurance: Mathematics and Economics* 42(3), 2008) |
 | **Type** | Journal article (working-paper version), 41pp |
-| **PDF** | Local copy only (no open licence; the journal version is Elsevier copyright) |
+| **PDF** | Not hosted in this repository (no open licence; the journal version is Elsevier copyright) |
+| **Find it** | [doi.org/10.1016/j.insmatheco.2008.01.002](https://doi.org/10.1016/j.insmatheco.2008.01.002) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Static+Super-Replicating+Strategies+for+a+Class+of+Exotic+Options%22+Chen) |
 | **BibTeX** | `chen2008superreplicating` |
 | **Status** | Reference: §1 (the problem and applications), §2 (comonotonicity) and Theorems 1–3 carry the idea; §4 is the finite-strike case and the appendix an algorithm |
 

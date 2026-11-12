@@ -5,7 +5,8 @@
 | **Authors** | Larry Swedroe (Alpha Architect blog) |
 | **Year** | 2020 (posted 14 July 2020) |
 | **Type** | Article: a 3-page blog summary of Atilgan, Bali, Demirtas and Gunaydin, "Left-Tail Momentum: Underreaction to Bad News, Costly Arbitrage and Equity Returns", *Journal of Financial Economics* 135(3), 725–753, 2020 |
-| **PDF** | Local copy only (web-page printout, no licence) |
+| **PDF** | Not hosted in this repository (web-page printout, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Left+Tail+Risk+and+Left+Tail+Momentum%22+Swedroe) for the title and authors |
 | **BibTeX** | `swedroe2020lefttail` |
 | **Status** | Reference for the summary; the numbers are the underlying JFE paper's |
 

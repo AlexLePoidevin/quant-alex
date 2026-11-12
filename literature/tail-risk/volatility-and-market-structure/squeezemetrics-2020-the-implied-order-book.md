@@ -5,7 +5,8 @@
 | **Authors** | SqueezeMetrics ("GEX Ed.") |
 | **Year** | 2020 (dated 6 July 2020) |
 | **Type** | Vendor white paper, 12pp |
-| **PDF** | Local copy only (vendor paper with no open licence) |
+| **PDF** | Not hosted in this repository (vendor paper with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Implied+Order+Book%22+SqueezeMetrics) for the title and authors |
 | **BibTeX** | `squeezemetrics2020implied` |
 | **Status** | Reference — the GEX and VEX definitions, the March 2020 liquidity map and the closing argument about sold puts are the content |
 

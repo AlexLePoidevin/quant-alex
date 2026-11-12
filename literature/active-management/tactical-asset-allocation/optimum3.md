@@ -5,6 +5,7 @@
 | **Author** | Todd Tresidder, FinancialMentor.com |
 | **Published** | Tested and documented by [Allocate Smartly](https://allocatesmartly.com/financial-mentors-optimum3-strategy/), 17 January 2022 |
 | **Type** | Proprietary practitioner strategy — **no paper, rules not fully disclosed** |
+| **Find it** | [allocatesmartly.com](https://allocatesmartly.com/financial-mentors-optimum3-strategy/) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Optimum3%22+Tresidder) |
 | **BibTeX** | `allocatesmartly2022optimum3` |
 | **Status** | Reconstructed and backtested |
 

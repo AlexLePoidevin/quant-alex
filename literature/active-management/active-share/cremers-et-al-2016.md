@@ -8,6 +8,7 @@
 | **BibTeX** | `cremers2016indexing` |
 | **Status** | To read |
 | **Link** | [SSRN 1830207](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1830207) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Indexing+and+Active+Fund+Management%3A+International+Evidence%22+Cremers) for the title and authors |
 
 ## Key takeaway
 

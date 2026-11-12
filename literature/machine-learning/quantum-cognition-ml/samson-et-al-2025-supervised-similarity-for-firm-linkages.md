@@ -6,6 +6,7 @@
 | **Year** | 2025 |
 | **Type** | Article — *Risk.net*, Cutting Edge: Investments, October 2025, 6pp |
 | **Link** | [qognitiveai.com/papers/firm_linkages.pdf](https://www.qognitiveai.com/papers/firm_linkages.pdf) (Risk.net reprint) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Supervised+Similarity+for+Firm+Linkages%22+Samson) for the title and authors |
 | **BibTeX** | `samson2025linkages` |
 | **Status** | Reference — short; the similarity construction and Tables B and D carry the result |
 

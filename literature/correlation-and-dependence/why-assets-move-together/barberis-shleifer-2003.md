@@ -5,6 +5,7 @@
 | **Authors** | Nicholas Barberis; Andrei Shleifer |
 | **Year** | 2003 |
 | **Type** | Paper — *Journal of Financial Economics* 68(2), 161–199 |
+| **Find it** | [doi.org/10.2139/ssrn.255557](https://doi.org/10.2139/ssrn.255557) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Style+Investing%22+Barberis) |
 | **BibTeX** | `barberis2003style` |
 | **Status** | To read |
 

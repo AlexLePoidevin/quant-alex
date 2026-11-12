@@ -5,7 +5,8 @@
 | **Authors** | Xiuquan Li, Zhidong Deng (Tsinghua University) |
 | **Year** | 2007 |
 | **Type** | Conference paper, *19th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2007)*, 331–335 |
-| **PDF** | Local copy only (IEEE copyright; the copy is a ResearchGate download) |
+| **PDF** | Not hosted in this repository (IEEE copyright; the copy is a ResearchGate download) |
+| **Find it** | [doi.org/10.1109/ICTAI.2007.105](https://doi.org/10.1109/ICTAI.2007.105) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Machine+Learning+Approach+to+Predict+Turning+Points+for+Chaotic+Financial+Time+Series%22+Li) |
 | **BibTeX** | `li2007turning` |
 | **Status** | Reference: §3.2 (turning-point definition), §3.4 (threshold) and §4 (two examples). Results are shown only as figures |
 

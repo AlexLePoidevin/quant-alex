@@ -5,6 +5,7 @@
 | **Author** | Todd Tresidder, FinancialMentor.com |
 | **Documented by** | [Allocate Smartly](https://allocatesmartly.com/financial-mentors-all-weather-quad-momentum/) |
 | **Type** | Proprietary practitioner strategy — **rules not disclosed** |
+| **Find it** | [allocatesmartly.com](https://allocatesmartly.com/financial-mentors-all-weather-quad-momentum/) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22All-Weather+Quad+Momentum+%28AWQM%29%22+Tresidder) |
 | **BibTeX** | `allocatesmartly_awqm` |
 | **Status** | Reconstructed and backtested |
 

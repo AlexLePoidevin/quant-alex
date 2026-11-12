@@ -5,6 +5,7 @@
 | **Authors** | Eric Hughson; Michael Stutzer; Chris Yung |
 | **Year** | 2006 |
 | **Type** | Paper — *Financial Analysts Journal* 62(6) |
+| **Find it** | [doi.org/10.2469/faj.v62.n6.4356](https://doi.org/10.2469/faj.v62.n6.4356) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Misuse+of+Expected+Returns%22+Hughson) |
 | **BibTeX** | `hughson2006misuse` |
 | **Status** | To read |
 

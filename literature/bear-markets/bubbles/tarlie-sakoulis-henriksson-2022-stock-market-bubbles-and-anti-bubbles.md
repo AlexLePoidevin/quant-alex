@@ -5,7 +5,8 @@
 | **Authors** | Martin B. Tarlie, Georgios Sakoulis, Roy Henriksson (QMA; Tarlie later at GMO) |
 | **Year** | 2022 (International Review of Financial Analysis 81, 101235); the copy here is the working paper dated 11 July 2018 (SSRN 2859795) |
 | **Type** | Working paper (empirical asset pricing, state-space model), 42pp |
-| **PDF** | Local copy only (SSRN working paper; the journal version is Elsevier) |
+| **PDF** | Not hosted in this repository (SSRN working paper; the journal version is Elsevier) |
+| **Find it** | [doi.org/10.1016/j.irfa.2018.07.012](https://doi.org/10.1016/j.irfa.2018.07.012) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stock+Market+Bubbles+and+Anti-Bubbles%22+Tarlie) |
 | **BibTeX** | `tarlie2022antibubbles` |
 | **Status** | Reference: §3 (the valuation model), §4.2 (time-varying mean reversion), Table 4 and §6.3 (the mechanism) carry the results |
 

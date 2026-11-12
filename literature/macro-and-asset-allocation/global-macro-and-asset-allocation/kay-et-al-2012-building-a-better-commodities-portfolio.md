@@ -5,7 +5,8 @@
 | **Authors** | Bradley Kay, Ari Levine, Yao Hua Ooi, Lasse H. Pedersen (AQR Capital Management) |
 | **Year** | 2012 (Summer 2012) |
 | **Type** | Manager white paper, AQR, 10pp. Data January 1970 to December 2011 |
-| **PDF** | Local copy only (AQR document with no open licence) |
+| **PDF** | Not hosted in this repository (AQR document with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Building+a+Better+Commodities+Portfolio%22+Kay) for the title and authors |
 | **BibTeX** | `kay2012commodities` |
 | **Status** | Reference: Section 2 (why hold commodities), Section 3 (risk balancing, volatility targeting, drawdown control) and Section 4 (carry, trend and fundamentals) |
 

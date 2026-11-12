@@ -5,7 +5,8 @@
 | **Authors** | Uwe Schmock (ETH Zürich), Steven E. Shreve (Carnegie Mellon), Uwe Wystup (Commerzbank) |
 | **Year** | 2001 (dated 25 October 2001; first appeared in *Foreign Exchange Risk*, Risk Publications, London) |
 | **Type** | Book chapter / practitioner paper, 25pp |
-| **PDF** | Local copy only (first published by Risk Publications; no open licence) |
+| **PDF** | Not hosted in this repository (first published by Risk Publications; no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Dealing+with+Dangerous+Digitals%22+Schmock) for the title and authors |
 | **BibTeX** | `schmock2001dangerous` |
 | **Status** | Reference: §2 (the up-and-out call problem), §3 (super-replication under a leverage constraint) and §4 (closed forms) carry it; §5 is a finite-difference recipe |
 

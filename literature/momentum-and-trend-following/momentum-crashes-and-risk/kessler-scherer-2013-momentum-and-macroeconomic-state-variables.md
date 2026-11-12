@@ -5,7 +5,8 @@
 | **Authors** | Stephan Kessler (University of St. Gallen) and Bernd Scherer (FTC Capital) |
 | **Year** | 2013 |
 | **Type** | Journal article, *Financial Markets and Portfolio Management* 27(4), 335–363. Monthly excess returns on 22 asset-class indices (equities, bonds, commodities, currencies, REITs), January 1984 to April 2010 |
-| **PDF** | Local copy only (Springer journal article, © Swiss Society for Financial Market Research) |
+| **PDF** | Not hosted in this repository (Springer journal article, © Swiss Society for Financial Market Research) |
+| **Find it** | [doi.org/10.1007/s11408-013-0215-8](https://doi.org/10.1007/s11408-013-0215-8) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Momentum+and+Macroeconomic+State+Variables%22+Kessler) |
 | **BibTeX** | `kessler2013macro` |
 | **Status** | Reference: Table 1 (strategy), Table 3 (expansions vs contractions), Table 5 (two-way sorts) and Table 6 (conditional factor model) carry the result |
 

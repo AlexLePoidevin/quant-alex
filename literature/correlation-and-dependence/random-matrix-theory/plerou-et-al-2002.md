@@ -5,6 +5,7 @@
 | **Authors** | Vasiliki Plerou; Parameswaran Gopikrishnan; Bernd Rosenow; Luís A. N. Amaral; Thomas Guhr; H. Eugene Stanley |
 | **Year** | 2002 |
 | **Type** | Paper — *Physical Review E* 65, 066126 |
+| **Find it** | [doi.org/10.1103/physreve.65.066126](https://doi.org/10.1103/physreve.65.066126) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Random+Matrix+Approach+to+Cross+Correlations+in+Financial+Data%22+Plerou) |
 | **BibTeX** | `plerou2002random` |
 | **Status** | To read |
 

@@ -5,7 +5,8 @@
 | **Authors** | Ritt Keerati (Columbia Business School) |
 | **Year** | 2020 (27 July 2020; SSRN 3682897) |
 | **Type** | Empirical working paper, 62pp. (21pp. of text plus tables and appendices). G10 countries, 2000–2019, around scheduled Fed and ECB announcements |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3682897](https://doi.org/10.2139/ssrn.3682897) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Impact+of+Monetary+Policy+on+the+Specialness+of+U.S.+Treasuries%22+Keerati) |
 | **BibTeX** | `keerati2020specialness` |
 | **Status** | Reference: §3 (the U.S. Treasury Premium and its decomposition), §4 (event-study design), §5 (Fed shocks) and the Conclusion |
 

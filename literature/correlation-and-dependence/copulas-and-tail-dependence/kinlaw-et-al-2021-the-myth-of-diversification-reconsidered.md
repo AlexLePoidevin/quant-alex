@@ -5,7 +5,8 @@
 | **Authors** | William Kinlaw, Mark Kritzman, Sébastien Page and David Turkington (State Street Associates, Windham/MIT, T. Rowe Price) |
 | **Year** | 2021 |
 | **Type** | Journal article, *Journal of Portfolio Management* 47(8), 124–137 |
-| **PDF** | Local copy only (JPM reprint; reproduction prohibited without the publisher's permission) |
+| **PDF** | Not hosted in this repository (JPM reprint; reproduction prohibited without the publisher's permission) |
+| **Find it** | [doi.org/10.3905/jpm.2021.1.273](https://doi.org/10.3905/jpm.2021.1.273) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Myth+of+Diversification+Reconsidered%22+Kinlaw) |
 | **BibTeX** | `kinlaw2021myth` |
 | **Status** | Reference: read in full; Exhibits 3, 8 and 9 carry the argument |
 

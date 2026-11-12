@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Hélyette Geman, Dilip B. Madan, Marc Yor |
 | **Year** | 2004 (working paper dated 9 October 2004; published in *Quantitative Finance* 4(5), 2004) |
 | **Type** | Paper, 17pp (working-paper version) |
-| **PDF** | Local copy only (pre-publication draft, no open licence) |
+| **PDF** | Not hosted in this repository (pre-publication draft, no open licence) |
+| **Find it** | [doi.org/10.1080/14697680400000039](https://doi.org/10.1080/14697680400000039) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22From+Local+Volatility+to+Local+L%C3%A9vy+Models%22+Carr) |
 | **BibTeX** | `carr2004locallevy` |
 | **Status** | Reference: §2–3 give the recovery formula, §4 the closed-form double-exponential case, §6 the Fourier method for VG and CGMY |
 

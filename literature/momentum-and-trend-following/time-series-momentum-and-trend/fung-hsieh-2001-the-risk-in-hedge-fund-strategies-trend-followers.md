@@ -5,7 +5,8 @@
 | **Authors** | William Fung (PI Asset Management), David A. Hsieh (Duke University) |
 | **Year** | 2001 (Review of Financial Studies 14(2), 313–341) |
 | **Type** | Journal article, 29pp. Lookback-straddle returns on 26 futures markets from the mid-1980s to 1997; trend-following fund returns 1989–1997 from the TASS CTA database |
-| **PDF** | Local copy only (published RFS article, © The Society for Financial Studies) |
+| **PDF** | Not hosted in this repository (published RFS article, © The Society for Financial Studies) |
+| **Find it** | [doi.org/10.1093/rfs/14.2.313](https://doi.org/10.1093/rfs/14.2.313) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Risk+in+Hedge+Fund+Strategies%3A+Theory+and+Evidence+from+Trend+Followers%22+Fung) |
 | **BibTeX** | `fung2001trend` |
 | **Status** | Reference: §1 (lookback straddle as the "primitive trend-following strategy"), §3 (what explains trend-fund returns) and §4 (individual funds) carry the results |
 

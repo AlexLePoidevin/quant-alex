@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Morgan Stanley), Katrina Ellis, Vishal Gupta (Cornell) |
 | **Year** | 1998 (*Journal of Finance* 53(3), 1165–1190) |
 | **Type** | Journal article, 26pp |
-| **PDF** | Local copy only (journal version, publisher copyright) |
+| **PDF** | Not hosted in this repository (journal version, publisher copyright) |
+| **Find it** | [doi.org/10.1111/0022-1082.00048](https://doi.org/10.1111/0022-1082.00048) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Static+Hedging+of+Exotic+Options%22+Carr) |
 | **BibTeX** | `carr1998static` |
 | **Status** | Reference: §I (put-call symmetry), §II (single barriers), §III (double barriers, roll-downs, ratchets, lookbacks), §IV (bounds with carry) |
 

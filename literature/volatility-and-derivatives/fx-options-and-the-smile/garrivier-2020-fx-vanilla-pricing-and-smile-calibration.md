@@ -5,7 +5,8 @@
 | **Authors** | A. Garrivier |
 | **Year** | 2020 (dated January 2020) |
 | **Type** | Working paper, 16pp |
-| **PDF** | Local copy only (working paper with no licence) |
+| **PDF** | Not hosted in this repository (working paper with no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22FX+Vanilla+Pricing+and+Smile+Calibration%22+Garrivier) for the title and authors |
 | **BibTeX** | `garrivier2020fx` |
 | **Status** | Reference: §2 (delta conventions) and §3–4 (market strangle, the two calibrations, the USD/JPY example) |
 

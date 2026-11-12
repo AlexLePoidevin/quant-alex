@@ -5,7 +5,8 @@
 | **Authors** | Vineer Bhansali (founder and CIO), Jeremie Holdom (LongTail Alpha) |
 | **Year** | 2021. The copy is the version dated 25 November 2020, submitted to the journal; published in *The Journal of Portfolio Management* 47(6), 101–113 |
 | **Type** | Manager research paper, 19pp. Data January 1971 to September 2020 |
-| **PDF** | Local copy only (manager working version, no open licence) |
+| **PDF** | Not hosted in this repository (manager working version, no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2021.1.229](https://doi.org/10.3905/jpm.2021.1.229) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Diversifying+Diversification%3A+Downside+Risk+Management+with+Portfolios+of+Insurance+Securities%22+Bhansali) |
 | **BibTeX** | `bhansali2021diversifying` |
 | **Status** | Reference: Exhibit 1 (each hedge on its own), Exhibits 4–12 (in-sample and out-of-sample drawdown periods) and Exhibits 13 and 16 (full sample and weight stability) carry the results |
 

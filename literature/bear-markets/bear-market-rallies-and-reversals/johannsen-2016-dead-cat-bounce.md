@@ -5,7 +5,8 @@
 | **Authors** | Kolja Johannsen (Warwick Business School) |
 | **Year** | 2016 (dated 27 May 2016) |
 | **Type** | Working paper, SSRN 2961304, 39pp. Theory only; no empirical test |
-| **PDF** | Local copy only (SSRN download, no licence stated) |
+| **PDF** | Not hosted in this repository (SSRN download, no licence stated) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Dead+Cat+Bounce%3A+Demand+Reversal+Following+the+Bursting+of+a+Bubble%22+Johannsen) for the title and authors |
 | **BibTeX** | `johannsen2016deadcat` |
 | **Status** | Reference: §3 (set-up and assumptions), Propositions 1–2 in §5 (the jump in demand) and Proposition 3 in §6 (when and how big the bounce is) carry the argument |
 

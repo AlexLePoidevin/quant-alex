@@ -5,6 +5,7 @@
 | **Authors** | David G. Booth; Eugene F. Fama |
 | **Year** | 1992 |
 | **Type** | Paper — *Financial Analysts Journal* 48(3) |
+| **Find it** | [doi.org/10.2469/faj.v48.n3.26](https://doi.org/10.2469/faj.v48.n3.26) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Diversification+Returns+and+Asset+Contributions%22+Booth) |
 | **BibTeX** | `booth1992diversification` |
 | **Status** | To read |
 

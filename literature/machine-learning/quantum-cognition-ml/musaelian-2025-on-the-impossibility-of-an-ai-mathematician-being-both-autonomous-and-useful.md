@@ -6,7 +6,8 @@
 | **Year** | 2025 |
 | **Type** | Working paper — Qognitive, 5–6pp. Not peer-reviewed. First circulated 30 July 2025 as *On the Impossibility of AI Passing a Modified Birch Test*; revised and retitled 11 August 2025 |
 | **Link** | Revised version, [archived copy](https://web.archive.org/web/20260615202433/https://www.qognitiveai.com/papers/Birch_Test_paper.pdf); no longer listed on qognitiveai.com |
-| **PDF** | Kept locally, not committed (the 30 July draft) |
+| **PDF** | Not hosted in this repository (the 30 July draft) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22On+the+Impossibility+of+an+AI+Mathematician+Being+Both+Autonomous+and+Useful%22+Musaelian) for the title and authors |
 | **BibTeX** | `musaelian_ai_mathematician` |
 | **Status** | Reference — read in full (both versions) |
 

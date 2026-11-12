@@ -5,7 +5,8 @@
 | **Authors** | Pavel V. Shevchenko (CSIRO Mathematical and Information Sciences, Sydney) |
 | **Year** | 2006 (*Derivatives Week*, 13 and 20 March 2006; first submitted April 2004) |
 | **Type** | Short trade-press article, 4pp |
-| **PDF** | Local copy only (no open licence) |
+| **PDF** | Not hosted in this repository (no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Implied+Correlation+for+Pricing+Multi-FX+Options%22+Shevchenko) for the title and authors |
 | **BibTeX** | `shevchenko2006implied` |
 | **Status** | Reference: the whole note is the result |
 

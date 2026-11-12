@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur (UWA Business School), Konstantin Kuck (University of Hohenheim) |
 | **Year** | 2020 (*Finance Research Letters* 33, 101187; doi:10.1016/j.frl.2019.05.005). The copy is the SSRN 3243111 version dated 19 April 2019 |
 | **Type** | Short empirical paper, 17pp |
-| **PDF** | Local copy only (SSRN working-paper version; the journal version is Elsevier) |
+| **PDF** | Not hosted in this repository (SSRN working-paper version; the journal version is Elsevier) |
+| **Find it** | [doi.org/10.1016/j.frl.2019.05.005](https://doi.org/10.1016/j.frl.2019.05.005) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Timing+of+the+Flight+to+Gold%3A+An+Intra-day+Analysis+of+Gold+and+the+S%26P500%22+Baur) |
 | **BibTeX** | `baur2020flightgold` |
 | **Status** | Reference: §2.2 (the ten extreme days), §2.3 (average paths) and §2.4 (Tables 6–7) carry the results |
 

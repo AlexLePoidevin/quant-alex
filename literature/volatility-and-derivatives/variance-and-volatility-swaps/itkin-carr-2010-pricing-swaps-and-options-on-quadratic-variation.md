@@ -5,7 +5,8 @@
 | **Authors** | Andrey Itkin (Rutgers), Peter Carr (Bloomberg LP and NYU) |
 | **Year** | 2010 (*Review of Derivatives Research* 13:141–176; published online November 2009) |
 | **Type** | Paper, 36pp |
-| **PDF** | Local copy only (Springer journal version) |
+| **PDF** | Not hosted in this repository (Springer journal version) |
+| **Find it** | [doi.org/10.1007/s11147-009-9048-z](https://doi.org/10.1007/s11147-009-9048-z) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Pricing+Swaps+and+Options+on+Quadratic+Variation+under+Stochastic+Time+Change+Models+%E2%80%94+Discrete+Observations+Case%22+Itkin) |
 | **BibTeX** | `itkin2010quadratic` |
 | **Status** | Reference: §1 (contributions), Theorems 1–3 and §7 (comparison with market data) carry the results |
 

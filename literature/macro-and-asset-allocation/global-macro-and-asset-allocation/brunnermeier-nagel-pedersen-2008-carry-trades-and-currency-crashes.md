@@ -5,7 +5,8 @@
 | **Authors** | Markus K. Brunnermeier, Stefan Nagel, Lasse H. Pedersen |
 | **Year** | 2008. Published in *NBER Macroeconomics Annual* 23, 313–348 (doi 10.1086/593088) |
 | **Type** | Journal article; this copy is NBER Working Paper 14473 (November 2008), 36pp. Data 1986–2006, eight developed currencies against the US dollar |
-| **PDF** | Local copy only (NBER working paper, "All rights reserved") |
+| **PDF** | Not hosted in this repository (NBER working paper, "All rights reserved") |
+| **Find it** | [doi.org/10.1086/593088](https://doi.org/10.1086/593088) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Carry+Trades+and+Currency+Crashes%22+Brunnermeier) |
 | **BibTeX** | `brunnermeier2008carry` |
 | **Status** | Reference: Section 2 (skewness and interest differentials), Section 3 (speculator positions and crash risk) and Section 4 (VIX, TED and funding liquidity) |
 

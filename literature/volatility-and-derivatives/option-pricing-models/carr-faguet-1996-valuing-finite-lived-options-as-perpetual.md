@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Dmitri Faguet (Cornell University) |
 | **Year** | 1996 (working paper, version of 21 June 1996; SSRN 706; formerly titled "Fast Accurate Valuation of American Options") |
 | **Type** | Working paper, 35pp. Numerical tests in the Black–Scholes model |
-| **PDF** | Local copy only (SSRN working paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper; no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.706](https://doi.org/10.2139/ssrn.706) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Valuing+Finite-Lived+Options+as+Perpetual%22+Carr) |
 | **BibTeX** | `carr1996perpetual` |
 | **Status** | Reference: §III (time decay as credit downgrades) is the idea; §IV (Richardson extrapolation and Table 1) is the practical result |
 

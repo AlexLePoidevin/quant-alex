@@ -5,7 +5,8 @@
 | **Authors** | Stéphane Dupraz (Banque de France), Hervé Le Bihan (Banque de France, Banco de España), Julien Matheron (Banque de France) |
 | **Year** | 2022 (Banque de France Working Paper 862, January 2022) |
 | **Type** | Central-bank working paper, 50pp. Published as "Make-up strategies with finite planning horizons but infinitely forward-looking asset prices", *Journal of Monetary Economics* 143, 103542 (2024), doi:10.1016/j.jmoneco.2023.11.006 |
-| **PDF** | Local copy only (working paper download, no open licence) |
+| **PDF** | Not hosted in this repository (working paper download, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jmoneco.2023.11.006](https://doi.org/10.1016/j.jmoneco.2023.11.006) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Make-up+Strategies+with+Finite+Planning+Horizons+but+Forward-Looking+Asset+Prices%22+Dupraz) |
 | **BibTeX** | `dupraz2024makeup` |
 | **Status** | Reference: the non-technical summary, §1, §5.3–5.4 (calibration and forward-guidance responses), §6.3–6.4 with Table 2 and §7 carry the results; the derivations in §3–4 were skimmed |
 

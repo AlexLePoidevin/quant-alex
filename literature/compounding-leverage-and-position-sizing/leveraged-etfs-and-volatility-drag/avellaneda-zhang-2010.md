@@ -5,6 +5,7 @@
 | **Authors** | Marco Avellaneda; Stanley Zhang |
 | **Year** | 2010 |
 | **Type** | Paper — *SIAM Journal on Financial Mathematics* 1 |
+| **Find it** | [doi.org/10.2139/ssrn.1404708](https://doi.org/10.2139/ssrn.1404708) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Path-Dependence+of+Leveraged+ETF+Returns%22+Avellaneda) |
 | **BibTeX** | `avellaneda2010path` |
 | **Status** | To read |
 

@@ -5,6 +5,7 @@
 | **Authors** | Gregory Connor; Robert A. Korajczyk |
 | **Year** | 1993 |
 | **Type** | Paper — *Journal of Finance* 48(4), 1263–1291 |
+| **Find it** | [doi.org/10.1111/j.1540-6261.1993.tb04754.x](https://doi.org/10.1111/j.1540-6261.1993.tb04754.x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Test+for+the+Number+of+Factors+in+an+Approximate+Factor+Model%22+Connor) |
 | **BibTeX** | `connor1993test` |
 | **Status** | To read |
 

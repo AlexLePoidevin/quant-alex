@@ -6,6 +6,7 @@
 | **Year** | 2026 |
 | **Type** | White paper — Qognitive, 7pp. Not peer-reviewed |
 | **Link** | [qognitiveai.com/papers/Data_Cleaning_Whitepaper.pdf](https://www.qognitiveai.com/papers/Data_Cleaning_Whitepaper.pdf) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Shape+of+Your+Data+%28Data+Cleaning+White+Paper%29%22+Candelori) for the title and authors |
 | **BibTeX** | `candelori2026shape` |
 | **Status** | Reference — short; pp. 3–5 (energy, the Hilbert-space dimension, imputation as energy minimisation) carry the method |
 

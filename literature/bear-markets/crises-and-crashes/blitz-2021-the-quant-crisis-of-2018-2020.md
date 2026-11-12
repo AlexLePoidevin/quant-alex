@@ -5,7 +5,8 @@
 | **Authors** | David Blitz (Robeco Quantitative Investments) |
 | **Year** | 2021 |
 | **Type** | Journal article, *Journal of Portfolio Management* 47(6), 8–21; the local copy is the SSRN working paper (3774164), dated December 2020 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.3905/jpm.2021.1.232](https://doi.org/10.3905/jpm.2021.1.232) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Quant+Crisis+of+2018%E2%80%932020%3A+Cornered+by+Big+Growth%22+Blitz) |
 | **BibTeX** | `blitz2021quantcrisis` |
 | **Status** | Reference: read in full; Sections 3 and 4 (Exhibits 4, 7, 8 and 10) carry the argument |
 

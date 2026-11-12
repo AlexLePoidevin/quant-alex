@@ -5,7 +5,8 @@
 | **Authors** | Fulvio Corsi (University of Lugano; Swiss Finance Institute) |
 | **Year** | 2009 |
 | **Type** | Journal article, *Journal of Financial Econometrics* 7(2), 174–196. Tick data for USD/CHF (1989–2003), S&P 500 futures (1990–2007) and 30-year Treasury bond futures |
-| **PDF** | Local copy only (Oxford University Press; library download) |
+| **PDF** | Not hosted in this repository (Oxford University Press; library download) |
+| **Find it** | [doi.org/10.1093/jjfinec/nbp001](https://doi.org/10.1093/jjfinec/nbp001) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Simple+Approximate+Long-Memory+Model+of+Realized+Volatility%22+Corsi) |
 | **BibTeX** | `corsi2009har` |
 | **Status** | Reference: §2 (the volatility cascade and the HAR-RV model) and §4 (in- and out-of-sample forecasts) |
 

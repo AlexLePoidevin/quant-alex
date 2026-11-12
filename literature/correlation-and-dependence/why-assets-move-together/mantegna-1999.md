@@ -5,6 +5,7 @@
 | **Authors** | Rosario N. Mantegna |
 | **Year** | 1999 |
 | **Type** | Paper — *European Physical Journal B* 11(1), 193–197 |
+| **Find it** | [doi.org/10.1007/s100510050929](https://doi.org/10.1007/s100510050929) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Hierarchical+Structure+in+Financial+Markets%22+Mantegna) |
 | **BibTeX** | `mantegna1999hierarchical` |
 | **Status** | To read |
 

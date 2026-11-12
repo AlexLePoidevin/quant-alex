@@ -5,7 +5,8 @@
 | **Authors** | Feng Shi (Amazon; UNC Chapel Hill), John Paul Broussard (Estonia Business School; Rutgers), G. Geoffrey Booth (The Citadel; Michigan State) |
 | **Year** | 2020 (dated 26 June 2020) |
 | **Type** | Working paper, SSRN 3425664. Millisecond trades in the 30 Dow stocks on 6 May 2010, from Nanex |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [ssrn.com](https://ssrn.com/abstract=3425664) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Modeling+Flash+Crash+Behavior+in+a+Stock+Market+using+Multivariate+Hawkes+Processes%22+Shi) |
 | **BibTeX** | `shi2020flash` |
 | **Status** | Reference: the method section (the excitation matrix and the rolling fit) and the results on network density, cross-reflexivity and modularity carry the paper |
 

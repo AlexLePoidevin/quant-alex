@@ -5,7 +5,8 @@
 | **Authors** | Xiang Fang (HKU), Yang Liu (HKU), Nikolai Roussanov (Wharton, NBER) |
 | **Year** | 2022 (the copy is the January 2022 SSRN draft; first version August 2020) |
 | **Type** | Working paper, 91pp; later published in *The Review of Financial Studies* 39(3), 702–743 (online July 2025), doi:10.1093/rfs/hhaf050. Also NBER WP 30169 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.1093/rfs/hhaf050](https://doi.org/10.1093/rfs/hhaf050) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Getting+to+the+Core%3A+Inflation+Risks+Within+and+Across+Asset+Classes%22+Fang) |
 | **BibTeX** | `fang2025core` |
 | **Status** | Reference: §2.2 (betas), §2.3 and Tables 4–5 (prices of risk), §2.4 (1963–99 vs 2000–19) and the conclusion carry the results; the New Keynesian model (§3) was skimmed |
 

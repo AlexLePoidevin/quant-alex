@@ -5,7 +5,8 @@
 | **Authors** | Thomas Low; Christian Borgelt; Sebastian Stober; Andreas Nürnberger (Magdeburg; European Centre for Soft Computing) |
 | **Year** | 2013 |
 | **Type** | Book chapter — in Borgelt et al. (eds.), *Towards Advanced Data Analysis by Combining Soft Computing and Statistics*, Studies in Fuzziness and Soft Computing 285, Springer, pp. 267–278. 12pp |
-| **PDF** | Not redistributable (© Springer-Verlag) |
+| **PDF** | Not hosted in this repository: not redistributable (© Springer-Verlag) |
+| **Find it** | [doi.org/10.1007/978-3-642-30278-7_21](https://doi.org/10.1007/978-3-642-30278-7_21) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Hubness+Phenomenon%3A+Fact+or+Artifact%3F%22+Low) |
 | **BibTeX** | `low2013hubness` |
 | **Status** | Reference |
 

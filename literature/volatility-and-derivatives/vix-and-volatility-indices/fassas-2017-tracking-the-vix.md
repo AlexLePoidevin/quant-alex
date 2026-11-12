@@ -5,7 +5,8 @@
 | **Authors** | Athanasios Fassas (University of Sheffield International Faculty, City College, Thessaloniki) |
 | **Year** | 2017 |
 | **Type** | Journal article, *The Journal of Index Investing* 8(1), 76–91. Data: January 2011 – March 2014 |
-| **PDF** | Local copy only (journal download; publisher copyright) |
+| **PDF** | Not hosted in this repository (journal download; publisher copyright) |
+| **Find it** | [doi.org/10.3905/jii.2017.2017.1.050](https://doi.org/10.3905/jii.2017.2017.1.050) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Tracking+the+VIX%22+Fassas) |
 | **BibTeX** | `fassas2017tracking` |
 | **Status** | Reference: the tracking-error and regression exhibits (3 and 4) carry the results |
 

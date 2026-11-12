@@ -5,7 +5,8 @@
 | **Authors** | Patrick Beaudan (Belvedere Advisors / Emotomy); Shuoyuan He (Tulane University) |
 | **Year** | 2019 (draft dated January 2019) |
 | **Type** | Working paper, SSRN 3325656, 78pp. Daily S&P 500 price index 1927–2018, plus seven other equity indices |
-| **PDF** | Local copy only (SSRN working paper; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper; no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3325656](https://doi.org/10.2139/ssrn.3325656) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Applying+Machine+Learning+to+Trading+Strategies%3A+Using+Logistic+Regression+to+Build+Momentum-based+Trading+Strategies%22+Beaudan) |
 | **BibTeX** | `beaudan2019logistic` |
 | **Status** | Reference: §3.2 (design), Table 5 and Figures 3–6 (results by polynomial degree and horizon), §6 (long-short and other indices) |
 

@@ -5,7 +5,8 @@
 | **Authors** | Andrew Ang (Columbia) and Allan Timmermann (UC San Diego) |
 | **Year** | 2012 |
 | **Type** | Survey. *Annual Review of Financial Economics* 4, 313–337 (doi 10.1146/annurev-financial-110311-101808); the copy is NBER Working Paper 17182 (June 2011), 34pp |
-| **PDF** | Local copy only (NBER working paper, "All rights reserved"; the journal version is Annual Reviews copyright) |
+| **PDF** | Not hosted in this repository (NBER working paper, "All rights reserved"; the journal version is Annual Reviews copyright) |
+| **Find it** | [doi.org/10.1146/annurev-financial-110311-101808](https://doi.org/10.1146/annurev-financial-110311-101808) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Regime+Changes+and+Financial+Markets%22+Ang) |
 | **BibTeX** | `ang2012regime` |
 | **Status** | Reference: §2 (what a regime-switching model is and what it implies for moments and equilibrium prices), §3.1 and Table 1 (a typical estimation on equities, T-bills and FX), §3.5 (asset allocation) |
 

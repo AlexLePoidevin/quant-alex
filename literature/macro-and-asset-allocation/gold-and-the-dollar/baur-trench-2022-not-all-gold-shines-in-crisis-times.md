@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur, Allan Trench (University of Western Australia) |
 | **Year** | 2022. Published as "Not all gold shines in crisis times — Gold firms, gold bullion and the COVID-19 pandemic", *Journal of Commodity Markets* 28, 100260. The copy is the August 2020 SSRN preprint (SSRN 3677925) |
 | **Type** | Journal article (preprint version), 31pp |
-| **PDF** | Local copy only (SSRN preprint, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN preprint, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jcomm.2022.100260](https://doi.org/10.1016/j.jcomm.2022.100260) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Not+all+Gold+Shines+in+Crisis+Times+%E2%80%93+COVID-19+Evidence%22+Baur) |
 | **BibTeX** | `baur2022goldfirms` |
 | **Status** | Reference: Figures 1–3 (the decoupling), Tables 2–3 (the panel regressions) and Figure 5 (firm-level betas) |
 

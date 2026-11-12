@@ -5,7 +5,8 @@
 | **Authors** | Gurdip Bakshi, Dilip Madan, George Panayotov |
 | **Year** | 2015 (*Journal of Financial and Quantitative Analysis* 50(6), 1389–1414, December 2015; earlier SSRN 2024592). The source file is labelled 2016 |
 | **Type** | Journal article, 26pp. Theory plus VIX option returns, March 2006 – December 2013 (93 months) |
-| **PDF** | Local copy only (journal version) |
+| **PDF** | Not hosted in this repository (journal version) |
+| **Find it** | [doi.org/10.1017/S0022109015000642](https://doi.org/10.1017/S0022109015000642) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Heterogeneity+in+Beliefs+and+Volatility+Tail+Behavior%22+Bakshi) |
 | **BibTeX** | `bakshi2015heterogeneity` |
 | **Status** | Reference: §II (model and Theorem 1) and Table 2 (VIX option returns by moneyness) carry the argument |
 

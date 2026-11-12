@@ -5,6 +5,7 @@
 | **Authors** | R. Tyrrell Rockafellar; Stanislav Uryasev |
 | **Year** | 2000 |
 | **Type** | Paper — *Journal of Risk* 2(3) |
+| **Find it** | [doi.org/10.21314/jor.2000.038](https://doi.org/10.21314/jor.2000.038) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Optimization+of+Conditional+Value-at-Risk%22+Rockafellar) |
 | **BibTeX** | `rockafellar2000optimization` |
 | **Status** | To read |
 

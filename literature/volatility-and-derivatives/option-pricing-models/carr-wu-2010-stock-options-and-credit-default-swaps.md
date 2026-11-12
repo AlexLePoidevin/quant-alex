@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Bloomberg; Courant Institute, NYU), Liuren Wu (Baruch College) |
 | **Year** | 2010 (published in the Journal of Financial Econometrics 8(4); this copy is the working paper dated 26 September 2006, first draft April 2004) |
 | **Type** | Journal article (working-paper version), 43pp |
-| **PDF** | Local copy only (working-paper download, no open licence) |
+| **PDF** | Not hosted in this repository (working-paper download, no open licence) |
+| **Find it** | [doi.org/10.1093/jjfinec/nbp010](https://doi.org/10.1093/jjfinec/nbp010) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stock+Options+and+Credit+Default+Swaps%3A+A+Joint+Framework+for+Valuation+and+Estimation%22+Carr) |
 | **BibTeX** | `carr2010stock` |
 | **Status** | Reference: §1 (the model and pricing formulas), §2.3 (the stylised link between CDS spreads and implied volatility) and §4 (estimates and factor impacts) carry the results |
 

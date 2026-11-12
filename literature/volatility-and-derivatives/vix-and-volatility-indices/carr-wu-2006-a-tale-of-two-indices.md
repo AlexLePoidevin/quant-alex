@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Bloomberg; NYU Courant), Liuren Wu (Baruch College, CUNY) |
 | **Year** | 2006 (this version dated 22 December 2005) |
 | **Type** | Journal article, *Journal of Derivatives* 13(3), Spring 2006, 13–29; 38pp working-paper version |
-| **PDF** | Local copy only (author version of a journal article) |
+| **PDF** | Not hosted in this repository (author version of a journal article) |
+| **Find it** | [doi.org/10.3905/jod.2006.616865](https://doi.org/10.3905/jod.2006.616865) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Tale+of+Two+Indices%22+Carr) |
 | **BibTeX** | `carr2006tale` |
 | **Status** | Reference: §I–II (the old and new VIX and what each one measures) and §III.D (variance risk premium) are the core; §IV covers bounds for VIX futures |
 

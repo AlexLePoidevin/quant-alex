@@ -5,6 +5,7 @@
 | **Authors** | J. L. Kelly Jr. |
 | **Year** | 1956 |
 | **Type** | Paper — *Bell System Technical Journal* 35(4) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22A+New+Interpretation+of+Information+Rate%22+Jr.) for the title and authors |
 | **BibTeX** | `kelly1956new` |
 | **Status** | To read |
 

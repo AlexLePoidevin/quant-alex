@@ -5,7 +5,8 @@
 | **Authors** | Andrei Kirilenko, Albert S. Kyle, Mehrdad Samadi, Tugkan Tuzun |
 | **Year** | 2018 (SSRN 3119363) |
 | **Type** | Short companion piece, 22pp, summarising the authors' *Journal of Finance* article (Kirilenko et al. 2017, "The Flash Crash: High-Frequency Trading in an Electronic Market", 72(3), 967–998) and discussing market design. CFTC account-level E-mini data, 3–6 May 2010 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3119363](https://doi.org/10.2139/ssrn.3119363) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Automation%2C+Intermediation+and+the+Flash+Crash%22+Kirilenko) |
 | **BibTeX** | `kirilenko2018automation` |
 | **Status** | Reference: Figure 2 (intermediary inventories), Table 1 (aggressive/passive volume around price changes) and the section on pit versus electronic trading |
 

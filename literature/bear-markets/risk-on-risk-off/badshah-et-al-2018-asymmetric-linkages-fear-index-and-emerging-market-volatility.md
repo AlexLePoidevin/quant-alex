@@ -5,7 +5,8 @@
 | **Authors** | Ihsan Badshah, Stelios Bekiros, Brian M. Lucey, Gazi Salah Uddin |
 | **Year** | 2018 (*Emerging Markets Review* 37, 17–31) |
 | **Type** | Journal article; this copy is the Elsevier accepted manuscript, 37pp, which lists only Lucey as author (a known production error flagged on its cover page). Daily data, 16 March 2011–16 January 2016 |
-| **PDF** | Local copy only (Elsevier accepted manuscript, no open licence stated) |
+| **PDF** | Not hosted in this repository (Elsevier accepted manuscript, no open licence stated) |
+| **Find it** | [doi.org/10.1016/j.ememar.2018.03.002](https://doi.org/10.1016/j.ememar.2018.03.002) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Asymmetric+Linkages+among+the+Fear+Index+and+Emerging+Market+Volatility+Indices%22+Badshah) |
 | **BibTeX** | `badshah2018fear` |
 | **Status** | Reference: §4 (quantile regressions, Tables 2–4) and the time-varying copula results (Table 6, Figures 2–4) |
 

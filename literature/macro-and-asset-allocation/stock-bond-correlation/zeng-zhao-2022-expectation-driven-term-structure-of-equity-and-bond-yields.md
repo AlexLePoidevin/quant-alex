@@ -5,7 +5,8 @@
 | **Authors** | Ming Zeng (University of Gothenburg, Swedish House of Finance), Guihai Zhao (Bank of Canada) |
 | **Year** | 2022 (last updated 11 May 2022) |
 | **Type** | Bank of Canada Staff Working Paper 2022-21, 59pp. Equilibrium model with subjective expectations, US data from the late 1980s to 2019. Earlier title: "Term Structure of Equity and Bond Yields over Business Cycles". DOI 10.34989/swp-2022-21 |
-| **PDF** | Local copy only (© 2022 Bank of Canada, no open licence) |
+| **PDF** | Not hosted in this repository (© 2022 Bank of Canada, no open licence) |
+| **Find it** | [doi.org/10.34989/swp-2022-21](https://doi.org/10.34989/swp-2022-21) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Expectation-Driven+Term+Structure+of+Equity+and+Bond+Yields%22+Zeng) |
 | **BibTeX** | `zeng2022expectation` |
 | **Status** | Reference: §1 (summary of results), §2 (belief formation), §4 (equity yields, bond–stock comovement, strip-return predictability) carry the content |
 

@@ -5,7 +5,8 @@
 | **Authors** | Guglielmo Maria Caporale (Brunel), Luis Gil-Alana (Navarra), Alex Plastun (Sumy State) |
 | **Year** | 2018 (*Finance Research Letters* 27, 140–147); the copy is CESifo Working Paper 6534, June 2017 |
 | **Type** | Empirical paper, 20pp. VIX daily and monthly, 2004–2016 |
-| **PDF** | Local copy only (CESifo/SSRN working paper; the journal version is Elsevier) |
+| **PDF** | Not hosted in this repository (CESifo/SSRN working paper; the journal version is Elsevier) |
+| **Find it** | [doi.org/10.1016/j.frl.2018.02.007](https://doi.org/10.1016/j.frl.2018.02.007) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Is+Market+Fear+Persistent%3F+A+Long-Memory+Analysis%22+Caporale) |
 | **BibTeX** | `caporale2018fear` |
 | **Status** | Reference: Table 1 (Hurst exponents) and Tables 2–4 (fractional integration by sub-period) carry the results |
 

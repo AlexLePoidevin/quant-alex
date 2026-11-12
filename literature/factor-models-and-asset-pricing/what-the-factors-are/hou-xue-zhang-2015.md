@@ -5,6 +5,7 @@
 | **Authors** | Kewei Hou; Chen Xue; Lu Zhang |
 | **Year** | 2015 |
 | **Type** | Paper — *Review of Financial Studies* 28(3), 650–705 |
+| **Find it** | [doi.org/10.1093/rfs/hhu068](https://doi.org/10.1093/rfs/hhu068) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Digesting+Anomalies%3A+An+Investment+Approach%22+Hou) |
 | **BibTeX** | `hou2015digesting` |
 | **Status** | To read |
 

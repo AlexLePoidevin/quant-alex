@@ -5,7 +5,8 @@
 | **Authors** | Uwe Wystup (MathFinance AG; Frankfurt School of Finance & Management) |
 | **Year** | 2008 (version 12 July 2008) |
 | **Type** | Slides, 70pp |
-| **PDF** | Local copy only (author's slides with no licence) |
+| **PDF** | Not hosted in this repository (author's slides with no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Pricing+of+First+Generation+Exotics+with+the+Vanna-Volga+Method%3A+Pros+and+Cons%22+Wystup) for the title and authors |
 | **BibTeX** | `wystup2008vanna` |
 | **Status** | Reference: the vanna-volga recipe and its one-touch example, the barrier hedging slides and the FX correlation triangle are the content; the exercises and accumulator example are supporting |
 

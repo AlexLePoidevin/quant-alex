@@ -5,7 +5,8 @@
 | **Authors** | Florian Monciaud; Adil Reghai |
 | **Year** | 2021 (January 2021; this version December 2021; SSRN 3860721) |
 | **Type** | Working paper, 17pp |
-| **PDF** | Local copy only (SSRN download with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download with no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3860721](https://doi.org/10.2139/ssrn.3860721) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Singular+Exotic+Perturbation%22+Monciaud) |
 | **BibTeX** | `monciaud2021singular` |
 | **Status** | Reference: §2 (P&L explain), §4 (the expansion) and §5 (the scenario recipe) carry the method; the autocall tests in §6 are shown only as charts |
 

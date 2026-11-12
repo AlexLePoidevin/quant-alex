@@ -5,7 +5,8 @@
 | **Authors** | Jingyi Huang, Olaf Torné (Barclays, Hong Kong) |
 | **Year** | 2021 |
 | **Type** | Article — *Risk*, Cutting Edge: Volatility modelling, December 2021, 5pp |
-| **PDF** | Local copy only (Risk.net article, publisher copyright) |
+| **PDF** | Not hosted in this repository (Risk.net article, publisher copyright) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Sticky+Varswaps%22+Huang) for the title and authors |
 | **BibTeX** | `huang2021sticky` |
 | **Status** | Reference: the introduction (figure 1), "Volatility regime weighting" (equation 8), the closed-form results (equations 3–4) and table A carry the argument |
 

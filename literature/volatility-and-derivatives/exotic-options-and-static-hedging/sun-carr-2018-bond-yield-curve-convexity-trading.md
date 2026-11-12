@@ -5,7 +5,8 @@
 | **Authors** | Jian Sun (Fudan University), Peter Carr (NYU Tandon) |
 | **Year** | 2018 (dated 16 August 2018) |
 | **Type** | Working paper, SSRN 3232697, 10pp |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [ssrn.com](https://ssrn.com/abstract=3232697) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Bond+Yield+Curve+Convexity+Trading%22+Sun) |
 | **BibTeX** | `sun2018convexity` |
 | **Status** | Reference: §1 (the three-bond argument and Theorem 1) is the whole result |
 

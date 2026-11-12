@@ -5,7 +5,8 @@
 | **Authors** | Campbell R. Harvey (Duke; adviser to Man Group), Edward Hoyle, Sandy Rattray, Otto Van Hemert (Man Group) |
 | **Year** | 2020 (version of 18 July 2020) |
 | **Type** | Working paper, SSRN 3655196, 11pp. Not peer reviewed. Data January 1985 to March 2020 |
-| **PDF** | Local copy only (SSRN download with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download with no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3655196](https://doi.org/10.2139/ssrn.3655196) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Strategic+Risk+Management%3A+Out-of-Sample+Evidence+from+the+COVID-19+Equity+Selloff%22+Harvey) |
 | **BibTeX** | `harvey2020covid` |
 | **Status** | Reference: §1 (best strategies in the selloff, Table 1), §2 (trend: MOM vs moving-average crossovers), §3 (volatility targeting) and §4 (strategic rebalancing) |
 

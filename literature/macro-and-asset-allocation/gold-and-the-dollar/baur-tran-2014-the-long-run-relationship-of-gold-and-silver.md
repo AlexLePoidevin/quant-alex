@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur; Duy T. Tran (University of Technology, Sydney) |
 | **Year** | 2014 (this copy: SSRN 2016631, 1 November 2013); published in *Empirical Economics* 47(4), 1525–1541, 2014 |
 | **Type** | Empirical time-series paper, 28pp. 499 monthly observations, January 1970 to July 2011 |
-| **PDF** | Local copy only (SSRN working paper; journal version is Springer) |
+| **PDF** | Not hosted in this repository (SSRN working paper; journal version is Springer) |
+| **Find it** | [doi.org/10.1007/s00181-013-0787-1](https://doi.org/10.1007/s00181-013-0787-1) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Long-run+Relationship+of+Gold+and+Silver+and+the+Influence+of+Bubbles+and+Financial+Crises%22+Baur) |
 | **BibTeX** | `baur2014goldsilver` |
 | **Status** | Reference: §2 (co-integration with and without episode dummies, Tables 2–4), §3 (error-correction models and Granger causality) and §4 (sub-samples) |
 

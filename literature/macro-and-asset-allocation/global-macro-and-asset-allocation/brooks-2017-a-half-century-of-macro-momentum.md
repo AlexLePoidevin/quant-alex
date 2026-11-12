@@ -5,7 +5,8 @@
 | **Authors** | Jordan Brooks (AQR Capital Management) |
 | **Year** | 2017 (August 2017) |
 | **Type** | Manager white paper, AQR, 24pp. Hypothetical backtest 1970–2016, gross of fees and costs |
-| **PDF** | Local copy only (AQR document with no open licence) |
+| **PDF** | Not hosted in this repository (AQR document with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Half+Century+of+Macro+Momentum%22+Brooks) for the title and authors |
 | **BibTeX** | `brooks2017macro` |
 | **Status** | Reference: signal construction (Exhibit 1, Appendices B–C), decade-by-decade results (Exhibits 2–3), bear-market and rising-yield behaviour (Exhibits 4–5), and the comparison with trend (Exhibits 6–7) |
 

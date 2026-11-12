@@ -3,6 +3,7 @@
 | | |
 |---|---|
 | **Author** | Ilya Kipnis (QuantStrat TradeR) |
+| **Find it** | [r-bloggers.com](https://www.r-bloggers.com/2019/01/right-now-its-kdaasset-allocation/) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Kipnis+Defensive+Adaptive+Asset+Allocation+%28KDA%29%22+Kipnis) |
 | **Published** | January 2019, [mirrored at R-bloggers](https://www.r-bloggers.com/2019/01/right-now-its-kdaasset-allocation/); [robustness follow-up](https://www.r-bloggers.com/2019/02/kda-robustness-results/) |
 | **Also** | [Allocate Smartly](https://allocatesmartly.com/ilya-kipnis-defensive-adaptive-asset-allocation/) |
 | **BibTeX** | `kipnis2019kda`, `allocatesmartly_kda` |

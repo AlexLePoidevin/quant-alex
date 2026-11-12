@@ -5,7 +5,8 @@
 | **Authors** | Lev Menand (Columbia Law School) |
 | **Year** | 2021 (ECGI Law Working Paper 518/2020, May 2021 version; SSRN 3602740); forthcoming in the *Stanford Journal of Law, Business & Finance* |
 | **Type** | Legal analysis (law review article), 72pp. |
-| **PDF** | Local copy only ("All rights reserved", © the author) |
+| **PDF** | Not hosted in this repository ("All rights reserved", © the author) |
+| **Find it** | [doi.org/10.67929/ecgi-law-518-2020](https://doi.org/10.67929/ecgi-law-518-2020) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Federal+Reserve+and+the+2020+Economic+and+Financial+Crisis%22+Menand) |
 | **BibTeX** | `menand2021fed2020` |
 | **Status** | Reference: Part I (what each facility did), Part II (the statutory conflicts) and the Conclusion; Parts III–IV are the policy argument |
 

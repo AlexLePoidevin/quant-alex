@@ -5,7 +5,8 @@
 | **Authors** | Lieven Baele (Tilburg University), Frederiek Van Holle (Degroof Petercam Asset Management) |
 | **Year** | 2017 (October 2017 draft) |
 | **Type** | Working paper, SSRN 3075816, 78pp. 10 developed markets, monthly and quarterly, data to December 2013 with an out-of-sample check to March 2017 |
-| **PDF** | Local copy only (SSRN working paper, no licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3075816](https://doi.org/10.2139/ssrn.3075816) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Stock%E2%80%93Bond+Correlations%2C+Macroeconomic+Regimes+and+Monetary+Policy%3A+An+International+Perspective%22+Baele) |
 | **BibTeX** | `baele2017stockbond` |
 | **Status** | Reference: §4 (inflation and output regimes), §5.2 (monetary-policy regimes) and §6.2, Table 10 (interacted regimes) carry the results |
 

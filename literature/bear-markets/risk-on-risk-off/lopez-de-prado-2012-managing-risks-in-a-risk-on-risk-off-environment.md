@@ -5,7 +5,8 @@
 | **Authors** | Marcos López de Prado (Lawrence Berkeley National Laboratory) |
 | **Year** | 2012 |
 | **Type** | Slides, 50pp. SSRN 2150877, doi:10.2139/ssrn.2150877 |
-| **PDF** | Local copy only (SSRN download, no licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no licence) |
+| **Find it** | [doi.org/10.2139/ssrn.2150877](https://doi.org/10.2139/ssrn.2150877) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Managing+Risks+in+a+Risk-On%2FRisk-Off+Environment%22+Prado) |
 | **BibTeX** | `lopezdeprado2012roro` |
 | **Status** | Reference: Sections IV (eigenvectors and risk-on/risk-off), V (portfolio entropy) and VI (worked examples) carry the argument |
 

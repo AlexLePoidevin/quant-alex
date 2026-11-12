@@ -5,7 +5,8 @@
 | **Authors** | Clifford S. Asness, Roni Israelov, John M. Liew (AQR Capital Management) |
 | **Year** | 2011 (*Financial Analysts Journal* 67(3), 24–38) |
 | **Type** | Journal article. Data January 1950 – December 2008, 22 developed markets |
-| **PDF** | Local copy only (published FAJ version, © CFA Institute) |
+| **PDF** | Not hosted in this repository (published FAJ version, © CFA Institute) |
+| **Find it** | [doi.org/10.2469/faj.v67.n3.1](https://doi.org/10.2469/faj.v67.n3.1) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22International+Diversification+Works+%28Eventually%29%22+Asness) |
 | **BibTeX** | `asness2011international` |
 | **Status** | Reference: Tables 1–2 (worst months), Figure 1 (worst returns by horizon) and Figure 8 (return decomposition) carry the argument |
 

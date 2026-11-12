@@ -5,7 +5,8 @@
 | **Authors** | Carl Chiarella, Xue-Zhong He (University of Technology Sydney), Remco C.J. Zwinkels (Erasmus University Rotterdam) |
 | **Year** | 2014 (Journal of Economic Behavior & Organization 105, 1–16); the copy here is the accepted manuscript |
 | **Type** | Empirical paper (estimated heterogeneous agent model) |
-| **PDF** | Local copy only (Elsevier accepted manuscript) |
+| **PDF** | Not hosted in this repository (Elsevier accepted manuscript) |
+| **Find it** | [doi.org/10.1016/j.jebo.2014.03.003](https://doi.org/10.1016/j.jebo.2014.03.003) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Heterogeneous+Expectations+in+Asset+Pricing%3A+Empirical+Evidence+from+the+S%26P500%22+Chiarella) |
 | **BibTeX** | `chiarella2014heterogeneous` |
 | **Status** | Reference: §2 (model), §4 (Tables 2–4, estimates) and §5 (simulations) |
 

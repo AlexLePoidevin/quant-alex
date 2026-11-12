@@ -5,6 +5,7 @@
 | **Authors** | Steven E. Shreve |
 | **Year** | 2004 |
 | **Type** | Book — Springer. Ch. 4 (Itô's Formula) is the relevant chapter |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Stochastic+Calculus+for+Finance+II%3A+Continuous-Time+Models%22+Shreve) for the title and authors |
 | **BibTeX** | `shreve2004stochastic` |
 | **Status** | To read |
 

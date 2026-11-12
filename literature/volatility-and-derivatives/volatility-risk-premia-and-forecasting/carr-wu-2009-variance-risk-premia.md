@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Bloomberg LP; Courant Institute, NYU); Liuren Wu (Baruch College) |
 | **Year** | 2009 (*Review of Financial Studies* 22(3), 1311–1341; first draft July 2003, this copy dated 24 October 2007) |
 | **Type** | Journal paper (author's final working-paper version, 44pp). Options data January 1996 to February 2003 on five stock indexes and 35 stocks |
-| **PDF** | Local copy only (journal article, no open licence) |
+| **PDF** | Not hosted in this repository (journal article, no open licence) |
+| **Find it** | [doi.org/10.1093/rfs/hhn038](https://doi.org/10.1093/rfs/hhn038) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Variance+Risk+Premia%22+Carr) |
 | **BibTeX** | `carr2009variance` |
 | **Status** | Reference: Proposition 1 (synthesising the variance swap rate from options), §3.1 (sign and size of the premium) and §3.2 (factor regressions) carry the paper |
 

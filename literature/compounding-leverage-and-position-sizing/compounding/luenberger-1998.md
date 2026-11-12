@@ -5,6 +5,7 @@
 | **Authors** | David G. Luenberger |
 | **Year** | 1998 |
 | **Type** | Book — Oxford University Press. Ch. 15 (the log-optimal strategy) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Investment+Science%22+Luenberger) for the title and authors |
 | **BibTeX** | `luenberger1998investment` |
 | **Status** | To read |
 

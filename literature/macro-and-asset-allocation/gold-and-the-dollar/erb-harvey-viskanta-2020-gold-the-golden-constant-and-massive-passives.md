@@ -5,7 +5,8 @@
 | **Authors** | Claude Erb, Campbell R. Harvey (Duke; NBER), Tadas Viskanta (Ritholtz Wealth Management) |
 | **Year** | 2020. The copy is the SSRN preprint of 5 August 2020 (SSRN 3667789). A shorter version appeared as "Gold, the Golden Constant, and Déjà Vu", *Financial Analysts Journal* 76(4), 134–142, 2020 |
 | **Type** | Practitioner research paper, 18pp, built around eleven exhibits; no formal econometrics beyond a cointegration check |
-| **PDF** | Local copy only (SSRN preprint, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN preprint, no open licence) |
+| **Find it** | [doi.org/10.1080/0015198X.2020.1817698](https://doi.org/10.1080/0015198X.2020.1817698) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Gold%2C+the+Golden+Constant%2C+COVID-19%2C+%22Massive+Passives%22+and+D%C3%A9j%C3%A0+Vu%22+Erb) |
 | **BibTeX** | `erb2020goldenconstant` |
 | **Status** | Reference: the decomposition (Exhibits 2–4), the real-yield and ETF-holdings comparison (Exhibits 6–8) and the scenario grid (Exhibit 11) carry the argument |
 

@@ -5,7 +5,8 @@
 | **Authors** | Wenjie Ding, Khelifa Mazouz and Qingwei Wang (Cardiff Business School; ZEW) |
 | **Year** | 2021 (published version); the copy here is an undated working paper |
 | **Type** | Journal article, *Journal of Empirical Finance* 63, 42–56 (2021). Data: US common stocks (CRSP/Compustat) and daily VIX, roughly 1990–2018 |
-| **PDF** | Local copy only (working paper of an Elsevier article) |
+| **PDF** | Not hosted in this repository (working paper of an Elsevier article) |
+| **Find it** | [doi.org/10.1016/j.jempfin.2021.05.003](https://doi.org/10.1016/j.jempfin.2021.05.003) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Volatility+Timing%2C+Sentiment%2C+and+the+Short-Term+Profitability+of+VIX-Based+Cross-Sectional+Trading+Strategies%22+Ding) |
 | **BibTeX** | `ding2021vixtiming` |
 | **Status** | Reference: Tables 1–3 and 5 carry the results |
 

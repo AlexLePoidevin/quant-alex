@@ -5,6 +5,7 @@
 | **Authors** | Ole Peters |
 | **Year** | 2019 |
 | **Type** | Paper — *Nature Physics* 15(12) |
+| **Find it** | [doi.org/10.1038/s41567-019-0732-0](https://doi.org/10.1038/s41567-019-0732-0) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+ergodicity+problem+in+economics%22+Peters) |
 | **BibTeX** | `peters2019ergodicity` |
 | **Status** | To read |
 

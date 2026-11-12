@@ -5,7 +5,8 @@
 | **Authors** | John M. Maheu (Toronto), Thomas H. McCurdy (Rotman, Toronto), Yong Song (UTS) |
 | **Year** | 2012 |
 | **Type** | Paper. *Journal of Business & Economic Statistics* 30(3), 391–403 (doi 10.1080/07350015.2012.680412); the copy is the February 2012 SSRN version (1939486), 36pp |
-| **PDF** | Local copy only (SSRN download of a Taylor & Francis journal article; no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download of a Taylor & Francis journal article; no open licence) |
+| **Find it** | [doi.org/10.1080/07350015.2012.680412](https://doi.org/10.1080/07350015.2012.680412) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Components+of+Bull+and+Bear+Markets%3A+Bull+Corrections+and+Bear+Rallies%22+Maheu) |
 | **BibTeX** | `maheu2012components` |
 | **Status** | Reference: §2.2 (the 4-state model), §4.1 (Tables 3–6: states, durations, cumulative returns), §4.3 (1929, 1987, 2007–09) and §4.4 (VaR, long-horizon forecasts, real-time dating) carry the results |
 

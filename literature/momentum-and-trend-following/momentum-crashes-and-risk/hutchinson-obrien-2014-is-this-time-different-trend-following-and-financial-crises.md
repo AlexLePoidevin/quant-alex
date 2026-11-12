@@ -5,7 +5,8 @@
 | **Authors** | Mark C. Hutchinson and John O'Brien (University College Cork, Centre for Investment Research) |
 | **Year** | 2014 (Journal of Alternative Investments 17(2), 82–102); this copy is the February 2014 working-paper version (SSRN 2375733) |
 | **Type** | Journal article (working-paper version), 43pp. A time-series momentum portfolio on commodity, bond, equity-index and currency futures and forwards, 1921–2013, split into crisis and no-crisis periods |
-| **PDF** | Local copy only (working paper of a journal article, no open licence) |
+| **PDF** | Not hosted in this repository (working paper of a journal article, no open licence) |
+| **Find it** | [doi.org/10.3905/jai.2014.17.2.082](https://doi.org/10.3905/jai.2014.17.2.082) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Is+This+Time+Different%3F+Trend+Following+and+Financial+Crises%22+Hutchinson) |
 | **BibTeX** | `hutchinson2014crises` |
 | **Status** | Reference: Exhibit 7 (crisis versus no-crisis performance), Exhibits 9–11 (autocorrelation by period) and Exhibit 13 (individual crises) carry the results |
 

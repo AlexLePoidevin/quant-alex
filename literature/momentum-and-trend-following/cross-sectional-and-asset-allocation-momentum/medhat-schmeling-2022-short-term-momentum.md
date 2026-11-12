@@ -5,7 +5,8 @@
 | **Authors** | Mamdouh Medhat (Cass Business School, City, University of London), Maik Schmeling (Goethe University Frankfurt, CEPR) |
 | **Year** | 2022 (Review of Financial Studies 35(3), 1480–1526; online June 2021). This copy is the accepted manuscript posted on SSRN |
 | **Type** | Journal article (accepted manuscript), 68pp. US common non-financial stocks July 1963–December 2018; 22 developed markets January 1993–December 2018 |
-| **PDF** | Local copy only (SSRN accepted manuscript of an Oxford University Press article, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN accepted manuscript of an Oxford University Press article, no open licence) |
+| **Find it** | [doi.org/10.1093/rfs/hhab055](https://doi.org/10.1093/rfs/hhab055) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Short-term+Momentum%22+Medhat) |
 | **BibTeX** | `medhat2022shortterm` |
 | **Status** | Reference: §1 (double sorts, persistence, size and international evidence) and §2 (costs, other momentum strategies, crash risk) carry the results |
 

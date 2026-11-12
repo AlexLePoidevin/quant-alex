@@ -6,6 +6,7 @@
 | **Year** | 2016 |
 | **Type** | Working paper — SSRN 2759734 |
 | **Link** | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759734 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Protective+Asset+Allocation+%28PAA%29%3A+A+Simple+Momentum-Based+Alternative+for+Term+Deposits%22+Keller) for the title and authors |
 | **BibTeX** | `keller2016paa` |
 | **Status** | Rules verified |
 

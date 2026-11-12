@@ -5,7 +5,8 @@
 | **Authors** | John Y. Campbell (Harvard), Carolin Pflueger (UBC), Luis M. Viceira (Harvard Business School) |
 | **Year** | 2020 (the copy is HBS Working Paper 14-031, May 2019 draft) |
 | **Type** | Journal article, *Journal of Political Economy* 128(8), 3148–3185. doi:10.1086/707766. Earlier title: "Monetary Policy Drivers of Bond and Equity Risks" |
-| **PDF** | Local copy only (working paper; "may not be reproduced without permission") |
+| **PDF** | Not hosted in this repository (working paper; "may not be reproduced without permission") |
+| **Find it** | [doi.org/10.1086/707766](https://doi.org/10.1086/707766) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Macroeconomic+Drivers+of+Bond+and+Equity+Risks%22+Campbell) |
 | **BibTeX** | `campbell2020macro` |
 | **Status** | Reference: §1 (summary), §4.2 (break tests), §5.3 Table 4 (bond–stock comovement) and §5.4 (risk-premium decomposition) carry the results |
 

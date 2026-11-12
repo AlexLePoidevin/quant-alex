@@ -5,7 +5,8 @@
 | **Authors** | Yang Deng (Sun Yat-sen University), Helen X. H. Bao (Cambridge), Pu Gong (Huazhong University of Science and Technology) |
 | **Year** | 2018 (SSRN 3162813; the paper is undated, with data to 2014) |
 | **Type** | Working paper, 24pp. Daily real estate and stock indices for seven countries, March 2000 – December 2014 |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3162813](https://doi.org/10.2139/ssrn.3162813) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Increased+Tail+Dependence+in+Global+Public+Real+Estate+Markets%22+Deng) |
 | **BibTeX** | `deng2018realestate` |
 | **Status** | Reference: Tables 5–7 (tail dependence by sub-period) and Figure 2 (time-varying estimates) carry the results |
 

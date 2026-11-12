@@ -5,7 +5,8 @@
 | **Authors** | Leander Gayda, Thomas Grünthaler, Jan Harren (University of Münster) |
 | **Year** | 2022 (version of 18 June 2022) |
 | **Type** | Working paper, SSRN 4138512. S&P 500 index options, 2004–2020 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [ssrn.com](https://ssrn.com/abstract=4138512) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Option+Liquidity+and+Gamma+Imbalances%22+Gayda) |
 | **BibTeX** | `gayda2022gamma` |
 | **Status** | Reference: §IV (building the gamma inventory), §V (spreads) and §VI (balanced inventory in turbulent times) carry the results |
 

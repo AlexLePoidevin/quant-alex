@@ -5,6 +5,7 @@
 | **Authors** | Vladimir A. Marchenko; Leonid A. Pastur |
 | **Year** | 1967 |
 | **Type** | Paper — *Matematicheskii Sbornik* 72(4), 507–536 |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Distribution+of+Eigenvalues+for+Some+Sets+of+Random+Matrices%22+Marchenko) for the title and authors |
 | **BibTeX** | `marchenko1967distribution` |
 | **Status** | To read |
 

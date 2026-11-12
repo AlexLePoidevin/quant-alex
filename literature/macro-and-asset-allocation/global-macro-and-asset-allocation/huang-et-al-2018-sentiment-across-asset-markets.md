@@ -5,7 +5,8 @@
 | **Authors** | Dashan Huang (Singapore Management University), Heikki Lehkonen (University of Jyväskylä), Kuntara Pukthuanthong (University of Missouri), Guofu Zhou (Washington University in St. Louis) |
 | **Year** | 2018 (draft of 20 June 2018; first draft October 2017) |
 | **Type** | Working paper, SSRN 3185140, 45pp. Monthly US data, January 1998 to December 2016 |
-| **PDF** | Local copy only (SSRN working paper, no licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3185140](https://doi.org/10.2139/ssrn.3185140) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Sentiment+Across+Asset+Markets%22+Huang) |
 | **BibTeX** | `huang2018sentiment` |
 | **Status** | Reference: §3.1 (the sentiment data), §4.1–4.3 (own-market, cross-market and PLS regressions) and §4.5 (hard-to-value portfolios) carry the results |
 

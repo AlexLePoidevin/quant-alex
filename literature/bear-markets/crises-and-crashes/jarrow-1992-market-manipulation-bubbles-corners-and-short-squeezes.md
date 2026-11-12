@@ -5,7 +5,8 @@
 | **Authors** | Robert A. Jarrow (Cornell University) |
 | **Year** | 1992 |
 | **Type** | Journal article, *Journal of Financial and Quantitative Analysis* 27(3), 311–336. Theory only; no data |
-| **PDF** | Local copy only (ResearchGate scan of the JFQA article; publisher copyright) |
+| **PDF** | Not hosted in this repository (ResearchGate scan of the JFQA article; publisher copyright) |
+| **Find it** | [doi.org/10.2307/2331322](https://doi.org/10.2307/2331322) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Market+Manipulation%2C+Bubbles%2C+Corners%2C+and+Short+Squeezes%22+Jarrow) |
 | **BibTeX** | `jarrow1992manipulation` |
 | **Status** | Reference: §III (assumptions A1–A4), §IV (paper vs real wealth), Examples 2–3 in §V and Proposition 4 in §VI carry the argument |
 

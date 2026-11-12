@@ -5,7 +5,8 @@
 | **Authors** | Tomasz Kaczmarek, Barbara Będowska-Sójka, Przemysław Grobelny, Katarzyna Perez (Poznań University of Economics and Business) |
 | **Year** | 2022 (working paper 2021) |
 | **Type** | Paper. SSRN 3780149, 59pp; published in *Research in International Business and Finance* 60, 101610 (2022). Daily data 2000–2020; training 2000–2009, out-of-sample test 2010–2020 |
-| **PDF** | Local copy only (SSRN working-paper version; journal version is Elsevier) |
+| **PDF** | Not hosted in this repository (SSRN working-paper version; journal version is Elsevier) |
+| **Find it** | [doi.org/10.1016/j.ribaf.2021.101610](https://doi.org/10.1016/j.ribaf.2021.101610) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22False+Safe+Haven+Assets%3A+Evidence+From+the+Target+Volatility+Strategy+Based+on+Recurrent+Neural+Network%22+Kaczmarek) |
 | **BibTeX** | `kaczmarek2022safehaven` |
 | **Status** | Reference: §3.3–3.5 (forecasting models and the strategy), §4 (results, Table 4), §5 (robustness) and §6 (conclusions) |
 

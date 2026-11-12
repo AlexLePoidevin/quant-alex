@@ -5,7 +5,8 @@
 | **Authors** | Marcel Hoepfner (Bielefeld University) |
 | **Year** | 2018 |
 | **Type** | Working paper. Bielefeld Working Papers in Economics and Management 01-2018; SSRN 3105209 (doi 10.2139/ssrn.3105209), 21pp |
-| **PDF** | Local copy only (working paper; no open licence) |
+| **PDF** | Not hosted in this repository (working paper; no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3105209](https://doi.org/10.2139/ssrn.3105209) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Retrospective+Identification+of+Bull+and+Bear+Markets%3A+A+New%2C+But+Simple+Algorithm%22+Hoepfner) |
 | **BibTeX** | `hoepfner2018retrospective` |
 | **Status** | Reference: §2 (the IBB algorithm), Table 1 (most robust window sizes) and Tables 2–4 (dated bull and bear markets for six indices) |
 

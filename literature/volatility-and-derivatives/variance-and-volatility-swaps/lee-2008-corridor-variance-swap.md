@@ -5,7 +5,8 @@
 | **Authors** | Roger Lee (University of Chicago) |
 | **Year** | 2008 (dated 29 December 2008) |
 | **Type** | Reference article, 3pp; written as an encyclopedia-style entry that cites a companion "weighted variance swap article" |
-| **PDF** | Local copy only (author's copy, no open licence) |
+| **PDF** | Not hosted in this repository (author's copy, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Corridor+Variance+Swap%22+Lee) for the title and authors |
 | **BibTeX** | `lee2008corridor` |
 | **Status** | Reference: short enough to read whole; equations 3–5 carry the replication and pricing |
 

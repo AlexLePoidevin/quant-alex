@@ -5,7 +5,8 @@
 | **Authors** | Gerardo Manzo, Jeffrey N. Saret (Two Sigma) |
 | **Year** | 2017 (November) |
 | **Type** | Manager commentary (Two Sigma *Street View*), 5pp, of which about 1.5 are on inflation; the rest is a list of technology articles and disclaimers |
-| **PDF** | Local copy only (© Two Sigma, marked confidential and not for distribution) |
+| **PDF** | Not hosted in this repository (© Two Sigma, marked confidential and not for distribution) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Forecasting+Inflation+like+a+Data+Scientist%22+Manzo) for the title and authors |
 | **BibTeX** | `manzo2017inflation` |
 | **Status** | Reference: short; Figure 1 and the text beside it are the whole argument |
 

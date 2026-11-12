@@ -5,7 +5,8 @@
 | **Authors** | Geert Bekaert (Columbia and NBER), Marie Hoerova, Marco Lo Duca (European Central Bank) |
 | **Year** | 2013 (the copy is NBER Working Paper 16397, September 2010) |
 | **Type** | Journal article, *Journal of Monetary Economics* 60(7), 771–788. doi:10.1016/j.jmoneco.2013.06.003. 51pp working paper |
-| **PDF** | Local copy only (NBER working paper, © the authors, all rights reserved) |
+| **PDF** | Not hosted in this repository (NBER working paper, © the authors, all rights reserved) |
+| **Find it** | [doi.org/10.1016/j.jmoneco.2013.06.003](https://doi.org/10.1016/j.jmoneco.2013.06.003) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Risk%2C+Uncertainty+and+Monetary+Policy%22+Bekaert) |
 | **BibTeX** | `bekaert2013risk` |
 | **Status** | Reference: §2.1 (splitting the VIX), §3.1 (benchmark VAR) and §4 (identification from Fed funds futures) carry the results. The published version may differ in detail from this 2010 draft |
 

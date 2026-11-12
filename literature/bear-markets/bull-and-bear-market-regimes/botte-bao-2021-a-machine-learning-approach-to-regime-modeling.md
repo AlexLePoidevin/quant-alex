@@ -5,7 +5,8 @@
 | **Authors** | Alex Botte, Doris Bao (Two Sigma) |
 | **Year** | 2021 (October) |
 | **Type** | Manager research note ("Street View"), 9pp. Daily factor returns from the early 1970s to July 2021 |
-| **PDF** | Local copy only (© Two Sigma, all rights reserved) |
+| **PDF** | Not hosted in this repository (© Two Sigma, all rights reserved) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Machine+Learning+Approach+to+Regime+Modeling%22+Botte) for the title and authors |
 | **BibTeX** | `botte2021regime` |
 | **Status** | Reference: short and complete; the four regime descriptions and Exhibit 4 are the content |
 

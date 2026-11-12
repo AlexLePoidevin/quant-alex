@@ -5,7 +5,8 @@
 | **Authors** | Tzu-Pu Chang, Yu-Cheng Chang, Po-Ching Chou (National Yunlin University of Science and Technology, Taiwan) |
 | **Year** | 2022 (Bulletin of Applied Economics 9(1), 19–25; published online 3 January 2022) |
 | **Type** | Journal note, 7pp. Taiwan Top 50 ETF (0050), daily, May 2004 – November 2018; last 15% of days as the test set |
-| **PDF** | Local copy only (journal PDF with no stated licence) |
+| **PDF** | Not hosted in this repository (journal PDF with no stated licence) |
+| **Find it** | [doi.org/10.47260/bae/912](https://doi.org/10.47260/bae/912) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Trend+is+Your+Friend%3A+A+Note+on+An+Ensemble+Learning+Approach+to+Finding+It%22+Chang) |
 | **BibTeX** | `chang2022trendensemble` |
 | **Status** | Reference: Tables 1 and 2 hold all the results |
 

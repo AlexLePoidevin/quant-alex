@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr, Andrew Chou |
 | **Year** | 1997 |
 | **Type** | Article — *Risk* 10(9), September 1997, pp. 139–145 |
-| **PDF** | Local copy only (*Risk* magazine article, publisher copyright) |
+| **PDF** | Not hosted in this repository (*Risk* magazine article, publisher copyright) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Breaking+Barriers%22+Carr) for the title and authors |
 | **BibTeX** | `carr1997breaking` |
 | **Status** | Reference: the "Static replication with Arrows" section (equations 1–9) and "The hedging technique" (adjusted payouts, table A) carry the argument; the full derivation is in Carr and Chou's working paper |
 

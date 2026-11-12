@@ -5,7 +5,8 @@
 | **Authors** | Mininder Sethi (supervised by Philip Treleaven, University College London) |
 | **Year** | 2016 |
 | **Type** | PhD thesis, Department of Computer Science, University College London, 153pp. Parts were published at IEEE CSCI 2014, IJCNN 2014 and IJCNN 2015 |
-| **PDF** | Local copy only (thesis with no licence statement) |
+| **PDF** | Not hosted in this repository (thesis with no licence statement) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Applied+Machine+Learning+for+Systematic+Equities+Trading%3A+Trend+Detection%2C+Portfolio+Construction+and+Order+Execution%22+Sethi) for the title and authors |
 | **BibTeX** | `sethi2016applied` |
 | **Status** | Reference: Ch. 3 (trend detection, Tables 3.1, 3.7, 3.10–3.11), Ch. 4 (portfolio construction, Table 4.2) and Ch. 5 (order timing) carry the results; Ch. 2 is a literature review |
 

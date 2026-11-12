@@ -5,7 +5,8 @@
 | **Authors** | Mikhail Smirnov (Columbia University), Alexander Smirnov (Stuyvesant High School) |
 | **Year** | 2020 (data to 28 February 2020, with a table to 5 March 2020) |
 | **Type** | Slide deck posted as SSRN 3549581, 65 slides. Backtests of fixed-weight leveraged-ETF portfolios, plus slides on portfolio insurance and a "dynamic leverage" barrier model |
-| **PDF** | Local copy only (SSRN posting, no licence) |
+| **PDF** | Not hosted in this repository (SSRN posting, no licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3549581](https://doi.org/10.2139/ssrn.3549581) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Robust+Leveraged+ETF+Portfolios%3A+Extending+Classic+40%2F60+Portfolios+and+Portfolio+Insurance%22+Smirnov) |
 | **BibTeX** | `smirnov2020leveraged` |
 | **Status** | Reference: the performance slides for the 40-20-40 and 20-0-80 portfolios carry the claims; the second half is background on ETFs and a barrier-probability model of leverage |
 

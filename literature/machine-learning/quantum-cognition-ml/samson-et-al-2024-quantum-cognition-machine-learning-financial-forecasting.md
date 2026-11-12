@@ -6,6 +6,7 @@
 | **Year** | 2024 |
 | **Type** | White paper — Qognitive, September 2024, 11pp. Not peer-reviewed |
 | **Link** | [qognitiveai.com/papers/Qognitive_Financial_Forecasting.pdf](https://www.qognitiveai.com/papers/Qognitive_Financial_Forecasting.pdf) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Quantum+Cognition+Machine+Learning%3A+Financial+Forecasting%22+Samson) for the title and authors |
 | **BibTeX** | `samson2024qcml` |
 | **Status** | Reference — §3 (the model and training loop) and §4.3–4.7 (setup and results) |
 

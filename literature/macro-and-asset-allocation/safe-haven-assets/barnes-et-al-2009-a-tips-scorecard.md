@@ -5,7 +5,8 @@
 | **Authors** | Michelle L. Barnes, Robert K. Triest, J. Christina Wang (Federal Reserve Bank of Boston), Zvi Bodie (Boston University) |
 | **Year** | 2009 (version of September 2009) |
 | **Type** | Federal Reserve Bank of Boston Public Policy Discussion Paper No. 09-8 (SSRN 1520569), 55pp. A shorter version was published as "A TIPS Scorecard: Are They Accomplishing Their Objectives?", *Financial Analysts Journal* 66(5), 2010, 68–84 |
-| **PDF** | Local copy only (discussion paper with no open licence; the Boston Fed is not a federal agency, so its papers are not US-government works) |
+| **PDF** | Not hosted in this repository (discussion paper with no open licence; the Boston Fed is not a federal agency, so its papers are not US-government works) |
+| **Find it** | [doi.org/10.2139/ssrn.1520569](https://doi.org/10.2139/ssrn.1520569) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+TIPS+Scorecard%3A+Are+TIPS+Accomplishing+What+They+Were+Supposed+to+Accomplish%3F+Can+They+Be+Improved%3F%22+Barnes) |
 | **BibTeX** | `barnes2009tips` |
 | **Status** | Reference: §III.B (CPI bias as basis risk, Table 1), §III.C (alternative price indexes, Tables 2–3) and §IV (long vs short holding periods, Figures 9–15) carry the argument |
 

@@ -8,6 +8,7 @@
 | **BibTeX** | `gorman2010dispersion` |
 | **Status** | To read |
 | **Link** | [SSRN 1266225](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1266225) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Role+of+Cross-Sectional+Dispersion+in+Active+Portfolio+Management%22+Gorman) for the title and authors |
 
 ## Key takeaway
 

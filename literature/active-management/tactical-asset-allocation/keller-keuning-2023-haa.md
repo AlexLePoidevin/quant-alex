@@ -6,6 +6,7 @@
 | **Year** | 2023 (3 February) |
 | **Type** | Working paper — SSRN 4346906 |
 | **Link** | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4346906 |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Dual+and+Canary+Momentum+with+Rising+Yields%2FInflation%3A+Hybrid+Asset+Allocation+%28HAA%29%22+Keller) for the title and authors |
 | **Also** | [Allocate Smartly](https://allocatesmartly.com/hybrid-asset-allocation/) · [TrendXplorer](https://indexswingtrader.blogspot.com/2023/02/introducing-hybrid-asset-allocation-haa.html) |
 | **BibTeX** | `keller2023haa` |
 | **Status** | Rules verified, backtested |

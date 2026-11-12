@@ -5,7 +5,8 @@
 | **Authors** | Peter Carr (Courant Institute, NYU), Roger Lee (Stanford) |
 | **Year** | 2003 (May; presented at ICBI Barcelona and Amsterdam) |
 | **Type** | Slides, 29pp |
-| **PDF** | Local copy only (conference slides, no licence) |
+| **PDF** | Not hosted in this repository (conference slides, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Trading+Autocorrelation%22+Carr) for the title and authors |
 | **BibTeX** | `carr2003trading` |
 | **Status** | Reference: covariance swaps, hyper options, the volatility-definition puzzle and up/down-crossers are the main results |
 

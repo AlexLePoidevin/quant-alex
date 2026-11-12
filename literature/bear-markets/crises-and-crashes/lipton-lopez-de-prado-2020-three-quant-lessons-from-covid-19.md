@@ -5,7 +5,8 @@
 | **Authors** | Alex Lipton (Hebrew University; MIT) and Marcos López de Prado (Cornell; Lawrence Berkeley National Laboratory) |
 | **Year** | 2020 (30 April) |
 | **Type** | Short essay, SSRN 3580185, 6pp (figures not reproduced in this copy) |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.3580185](https://doi.org/10.2139/ssrn.3580185) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Three+Quant+Lessons+from+COVID-19%22+Lipton) |
 | **BibTeX** | `lipton2020covid` |
 | **Status** | Reference: read in full; short |
 

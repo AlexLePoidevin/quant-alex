@@ -5,7 +5,8 @@
 | **Authors** | Edward Szado (CISDM, University of Massachusetts Amherst) |
 | **Year** | 2009 (dated August 2009) |
 | **Type** | Journal article, *The Journal of Alternative Investments* 12(2), 68–85 (2009); the copy here is the CBOE-supported working paper. Data: March 2006 – December 2008 |
-| **PDF** | Local copy only (no open licence) |
+| **PDF** | Not hosted in this repository (no open licence) |
+| **Find it** | [doi.org/10.3905/jai.2009.12.2.068](https://doi.org/10.3905/jai.2009.12.2.068) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22VIX+Futures+and+Options%3A+A+Case+Study+of+Portfolio+Diversification+During+the+2008+Financial+Crisis%22+Szado) |
 | **BibTeX** | `szado2009vix` |
 | **Status** | Reference: Exhibits 9, 12, 15 and 18 (futures, ATM calls, OTM calls, SPX puts) carry the results |
 

@@ -5,6 +5,7 @@
 | **Authors** | Robert C. Merton |
 | **Year** | 1976 |
 | **Type** | Paper — *Journal of Financial Economics* 3(1–2) |
+| **Find it** | [doi.org/10.1016/0304-405x(76)90022-2](https://doi.org/10.1016/0304-405x(76)90022-2) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Option+Pricing+When+Underlying+Stock+Returns+Are+Discontinuous%22+Merton) |
 | **BibTeX** | `merton1976option` |
 | **Status** | To read |
 

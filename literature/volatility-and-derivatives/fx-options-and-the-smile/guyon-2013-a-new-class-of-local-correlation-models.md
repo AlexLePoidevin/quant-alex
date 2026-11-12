@@ -5,7 +5,8 @@
 | **Authors** | Julien Guyon (Quantitative Research, Bloomberg LP) |
 | **Year** | 2013 (first version February 2013; this version 21 June 2013) |
 | **Type** | Working paper (SSRN), 36pp |
-| **PDF** | Local copy only (working paper with no open licence) |
+| **PDF** | Not hosted in this repository (working paper with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22A+New+Class+of+Local+Correlation+Models%22+Guyon) for the title and authors |
 | **BibTeX** | `guyon2013local` |
 | **Status** | Reference: §2–§5 (the representation and the particle method) and §10 (the FX numerics) carry the content |
 

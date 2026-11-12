@@ -5,6 +5,7 @@
 | **Authors** | Robert S. Pindyck; Julio J. Rotemberg |
 | **Year** | 1993 |
 | **Type** | Paper — *Quarterly Journal of Economics* 108(4), 1073–1104 |
+| **Find it** | [doi.org/10.2307/2118460](https://doi.org/10.2307/2118460) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Comovement+of+Stock+Prices%22+Pindyck) |
 | **BibTeX** | `pindyck1993comovement` |
 | **Status** | To read |
 

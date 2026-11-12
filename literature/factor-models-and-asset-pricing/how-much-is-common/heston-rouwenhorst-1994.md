@@ -5,6 +5,7 @@
 | **Authors** | Steven L. Heston; K. Geert Rouwenhorst |
 | **Year** | 1994 |
 | **Type** | Paper — *Journal of Financial Economics* 36(1), 3–27 |
+| **Find it** | [doi.org/10.1016/0304-405x(94)90028-0](https://doi.org/10.1016/0304-405x(94)90028-0) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Does+Industrial+Structure+Explain+the+Benefits+of+International+Diversification%3F%22+Heston) |
 | **BibTeX** | `heston1994does` |
 | **Status** | To read |
 

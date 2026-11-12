@@ -5,7 +5,8 @@
 | **Authors** | Artur Sepp |
 | **Year** | 2018 (23 April 2018) |
 | **Type** | Practitioner research note, SSRN 3167787, 36pp |
-| **PDF** | Local copy only (SSRN download, no licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Trend-Following+Strategies+for+Tail-Risk+Hedging+and+Alpha+Generation%22+Sepp) for the title and authors |
 | **BibTeX** | `sepp2018trend` |
 | **Status** | Reference: the convexity-by-measurement-frequency results and the S&P 500 trend model (half-life sweep) carry the argument; the risk-parity allocation is a short illustration |
 

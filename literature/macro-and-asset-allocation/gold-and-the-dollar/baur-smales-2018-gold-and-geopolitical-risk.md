@@ -5,7 +5,8 @@
 | **Authors** | Dirk G. Baur (University of Western Australia), Lee A. Smales (Curtin University) |
 | **Year** | 2018 (January working paper, SSRN 3109136; published as "Hedging geopolitical risk with precious metals", *Journal of Banking & Finance* 117, 2020) |
 | **Type** | Working paper, 25pp. Monthly data, January 1985 to November 2017 |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Gold+and+Geopolitical+Risk%22+Baur) for the title and authors |
 | **BibTeX** | `baur2018geopolitical` |
 | **Status** | Reference: §3 (Tables 2–4: baseline, threats versus acts, high versus low risk) |
 

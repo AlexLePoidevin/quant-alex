@@ -5,7 +5,8 @@
 | **Authors** | Menachem Brenner (NYU Stern), Jinghong Shu (UIBE Beijing), Jin E. Zhang (University of Hong Kong) |
 | **Year** | 2007 (working paper, May 2007; first version August 2006). Published as Zhang, Shu and Brenner, "The New Market for Volatility Trading", *Journal of Futures Markets* 30(9), 2010 |
 | **Type** | Working paper, 31pp. Data: daily VIX and VIX futures, March 2004 to November 2006 |
-| **PDF** | Local copy only (author upload to ResearchGate, no open licence) |
+| **PDF** | Not hosted in this repository (author upload to ResearchGate, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22The+Market+for+Volatility+Trading%3B+VIX+Futures%22+Brenner) for the title and authors |
 | **BibTeX** | `brenner2007vixfutures` |
 | **Status** | Reference: §3 (three stylised facts) and §4 (the model and its calibration) |
 

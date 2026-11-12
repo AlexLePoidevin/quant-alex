@@ -5,6 +5,7 @@
 | **Authors** | Roger Clarke; Harindra de Silva; Steven Thorley |
 | **Year** | 2002 |
 | **Type** | Paper — *Financial Analysts Journal* 58(5), 48–66 |
+| **Find it** | [doi.org/10.2469/faj.v58.n5.2468](https://doi.org/10.2469/faj.v58.n5.2468) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Portfolio+Constraints+and+the+Fundamental+Law+of+Active+Management%22+Clarke) |
 | **BibTeX** | `clarke2002constraints` |
 | **Status** | To read |
 

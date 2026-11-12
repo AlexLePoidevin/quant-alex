@@ -5,7 +5,8 @@
 | **Authors** | Maria Flora; Roberto Renò (University of Verona) |
 | **Year** | 2020 (working paper dated 17 September 2020) |
 | **Type** | Working paper, SSRN 3554122, 38pp |
-| **PDF** | Local copy only (SSRN download with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22V-shapes%22+Flora) for the title and authors |
 | **BibTeX** | `flora2020vshapes` |
 | **Status** | Reference: §2 (why volatility and jumps can't detect inefficiency), §3 (the V-statistic), §5 (SPY 2019–2020) and §6 (Italian bonds, May 2018) carry the paper |
 

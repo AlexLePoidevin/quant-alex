@@ -5,7 +5,8 @@
 | **Authors** | Michael Schatz (ETH Zurich), Didier Sornette (ETH Zurich; Swiss Finance Institute) |
 | **Year** | 2020 (International Journal of Theoretical and Applied Finance 23(7), 2050047); the copy here is Swiss Finance Institute Research Paper 18-49, revised 5 April 2020, 57pp |
 | **Type** | Theory paper (mathematical finance) |
-| **PDF** | Local copy only (SSRN/SFI working paper with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN/SFI working paper with no open licence) |
+| **Find it** | [doi.org/10.1142/S0219024920500478](https://doi.org/10.1142/S0219024920500478) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Inefficient+Bubbles+and+Efficient+Drawdowns+in+Financial+Markets%22+Schatz) |
 | **BibTeX** | `schatz2020bubbles` |
 | **Status** | Reference: §1 and §3 (the framework and the two bubble types), §2.1 (critique of rational-expectations bubbles), §6 (detection) |
 

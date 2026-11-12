@@ -5,7 +5,8 @@
 | **Authors** | Ilias Filippou (Washington University in St. Louis); Pedro A. Garcia-Ares (ITAM); Fernando Zapatero (Boston University) |
 | **Year** | 2022 (version dated 19 June 2022) |
 | **Type** | Working paper, SSRN 4140487, 43pp with tables |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22No+Max+Pain%2C+No+Max+Gain%3A+Stock+Price+Predictability+at+Options+Expiration%22+Filippou) for the title and authors |
 | **BibTeX** | `filippou2022maxpain` |
 | **Status** | Reference: §3 (the measure), Table 2 (the main result), Tables 4, 8 and 12 (timing, placebo and the no-options control) |
 

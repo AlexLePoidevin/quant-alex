@@ -5,6 +5,7 @@
 | **Authors** | Attilio Meucci; Alberto Santangelo; Romain Deguest |
 | **Year** | 2015 |
 | **Type** | Paper — *Risk* |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22Risk+Budgeting+and+Diversification+Based+on+Optimised+Uncorrelated+Factors%22+Meucci) for the title and authors |
 | **BibTeX** | `meucci2015torsion` |
 | **Status** | To read |
 

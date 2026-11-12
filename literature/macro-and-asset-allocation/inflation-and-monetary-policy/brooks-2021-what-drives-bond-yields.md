@@ -5,7 +5,8 @@
 | **Authors** | Jordan Brooks (AQR Capital Management) |
 | **Year** | 2021 (July) |
 | **Type** | Manager white paper, 27pp. Non-technical framework, with G6 regressions for 1990–2020 |
-| **PDF** | Local copy only (AQR white paper, no open licence) |
+| **PDF** | Not hosted in this repository (AQR white paper, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22What+Drives+Bond+Yields%3F%22+Brooks) for the title and authors |
 | **BibTeX** | `brooks2021yields` |
 | **Status** | Reference: §2 (the decomposition), §5–6 (policy and non-policy drivers), Exhibit 5 (the regression) |
 

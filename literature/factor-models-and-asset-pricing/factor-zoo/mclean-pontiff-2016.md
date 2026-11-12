@@ -5,6 +5,7 @@
 | **Authors** | R. David McLean; Jeffrey Pontiff |
 | **Year** | 2016 |
 | **Type** | Paper — *Journal of Finance* 71(1), 5–32 |
+| **Find it** | [doi.org/10.1111/jofi.12365](https://doi.org/10.1111/jofi.12365) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Does+Academic+Research+Destroy+Stock+Return+Predictability%3F%22+McLean) |
 | **BibTeX** | `mclean2016does` |
 | **Status** | To read |
 

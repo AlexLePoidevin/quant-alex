@@ -5,7 +5,8 @@
 | **Authors** | Kenneth D. West (Princeton) |
 | **Year** | 1988 (Journal of Finance 43(3), 639–656); the copy here is NBER Working Paper 2574, May 1988, 35pp |
 | **Type** | Survey paper (AEA/AFA session on the volatility debate) |
-| **PDF** | Local copy only (NBER working paper; the journal version is Wiley) |
+| **PDF** | Not hosted in this repository (NBER working paper; the journal version is Wiley) |
+| **Find it** | [doi.org/10.1111/j.1540-6261.1988.tb04596.x](https://doi.org/10.1111/j.1540-6261.1988.tb04596.x) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Bubbles%2C+Fads+and+Stock+Price+Volatility+Tests%3A+A+Partial+Evaluation%22+West) |
 | **BibTeX** | `west1988bubbles` |
 | **Status** | Reference: Table I and §II (small-sample bias), §III (rational bubbles) and §V (fads) |
 

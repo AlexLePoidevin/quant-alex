@@ -5,7 +5,8 @@
 | **Authors** | Anusar Farooqui (independent) |
 | **Year** | 2020 (dated 18 March 2020; SSRN 3556779) |
 | **Type** | Short note, 11pp, mostly figures. Data January 2013 – 16 March 2020 |
-| **PDF** | Local copy only (SSRN download with no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download with no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Note+on+Trading+the+Term+Structure+of+VIX+Futures%22+Farooqui) for the title and authors |
 | **BibTeX** | `farooqui2020vixterm` |
 | **Status** | Reference: read in full; Table 1 holds all the numbers |
 

@@ -5,7 +5,8 @@
 | **Authors** | Carolyne Cebrian Soper (Sacred Heart University; supervised by Lucjan Orlowski) |
 | **Year** | 2015 (dated 15 April 2015) |
 | **Type** | Student research paper, SSRN 2676400, 13pp. Monthly FRED data, February 2005 – February 2015 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [search Google Scholar](https://scholar.google.com/scholar?q=%22An+Analysis+of+the+VIX+Volatility+Index+on+the+US+Treasuries%2C+Specifically+During+the+Periods+of+Quantitative+Easing%22+Soper) for the title and authors |
 | **BibTeX** | `soper2015vix` |
 | **Status** | Reference: the results table in §4.1 and the VAR impulse responses (Model 5) are the whole of the evidence |
 

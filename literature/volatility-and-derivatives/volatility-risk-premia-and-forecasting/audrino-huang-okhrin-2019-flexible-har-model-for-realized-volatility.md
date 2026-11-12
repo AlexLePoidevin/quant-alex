@@ -6,6 +6,7 @@
 | **Year** | 2019 |
 | **Type** | Journal article, *Studies in Nonlinear Dynamics & Econometrics* 23(3), 2019 (online November 2018). doi:10.1515/snde-2017-0080. The copy is the April 2016 working paper |
 | **PDF** | `audrino-huang-okhrin-2019-flexible-har-model-for-realized-volatility.pdf` (kept locally; working paper with no open licence) |
+| **Find it** | [doi.org/10.1515/snde-2017-0080](https://doi.org/10.1515/snde-2017-0080) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Flexible+HAR+Model+for+Realized+Volatility%22+Audrino) |
 | **BibTeX** | `audrino2019flexiblehar` |
 | **Status** | Reference: Section 4.2 (lag selection), Tables 4.2–4.3 (forecast comparison and SPA tests) and Section 4.4 (group LASSO tests) carry the results |
 

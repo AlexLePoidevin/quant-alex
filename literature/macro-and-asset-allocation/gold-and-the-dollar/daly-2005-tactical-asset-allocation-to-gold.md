@@ -5,7 +5,8 @@
 | **Authors** | Ryan Daly (MBA student, University at Albany; client analyst at AYCO/Goldman Sachs at the time) |
 | **Year** | 2005 (May 2005; SSRN 783187) |
 | **Type** | Unpublished working paper, 18pp |
-| **PDF** | Local copy only (SSRN working paper, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN working paper, no open licence) |
+| **Find it** | [doi.org/10.2139/ssrn.783187](https://doi.org/10.2139/ssrn.783187) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Tactical+Asset+Allocation+to+Gold%22+Daly) |
 | **BibTeX** | `daly2005gold` |
 | **Status** | Reference: the Fed-model section and Tables 4–7 carry the claim; the Dow/gold ratio section is commentary |
 

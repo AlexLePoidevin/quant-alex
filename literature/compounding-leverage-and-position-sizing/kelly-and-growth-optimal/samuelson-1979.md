@@ -5,6 +5,7 @@
 | **Authors** | Paul A. Samuelson |
 | **Year** | 1979 |
 | **Type** | Paper — *Journal of Banking & Finance* 3(4) |
+| **Find it** | [doi.org/10.1016/0378-4266(79)90023-2](https://doi.org/10.1016/0378-4266(79)90023-2) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Why+we+should+not+make+mean+log+of+wealth+big+though+years+to+act+are+long%22+Samuelson) |
 | **BibTeX** | `samuelson1979why` |
 | **Status** | To read |
 

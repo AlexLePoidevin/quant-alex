@@ -5,6 +5,7 @@
 | **Authors** | John Y. Campbell |
 | **Year** | 1991 |
 | **Type** | Paper — *Economic Journal* 101(405), 157–179 |
+| **Find it** | [doi.org/10.3386/w3246](https://doi.org/10.3386/w3246) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22A+Variance+Decomposition+for+Stock+Returns%22+Campbell) |
 | **BibTeX** | `campbell1991variance` |
 | **Status** | To read |
 

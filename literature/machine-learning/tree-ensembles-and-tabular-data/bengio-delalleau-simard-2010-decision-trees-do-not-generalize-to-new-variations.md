@@ -6,6 +6,7 @@
 | **Year** | 2010 |
 | **Type** | Paper — *Computational Intelligence* 26(4), 449–467, 2010 (Wiley) |
 | **Link** | [doi.org/10.1111/j.1467-8640.2010.00366.x](https://doi.org/10.1111/j.1467-8640.2010.00366.x); the authors host a copy at [iro.umontreal.ca/~lisa](https://www.iro.umontreal.ca/~lisa/pointeurs/bengio+al-decisiontrees-2010.pdf) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Decision+Trees+Do+Not+Generalize+to+New+Variations%22+Bengio) for the title and authors |
 | **BibTeX** | `bengio2010decision` |
 | **Status** | Reference — §1, §3 up to Corollary 1, and §4 carry the argument; the checkerboard proof is technical |
 

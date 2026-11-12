@@ -6,6 +6,7 @@
 | **Year** | 2024 |
 | **Type** | White paper — Qognitive, 1 March 2024, 7pp. Not peer-reviewed |
 | **Link** | [qognitiveai.com/papers/QCML - Qognitive, Inc.pdf](https://www.qognitiveai.com/papers/QCML%20-%20Qognitive,%20Inc.pdf) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Quantum+Cognition+Machine+Learning%3A+AI+Needs+Quantum%22+Musaelian) for the title and authors |
 | **BibTeX** | `musaelian2024qcml` |
 | **Status** | Reference — short position paper; §2–3 carry the argument |
 

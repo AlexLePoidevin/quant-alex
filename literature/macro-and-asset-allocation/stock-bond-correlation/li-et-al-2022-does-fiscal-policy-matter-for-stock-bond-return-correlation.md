@@ -5,7 +5,8 @@
 | **Authors** | Erica X.N. Li (CKGSB), Tao Zha (Federal Reserve Bank of Atlanta, Emory, NBER), Ji Zhang (Tsinghua PBCSF), Hao Zhou (SUSTech, Tsinghua PBCSF) |
 | **Year** | 2022 (this copy dated 3 March 2022; published in *Journal of Monetary Economics* 128, 2022, pp. 20–34) |
 | **Type** | SSRN working paper (3106141), 62pp. General-equilibrium (New Keynesian) model, US data 1971–2018 |
-| **PDF** | Local copy only (SSRN download, no open licence) |
+| **PDF** | Not hosted in this repository (SSRN download, no open licence) |
+| **Find it** | [doi.org/10.1016/j.jmoneco.2022.03.003](https://doi.org/10.1016/j.jmoneco.2022.03.003) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Does+Fiscal+Policy+Matter+for+Stock-Bond+Return+Correlation%3F%22+Li) |
 | **BibTeX** | `li2022fiscal` |
 | **Status** | Reference: §2 (stylised facts by policy regime), §4.2–4.5 (variance decomposition and correlations) and §5 (robustness) carry the results |
 

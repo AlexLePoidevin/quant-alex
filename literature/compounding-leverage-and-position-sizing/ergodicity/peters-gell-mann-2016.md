@@ -5,6 +5,7 @@
 | **Authors** | Ole Peters; Murray Gell-Mann |
 | **Year** | 2016 |
 | **Type** | Paper — *Chaos* 26(2) |
+| **Find it** | [doi.org/10.1063/1.4940236](https://doi.org/10.1063/1.4940236) · or [search Google Scholar](https://scholar.google.com/scholar?q=%22Evaluating+gambles+using+dynamics%22+Peters) |
 | **BibTeX** | `peters2016evaluating` |
 | **Status** | To read |
 

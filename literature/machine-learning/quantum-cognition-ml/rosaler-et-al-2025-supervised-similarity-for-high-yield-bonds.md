@@ -6,6 +6,7 @@
 | **Year** | 2025 |
 | **Type** | Paper — *Risk.net*, Cutting Edge: Investments, May 2025, 6pp. Preprint arXiv:2502.01495, *Supervised Similarity for High-Yield Corporate Bonds with Quantum Cognition Machine Learning* |
 | **Link** | [arxiv.org/abs/2502.01495](https://arxiv.org/abs/2502.01495) (free preprint); [risk.net](https://www.risk.net/cutting-edge/7961606/supervised-similarity-for-high-yield-bonds) (paywalled) |
+| **Find it** | Use the link above, or [search Google Scholar](https://scholar.google.com/scholar?q=%22Supervised+Similarity+for+High-Yield+Bonds%22+Rosaler) for the title and authors |
 | **BibTeX** | `rosaler2025bonds` |
 | **Status** | Reference — short; the QCML proximity definition (eq. 5), table A and figures 1–2 carry the result |
 
