@@ -194,6 +194,19 @@ of the original *Swing Trading School* playlist, which is the source to prefer i
 mirror ever goes down:
 <https://www.youtube.com/watch?v=ZdXxuBIFTZ0&list=PLV4rgdMPi5CgtRwngmf79U2G5LA066LNa>.
 
+## Mathematics
+
+| Type | Title | Channel | Link |
+|---|---|---|---|
+| channel | *SEE Matrix* — animated linear algebra: what different matrices do to space (ch. 1, two parts), spectral decomposition (ch. 2), singular value decomposition (ch. 3, a #SoME2 entry); 12–17 min each, 2022 | Visual Kernel | https://www.youtube.com/@visualkernel/videos |
+
+The channel holds five videos: the four *SEE Matrix* chapters from March–April 2022
+([1a](https://www.youtube.com/watch?v=7Gtxd-ew4lk), [1b](https://www.youtube.com/watch?v=wciU07gPqUE),
+[2](https://www.youtube.com/watch?v=mhy-ZKSARxI), [3](https://www.youtube.com/watch?v=vSczTbgc8Rc))
+and a two-hour *Programming Thinking* from July 2026. The matrix chapters are a visual
+companion to [[axler-2024-linear-algebra-done-right]]: the spectral and singular value
+decompositions behind PCA and covariance-matrix work.
+
 ---
 
 Tracking parameters (`t=`, `time_continue=`, `source_ve_path=`, `embeds_referring_euri=`)
