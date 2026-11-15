@@ -211,6 +211,17 @@ The Visual Kernel channel holds five videos: the four *SEE Matrix* chapters from
 [2](https://www.youtube.com/watch?v=mhy-ZKSARxI), [3](https://www.youtube.com/watch?v=vSczTbgc8Rc))
 and a two-hour *Programming Thinking* from July 2026.
 
+## Machine learning
+
+| Type | Title | Channel | Link |
+|---|---|---|---|
+| playlist | *Neural networks* — 10 animated videos, 2017 onward: what a network is, gradient descent, backpropagation (intuition, then the calculus), then large language models, transformers, attention step by step, how LLMs store facts, cross-entropy, and a guest video by Welch Labs on image and video generation | 3Blue1Brown | https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi |
+
+The first four chapters are the mechanics that the [deep-learning theory](../machine-learning/deep-learning-theory/)
+papers take as given — the network as a function, trained by gradient descent with
+gradients from backpropagation; [[karkada-2024-the-lazy-ntk-and-rich-mup-regimes-a-gentle-tutorial]]
+starts from there.
+
 ---
 
 Tracking parameters (`t=`, `time_continue=`, `source_ve_path=`, `embeds_referring_euri=`)
