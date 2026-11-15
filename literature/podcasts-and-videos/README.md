@@ -198,14 +198,18 @@ mirror ever goes down:
 
 | Type | Title | Channel | Link |
 |---|---|---|---|
+| playlist | *Essence of linear algebra* — 16 animated chapters, 2016 onward: vectors, span and bases, matrices as linear transformations, determinants, inverses and null space, dot products and duality, change of basis, eigenvectors and eigenvalues, abstract vector spaces | 3Blue1Brown | https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab |
 | channel | *SEE Matrix* — animated linear algebra: what different matrices do to space (ch. 1, two parts), spectral decomposition (ch. 2), singular value decomposition (ch. 3, a #SoME2 entry); 12–17 min each, 2022 | Visual Kernel | https://www.youtube.com/@visualkernel/videos |
 
-The channel holds five videos: the four *SEE Matrix* chapters from March–April 2022
+*Essence of linear algebra* builds the geometric picture from the ground up and ends at
+eigenvectors and abstract vector spaces; *SEE Matrix* picks up from there with the
+spectral and singular value decompositions behind PCA and covariance-matrix work. Both
+are visual companions to [[axler-2024-linear-algebra-done-right]].
+
+The Visual Kernel channel holds five videos: the four *SEE Matrix* chapters from March–April 2022
 ([1a](https://www.youtube.com/watch?v=7Gtxd-ew4lk), [1b](https://www.youtube.com/watch?v=wciU07gPqUE),
 [2](https://www.youtube.com/watch?v=mhy-ZKSARxI), [3](https://www.youtube.com/watch?v=vSczTbgc8Rc))
-and a two-hour *Programming Thinking* from July 2026. The matrix chapters are a visual
-companion to [[axler-2024-linear-algebra-done-right]]: the spectral and singular value
-decompositions behind PCA and covariance-matrix work.
+and a two-hour *Programming Thinking* from July 2026.
 
 ---
 

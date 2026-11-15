@@ -72,5 +72,7 @@ and 5 only where a proof calls on them.
   inner-product space
 - [[le-gall-2022-measure-theory-probability]] — conditional expectation as an orthogonal
   projection in L², chapter 6C in an infinite-dimensional space
+- 3Blue1Brown, *Essence of linear algebra* (YouTube) — the geometric picture of vectors, linear
+  maps, determinants and eigenvectors, animated; listed under Mathematics in the [podcasts and videos](../../podcasts-and-videos/README.md) page
 - Visual Kernel, *SEE Matrix* (YouTube) — animated spectral and singular value
   decompositions; listed under Mathematics in the [podcasts and videos](../../podcasts-and-videos/README.md) page
