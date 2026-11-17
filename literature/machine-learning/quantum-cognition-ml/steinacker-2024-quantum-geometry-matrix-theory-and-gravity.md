@@ -71,3 +71,4 @@ checked by hand. Physics beyond chapter 5 is not needed for QCML.
   inner-product spaces the book takes for granted
 - [[coifman-lafon-2006]] — diffusion maps, the graph-based counterpart of the matrix
   Laplacian
+- [[steinacker-2021-quantum-matrix-geometry-and-quasi-coherent-states]] — chapter 4 as a 38-page paper, the short way in

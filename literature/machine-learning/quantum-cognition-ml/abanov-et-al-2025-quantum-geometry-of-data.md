@@ -108,3 +108,4 @@ estimator at several neighbour counts.
 - [[fefferman-mitter-narayanan-2016-testing-the-manifold-hypothesis]] — what fitting a
   manifold to data means formally
 - [[steinacker-2024-quantum-geometry-matrix-theory-and-gravity]] — the textbook derivation of the quasi-coherent states, quantum metric and matrix Laplacian used here (ch. 4)
+- [[steinacker-2021-quantum-matrix-geometry-and-quasi-coherent-states]] — the paper that defines quasi-coherent states and their quantum metric for any set of matrices

@@ -52,9 +52,10 @@ listed under his name in `../../podcasts-and-videos/`.
 
 | Year | Title | Authors | Link |
 |---|---|---|---|
+| 2021 | *Quantum (Matrix) Geometry and Quasi-Coherent States* — the general construction QCML uses: quasi-coherent states as ground states of the displacement Hamiltonian, the quantum metric and Berry-type curvature they carry, and quantum Kähler spaces; *J. Phys. A* 54, 055401; arXiv:2009.03400; note [[steinacker-2021-quantum-matrix-geometry-and-quasi-coherent-states]] | Steinacker | [PDF](steinacker-2021-quantum-matrix-geometry-and-quasi-coherent-states.pdf) |
 | 2024 | *Quantum Geometry, Matrix Theory and Gravity* — the matrix-geometry textbook behind QCML: the displacement Hamiltonian, quasi-coherent states, quantum metric and matrix Laplacian (ch. 4), then their use in physics; Cambridge University Press; note [[steinacker-2024-quantum-geometry-matrix-theory-and-gravity]] | Steinacker | [doi.org/10.1017/9781009440776](https://doi.org/10.1017/9781009440776) |
 
-Not a Qognitive publication. Steinacker is a co-author of *Quantum Geometry of Data*.
+Not Qognitive publications. Steinacker is a co-author of *Quantum Geometry of Data*.
 
 ---
 

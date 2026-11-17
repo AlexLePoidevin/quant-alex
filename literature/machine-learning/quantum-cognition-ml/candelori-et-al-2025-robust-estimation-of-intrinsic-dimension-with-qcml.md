@@ -75,3 +75,4 @@ claim that is easiest to check directly against classical methods.
 - [[busemeyer-bruza-2012]] — the Hilbert-space cognition models QCML builds on
 - [[gu-kelly-xiu-2021]] — the nonlinear latent-factor benchmark QCML has to beat in finance
 - [[steinacker-2024-quantum-geometry-matrix-theory-and-gravity]] — the matrix-geometry framework behind the quantum-metric dimension estimate (ch. 4)
+- [[steinacker-2021-quantum-matrix-geometry-and-quasi-coherent-states]] — cited here: the quasi-coherent states and quantum metric the estimator is built on
