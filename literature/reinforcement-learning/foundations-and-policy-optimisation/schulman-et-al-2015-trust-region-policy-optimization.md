@@ -78,3 +78,4 @@ methods adapt the step and objective online.
   successor, run with gradient-boosted trees as the function class
 - [[luketina-et-al-2022-meta-gradients-in-non-stationary-environments]] — adapting update
   hyperparameters online when the environment drifts
+- [[apxml-advanced-reinforcement-learning-techniques]] — an online course that places TRPO among DQN, PPO, SAC, exploration, model-based and offline RL
