@@ -107,3 +107,4 @@ estimator at several neighbour counts.
   classical intrinsic-dimension estimator to compare against
 - [[fefferman-mitter-narayanan-2016-testing-the-manifold-hypothesis]] — what fitting a
   manifold to data means formally
+- [[steinacker-2024-quantum-geometry-matrix-theory-and-gravity]] — the textbook derivation of the quasi-coherent states, quantum metric and matrix Laplacian used here (ch. 4)

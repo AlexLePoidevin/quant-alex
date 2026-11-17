@@ -74,3 +74,4 @@ claim that is easiest to check directly against classical methods.
   struggle in high dimension, which is the failure this paper exploits
 - [[busemeyer-bruza-2012]] — the Hilbert-space cognition models QCML builds on
 - [[gu-kelly-xiu-2021]] — the nonlinear latent-factor benchmark QCML has to beat in finance
+- [[steinacker-2024-quantum-geometry-matrix-theory-and-gravity]] — the matrix-geometry framework behind the quantum-metric dimension estimate (ch. 4)
