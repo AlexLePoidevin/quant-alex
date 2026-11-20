@@ -25,7 +25,7 @@ notes link across sections freely.
 | [`high-dimensional-geometry`](high-dimensional-geometry/) | The curse of dimensionality (distance concentration, hubness), intrinsic dimension, manifold learning and embeddings, PCA, ICA and kernel PCA |
 | [`machine-learning`](machine-learning/) | Neural tangent kernel and generalisation, tree ensembles vs deep learning, representation learning (energy-based models, information bottleneck, language models), quantum cognition ML |
 | [`macro-and-asset-allocation`](macro-and-asset-allocation/) | Gold and the dollar, inflation and monetary policy, the stock–bond correlation, safe-haven assets, global macro and asset allocation |
-| [`mathematical-foundations`](mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation |
+| [`mathematical-foundations`](mathematical-foundations/) | Probability and statistics textbooks, stochastic calculus, eigenvectors and principal axes, optimisation, vector calculus |
 | [`momentum-and-trend-following`](momentum-and-trend-following/) | Time-series and cross-sectional momentum, trend filters, momentum crashes, machine learning for trends |
 | [`portfolio-construction-and-risk`](portfolio-construction-and-risk/) | Mean-variance and estimation error, diversification and effective number of bets, tail risk and CVaR |
 | [`reinforcement-learning`](reinforcement-learning/) | Policy optimisation, distributional RL, recurrent agents, continual learning and loss of plasticity, meta-learning under non-stationarity |
