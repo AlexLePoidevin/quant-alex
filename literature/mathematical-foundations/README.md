@@ -9,7 +9,7 @@ which chapters matter and why.
 | `stochastic-calculus` | Brownian motion and Itô's formula, the language of continuous-time finance | [[shreve-2004]] |
 | `linear-algebra-and-eigenvectors` | Eigendecomposition of a symmetric positive semi-definite matrix: principal axes, which is what PCA does to a covariance matrix; projection, the spectral theorem and the SVD proved in general | [[peraire-widnall-2008-inertia-tensor]] (intuition) → [[axler-2024-linear-algebra-done-right]] (theory) |
 | `optimization` | Linear programming and duality, behind portfolio optimisation and CVaR minimisation | [[nemirovski-2023-linear-optimization]] |
-| `vector-calculus` | Gradient, divergence, curl and Laplacian; the divergence and Stokes' theorems, behind gradient-based optimisation, diffusion equations and curvature | [[schey-2005-div-grad-curl-and-all-that]] |
+| `vector-calculus` | Gradient, divergence, curl and Laplacian; the divergence and Stokes' theorems, behind gradient-based optimisation, diffusion equations and curvature; differential forms and the general Stokes' theorem | [[schey-2005-div-grad-curl-and-all-that]] → [[bachman-2003-geometric-approach-to-differential-forms]] (forms) |
 
 Copulas are mathematics too, but they are filed with the finance they serve, in
 `../correlation-and-dependence/copulas-and-tail-dependence/`.

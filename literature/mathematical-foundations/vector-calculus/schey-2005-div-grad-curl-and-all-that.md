@@ -32,7 +32,8 @@ Cylindrical and spherical forms of each operator are derived, and worked solutio
 selected problems are at the back.
 
 It is informal on purpose: limits are handled by picture and argument, not by ε–δ, and
-everything lives in R³. A course in differential forms is the step up in generality.
+everything lives in R³. Differential forms are the step up in generality: see
+[[bachman-2003-geometric-approach-to-differential-forms]].
 
 ## Why it's in the library
 
@@ -63,3 +64,5 @@ complex phases in place of work.
 - [[axler-2024-linear-algebra-done-right]] — the linear algebra the operators act through
 - [[nemirovski-2023-linear-optimization]] — the optimisation side, where gradients and
   normals to constraint surfaces become duality
+- [[bachman-2003-geometric-approach-to-differential-forms]] — grad, div and curl unified as
+  the exterior derivative, and the three theorems as one Stokes' theorem
